@@ -1,4 +1,4 @@
-1-d
+﻿1-d
 1-mhz
 1-v
 10-year
@@ -52,7 +52,9 @@ anti-reflection
 anti-soiling
 arc-flash
 arc-shaped
+artificial-neural-network
 assert-pv
+asymme-trical
 atmosphere-land
 atp-emtp
 auto-regressive
@@ -61,6 +63,7 @@ automatic-tuning
 average-value
 back-illumination
 back-propagation
+back-propagation-algorithm
 back-to-back
 back-tracking
 backstepping-sliding
@@ -93,6 +96,7 @@ bottom-up
 bouguer-lambert
 box-behnken
 bp-ann
+bpfpa-bee
 branch-and-bound
 bridge-link
 bridge-linked
@@ -101,6 +105,7 @@ buck-boost
 building-applied
 building-integrated
 building-integration
+buildings-solar
 built-in
 buk-boost
 buoyancy-induced
@@ -115,6 +120,7 @@ carbon-black
 carbon-free
 cell-based
 cell-combined
+cell-supercapacitor
 cell-surface
 cell-to-module
 cfd-fem
@@ -151,6 +157,7 @@ colony-sparse
 combined-heat-and-power
 common-mode
 complex-valued
+component-characteristic
 computer-aided
 condition-based
 continuous-input
@@ -213,6 +220,7 @@ dc-micro
 dc-side
 dc-to-dc
 dc-voltage
+dc/dc-boost-converter
 dcnn-dnn
 de-aggregated
 de-carbonization
@@ -278,6 +286,7 @@ eco-friendly
 eco-hydrologic
 economic-environmental
 economic-load
+efficiency-cost
 efficiency-region
 elastic-plastic
 electric-gas
@@ -296,6 +305,7 @@ electronic-coupled
 eleven-level
 end-effector
 energy-economic
+energy-environment
 energy-exergy
 energy-level
 energy-mineral
@@ -332,6 +342,7 @@ few-layer
 field-oriented
 field-oriented/vector
 field-test
+fields-polarization-dust
 fifth-order
 fill-factor
 finite-amplitude
@@ -370,6 +381,7 @@ full-wav
 funda-mental
 fuzzy-inc
 fuzzy-logic
+fuzzy-logic-controller
 fuzzy-po
 fuzzy-som
 fv-do
@@ -407,7 +419,7 @@ gray-box
 grey-box
 grid-connecetd
 grid-connected
-grid-connected-pv-system;-dc/dc-boost-converter;-maximum-power-point-tracker;-fuzzy-logic-controller;-artificial-neural-network;-back-propagation-algorithm;-hybrid-neurone-fuzzy
+grid-connected-pv-system
 grid-connection
 grid-connection/island
 grid-controlled
@@ -470,7 +482,9 @@ honey-comb
 hort-term
 hot-spot
 hour-ahead
+hs-harmony
 human-centered
+hybrid-neurone-fuzzy
 hydro-photovoltaic
 hydro-thermal-wind-photovoltaic
 hydrus-1d
@@ -527,6 +541,7 @@ landsat-8
 lanthanum-modified
 large-scale
 large-signal
+lca-life
 lead-acid
 lead-free
 learning-by-doing
@@ -585,9 +600,11 @@ master-slave
 mat-lab
 matlab-simulink
 maximum-power-point
+maximum-power-point-tracker
 maximum-power-pointt-racking
 measurement-based
 med-tvc
+medium-and
 medium-term
 medium-voltage
 mega-solar
@@ -641,6 +658,7 @@ moth-flame
 motor-pump
 moveable-weir
 mppt-fuzzy
+mppt-sliding
 mprp-bb
 msogi-fll
 multi-agent
@@ -715,6 +733,8 @@ multiple-inlet
 multiple-input
 multiple-layer
 multiple-shifted-frequency
+mwe-multiword
+n-and
 n-m
 n-paralleled
 n-pvt-cpc
@@ -732,6 +752,7 @@ nano-structured
 nano-structures
 natural-gas
 navier-stokes
+nb-naïve
 ncep-cfsr
 near-zero
 nelder-mead
@@ -861,6 +882,7 @@ pho-tovoltaics
 photo-effect
 photo-voltaic
 photovoltaic-battery
+photovoltaic-cell
 photovoltaic-electrolyzer
 photovoltaic-electrostatic
 photovoltaic-energy
@@ -963,6 +985,7 @@ pv-oriented
 pv-pcm
 pv-pcm-te
 pv-photo
+pv-phrasal
 pv-phs
 pv-program
 pv-rich
@@ -1026,6 +1049,7 @@ reduced-order
 renewable-based
 resident-consumed
 resistive-inductive
+rf-random
 ride-sharing
 ride-through
 right-half-plane
@@ -1064,6 +1088,7 @@ self-assembly
 self-cleaning
 self-consumption
 self-excited
+self-expression
 self-financeable
 self-generation
 self-healing
@@ -1091,6 +1116,7 @@ semi-transparent
 semi-transparent/opaque
 sensor-less
 separately-series
+sepic-ćuk
 series-parallel
 shallow-water
 sheet-and-tube
@@ -1146,6 +1172,7 @@ solid-state
 solution-processed
 source-load
 source-load-energy
+sources-res
 south-east
 space-vector
 sparse-aware
@@ -1163,6 +1190,7 @@ staebler-wronski
 stand-alone
 start-up
 state-derivative-feedback
+state-feedback
 state-of-charge
 state-of-health
 state-space
@@ -1198,6 +1226,7 @@ supply-demand-storage
 surface-fit
 surface-mounted
 surfactant-polymer
+svm-support
 switched-mode
 synoptic-scale
 system-based
@@ -1205,6 +1234,7 @@ system-in-the-loop
 system-level
 system-on-chip
 systemc-tlm
+systems-facts
 t-s
 taguchi-genetic
 takagi-sugeno
@@ -1222,6 +1252,9 @@ temperature-augmented
 temperature-dependent
 temperature-sensitive
 terms-control
+terms-cpv
+terms-load
+terms-photovoltaic
 thermal-concentrated
 thermal-electric
 thermal-electrical
@@ -1270,6 +1303,7 @@ transfer-matrix
 transformer-less
 transmission-connected
 transmission-distribution
+trend-prediction
 tri-functional
 tri-generation
 triple-junction
@@ -1308,6 +1342,7 @@ ultra-short
 ultra-short-term
 ultra-short-time
 ultra-thin
+un-supervised
 unfolding-type
 unit-commitment
 upper-tropospheric
@@ -1396,7 +1431,6 @@ zero-voltage
 zero-voltage-switching
 zig-zag
 znte-layer
-{i-v
 ångström-prescott
 β-blocker
 ε-constraint
