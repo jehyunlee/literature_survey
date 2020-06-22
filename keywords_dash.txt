@@ -14,7 +14,7 @@
 3-phase
 3-switch
 3-wire
-30°-45°
+30deg.-45deg.
 36-cell
 3d-tlm
 3l-anpc
@@ -46,7 +46,6 @@ ampere-hour
 amps-1d
 analog-digital
 angstrom-prescott
-angström-prescott
 anti-islanding
 anti-reflection
 anti-soiling
@@ -75,8 +74,8 @@ base-line
 bbccis-buck
 beam-splitting
 behind-the-meter
-bender-s
 best-so-far
+beta-blocker
 bi-directional
 bi-facial
 bi-fluid
@@ -105,7 +104,6 @@ buck-boost
 building-applied
 building-integrated
 building-integration
-buildings-solar
 built-in
 buk-boost
 buoyancy-induced
@@ -313,6 +311,7 @@ energy-saving
 energy-shaping
 energy-storage
 enviro-economic
+epsilon-constraint
 equal-weighted
 equation-based
 equivalent-circuit
@@ -533,9 +532,9 @@ k-nearest-neighbor
 k-nnr
 karmalkar-haneefa
 kerf-loss
-krasovskii-s
 kruskal-wallis
 lab-lab
+lambda-ridge
 lambert-w
 landsat-8
 lanthanum-modified
@@ -551,6 +550,7 @@ least-squares
 lerms-energy
 levenberg-marquardt
 levenberg-marquart
+levengerg-marquardt
 li-ion
 life-cycle
 lifetime-mobility
@@ -609,8 +609,8 @@ medium-term
 medium-voltage
 mega-solar
 memory-back-propagation
+meso-gamma
 meso-nh
-meso-γ
 meta-heuristic
 meta-learning
 meta-stability
@@ -661,6 +661,8 @@ mppt-fuzzy
 mppt-sliding
 mprp-bb
 msogi-fll
+mu-analysis
+mu-synthesis
 multi-agent
 multi-agent-based
 multi-area
@@ -752,7 +754,7 @@ nano-structured
 nano-structures
 natural-gas
 navier-stokes
-nb-naïve
+nb-naive
 ncep-cfsr
 near-zero
 nelder-mead
@@ -881,6 +883,7 @@ phenyl-c61-butyric
 pho-tovoltaics
 photo-effect
 photo-voltaic
+photovoltaa-que
 photovoltaic-battery
 photovoltaic-cell
 photovoltaic-electrolyzer
@@ -1116,7 +1119,7 @@ semi-transparent
 semi-transparent/opaque
 sensor-less
 separately-series
-sepic-ćuk
+sepic-cuk
 series-parallel
 shallow-water
 sheet-and-tube
@@ -1346,7 +1349,6 @@ un-supervised
 unfolding-type
 unit-commitment
 upper-tropospheric
-user-s
 utility-scale
 v-groove
 v-i
@@ -1431,9 +1433,3 @@ zero-voltage
 zero-voltage-switching
 zig-zag
 znte-layer
-ångström-prescott
-β-blocker
-ε-constraint
-λ-ridge
-μ-analysis
-μ-synthesis
