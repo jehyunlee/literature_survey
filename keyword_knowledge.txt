@@ -1,0 +1,107 @@
+# statistics
+"analysis of variance; statistics"
+"autoregressive integrated moving average"
+"autoregressive moving average"
+"mean square error",
+"markov",
+"kalman filter",
+"bayes",
+"gaussian process",
+"mean absolute error",
+"mean absolute percentage error",
+"autoregressi",
+"probabilistic",
+"k-fold",
+"ensemble",
+"kruskal-wallis",
+"least-square"
+
+# machine learning
+"clustering",
+"regression",
+"classification",
+"dimension reduction",
+"reinforcement learning",
+"support vector",
+"neural network",
+"cross-entropy",
+"cross-validation",
+"data-mining",
+"data-driven",
+"data-based",
+"random forest"
+
+# reinforcement learning
+"sarsa"
+
+# clustering
+"k-means",
+"k-nearest neighbor",
+
+# regression
+"lambda-ridge"
+
+# neural network
+"recurrent neural network",
+"convolutional neural network",
+"autoencoder",
+
+# recurrent neural network
+"long short-term memory",
+
+# convolutional neural network
+"GoogLeNet"
+
+# neural network
+"artificial neural network"
+"learning vector quantization",
+
+# dimension reduction
+"principal component analysis",
+"factor analysis",
+"autoencoder"
+
+# algorithm 
+"ant colony",
+"ant lion",
+"artificial bee colony",
+"artificial fish swarm",
+"backtracking search",
+"bacterial foraging",
+"bee pollinator",
+"crow search",
+"firefly",
+"fireworks explosion",
+"flower pollination",
+"genetic algorithm",
+"gravity search",
+"grey wolf",
+"imperialist competition",
+"honey bee mating",
+"interior search",
+"invasive weed",
+"elephant herding",
+"particle swarm",
+"shuffled frog leaping",
+"versatile threshold",
+"monte carlo",
+"rule-based"
+
+# method
+"taguchi",
+"averaging point method",
+"describing function method",
+"finite difference time domain method",
+"finite element method",
+"group method of data handling",
+"incremental conductance method",
+"match evaluation method",
+"multiple-shifted-frequency method",
+"numerical method",
+"oblique asymptote method",
+"response surface methodology",
+"steepest descent method",
+"nelder-mead",
+"newton-raphson",
+"runge-kutta"
+
