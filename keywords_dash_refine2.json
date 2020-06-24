@@ -18,7 +18,7 @@
     "2D"
   ],
   "2-dimensional": [
-    "2-dimensional"
+    "2D"
   ],
   "2-dof-pi-fopdn": [
     "2-dof-pi-fopdn",
@@ -34,7 +34,7 @@
     "2000-w/1-t"
   ],
   "2d-interval": [
-    "2d-interval"
+    "2D-interval"
   ],
   "3-d": [
     "3D"
@@ -176,7 +176,7 @@
     "atp-emtp"
   ],
   "auto-regressive": [
-    "autoregressive"
+    "auto-regressive"
   ],
   "auto-transformer": [
     "auto-transformer"
@@ -451,8 +451,8 @@
   "co-optimization": [
     "co-optimization"
   ],
-  "co-polymers": [
-    "co-polymers"
+  "co-polymer": [
+    "co-polymer"
   ],
   "co-simulation": [
     "co-simulation"
@@ -691,8 +691,9 @@
     "derating"
   ],
   "de-rating\\degradation": [
-    "derating",
-    "degradation"
+    "de-rating",
+    "degradation",
+    "differential evolution"
   ],
   "dead-beat": [
     "dead-beat"
@@ -1045,11 +1046,11 @@
   "field-oriented/vector": [
     "field-oriented/vector"
   ],
+  "field-polarization-dust": [
+    "field-polarization-dust"
+  ],
   "field-test": [
     "field-test"
-  ],
-  "fields-polarization-dust": [
-    "fields-polarization-dust"
   ],
   "fifth-order": [
     "fifth-order"
@@ -1471,6 +1472,9 @@
   "hill-climbing": [
     "hill-climbing"
   ],
+  "holt-winter": [
+    "holt-winters"
+  ],
   "holt-winters": [
     "holt-winters"
   ],
@@ -1593,9 +1597,6 @@
   "inverter-interfaced": [
     "inverter-interfaced"
   ],
-  "inverters-based": [
-    "inverters-based"
-  ],
   "ir-radiance": [
     "ir-radiance",
     "infrared"
@@ -1689,9 +1690,6 @@
   "least-square": [
     "least-square"
   ],
-  "least-squares": [
-    "least-square"
-  ],
   "lerms-energy": [
     "lerms-energy"
   ],
@@ -1717,10 +1715,10 @@
     "line-frequency"
   ],
   "line-line": [
-    "line-to-line"
+    "line-line"
   ],
   "line-to-line": [
-    "line-to-line"
+    "line-line"
   ],
   "lithium-ion": [
     "lithium-ion"
@@ -1845,7 +1843,7 @@
     "master-slave"
   ],
   "mat-lab": [
-    "matlab"
+    "mat-lab"
   ],
   "matlab-simulink": [
     "matlab-simulink"
@@ -1909,8 +1907,8 @@
   "micro-combustion": [
     "micro-combustion"
   ],
-  "micro-communities": [
-    "micro-communities"
+  "micro-community": [
+    "micro-community"
   ],
   "micro-energy": [
     "micro-energy"
@@ -2077,6 +2075,9 @@
   "multi-criteria": [
     "multi-criteria"
   ],
+  "multi-criterion": [
+    "multi-criterion"
+  ],
   "multi-crystalline": [
     "multi-crystalline"
   ],
@@ -2155,9 +2156,6 @@
   "multi-objective": [
     "multi-objective"
   ],
-  "multi-objectives": [
-    "multi-objective"
-  ],
   "multi-operating-mode": [
     "multi-operating-mode"
   ],
@@ -2201,7 +2199,7 @@
     "multi-source"
   ],
   "multi-sources": [
-    "multi-source"
+    "multi-sources"
   ],
   "multi-stage": [
     "multi-stage"
@@ -2248,8 +2246,8 @@
   "multi-zone": [
     "multi-zone"
   ],
-  "multiple-criteria": [
-    "multiple-criteria"
+  "multiple-criterion": [
+    "multiple-criterion"
   ],
   "multiple-inlet": [
     "multiple-inlet"
@@ -2312,10 +2310,10 @@
   "nano-sic": [
     "nano-sic"
   ],
-  "nano-structured": [
+  "nano-structure": [
     "nano-structure"
   ],
-  "nano-structures": [
+  "nano-structured": [
     "nano-structure"
   ],
   "natural-gas": [
@@ -2323,6 +2321,9 @@
   ],
   "navier-stokes": [
     "navier-stokes"
+  ],
+  "nb-naive": [
+    "nb-naive"
   ],
   "ncep-cfsr": [
     "ncep-cfsr"
@@ -2485,8 +2486,8 @@
     "off-mppt",
     "mpp tracker"
   ],
-  "off-sets": [
-    "off-sets"
+  "off-set": [
+    "off-set"
   ],
   "on-grid": [
     "on-grid"
@@ -2689,8 +2690,8 @@
   "phase-change": [
     "phase-change"
   ],
-  "phase-coordinates": [
-    "phase-coordinates"
+  "phase-coordinate": [
+    "phase-coordinate"
   ],
   "phase-lead": [
     "phase-lead"
@@ -2717,7 +2718,7 @@
     "photovoltaic"
   ],
   "photovoltaa-que": [
-    "photovoltaa-que"
+    "photovoltaic"
   ],
   "photovoltaic-battery": [
     "photovoltaic-battery"
@@ -3072,16 +3073,16 @@
     "photovoltaic",
     "thermoelectric generator module"
   ],
+  "pv-ph": [
+    "pv-phs",
+    "photovoltaic"
+  ],
   "pv-photo": [
     "pv-photo",
     "photovoltaic"
   ],
   "pv-phrasal": [
     "pv-phrasal",
-    "photovoltaic"
-  ],
-  "pv-phs": [
-    "pv-phs",
     "photovoltaic"
   ],
   "pv-program": [
@@ -3178,8 +3179,7 @@
     "photovoltaic array"
   ],
   "pvt-cpc": [
-    "pvt-cpc",
-    "photovoltaic thermal"
+    "photovoltaic thermal-compound parabolic concentrator"
   ],
   "pyro-electric": [
     "pyro-electric"
@@ -3321,7 +3321,7 @@
   "rms-simulations": [
     "rms-simulation"
   ],
-  "robot-rails": [
+  "robot-rail": [
     "robot-rail"
   ],
   "roll-bond": [
@@ -3377,7 +3377,7 @@
   "satellite-derived": [
     "satellite-derived"
   ],
-  "savings-to-investment": [
+  "saving-to-investment": [
     "savings-to-investment"
   ],
   "scaps-id": [
@@ -3675,8 +3675,8 @@
   "source-load-energy": [
     "source-load-energy"
   ],
-  "sources-res": [
-    "sources-res",
+  "source-res": [
+    "source-res",
     "renewable energy source"
   ],
   "south-east": [
@@ -3742,9 +3742,6 @@
   ],
   "state-space": [
     "state-space"
-  ],
-  "states-space": [
-    "states-space"
   ],
   "stator-field-oriented": [
     "stator-field-oriented"
@@ -3852,6 +3849,10 @@
   "system-based": [
     "system-based"
   ],
+  "system-facts": [
+    "system-facts",
+    "flexible actransmission system"
+  ],
   "system-in-the-loop": [
     "system-in-the-loop"
   ],
@@ -3863,10 +3864,6 @@
   ],
   "systemc-tlm": [
     "systemc-tlm"
-  ],
-  "systems-facts": [
-    "systems-facts",
-    "flexible actransmission system"
   ],
   "t-s": [
     "takagi-sugeno fuzzy controller"
@@ -3975,9 +3972,6 @@
   ],
   "thin-film": [
     "thin-film"
-  ],
-  "thin-films": [
-    "thin-films"
   ],
   "thin-layer": [
     "thin-layer"
@@ -4256,6 +4250,10 @@
   "very-short-term": [
     "very-short-term"
   ],
+  "vhdl-am": [
+    "vhdl-am",
+    "average model"
+  ],
   "vhdl-ams": [
     "vhdl-ams"
   ],
@@ -4356,7 +4354,7 @@
     "wind-photovoltaic"
   ],
   "wind-photovoltaic-batter": [
-    "wind-photovoltaic-batter"
+    "wind-photovoltaic-battery"
   ],
   "wind-photovoltaic-battery": [
     "wind-photovoltaic-battery"
@@ -4381,8 +4379,8 @@
     "wind-pv-thermal",
     "photovoltaic"
   ],
-  "wind-solar-batteries": [
-    "wind-solar-batteries"
+  "wind-solar-battery": [
+    "wind-solar-battery"
   ],
   "wind-solar-pumped": [
     "wind-solar-pumped"
@@ -4406,11 +4404,11 @@
   "wood-concrete": [
     "wood-concrete"
   ],
+  "word-island": [
+    "word-island"
+  ],
   "word-of-mouth": [
     "word-of-mouth"
-  ],
-  "words-island": [
-    "words-island"
   ],
   "worldview-2": [
     "worldview-2"

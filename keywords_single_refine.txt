@@ -767,8 +767,6 @@ bankability
 bapv
 barrier
 basins
-battaries
-batteries
 battery
 batteryless
 bayes
@@ -778,7 +776,6 @@ behind-the-meter
 belief
 bems
 benchmarking
-benefits
 bentonite
 berlin
 bes
@@ -800,7 +797,6 @@ biodegradation
 biodiesel
 bioenergy
 biofixation
-biofuels
 biogas
 biogas-genset
 biogeomorphology
@@ -824,7 +820,6 @@ boost
 boost-converter
 boosting
 bootstrap
-bos-costs
 box-behnken
 bpa
 bpnn
@@ -847,6 +842,7 @@ buckling
 building
 building-integrated
 buk-boost
+c-means
 cadmium
 caes
 calculation
@@ -856,7 +852,6 @@ cameroon
 cams
 canada
 capacitance
-capacitors
 capacity
 car-roof
 carbon-black
@@ -887,9 +882,6 @@ cgs
 cgsa
 cgsvm
 ch3nh3pbi3-xcl3
-chalcogenides
-challenges
-changes
 chaos
 characterisation
 characteristic
@@ -898,7 +890,6 @@ characterization
 charge-pump
 charging
 chbmli
-checkpoints
 chf
 chile
 chimney
@@ -917,7 +908,6 @@ circulation/dynamics
 cis
 citygml
 classification
-classifiers
 cleaning
 cleantech
 climate
@@ -947,8 +937,6 @@ collector
 colloidal-lithography
 combination
 combined-heat-and-power
-comforts
-commands
 commercial
 commissioning
 common-mode
@@ -992,11 +980,9 @@ copernicus
 copper
 copula
 correlation
-correlograms
 corrosion
 cosimulation
 cosmo-rea6
-cosmosworks
 cost
 cost-benefit
 cost-effectiveness
@@ -1015,7 +1001,6 @@ cpv
 cpv/t
 cpvt
 cr
-cracks
 criticality
 cross-correlation
 crowdfunding
@@ -1045,7 +1030,6 @@ cushion
 cvar
 cvr
 cvt
-cyber-attacks
 cyclogenesis
 cyclogenesis/cyclolysis
 cyprus
@@ -1061,7 +1045,6 @@ das
 data-driven
 datalogger
 datasheet
-day-horizons
 daylighting
 dbn
 dbscan
@@ -1114,14 +1097,12 @@ development
 dfig
 dft
 dg
-dgs
 dgs-svm
 dgsr
 diagnose
 diagnosis
 diagnostics
 dichroirc
-dictionaries
 dielectric
 diese
 diesel
@@ -1164,7 +1145,6 @@ doc2vec
 docking
 doe
 domestic
-dopants
 doping
 dosimetry
 double-layer
@@ -1174,9 +1154,7 @@ dpa/s
 dq-frame
 dr
 drilling
-drives
 drnn
-drones
 dsm
 dso
 dsolar
@@ -1203,7 +1181,6 @@ ecc
 echam5
 echam5-ham
 eco-city
-eco-costs
 eco-cute
 eco-efficiency
 eco-friendly
@@ -1211,7 +1188,6 @@ economic
 economy
 ecotoxicity
 ecowas
-eddies
 eddy
 education
 eens
@@ -1231,7 +1207,6 @@ electrification
 electrification-beyond-lighting
 electro-pump
 electrodeposition
-electrodes
 electrodialy
 electrodynamics
 electroluminescence
@@ -1242,7 +1217,6 @@ electrolzyer
 electromagnetic
 electromagnetic-like
 electromagnetism-like
-ellipsoids
 ellipsometry
 elm
 elman
@@ -1260,7 +1234,6 @@ emtp/atp
 emulation
 emulator
 en50530
-encapsulants
 encapsulation
 end-effector
 endoreversible
@@ -1317,7 +1290,6 @@ experimental
 experimentation
 explicit
 extinction
-extra_loads
 extraction
 extrapolation
 eyewall
@@ -1325,8 +1297,6 @@ f-vmea
 fa
 facade
 facebook
-factors
-facts
 failure
 fault
 fblms
@@ -1342,7 +1312,6 @@ fem
 fence
 fengyun-4a
 ferkene
-ferroelectrics
 ff
 ffnn
 ffp
@@ -1361,16 +1330,13 @@ finite-element-analysis
 finland
 fins
 fires
-first-principles
 fit
-five-parameters
 fiware
 fl-mppt
 flc
 flexibility
 flexible
 floating
-floatovoltaics
 flow-mapping
 fluctuation
 fluent
@@ -1402,7 +1368,6 @@ frequency
 frequency-domain
 freshwater
 friction
-fronts
 fta
 ftdn
 ftir
@@ -1524,22 +1489,18 @@ heliosat
 hems
 hemt
 hendijan
-herbicides
 heric
 hes
 heterojunction
 heteroscedasticity
-heuristics
 hev.
 hfapso
 high-efficiency
 high-pressure
 high-resolution
 highgain
-highlights
 hil
 hill-climbing
-hindcasts
 hippocampus
 histograms
 hmi
@@ -1560,7 +1521,6 @@ hscb
 htl
 humidity
 hurricane
-hurricanes/typhoons
 hut
 hvac
 hvdc
@@ -1643,7 +1603,6 @@ intercepted
 interchangeability
 intercomparison
 interconnection
-interharmonics
 interleaved
 interleaved-boost
 interleaved-winding
@@ -1651,7 +1610,6 @@ interleaving
 intermittency
 internet-of-things
 interoperability
-interstitials
 intra-market
 inverter
 investment
@@ -1687,7 +1645,6 @@ jordan
 junction
 jupiter
 k-means
-k-means++
 k-nnr
 kafka
 kalman
@@ -1743,6 +1700,7 @@ led
 leed
 legislation
 leo
+less
 levenberg-marquardt
 lfc
 li-ion
@@ -1795,7 +1753,6 @@ macsimjx
 mae
 maghreb
 magnetic
-magnetohydrodynamics
 maintenance
 maize
 malawi
@@ -1807,14 +1764,14 @@ manova
 mape
 mapping
 mapreduce
-markets
+market
 markov
 mars
 mas
 masers
 master-slave
 matching
-materials
+material
 matheuristics
 matlab
 matlab-simulink
@@ -1830,6 +1787,7 @@ mcs
 mda
 mde
 mdp
+means
 measurement
 measuring
 mechanics
@@ -1896,14 +1854,11 @@ milp
 mineralization
 mineralogy
 mini-grid
-mini-modules
-minichannels
 mining
 minizinc
 minlp
 mip
 miqp
-mirrors
 miskam
 mismatch
 mismatching
@@ -1973,14 +1928,12 @@ multi-crystalline
 multi-generation
 multi-input-multi-output
 multi-junction
-multi-microgrids
+multi-microgrid
 multi-modal
 multi-model
 multi-objective
 multi-operating-mode
 multi-physics
-multi-scenarios
-multi-sources
 multi-stage
 multi-story
 multi-structure
@@ -2006,17 +1959,13 @@ n-pvt-fpc
 nacl
 nano-engineered
 nano-grid
-nano-materials
 nano-pcm
 nano-sic
 nanoclay
-nanocoatings
 nanocrystal
 nanofluid
 nanogrid
 nanomanufacturing
-nanoparticles
-nanophotonic's
 nanorods
 nanosatellite
 nanostructure
@@ -2146,11 +2095,12 @@ paradigm
 parallel
 parallelogram
 parameterization
-parameters
+parameter
 pareto
+pass
 passivhaus
-pathways
-patterns
+pathway
+pattern
 payback
 pc1d
 pca
@@ -2193,7 +2143,7 @@ ph
 pho-tovoltaics
 photo-effect
 photo-voltaic
-photobioreactors
+photobioreactor
 photobleaching
 photocatalysis
 photocatalyst
@@ -2206,7 +2156,7 @@ photoelasticity
 photoelectrochemical
 photogrammetry
 photoluminescence
-photons
+photon
 photovataic
 photovolatic
 photovoltaa-que
@@ -2236,7 +2186,7 @@ pilot-cell
 pipeline
 pixel
 planning
-plasmonics
+plasmonic
 plate
 platform
 plc
@@ -2257,6 +2207,7 @@ pmsg
 pmsm
 pn-junction
 po
+pos
 poa
 poincare
 polarization
@@ -2732,7 +2683,7 @@ state-space
 statecharts
 stateflow
 stationarity
-statistics
+statistic
 stbility
 stc
 steady-state
@@ -2819,6 +2770,7 @@ telemetry
 tellurium
 temperature
 tensor
+terms
 terms-control
 terrain
 testing
@@ -2900,7 +2852,7 @@ trigeneration
 triple-junction
 trnsys
 tropical
-tropics
+tropic
 tropopause
 troughs
 trust-region-dogleg
@@ -2957,7 +2909,7 @@ ventilating
 ventilation
 verification
 veristand
-vessels
+vessel
 vhdl
 vhdl-ams
 viewshed
@@ -3000,7 +2952,7 @@ wear
 wear-out
 wearable
 weather
-web-of-cells
+web-of-cell
 wecs
 weight-varying
 west
@@ -3037,7 +2989,7 @@ yearly
 yield
 z-network
 z-source
-z-source-inverters
+z-source-inverter
 zcs
 zenith
 zero-carbon
@@ -3056,4 +3008,4 @@ zonotope
 zt180s
 zvs
 µpmu
-﻿forecasting
+forecasting

@@ -29,7 +29,9 @@
 "data-mining",
 "data-driven",
 "data-based",
-"random forest"
+"random forest",
+"adaboost",
+"doc2vec"
 
 # reinforcement learning
 "sarsa"
@@ -68,20 +70,30 @@
 "artificial fish swarm",
 "backtracking search",
 "bacterial foraging",
+"bat",
 "bee pollinator",
+"binary search",
+"bio-inspired",
+"bucket elimination",
 "crow search",
+"elite retention",
+"evolutionary",
 "firefly",
 "fireworks explosion",
 "flower pollination",
+"fruitfly",
 "genetic algorithm",
 "gravity search",
 "grey wolf",
 "imperialist competition",
+"leapfrog"
 "honey bee mating",
 "interior search",
 "invasive weed",
 "elephant herding",
 "particle swarm",
+"pattern search",
+"perturb and observe",
 "shuffled frog leaping",
 "versatile threshold",
 "monte carlo",
@@ -103,5 +115,8 @@
 "steepest descent method",
 "nelder-mead",
 "newton-raphson",
-"runge-kutta"
+"runge-kutta",
+"conditional interpolation",
+"expectation-maximization",
+
 
