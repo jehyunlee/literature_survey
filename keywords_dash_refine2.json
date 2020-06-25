@@ -968,11 +968,11 @@
   ],
   "ev-charging": [
     "ev-charging",
-    "expected value"
+    "electric vehicle"
   ],
   "ev-electric": [
     "ev-electric",
-    "expected value"
+    "electric vehicle"
   ],
   "exergo-economic": [
     "exergo-economic"
@@ -1175,7 +1175,7 @@
   ],
   "fuzzy-po": [
     "fuzzy-po",
-    "perturb and observe"
+    "perturb & observe"
   ],
   "fuzzy-som": [
     "fuzzy-som",
@@ -2644,9 +2644,6 @@
   ],
   "penman-monteith": [
     "penman-monteith"
-  ],
-  "per-ceptron": [
-    "per-ceptron"
   ],
   "performance-based": [
     "performance-based"
