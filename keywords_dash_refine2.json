@@ -1598,8 +1598,7 @@
     "inverter-interfaced"
   ],
   "ir-radiance": [
-    "ir-radiance",
-    "infrared"
+    "irradiance"
   ],
   "irradiation-dependence": [
     "irradiation-dependence"
@@ -3848,7 +3847,7 @@
   ],
   "system-facts": [
     "system-facts",
-    "flexible actransmission system"
+    "flexible ac transmission system"
   ],
   "system-in-the-loop": [
     "system-in-the-loop"

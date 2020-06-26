@@ -287,10 +287,10 @@
     "ac microgrid"
   ],
   "AC microgrids": [
-    "ac microgrids"
+    "ac micro-grid"
   ],
   "AC microgrids (MGs)": [
-    "ac microgrids"
+    "ac micro-grid"
   ],
   "AC modelling": [
     "ac modeling"
@@ -1953,7 +1953,7 @@
     "auto regressive moving average"
   ],
   "Auto-Regressive Moving Average (ARMA)": [
-    "auto-regressive moving average"
+    "auto regressive moving average"
   ],
   "Auto-Transformer": [
     "auto-transformer"
@@ -5151,7 +5151,7 @@
     "coliform bacteria"
   ],
   "Collaborating microgrids": [
-    "collaborating microgrids"
+    "collaborating micro-grid"
   ],
   "Collaborative swarm intelligence": [
     "collaborative swarm intelligence"
@@ -6926,7 +6926,7 @@
     "dc microgrid"
   ],
   "DC Microgrids": [
-    "dc microgrids"
+    "dc micro-grid"
   ],
   "DC Mismatch loss": [
     "dc mismatch loss"
@@ -7022,7 +7022,7 @@
     "dc microgrid"
   ],
   "DC microgrids": [
-    "dc microgrids"
+    "dc micro-grid"
   ],
   "DC motor": [
     "dc motor"
@@ -13413,8 +13413,8 @@
     "flexible pv cell reliability"
   ],
   "Flexible ac transmission systems- FACTS": [
-    "flexible ac transmission system-facts",
-    "flexible actransmission system"
+    "flexible ac transmission system",
+    "flexible ac transmission system-facts"
   ],
   "Flexible bioenergy": [
     "flexible bioenergy"
@@ -18840,7 +18840,7 @@
     "inverters"
   ],
   "Inverters-based microgrids": [
-    "inverter-based microgrids"
+    "inverter-based micro-grid"
   ],
   "Investment": [
     "investment"
@@ -22585,7 +22585,7 @@
     "microgrid"
   ],
   "MicroGrids": [
-    "microgrids"
+    "micro-grid"
   ],
   "Microalternator": [
     "microalternator"
@@ -22696,7 +22696,7 @@
     "microgrid system"
   ],
   "Microgrids": [
-    "microgrids"
+    "micro-grid"
   ],
   "Microinverter": [
     "microinverter"
@@ -23772,7 +23772,7 @@
     "multi-carrier energy system"
   ],
   "Multi-carrier microgrids": [
-    "multi-carrier microgrids"
+    "multi-carrier micro-grid"
   ],
   "Multi-chiller system": [
     "multi-chiller system"
@@ -25154,7 +25154,7 @@
     "nonlinear approximation"
   ],
   "Nonlinear Auto-Regressive Models with eXogenous Inputs (NARX)": [
-    "nonlinear auto-regressive model with exogenous input"
+    "nonlinear auto regressive model with exogenous input"
   ],
   "Nonlinear AutoRegressive network with eXogenous inputs (NARX)": [
     "nonlinear autoregressive network with exogenous input"
@@ -25169,7 +25169,7 @@
     "nonlinear mpc"
   ],
   "Nonlinear auto-regressive with exogenous input model": [
-    "nonlinear auto-regressive with exogenous input model"
+    "nonlinear auto regressive with exogenous input model"
   ],
   "Nonlinear autoregressive exogenous (NARX)": [
     "nonlinear autoregressive exogenous"
@@ -26398,10 +26398,10 @@
     "ozonesone"
   ],
   "P & O": [
-    "p & o"
+    "perturb & observe"
   ],
   "P & O Improved": [
-    "p & o improved"
+    "perturb & observe improved"
   ],
   "P + Resonant": [
     "p + resonant"
@@ -27257,7 +27257,7 @@
     "pv equivalent circuit"
   ],
   "PV external sunshade": [
-    "pv external sunshadow"
+    "pv external sunshade"
   ],
   "PV farm": [
     "pv farm"
@@ -28581,7 +28581,7 @@
     "partial least square"
   ],
   "Partial Shaded": [
-    "partial shadowd"
+    "partial shadow"
   ],
   "Partial Shading": [
     "partial shadow"
@@ -28620,16 +28620,16 @@
     "partial mutual information"
   ],
   "Partial shade": [
-    "partial shadow"
+    "partial shade"
   ],
   "Partial shaded condition": [
-    "partial shadowd condition"
+    "partial shadow condition"
   ],
   "Partial shaded condition (PSC)": [
-    "partial shadowd condition"
+    "partial shadow condition"
   ],
   "Partial shaded modules": [
-    "partial shadowd module"
+    "partial shadow module"
   ],
   "Partial shading": [
     "partial shadow"
@@ -28662,19 +28662,19 @@
     "partial-shadow effect"
   ],
   "Partially Shaded Condition": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "Partially Shading Conditions (PSCs)": [
     "partially shadow condition"
   ],
   "Partially shaded": [
-    "partially shadowd"
+    "partially shadow"
   ],
   "Partially shaded condition": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "Partially shaded conditions (PSCs)": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "Partially shading conditions": [
     "partially shadow condition"
@@ -34423,7 +34423,7 @@
     "residential microgrid"
   ],
   "Residential microgrids": [
-    "residential microgrids"
+    "residential micro-grid"
   ],
   "Residential photovoltaic systems": [
     "residential photovoltaic system"
@@ -36017,10 +36017,10 @@
     "shadow modeling"
   ],
   "Shaded PV modules": [
-    "shadowd pv module"
+    "shadow pv module"
   ],
   "Shaded condition": [
-    "shadowd condition"
+    "shadow condition"
   ],
   "Shading": [
     "shadow"
@@ -36998,7 +36998,7 @@
     "smart microgrid"
   ],
   "Smart Microgrids": [
-    "smart microgrids"
+    "smart micro-grid"
   ],
   "Smart PV inverter": [
     "smart pv inverter"
@@ -50366,7 +50366,7 @@
     "inverter-based microgrid"
   ],
   "inverter-interfaced microgrids": [
-    "inverter-interfaced microgrids"
+    "inverter-interfaced micro-grid"
   ],
   "inverters": [
     "inverters"
@@ -51417,10 +51417,10 @@
     "microgrid system"
   ],
   "microgrids": [
-    "microgrids"
+    "micro-grid"
   ],
   "microgrids (MGs)": [
-    "microgrids"
+    "micro-grid"
   ],
   "microinverter": [
     "microinverter"
@@ -51651,7 +51651,7 @@
     "modeling of pv panel"
   ],
   "modelling, P & O": [
-    "modeling, p & o"
+    "modeling, perturb & observe"
   ],
   "models": [
     "models"
@@ -52826,10 +52826,10 @@
     "partial least square regression"
   ],
   "partial shade": [
-    "partial shadow"
+    "partial shade"
   ],
   "partial shaded P&O": [
-    "partial shadowd p&o"
+    "partial shadow p&o"
   ],
   "partial shading": [
     "partial shadow"
@@ -52859,19 +52859,19 @@
     "partial shadow scenario"
   ],
   "partial-shaded photovoltaic": [
-    "partial-shadowd photovoltaic"
+    "partial-shadow photovoltaic"
   ],
   "partially cloudy day (PCD)": [
     "partially cloudy day"
   ],
   "partially shaded condition": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "partially shaded conditions": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "partially shaded conditions (PSCs)": [
-    "partially shadowd condition"
+    "partially shadow condition"
   ],
   "participation in grid services": [
     "participation in grid service"
@@ -54977,7 +54977,7 @@
     "resistance ratio"
   ],
   "resistive-inductive (RL-type) microgrids": [
-    "resistive-inductive microgrids"
+    "resistive-inductive micro-grid"
   ],
   "resonance": [
     "resonance"
@@ -55382,10 +55382,10 @@
     "service transformer"
   ],
   "shaded photovoltaic systems": [
-    "shadowd photovoltaic system"
+    "shadow photovoltaic system"
   ],
   "shaded zone": [
-    "shadowd zone"
+    "shadow zone"
   ],
   "shading": [
     "shadow"
@@ -56076,7 +56076,6 @@
     "solar inverter"
   ],
   "solar ir-radiance": [
-    "infrared",
     "solar irradiance"
   ],
   "solar irradiance": [
@@ -56482,7 +56481,7 @@
     "stability boundary"
   ],
   "stability of Microgrids": [
-    "stability of microgrids"
+    "stability of micro-grid"
   ],
   "stability of switched systems": [
     "stability of switched system"
@@ -58067,7 +58066,7 @@
     "view factor model"
   ],
   "village microgrids": [
-    "village microgrids"
+    "village micro-grid"
   ],
   "virtual energy plant": [
     "virtual energy plant"

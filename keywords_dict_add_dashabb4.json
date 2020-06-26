@@ -383,7 +383,7 @@
     "anti-reflection"
   ],
   "AR: Autoregressive": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "ARDUINO": [],
   "ARIMA": [
@@ -396,7 +396,7 @@
     "autoregressive integrated moving average"
   ],
   "ARIMA: Autoregressive integrated moving average": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "ARIMAX": [],
   "ARMA": [
@@ -406,11 +406,11 @@
     "autoregressive moving average"
   ],
   "ARMA: Auto regressive moving average": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "ARMAX": [],
   "ARX: autoregressive model with exogenous input": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "AS4777": [],
   "ASIC": [],
@@ -507,7 +507,7 @@
   "Active clamp": [],
   "Active cooling": [],
   "Active distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Active distribution network": [],
   "Active distribution networks": [],
@@ -562,7 +562,7 @@
   "Actor heterogeneity": [],
   "Ad hoc data-driven generation": [
     "data-driven",
-    "gen-eration"
+    "generation"
   ],
   "Adaboost": [],
   "Adaboost + Elman": [],
@@ -897,7 +897,7 @@
   "And power system operation and modeling": [],
   "And reconfiguration strategies": [],
   "And renewable generation": [
-    "gen-eration"
+    "generation"
   ],
   "And solar forecasting": [],
   "And stochastic model predictive control (MPC)": [],
@@ -1152,16 +1152,16 @@
   ],
   "Autecology": [],
   "Auto regressive moving average (ARMA)": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Auto-Regressive Moving Average (ARMA)": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Auto-Transformer": [
     "auto-transformer"
   ],
   "AutoRegressive Integrated Moving Average (ARIMA)": [
-    "auto-regressive",
+    "auto regressive",
     "autoregressive integrated moving average"
   ],
   "Automated Metering Infrastructure (AMI)": [
@@ -1180,11 +1180,11 @@
   "Automatic assembly": [],
   "Automatic generation control": [
     "automatic generation control",
-    "gen-eration"
+    "generation"
   ],
   "Automatic generation control (AGC)": [
     "automatic generation control",
-    "gen-eration"
+    "generation"
   ],
   "Automatic inputs relevance determination": [],
   "Automatic uniform current sharing": [],
@@ -1206,23 +1206,23 @@
   "Autonomous systems": [],
   "Autonomy": [],
   "Autoregressive": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Autoregressive Neural Network": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Autoregressive and moving average model": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Autoregressive models": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Autoregressive moving average": [
-    "auto-regressive",
+    "auto regressive",
     "autoregressive moving average"
   ],
   "Autoregressive process": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "Auxiliary black-start power": [
     "black-start"
@@ -1251,7 +1251,7 @@
   "Azimuth": [],
   "Azimuthal Position": [],
   "BAPV": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BBC": [],
   "BBCCIS-Buck Boost Converter with Coupled Inductor System": [
@@ -1293,26 +1293,26 @@
     "building information model"
   ],
   "BIPV": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BIPV (Building integrated photovoltaics)": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BIPV performance": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BIPV system": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BIPV system's power output": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "BIPV/T": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building integrated photovoltaic-thermal"
   ],
   "BIPV/T air collector": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building integrated photovoltaic-thermal"
   ],
   "BIPVT": [
@@ -1419,7 +1419,7 @@
   "Backsteeping": [],
   "Backstepping": [],
   "Backstepping MPPT -sliding mode": [
-    "maximum power point",
+    "maximum-power-point",
     "mpp tracker",
     "mppt-sliding"
   ],
@@ -1686,7 +1686,7 @@
   ],
   "Bi-directional vsc": [
     "bi-directional",
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "Bi-fluid": [
     "bi-fluid"
@@ -1696,7 +1696,7 @@
   ],
   "Bi-fluid PV/T": [
     "bi-fluid",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Bi-level decision model": [
     "bi-level"
@@ -1824,7 +1824,7 @@
   "Bifurcations": [],
   "Big Bang-Big crunch Copula Monte Carlo Renewable energy Stochastic Distributed Generation": [
     "bang-big",
-    "gen-eration",
+    "generation",
     "monte-carlo"
   ],
   "Big Data": [],
@@ -1937,11 +1937,11 @@
   "Bond wire fatigue": [],
   "Boost": [],
   "Boost Converter": [
-    "boost converter",
+    "boost-converter",
     "boost-converter"
   ],
   "Boost Converter (BC)": [
-    "boost converter",
+    "boost-converter",
     "boost-converter"
   ],
   "Boost DC-DC converter": [
@@ -1962,11 +1962,11 @@
   "Boost chopper (Boost)": [],
   "Boost circuit": [],
   "Boost converter": [
-    "boost converter",
+    "boost-converter",
     "boost-converter"
   ],
   "Boost converter (BC)": [
-    "boost converter",
+    "boost-converter",
     "boost-converter"
   ],
   "Boost dc-dc converter": [
@@ -2122,7 +2122,7 @@
     "photovoltaic-thermal"
   ],
   "Building Integrated Photovoltaic (BIPV)": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building-integrated",
     "photovoltaic"
   ],
@@ -2172,12 +2172,12 @@
     "energy-saving"
   ],
   "Building integrated photovoltaic": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building-integrated",
     "photovoltaic"
   ],
   "Building integrated photovoltaic (BIPV)": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building-integrated",
     "photovoltaic"
   ],
@@ -2425,7 +2425,7 @@
     "3D",
     "cfd-fem",
     "computational fluid dynamics",
-    "finite element method",
+    "finite-element method",
     "finite-element"
   ],
   "CFD/VOF modeling": [
@@ -2448,14 +2448,14 @@
     "critical heat flux"
   ],
   "CHP": [
-    "combined heat and power"
+    "combined-heat-and-power"
   ],
   "CHP microgrid": [
-    "combined heat and power",
+    "combined-heat-and-power",
     "micro-grid"
   ],
   "CHP system": [
-    "combined heat and power"
+    "combined-heat-and-power"
   ],
   "CI: Clearness Index": [],
   "CIE Standard Skies": [],
@@ -2568,7 +2568,7 @@
   "CRO: Coral reefs optimization": [],
   "CSDM": [],
   "CSI": [
-    "current source inverter"
+    "current-source inverter"
   ],
   "CSO algorithm": [],
   "CSP": [
@@ -2592,7 +2592,7 @@
   ],
   "CV method": [],
   "CVCF ESS": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "CVD and Sputtering": [],
   "CVR": [],
@@ -2707,7 +2707,7 @@
     "h-bridge"
   ],
   "Cascade PCM": [
-    "phase change material"
+    "phase-change material"
   ],
   "Cascade circuit of a grid inverter": [],
   "Cascade sliding mode control": [
@@ -3175,7 +3175,7 @@
   "Combination": [],
   "Combination forecasting model": [],
   "Combined Heat and Power (CHP)": [
-    "combined heat and power",
+    "combined-heat-and-power",
     "combined-heat-and-power"
   ],
   "Combined Modeling": [],
@@ -3200,11 +3200,11 @@
     "power-plant"
   ],
   "Combined heat and power": [
-    "combined heat and power",
+    "combined-heat-and-power",
     "combined-heat-and-power"
   ],
   "Combined heat and power (CHP)": [
-    "combined heat and power",
+    "combined-heat-and-power",
     "combined-heat-and-power"
   ],
   "Combined heat and power (CHP) microgrid": [
@@ -3998,7 +3998,7 @@
   ],
   "Current Sensor": [],
   "Current Source Inverter (CSI)": [
-    "current source inverter",
+    "current-source inverter",
     "current-source"
   ],
   "Current and Power Voltage Characteristic": [
@@ -4036,11 +4036,11 @@
     "current-control"
   ],
   "Current source inverter": [
-    "current source inverter",
+    "current-source inverter",
     "current-source"
   ],
   "Current source inverter (CSI)": [
-    "current source inverter",
+    "current-source inverter",
     "current-source"
   ],
   "Current status": [],
@@ -4153,11 +4153,11 @@
   ],
   "DC / DC converter": [],
   "DC MicroGrid": [
-    "dc microgrid",
+    "dc micro-grid",
     "micro-grid"
   ],
   "DC Microgrid": [
-    "dc microgrid",
+    "dc micro-grid",
     "micro-grid"
   ],
   "DC Microgrids": [
@@ -4227,7 +4227,7 @@
     "micro-grid"
   ],
   "DC microgrid": [
-    "dc microgrid",
+    "dc micro-grid",
     "micro-grid"
   ],
   "DC microgrids": [
@@ -4410,7 +4410,7 @@
     "dc-dc"
   ],
   "DC/AC VSC controls": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "DC/AC converter": [],
   "DC/AC converters": [],
@@ -4591,12 +4591,12 @@
   "DOM activation": [],
   "DPA": [],
   "DR": [
-    "demand response"
+    "demand-response"
   ],
   "DRNN": [],
   "DS1104 interface board": [],
   "DSM": [
-    "demand side management"
+    "demand-side management"
   ],
   "DSO": [],
   "DSPACE": [],
@@ -4664,7 +4664,7 @@
   "Data filtering": [],
   "Data fusion": [],
   "Data generation": [
-    "gen-eration"
+    "generation"
   ],
   "Data integration": [],
   "Data intelligence analysis": [],
@@ -4818,7 +4818,7 @@
     "denoising"
   ],
   "De-rating factor": [
-    "derating"
+    "de-rating"
   ],
   "De-rating\\Degradation factors effects": [
     "de-rating",
@@ -4849,19 +4849,19 @@
   "Decentralized control": [],
   "Decentralized electricity assets": [],
   "Decentralized electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Decentralized energy": [],
   "Decentralized generation": [
-    "gen-eration"
+    "generation"
   ],
   "Decentralized operation": [],
   "Decentralized power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Decentralized production": [],
   "Decentralized renewable electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Decentralized system": [],
   "Deceptive opinion spam": [],
@@ -4981,11 +4981,11 @@
   "Demand": [],
   "Demand Charge": [],
   "Demand Response": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "Demand Side Management": [
-    "demand side management",
+    "demand-side management",
     "demand-side"
   ],
   "Demand dispatch": [],
@@ -4994,11 +4994,11 @@
   "Demand forecasting": [],
   "Demand model": [],
   "Demand response": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "Demand response (DR)": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "Demand response aggregator": [
@@ -5019,15 +5019,15 @@
     "demand-response"
   ],
   "Demand response(DR)": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "Demand side management": [
-    "demand side management",
+    "demand-side management",
     "demand-side"
   ],
   "Demand side management (DSM)": [
-    "demand side management",
+    "demand-side management",
     "demand-side"
   ],
   "Demand side monitoring": [
@@ -5287,7 +5287,7 @@
     "irradiance"
   ],
   "Direct Steam Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Direct Supply": [],
   "Direct Torque Control": [
@@ -5316,7 +5316,7 @@
     "power-flow"
   ],
   "Direct power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Direct power predictive control": [],
   "Direct prediction": [],
@@ -5324,7 +5324,7 @@
   "Direct reactive power control": [],
   "Direct solar absorption collector": [],
   "Direct steam generation": [
-    "gen-eration"
+    "generation"
   ],
   "Direct torque control (DTC)": [
     "direct torque control"
@@ -5385,10 +5385,10 @@
     "pv-solar"
   ],
   "Dispersed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Dispersed storage and generation": [
-    "gen-eration"
+    "generation"
   ],
   "Dispersion and conversion": [],
   "Displacement and personal ventilation": [],
@@ -5405,7 +5405,7 @@
   "Distance relay": [],
   "Distance weighting kernels": [],
   "Distibuted generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distillation": [],
   "Distortion factor": [],
@@ -5427,13 +5427,13 @@
     "energy-storage"
   ],
   "Distributed Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed Generation (DG)": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed Generation (DG), Shunt Filter": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed Generator": [
     "distributed generator"
@@ -5466,7 +5466,7 @@
     "photovoltaic"
   ],
   "Distributed PV generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Distributed PV power": [
@@ -5477,7 +5477,7 @@
     "pv-system"
   ],
   "Distributed Power Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed Sources": [],
   "Distributed System": [],
@@ -5522,57 +5522,57 @@
   "Distributed energy system": [],
   "Distributed energy systems": [],
   "Distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation (DG)": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation (DGs)": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation control": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation control mode": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation modeling": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation modelling": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation of solar power system": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation planning": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation resource": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation resources": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation system": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation system Grid-connected PV inverter Quasi-Z-source inverter Voltage and current control": [
     "current-control",
-    "gen-eration",
+    "generation",
     "grid-connected",
     "photovoltaic",
     "quasi-z-source",
     "voltage-current"
   ],
   "Distributed generation systems": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generation units": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generations": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed generator": [
     "distributed generator"
@@ -5611,7 +5611,7 @@
     "photovoltaic"
   ],
   "Distributed photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Distributed photovoltaic system": [
@@ -5623,7 +5623,7 @@
   "Distributed power": [],
   "Distributed power consumption": [],
   "Distributed power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed power system": [],
   "Distributed probability time series": [
@@ -5633,7 +5633,7 @@
     "real-time"
   ],
   "Distributed renewable energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distributed software architecture": [],
   "Distributed software infrastructure": [],
@@ -5650,7 +5650,7 @@
   "Distributed voltage control": [],
   "Distribution": [],
   "Distribution Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distribution Grid Dynamics": [],
   "Distribution Management Systems": [
@@ -5668,10 +5668,10 @@
   "Distribution Voltage Control": [],
   "Distribution automation": [],
   "Distribution generation": [
-    "gen-eration"
+    "generation"
   ],
   "Distribution generation systems (DGSs)": [
-    "gen-eration"
+    "generation"
   ],
   "Distribution generator": [],
   "Distribution grid": [],
@@ -5810,7 +5810,7 @@
     "photovoltaic"
   ],
   "Double flames generation (DFG) strategy": [
-    "gen-eration"
+    "generation"
   ],
   "Double layer microchannel heat sinks": [
     "double-layer",
@@ -5925,7 +5925,7 @@
   ],
   "Dual-fluid PV/T": [
     "dual-fluid",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Dual-rotation magnetorheological finishing": [
     "dual-rotation"
@@ -6114,26 +6114,26 @@
   "EKF": [],
   "ELECTRE method": [],
   "ELM": [
-    "extreme learning machine"
+    "extreme-learning machine"
   ],
   "ELM: Extreme learning machine algorithms": [
     "extreme-learning"
   ],
   "EMC/EMI": [
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "EMD": [],
   "EMI": [
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "EMI filter design": [
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "EMI modeling": [
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "EMI noise": [
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "EMS": [
     "energy management system"
@@ -6162,16 +6162,16 @@
   "ESO": [],
   "ESR": [],
   "ESS": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "ESS application": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "ESS management strategy": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "ESS sizing": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "ETCS": [],
   "ETFE": [],
@@ -6340,7 +6340,7 @@
     "mpp tracker"
   ],
   "Efficiency of electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Efficiency optimization": [],
   "Efficiency prediction": [],
@@ -6421,7 +6421,7 @@
     "photovoltaic"
   ],
   "Electrical Power Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Electrical Power System (EPS)": [
     "electrical power system"
@@ -6514,7 +6514,7 @@
   "Electricity expansion plan": [],
   "Electricity exports": [],
   "Electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Electricity grid": [],
   "Electricity industry": [],
@@ -6593,7 +6593,7 @@
   ],
   "Electromagnetic Interference": [
     "electro-magnetic",
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "Electromagnetic analysis": [
     "electro-magnetic"
@@ -6673,7 +6673,7 @@
   "Elongation prediction": [],
   "Embedded C language": [],
   "Embedded Matlab modelling": [
-    "mat-lab"
+    "matlab"
   ],
   "Embedded Search Algorithm": [],
   "Embedded Systems": [],
@@ -6766,26 +6766,26 @@
   "Energy Router": [],
   "Energy Scheduling": [],
   "Energy Storage": [
-    "energy storage",
+    "energy-storage",
     "energy-storage"
   ],
   "Energy Storage (Battery)": [
-    "energy storage",
+    "energy-storage",
     "energy-storage"
   ],
   "Energy Storage Devices": [
     "energy-storage"
   ],
   "Energy Storage System": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy Storage Systems": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy Storage Systems (ESS)": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy Storage.": [],
@@ -6866,7 +6866,7 @@
   "Energy gain": [],
   "Energy gains": [],
   "Energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "Energy harvest": [],
   "Energy harvester": [],
@@ -6974,7 +6974,7 @@
   "Energy services": [],
   "Energy simulation": [],
   "Energy storage": [
-    "energy storage",
+    "energy-storage",
     "energy-storage"
   ],
   "Energy storage capacity optimization": [
@@ -7005,18 +7005,18 @@
     "energy-storage"
   ],
   "Energy storage system": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy storage system (ESS)": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy storage system integration": [
     "energy-storage"
   ],
   "Energy storage systems": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "Energy storage units": [
@@ -7024,7 +7024,7 @@
   ],
   "Energy storage.": [],
   "Energy stored QZSI": [
-    "quasi z source inverter"
+    "quasi-z source inverter"
   ],
   "Energy supply management": [],
   "Energy supply network": [],
@@ -7358,11 +7358,11 @@
   "Extraterrestrial irradiation": [],
   "Extratropical cyclones": [],
   "Extreme Learning Machine": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme Learning Machines": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme Machine Learning": [
@@ -7374,22 +7374,22 @@
   "Extreme extratropical cyclone": [],
   "Extreme gradient boosting": [],
   "Extreme learning machine": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme learning machine (ELM)": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme learning machine (ELM), heat gain": [
     "extreme-learning"
   ],
   "Extreme learning machines": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme learning machines (ELM)": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "Extreme-learning machine": [
@@ -7400,15 +7400,15 @@
     "extremum-seeking"
   ],
   "Extremum Seeking Control (ESC)": [
-    "extremum seeking control",
+    "extremum-seeking control",
     "extremum-seeking"
   ],
   "Extremum seeking control": [
-    "extremum seeking control",
+    "extremum-seeking control",
     "extremum-seeking"
   ],
   "Extremum seeking control (ESC)": [
-    "extremum seeking control",
+    "extremum-seeking control",
     "extremum-seeking"
   ],
   "Extremum-Seeking Control": [
@@ -7418,7 +7418,7 @@
     "extremum-seeking"
   ],
   "Extrinsic and anonymous Matlab functions": [
-    "mat-lab"
+    "matlab"
   ],
   "Eyewall": [],
   "F-VMEA": [
@@ -7451,10 +7451,10 @@
   ],
   "FEA": [],
   "FEM": [
-    "finite element method"
+    "finite-element method"
   ],
   "FEM calculation": [
-    "finite element method"
+    "finite-element method"
   ],
   "FET circuits": [],
   "FF": [
@@ -7472,9 +7472,9 @@
   "FIWARE": [],
   "FL-MPPT": [
     "fl-mppt",
-    "fuzzy logic",
     "fuzzy-logic",
-    "maximum power point",
+    "fuzzy-logic",
+    "maximum-power-point",
     "mpp tracker"
   ],
   "FLC": [
@@ -7518,7 +7518,7 @@
   ],
   "FPGA controlle": [],
   "FRT control strategies": [
-    "fault ride through"
+    "fault ride-through"
   ],
   "FTA": [
     "fault tree analysis"
@@ -7601,7 +7601,7 @@
   "Fault protection algorithm": [],
   "Fault recurrence": [],
   "Fault ride through (FRT)": [
-    "fault ride through",
+    "fault ride-through",
     "ride-through"
   ],
   "Fault ride-through": [
@@ -7727,15 +7727,15 @@
   "Figure error correction": [],
   "Figure of Merit": [],
   "Fill Factor": [
-    "fill factor",
+    "fill-factor",
     "fill-factor"
   ],
   "Fill factor": [
-    "fill factor",
+    "fill-factor",
     "fill-factor"
   ],
   "Fill factor (F.F.)": [
-    "fill factor",
+    "fill-factor",
     "fill-factor"
   ],
   "Fill-factor": [
@@ -7773,7 +7773,7 @@
     "finite-difference"
   ],
   "Finite Element (FE)": [
-    "finite element",
+    "finite-element",
     "finite-element"
   ],
   "Finite Element Analysis": [
@@ -7791,7 +7791,7 @@
     "time-domain"
   ],
   "Finite element": [
-    "finite element",
+    "finite-element",
     "finite-element"
   ],
   "Finite element analysis": [
@@ -7803,7 +7803,7 @@
     "finite-element-analysis"
   ],
   "Finite element method": [
-    "finite element method",
+    "finite-element method",
     "finite-element"
   ],
   "Finite element model": [
@@ -7823,7 +7823,7 @@
     "finite-element-analysis"
   ],
   "Finite elements": [
-    "finite element",
+    "finite-element",
     "finite-element"
   ],
   "Finite set model predictive control": [],
@@ -7880,7 +7880,7 @@
   "Fitting distribution": [],
   "Five Level MLI": [
     "five-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Five parameter model": [
     "five-parameter"
@@ -8065,7 +8065,7 @@
   "Forecasting Combination": [],
   "Forecasting errors": [],
   "Forecasting generation of energy": [
-    "gen-eration"
+    "generation"
   ],
   "Forecasting method": [],
   "Forecasting methods": [],
@@ -8074,7 +8074,7 @@
     "photovoltaic"
   ],
   "Forecasting of photovoltaic power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Forecasting of renewable energy resources": [],
@@ -8280,7 +8280,7 @@
   "Future altimetry": [],
   "Future climate": [],
   "Future energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "Future energy scenario": [],
   "Future grids": [],
@@ -8298,11 +8298,11 @@
   "Fuzzy Cognitive Maps": [],
   "Fuzzy Control": [],
   "Fuzzy Logic": [
-    "fuzzy logic",
+    "fuzzy-logic",
     "fuzzy-logic"
   ],
   "Fuzzy Logic (FL)": [
-    "fuzzy logic",
+    "fuzzy-logic",
     "fuzzy-logic"
   ],
   "Fuzzy Logic Control": [
@@ -8367,7 +8367,7 @@
     "load-flow"
   ],
   "Fuzzy logic": [
-    "fuzzy logic",
+    "fuzzy-logic",
     "fuzzy-logic"
   ],
   "Fuzzy logic algorithm": [
@@ -8538,7 +8538,7 @@
   ],
   "GIS-Modelling": [
     "geographic information system",
-    "gis-modelling"
+    "gis-modeling"
   ],
   "GLSSVM": [],
   "GLSSVM (Group Least Square Support Vector Machine)": [],
@@ -8579,7 +8579,7 @@
   ],
   "GUI (Graphical User Interface)": [],
   "GUI matlab": [
-    "mat-lab"
+    "matlab"
   ],
   "GWO": [
     "grey wolf optimization algorithm"
@@ -8695,37 +8695,37 @@
   "Generated power": [],
   "Generated power prediction": [],
   "Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Generation Scheduling": [
-    "gen-eration"
+    "generation"
   ],
   "Generation adequacy": [
-    "gen-eration"
+    "generation"
   ],
   "Generation capacity": [
-    "gen-eration"
+    "generation"
   ],
   "Generation expansion planning": [
-    "gen-eration"
+    "generation"
   ],
   "Generation flexibility": [
-    "gen-eration"
+    "generation"
   ],
   "Generation forecast": [
-    "gen-eration"
+    "generation"
   ],
   "Generation integration": [
-    "gen-eration"
+    "generation"
   ],
   "Generation portfolios": [
-    "gen-eration"
+    "generation"
   ],
   "Generation prediction model": [
-    "gen-eration"
+    "generation"
   ],
   "Generation scheduling": [
-    "gen-eration"
+    "generation"
   ],
   "Generative Adversarial Networks": [],
   "Generative adversarial networks": [],
@@ -8989,7 +8989,7 @@
   "Green cellular network": [],
   "Green communications": [],
   "Green electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Green energy": [],
   "Green energy strategies": [],
@@ -9012,7 +9012,7 @@
     "greenhouse gas emission"
   ],
   "Greenhouse PVT Dryer": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Greenhouse dryer": [],
   "Greenhouse effect": [],
@@ -9105,7 +9105,7 @@
   ],
   "Grid connected MLI": [
     "grid-connected",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Grid connected PV": [
     "grid-connected",
@@ -9138,12 +9138,12 @@
     "grid-connected"
   ],
   "Grid connected photovoltaic": [
-    "grid connected photovoltaic",
+    "grid-connected photovoltaic",
     "grid-connected",
     "photovoltaic"
   ],
   "Grid connected photovoltaic (GCPV)": [
-    "grid connected photovoltaic",
+    "grid-connected photovoltaic",
     "grid-connected",
     "photovoltaic"
   ],
@@ -9216,7 +9216,7 @@
     "photovoltaic"
   ],
   "Grid-Connected PV power generation": [
-    "gen-eration",
+    "generation",
     "grid-connected",
     "photovoltaic"
   ],
@@ -9260,7 +9260,7 @@
     "photovoltaic"
   ],
   "Grid-connected PV generation": [
-    "gen-eration",
+    "generation",
     "grid-connected",
     "photovoltaic"
   ],
@@ -9296,11 +9296,11 @@
     "stand-alone"
   ],
   "Grid-connected generation": [
-    "gen-eration",
+    "generation",
     "grid-connected"
   ],
   "Grid-connected generation system": [
-    "gen-eration",
+    "generation",
     "grid-connected"
   ],
   "Grid-connected inverter": [
@@ -9422,7 +9422,7 @@
     "grid-tied"
   ],
   "Grid-tied photovoltaic generation system": [
-    "gen-eration",
+    "generation",
     "grid-tied",
     "photovoltaic"
   ],
@@ -9551,14 +9551,14 @@
   "HFAPSO": [],
   "HII regions": [],
   "HIL": [
-    "hardware in the loop"
+    "hardware-in-the-loop"
   ],
   "HIL close-loop testing": [
     "close-loop",
-    "hardware in the loop"
+    "hardware-in-the-loop"
   ],
   "HIL simulation": [
-    "hardware in the loop"
+    "hardware-in-the-loop"
   ],
   "HIT PV module": [
     "photovoltaic",
@@ -9622,7 +9622,7 @@
   "Hardware description languages": [],
   "Hardware implementation": [],
   "Hardware in the Loop": [
-    "hardware in the loop",
+    "hardware-in-the-loop",
     "hardware-in-the-loop"
   ],
   "Hardware-In-Loop (HIL)": [
@@ -9700,7 +9700,7 @@
   "Heat": [],
   "Heat Exchanger": [],
   "Heat Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Heat Loss": [],
   "Heat Pump": [],
@@ -9831,7 +9831,7 @@
     "dc-dc"
   ],
   "High concentrated photovoltaic power generation": [
-    "gen-eration",
+    "generation",
     "high-power",
     "photovoltaic"
   ],
@@ -10244,7 +10244,7 @@
     "pv-dg-battery"
   ],
   "Hybrid PV-ESS unit": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage",
     "photovoltaic",
     "pv-ess"
@@ -10280,24 +10280,24 @@
     "fuel cell"
   ],
   "Hybrid PV/T solar collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid PV/T system": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid PV/wind/battery energy system design": [],
   "Hybrid PV/wind/diesel system Net present cost": [],
   "Hybrid PVT": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid PVT collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid PVT collectors": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid PVT system": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid Photovoltaic-Thermal": [
     "photovoltaic-thermal"
@@ -10388,10 +10388,10 @@
   "Hybrid forecasting": [],
   "Hybrid gasification reactor": [],
   "Hybrid generation": [
-    "gen-eration"
+    "generation"
   ],
   "Hybrid generation system": [
-    "gen-eration"
+    "generation"
   ],
   "Hybrid generator": [],
   "Hybrid geothermal": [],
@@ -10453,10 +10453,10 @@
   ],
   "Hybrid power": [],
   "Hybrid power generation system": [
-    "gen-eration"
+    "generation"
   ],
   "Hybrid power generation systems": [
-    "gen-eration"
+    "generation"
   ],
   "Hybrid power integration": [],
   "Hybrid power plants": [
@@ -10495,7 +10495,7 @@
   "Hybrid simulation techniques": [],
   "Hybrid solar": [],
   "Hybrid solar PVT": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Hybrid solar collector": [],
   "Hybrid solar gas-turbine power plant": [
@@ -10503,7 +10503,7 @@
     "power-plant"
   ],
   "Hybrid solar power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Hybrid solar-diesel systems": [
     "solar-diesel"
@@ -10602,7 +10602,7 @@
   ],
   "Hydrogen system": [],
   "Hydrogen tank SoC": [
-    "state of charge"
+    "state-of-charge"
   ],
   "Hydrokinetic turbine": [],
   "Hydrological effect": [],
@@ -11102,7 +11102,7 @@
     "terms-cpv"
   ],
   "Index termssolar generation prediction": [
-    "gen-eration"
+    "generation"
   ],
   "India": [],
   "Indian Health Services": [
@@ -11281,7 +11281,7 @@
   "Integrated energy systems": [],
   "Integrated framework": [],
   "Integrated generation system": [
-    "gen-eration"
+    "generation"
   ],
   "Integrated grid planning": [],
   "Integrated hybrid system (IHS)": [],
@@ -11396,7 +11396,7 @@
   "Intermediate value theorem": [],
   "Intermittency of forecast errors": [],
   "Intermittent energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "Intermittent energy source": [],
   "Intermittent jet": [],
@@ -11477,7 +11477,7 @@
   ],
   "Inverter": [],
   "Inverter Based Generation (IBG)": [
-    "gen-eration",
+    "generation",
     "inverter based generation",
     "inverter-based"
   ],
@@ -11487,7 +11487,7 @@
   "Inverter advanced features": [],
   "Inverter applied in alternative sources of energy": [],
   "Inverter based distributed generation": [
-    "gen-eration",
+    "generation",
     "inverter-based"
   ],
   "Inverter configurations": [],
@@ -11498,7 +11498,7 @@
   "Inverter system": [],
   "Inverter with advanced features testing": [],
   "Inverter-Based Distribution Generation": [
-    "gen-eration",
+    "generation",
     "inverter-based"
   ],
   "Inverterpower factor": [],
@@ -11707,7 +11707,7 @@
   "Jet impingement": [],
   "Jet streams": [],
   "Job generation": [
-    "gen-eration"
+    "generation"
   ],
   "Joint Probability": [],
   "Joint optimization": [],
@@ -11861,14 +11861,14 @@
   ],
   "LC filter and Induction motor": [],
   "LCA": [
-    "life cycle assessment"
+    "life-cycle assessment"
   ],
   "LCA - Life cycle assessment": [
     "lca-life",
-    "life cycle assessment"
+    "life-cycle assessment"
   ],
   "LCA framework": [
-    "life cycle assessment"
+    "life-cycle assessment"
   ],
   "LCCE": [],
   "LCL": [],
@@ -11917,7 +11917,7 @@
   ],
   "LMPP and MATLAB /SIMULINK": [
     "local maximum power point",
-    "mat-lab"
+    "matlab"
   ],
   "LNAPL recovery": [],
   "LPSP": [
@@ -11925,10 +11925,10 @@
   ],
   "LRT": [],
   "LS-SVM": [
-    "least square support vector machine"
+    "least-square support vector machine"
   ],
   "LS-SVM (Least square support vector machine)": [
-    "least square support vector machine"
+    "least-square support vector machine"
   ],
   "LSPV system": [],
   "LSTM": [
@@ -12041,7 +12041,7 @@
     "photovoltaic"
   ],
   "Large-scale PV power generation system": [
-    "gen-eration",
+    "generation",
     "large-scale",
     "photovoltaic",
     "pv-system"
@@ -12072,7 +12072,7 @@
     "large-scale"
   ],
   "Large-scale integration of renewable power generation": [
-    "gen-eration",
+    "generation",
     "large-scale"
   ],
   "Large-scale motions": [
@@ -12174,22 +12174,22 @@
     "least-square"
   ],
   "Least Square Support Vector Machine": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least Square Support Vector Machine (LS-SVM)": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least Square Support Vector Regression": [
     "least-square"
   ],
   "Least Squares Support Vector Machine": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least Squares Support Vector Machines (LS-SVM)": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least cost combinations": [],
@@ -12203,7 +12203,7 @@
     "least-square"
   ],
   "Least square support vector machine": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least squares approximations": [
@@ -12216,11 +12216,11 @@
     "least-square"
   ],
   "Least squares support vector machine": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least squares support vector machines": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "Least-square support vector machine": [
@@ -12288,34 +12288,34 @@
   "Liapunov": [],
   "Library of components under Simulink": [],
   "Life Cycle Assessment": [
-    "life cycle assessment",
+    "life-cycle assessment",
     "life-cycle"
   ],
   "Life Cycle Assessment (LCA)": [
-    "life cycle assessment",
+    "life-cycle assessment",
     "life-cycle"
   ],
   "Life Cycle Cost": [
-    "life cycle cost",
+    "life-cycle cost",
     "life-cycle"
   ],
   "Life Cycle Costing": [
     "life-cycle"
   ],
   "Life cycle assessment": [
-    "life cycle assessment",
+    "life-cycle assessment",
     "life-cycle"
   ],
   "Life cycle assessment (LCA)": [
-    "life cycle assessment",
+    "life-cycle assessment",
     "life-cycle"
   ],
   "Life cycle cost": [
-    "life cycle cost",
+    "life-cycle cost",
     "life-cycle"
   ],
   "Life cycle cost (LCC)": [
-    "life cycle cost",
+    "life-cycle cost",
     "life-cycle"
   ],
   "Life cycle cost analysis": [
@@ -12589,7 +12589,7 @@
   "Location Problem": [],
   "Location and capacity": [],
   "Locations of ESS": [
-    "energy storage system"
+    "energy-storage system"
   ],
   "Loess Plateau of China": [],
   "Logistic Function": [],
@@ -12966,62 +12966,62 @@
   "MARKAL model": [],
   "MARS": [],
   "MAT LAB SIMULINK": [
-    "mat-lab"
+    "matlab"
   ],
   "MAT-LAB simulation": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB (Matrix Laboratory)": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB - Simulink": [
     "matlab-simulink"
   ],
   "MATLAB / Simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "MATLAB GUI": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB SIMULINK": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "MATLAB Simulation": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB Simulation Modeling": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB Simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "MATLAB engine": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB modeling": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB modelling": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB simulation": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "MATLAB software": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB(Software)": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB-Simulink": [
     "matlab-simulink"
@@ -13036,11 +13036,11 @@
   "MATLAB/simulink": [],
   "MATLAB/simulink etc.": [],
   "MATLAB®": [
-    "mat-lab"
+    "matlab"
   ],
   "MATLAB®/SIMULINK": [],
   "MCS": [
-    "monte carlo simulation"
+    "monte-carlo simulation"
   ],
   "MDA": [],
   "MDE": [],
@@ -13059,10 +13059,10 @@
   "MESMA": [],
   "MESSAGE model": [],
   "MG": [
-    "microgrid"
+    "micro-grid"
   ],
   "MG system": [
-    "microgrid"
+    "micro-grid"
   ],
   "MGCC": [],
   "MHD modeling": [
@@ -13072,7 +13072,7 @@
     "mhpa-pvt",
     "micro heat pipe array",
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "MICMAC": [],
@@ -13097,10 +13097,10 @@
   "MJSC": [],
   "MLFN": [],
   "MLI": [
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "MLP": [
-    "multilayer perceptron"
+    "multilayer per-ceptron"
   ],
   "MLP: Multilayer perceptron algorithm": [
     "multi-layer"
@@ -13129,17 +13129,17 @@
   "MPCM slurry": [],
   "MPEC": [],
   "MPP": [
-    "maximum power point"
+    "maximum-power-point"
   ],
   "MPP locus": [
-    "maximum power point"
+    "maximum-power-point"
   ],
   "MPP tracker (MPPT)": [
-    "maximum power point",
+    "maximum-power-point",
     "mpp tracker"
   ],
   "MPP tracking": [
-    "maximum power point"
+    "maximum-power-point"
   ],
   "MPPD & MPPT Command": [
     "mpp tracker"
@@ -13254,7 +13254,7 @@
     "mpp tracker"
   ],
   "MPPT-Fuzzy algorithm": [
-    "maximum power point",
+    "maximum-power-point",
     "mpp tracker",
     "mppt-fuzzy"
   ],
@@ -13263,7 +13263,7 @@
   ],
   "MPRVS": [],
   "MPSO": [
-    "modified particle swarm optimisation"
+    "modified particle swarm optimization"
   ],
   "MRAC strategy": [],
   "MRM": [],
@@ -13285,10 +13285,10 @@
     "mean time to failure"
   ],
   "MV": [
-    "medium voltage"
+    "medium-voltage"
   ],
   "MV network": [
-    "medium voltage"
+    "medium-voltage"
   ],
   "MVC": [],
   "MVDC (Medium Voltage Direct Current)": [
@@ -13419,7 +13419,7 @@
   "Mars, polar geology": [],
   "Mars, surface": [],
   "Mas": [
-    "multi agent system"
+    "multi-agent system"
   ],
   "Masers": [],
   "Mass flow rate": [],
@@ -13431,7 +13431,7 @@
     "master-slave"
   ],
   "Mat LAB": [
-    "mat-lab"
+    "matlab"
   ],
   "Match evaluation method (MEM)": [
     "match evaluation method"
@@ -13451,7 +13451,7 @@
   "Mathematical Model": [],
   "Mathematical Modeling": [],
   "Mathematical Models of Renewable Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Mathematical PV model": [
     "photovoltaic"
@@ -13468,18 +13468,18 @@
   "Mathematics model": [],
   "Matheuristics": [],
   "Matlab": [
-    "mat-lab"
+    "matlab"
   ],
   "Matlab / simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "Matlab Simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "Matlab simulink": [
-    "mat-lab",
+    "matlab",
     "matlab-simulink"
   ],
   "Matlab-simulink": [
@@ -13505,17 +13505,17 @@
     "maximum efficiency point"
   ],
   "Maximum Power Point": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
   "Maximum Power Point (MPP)": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
   "Maximum Power Point MPP": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
@@ -13572,7 +13572,7 @@
     "power-point"
   ],
   "Maximum Power Points (MPPs)": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
@@ -13587,7 +13587,7 @@
     "power-point"
   ],
   "Maximum constant boost PWM control": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "Maximum control structure": [],
   "Maximum demand (MD)": [
@@ -13612,12 +13612,12 @@
   "Maximum power oint tracking (MPPT)": [],
   "Maximum power output": [],
   "Maximum power point": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
   "Maximum power point (MPP)": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
@@ -13785,7 +13785,7 @@
   "Mediterranean sea": [],
   "Mediterranean topography": [],
   "Medium voltage": [
-    "medium voltage",
+    "medium-voltage",
     "medium-voltage"
   ],
   "Medium voltage feeder": [
@@ -13931,7 +13931,7 @@
     "micro-turbine"
   ],
   "Micro generation": [
-    "gen-eration"
+    "generation"
   ],
   "Micro gird": [],
   "Micro grid": [
@@ -14018,7 +14018,7 @@
   ],
   "MicroGrid": [
     "micro-grid",
-    "microgrid"
+    "micro-grid"
   ],
   "MicroGrids": [
     "micro-grid"
@@ -14040,11 +14040,11 @@
   "Microgeneration": [],
   "Microgrid": [
     "micro-grid",
-    "microgrid"
+    "micro-grid"
   ],
   "Microgrid (MG)": [
     "micro-grid",
-    "microgrid"
+    "micro-grid"
   ],
   "Microgrid (MG) modeling": [
     "micro-grid"
@@ -14142,7 +14142,7 @@
     "mid-point"
   ],
   "Mid-to-long term power generation prediction": [
-    "gen-eration",
+    "generation",
     "mid-to-long"
   ],
   "Middle Income Household": [],
@@ -14334,7 +14334,7 @@
   ],
   "Model validation": [],
   "Model validation of wind generation": [
-    "gen-eration"
+    "generation"
   ],
   "Model-based prediction control": [
     "model-based"
@@ -14368,7 +14368,7 @@
   "Modeling and simulation and stimulation AC'DC linked system": [],
   "Modeling consumption": [],
   "Modeling distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Modeling framework": [],
   "Modeling grid-connected photovoltaic system": [
@@ -14407,7 +14407,7 @@
     "current-voltage"
   ],
   "Modeling of dual channel PVT module": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Modeling of hybrid system": [],
   "Modeling of losses": [],
@@ -14491,7 +14491,7 @@
   ],
   "Modified PMC": [],
   "Modified Particle Swarm Optimisation (MPSO)": [
-    "modified particle swarm optimisation"
+    "modified particle swarm optimization"
   ],
   "Modified Particle Swarm Optimization (MPSO)": [],
   "Modified artificial bee colony": [],
@@ -14550,7 +14550,7 @@
     "irradiance"
   ],
   "Module level Power Electronics (MLPE)": [
-    "module level power electronics",
+    "module-level power electronics",
     "module-level"
   ],
   "Module manufacturing": [],
@@ -14635,14 +14635,14 @@
     "monte-carlo"
   ],
   "Monte Carlo (MC) simulation": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte Carlo Estimation": [
     "monte-carlo"
   ],
   "Monte Carlo Simulation": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte Carlo analysis": [
@@ -14663,26 +14663,26 @@
     "ray-tracing"
   ],
   "Monte Carlo simulation": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte Carlo simulation (MCS)": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte Carlo simulations": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte carlo": [
     "monte-carlo"
   ],
   "Monte carlo simulation": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte carlo simulations": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "Monte-Carlo simulation": [
@@ -14718,19 +14718,19 @@
   ],
   "Mu": [],
   "Multi Agent System": [
-    "multi agent system",
+    "multi-agent system",
     "multi-agent"
   ],
   "Multi Crystalline": [
     "multi-crystalline"
   ],
   "Multi agent system (MAS)": [
-    "multi agent system",
+    "multi-agent system",
     "multi-agent"
   ],
   "Multi carrier PWM": [
     "multi-carrier",
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "Multi carrier energy systems": [
     "multi-carrier",
@@ -14787,7 +14787,7 @@
   ],
   "Multi-Level Cascaded qZSI": [
     "multi-level",
-    "quasi z source inverter"
+    "quasi-z source inverter"
   ],
   "Multi-Objective Programming Model": [
     "multi-objective"
@@ -15126,7 +15126,7 @@
   ],
   "Multilayer Perceptron": [
     "multi-layer",
-    "multilayer perceptron"
+    "multilayer per-ceptron"
   ],
   "Multilayer backpropagation NN.": [
     "artificial neural network",
@@ -15137,11 +15137,11 @@
   ],
   "Multilayer perceptron": [
     "multi-layer",
-    "multilayer perceptron"
+    "multilayer per-ceptron"
   ],
   "Multilayer perceptron (MLP)": [
     "multi-layer",
-    "multilayer perceptron"
+    "multilayer per-ceptron"
   ],
   "Multilayer perceptron model": [
     "multi-layer"
@@ -15155,15 +15155,15 @@
   ],
   "Multilevel Inverter": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel Inverter (MLI)": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel Inverter(MLI)": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel converter": [
     "multi-level"
@@ -15177,15 +15177,15 @@
   ],
   "Multilevel inverter": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel inverter (MLI)": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel inverters": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "Multilevel model": [
     "multi-level"
@@ -15229,7 +15229,7 @@
   "Multiple Linear Regression": [],
   "Multiple Linear Regression method": [],
   "Multiple MPP": [
-    "maximum power point"
+    "maximum-power-point"
   ],
   "Multiple Objective Particle Swarm Optimization": [],
   "Multiple PV units": [
@@ -15288,7 +15288,7 @@
     "multiport interleaved power converter"
   ],
   "Multipurpose BIPV system": [
-    "building integrated photovoltaic"
+    "building-integrated photovoltaic"
   ],
   "Multiregression Analysis": [],
   "Multiscale modeling": [
@@ -15346,7 +15346,7 @@
     "four-port dc-dc converter interface",
     "n-pvt-fpc",
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "N-paralleled PV systems": [
@@ -15365,7 +15365,7 @@
     "nonlinear autoregressive exogenous"
   ],
   "NARX: Nonlinear autoregressive models with exogenous": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "NASA": [],
@@ -15433,7 +15433,7 @@
   ],
   "Nano Fe-doped TiO2": [
     "fe-doped",
-    "finite element",
+    "finite-element",
     "finite-element"
   ],
   "Nano fluid": [],
@@ -15442,7 +15442,7 @@
   ],
   "Nano-PCM": [
     "nano-pcm",
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Nano-engineered": [
@@ -15714,15 +15714,15 @@
   "New Zealand": [],
   "New energy": [],
   "New energy power generation": [
-    "gen-eration",
+    "generation",
     "new energy power generation"
   ],
   "New energy power generation (NEPG)": [
-    "gen-eration",
+    "generation",
     "new energy power generation"
   ],
   "New energy power generation system": [
-    "gen-eration"
+    "generation"
   ],
   "New energy system": [],
   "New software for hybrid renewable energy system": [],
@@ -15900,11 +15900,11 @@
     "non-linear"
   ],
   "Nonlinear Auto-Regressive Models with eXogenous Inputs (NARX)": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "Nonlinear AutoRegressive network with eXogenous inputs (NARX)": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "Nonlinear DAE's": [
@@ -15918,16 +15918,16 @@
     "non-linear"
   ],
   "Nonlinear auto-regressive with exogenous input model": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "Nonlinear autoregressive exogenous (NARX)": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear",
     "nonlinear autoregressive exogenous"
   ],
   "Nonlinear autoregressive network with exogenous inputs": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "Nonlinear circuits": [
@@ -15995,7 +15995,7 @@
   "Norton Modelling": [],
   "Norton equivalent model": [],
   "Notch filter PLL": [
-    "phase locked loop"
+    "phase-locked loop"
   ],
   "Novel PV installation": [
     "photovoltaic"
@@ -16104,7 +16104,7 @@
     "off-grid"
   ],
   "Off-Maximum Power Point Tracking Off-MPPT": [
-    "maximum power point",
+    "maximum-power-point",
     "mpp tracker",
     "off-maximum",
     "off-mppt",
@@ -16206,12 +16206,12 @@
   ],
   "OnSSET": [],
   "One Diode Model": [
-    "one diode model",
+    "one-diode-model",
     "one-diode",
     "one-diode-model"
   ],
   "One diode Model": [
-    "one diode model",
+    "one-diode-model",
     "one-diode",
     "one-diode-model"
   ],
@@ -16221,12 +16221,12 @@
     "photovoltaic"
   ],
   "One diode model": [
-    "one diode model",
+    "one-diode-model",
     "one-diode",
     "one-diode-model"
   ],
   "One diode model (ODM)": [
-    "one diode model",
+    "one-diode-model",
     "one-diode",
     "one-diode-model"
   ],
@@ -16420,7 +16420,7 @@
   "Optics": [],
   "Optimal Control": [],
   "Optimal Distributed Generation Placement(ODGP)": [
-    "gen-eration"
+    "generation"
   ],
   "Optimal Operation": [],
   "Optimal Placement": [],
@@ -16450,14 +16450,14 @@
   "Optimal hourly contract": [],
   "Optimal location": [],
   "Optimal location and sizing of distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Optimal mix of renewable energies": [],
   "Optimal multipliers": [],
   "Optimal operation": [],
   "Optimal operation and control of power systems": [],
   "Optimal operation of PVT": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Optimal parameters estimation": [],
   "Optimal power": [],
@@ -16667,12 +16667,12 @@
     "p-25"
   ],
   "P-ELM": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning",
     "p-elm"
   ],
   "P-ELM: Persistent extreme learning machine": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning",
     "p-elm:"
   ],
@@ -16722,8 +16722,8 @@
     "pac-bayes"
   ],
   "PARTIAL shading": [
-    "partial shading",
-    "partial-shading"
+    "partial-shadow",
+    "partial-shadow"
   ],
   "PC1D": [],
   "PCA": [
@@ -16736,10 +16736,10 @@
   "PCB": [],
   "PCBM": [],
   "PCM": [
-    "phase change material"
+    "phase-change material"
   ],
   "PCM graphite hybrid": [
-    "phase change material"
+    "phase-change material"
   ],
   "PCMs": [],
   "PCS": [
@@ -16849,11 +16849,11 @@
   "PLECS®": [],
   "PLEXOS": [],
   "PLL": [
-    "phase locked loop"
+    "phase-locked loop"
   ],
   "PLL hybrid renewable energy generation system": [
-    "gen-eration",
-    "phase locked loop"
+    "generation",
+    "phase-locked loop"
   ],
   "PLR": [],
   "PLS": [],
@@ -16921,8 +16921,8 @@
     "performance ratio"
   ],
   "PS-Pattern search": [
-    "partial shading",
-    "partial-shading",
+    "partial-shadow",
+    "partial-shadow",
     "ps-pattern"
   ],
   "PSASP": [],
@@ -16970,7 +16970,7 @@
   "PSPICE": [],
   "PSPICE simulation": [],
   "PSS/E": [
-    "partial shading scenario"
+    "partial shadow scenario"
   ],
   "PSS@E": [],
   "PSSE": [],
@@ -17064,11 +17064,11 @@
     "photovoltaic"
   ],
   "PV Generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV Generation Prediction": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV Generator": [
@@ -17089,7 +17089,7 @@
     "photovoltaic"
   ],
   "PV MATLAB model": [
-    "mat-lab",
+    "matlab",
     "photovoltaic"
   ],
   "PV MPPT": [
@@ -17388,7 +17388,7 @@
     "photovoltaic"
   ],
   "PV derating factor": [
-    "derating",
+    "de-rating",
     "photovoltaic"
   ],
   "PV diagnosis": [
@@ -17459,15 +17459,15 @@
     "photovoltaic"
   ],
   "PV generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV generation power prediction": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "pv-system"
   ],
@@ -17806,19 +17806,19 @@
     "pv-system"
   ],
   "PV power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV power generation forecasting": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV power generation prediction": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PV power generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "pv-system"
   ],
@@ -18154,7 +18154,7 @@
     "pv-lithium"
   ],
   "PV-MPPT": [
-    "maximum power point",
+    "maximum-power-point",
     "mpp tracker",
     "photovoltaic",
     "pv-mppt"
@@ -18164,19 +18164,19 @@
     "pv-module"
   ],
   "PV-PCM": [
-    "phase change material",
+    "phase-change material",
     "phase-change",
     "photovoltaic",
     "pv-pcm"
   ],
   "PV-PCM panel": [
-    "phase change material",
+    "phase-change material",
     "phase-change",
     "photovoltaic",
     "pv-pcm"
   ],
   "PV-PCM-TE system": [
-    "phase change material",
+    "phase-change material",
     "phase-change",
     "photovoltaic",
     "photovoltaic-thermoelectric",
@@ -18220,7 +18220,7 @@
     "thermoelectric generator module"
   ],
   "PV-TEG-PCM hybrid system": [
-    "phase change material",
+    "phase-change material",
     "phase-change",
     "photovoltaic",
     "photovoltaic-thermoelectric",
@@ -18373,64 +18373,64 @@
   ],
   "PV/T": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T Combi": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T air collector": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T air-based": [
     "air-based",
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T array": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T collector": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T hybrid collector": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T modeling": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T module": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T performances": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T solar panels": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T solar water system": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T systems": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T temperature control": [
     "photovoltaic",
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PV/T water-based": [
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "water-based"
   ],
   "PV/WG/diesel/battery": [
@@ -18477,7 +18477,7 @@
     "photovoltaic generator"
   ],
   "PVG generation dynamic forecast": [
-    "gen-eration",
+    "generation",
     "photovoltaic generator"
   ],
   "PVG modeling": [
@@ -18506,37 +18506,37 @@
   "PVSSS": [],
   "PVSYST model": [],
   "PVT": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT air collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT air coolector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT collectors": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT evaporator": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT integrated greenhouse system": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT model": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT system": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT systems with storage": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT water collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "PVT-CPC collectors": [
     "photovoltaic"
@@ -18560,30 +18560,30 @@
   ],
   "PWCS": [],
   "PWM": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM (Pulse Width Modulation)": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM Inverter": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM PV array": [
     "photovoltaic",
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM Voltage Source Inverter (VSI)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "voltage-source"
   ],
   "PWM control": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM inverter": [
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "PWM voltage source inverter": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "voltage-source"
   ],
   "Packed U Cell(PUC)": [
@@ -18695,74 +18695,74 @@
     "least-square"
   ],
   "Partial Shaded": [
-    "partial-shaded"
+    "partial-shadow"
   ],
   "Partial Shading": [
-    "partial shading",
-    "partial-shading"
+    "partial-shadow",
+    "partial-shadow"
   ],
   "Partial Shading (PS)": [
-    "partial shading",
-    "partial-shading"
+    "partial-shadow",
+    "partial-shadow"
   ],
   "Partial Shading Condition": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial Shading Condition (PSC)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial Shading Conditions": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial Shading Conditions (PSCs)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial compensation": [],
   "Partial correlation": [],
   "Partial differential equation": [],
   "Partial equilibrium approach": [],
   "Partial loss of generation": [
-    "gen-eration"
+    "generation"
   ],
   "Partial mutual information": [],
   "Partial shade": [],
   "Partial shaded condition": [
-    "partial shaded condition",
-    "partial-shaded"
+    "partial shadow condition",
+    "partial-shadow"
   ],
   "Partial shaded condition (PSC)": [
-    "partial shaded condition",
-    "partial-shaded"
+    "partial shadow condition",
+    "partial-shadow"
   ],
   "Partial shaded modules": [
-    "partial-shaded"
+    "partial-shadow"
   ],
   "Partial shading": [
-    "partial shading",
-    "partial-shading"
+    "partial-shadow",
+    "partial-shadow"
   ],
   "Partial shading Condition criterion (PSC)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shading condition": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shading condition (PSC)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shading conditions": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shading conditions (PSCs)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shading effect": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partial shadow": [],
   "Partial shadowing": [],
   "Partial-shading effects": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "Partially Shaded Condition": [],
   "Partially Shading Conditions (PSCs)": [],
@@ -19130,23 +19130,23 @@
   "Petri nets": [],
   "Pharmaceutical chemistry": [],
   "Phase Change Material": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase Change Material (PCM)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase Change Materials (PCM)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase Change Materials (PCMs)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase Locked Loop (PLL)": [
-    "phase locked loop",
+    "phase-locked loop",
     "phase-locked"
   ],
   "Phase Shift modulation": [
@@ -19154,26 +19154,26 @@
   ],
   "Phase Slowness": [],
   "Phase change material": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase change material (PCM)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase change material thermal storage": [
     "phase-change"
   ],
   "Phase change materials": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase change materials (PCM)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase change materials (PCMs)": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "Phase disposition": [],
@@ -19182,11 +19182,11 @@
     "phase-lead"
   ],
   "Phase locked loop": [
-    "phase locked loop",
+    "phase-locked loop",
     "phase-locked"
   ],
   "Phase locked loop (PLL)": [
-    "phase locked loop",
+    "phase-locked loop",
     "phase-locked"
   ],
   "Phase shift": [
@@ -19209,7 +19209,7 @@
   ],
   "Phase-shift PWM": [
     "phase-shift",
-    "pulse width modulation"
+    "pulse-width modulation"
   ],
   "Phased locked loop": [],
   "Phasor Measurement Unit (PMU)": [],
@@ -19286,7 +19286,7 @@
     "photovoltaic"
   ],
   "Photo-voltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photo-voltaic system": [
@@ -19297,7 +19297,7 @@
     "photovoltaic"
   ],
   "PhotoVoltaic (PV) generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "PhotoVoltaic (PV) panel": [
@@ -19401,7 +19401,7 @@
     "photovoltaic"
   ],
   "Photovoltaic (PV) generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic (PV) inverters": [
@@ -19446,7 +19446,7 @@
     "photovoltaic"
   ],
   "Photovoltaic (PV) power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic (PV) power generator": [
@@ -19532,14 +19532,14 @@
     "photovoltaic"
   ],
   "Photovoltaic Dispersed Generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic Efficiency": [
     "photovoltaic"
   ],
   "Photovoltaic Electricity Generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic Emulator": [
@@ -19555,11 +19555,11 @@
     "photovoltaic-energy"
   ],
   "Photovoltaic Generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic Generation System": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic Generator": [
@@ -19579,7 +19579,7 @@
   ],
   "Photovoltaic Integrated Shading (PVIS)": [
     "photovoltaic",
-    "photovoltaic integrated shading"
+    "photovoltaic integrated shadow"
   ],
   "Photovoltaic Inverter": [
     "photovoltaic"
@@ -19631,7 +19631,7 @@
     "photovoltaic"
   ],
   "Photovoltaic Power Generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic Power Plant": [
@@ -19846,12 +19846,12 @@
     "photovoltaic"
   ],
   "Photovoltaic distributed generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "photovoltaic distributed generation"
   ],
   "Photovoltaic distributed generation (PVDG)": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "photovoltaic distributed generation"
   ],
@@ -19880,7 +19880,7 @@
     "photovoltaic-energy"
   ],
   "Photovoltaic energy generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "photovoltaic-energy"
   ],
@@ -19916,27 +19916,27 @@
     "photovoltaic"
   ],
   "Photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generation (PV)": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generation in Brazil": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generation systems": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generations": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic generator": [
@@ -20126,23 +20126,23 @@
     "photovoltaic"
   ],
   "Photovoltaic power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic power generation forecasting": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic power generation grid": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic power generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic power generation technology": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaic power generator": [
@@ -20336,17 +20336,17 @@
   ],
   "Photovoltaic thermal": [
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "Photovoltaic thermal (PV/T)": [
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "Photovoltaic thermal (PVT)": [
     "photovoltaic",
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "Photovoltaic thermal collector": [
@@ -20418,7 +20418,7 @@
     "photovoltaic-thermal"
   ],
   "Photovoltaic-thermal PVT": [
-    "photovoltaic thermal",
+    "photovoltaic-thermal",
     "photovoltaic-thermal"
   ],
   "Photovoltaic-thermal collector": [
@@ -20471,7 +20471,7 @@
   "Photovoltaic/wind/battery power system": [],
   "Photovoltaic: Electroluminescence": [],
   "Photovoltaicpower generation": [
-    "gen-eration"
+    "generation"
   ],
   "Photovoltaics": [
     "photovoltaic"
@@ -20497,7 +20497,7 @@
     "photovoltaic"
   ],
   "Photovoltaics power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Photovoltaics power production models": [
@@ -20702,7 +20702,7 @@
   "Polymer flooding": [],
   "Polynomial Computational Method (PCM)": [],
   "Polynomial Computational Method PCM": [
-    "phase change material"
+    "phase-change material"
   ],
   "Polynomial Regression": [],
   "Polynomial chaos": [],
@@ -20783,7 +20783,7 @@
   "Power Forecast": [],
   "Power Forecasting": [],
   "Power Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Power Grid Training Simulator": [],
   "Power Hardware in the loop simulation": [
@@ -20933,28 +20933,28 @@
   "Power forecast": [],
   "Power forecasting": [],
   "Power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation characteristics": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation control": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation dispatch": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation forecast": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation forecast(PV)": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation forecasting": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation mix": [
-    "gen-eration"
+    "generation"
   ],
   "Power generation/energy storage systems": [],
   "Power grid": [],
@@ -20962,7 +20962,7 @@
   "Power grid control": [],
   "Power hardware in the loop (PHIL)": [
     "hardware-in-the-loop",
-    "power hardware in the loop",
+    "power-hardware-in-the-loop",
     "power-hardware-in-loop"
   ],
   "Power hardware-in-the-loop": [
@@ -21199,7 +21199,7 @@
     "photovoltaic"
   ],
   "Prediction of PV power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Prediction of demand": [],
@@ -21340,7 +21340,7 @@
     "power-flow"
   ],
   "Probabilistic power forecast of PV generation and net load": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Probabilistic prediction": [],
@@ -21445,7 +21445,7 @@
   ],
   "Prospect theory": [],
   "Prospective LCA": [
-    "life cycle assessment"
+    "life-cycle assessment"
   ],
   "Prospective assessment": [],
   "Prospective life cycle assessment": [
@@ -21514,32 +21514,32 @@
   "Pulmonary valve": [],
   "Pulse": [],
   "Pulse Width Modulation": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse Width Modulation (PWM)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse Width Modulation(PWM)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse tube refrigerator": [],
   "Pulse velocity": [],
   "Pulse width modulation": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse width modulation (PWM)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse width modulation converters": [
     "pulse-width"
   ],
   "Pulse width modulation(PWM)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "Pulse-width modulation (PWM)": [
@@ -21666,7 +21666,7 @@
     "qzs-cmi"
   ],
   "QZSI": [
-    "quasi z source inverter"
+    "quasi-z source inverter"
   ],
   "QoE": [],
   "Quadratic Programing": [],
@@ -21712,7 +21712,7 @@
   ],
   "Quasi Resonent Converter": [],
   "Quasi Z Source inverter (qZSI)": [
-    "quasi z source inverter",
+    "quasi-z source inverter",
     "quasi-z",
     "quasi-z-source",
     "z-source"
@@ -21730,7 +21730,7 @@
     "z-source"
   ],
   "Quasi resonant PWM inverter": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "quasi-resonant"
   ],
   "Quasi-Ohmic contact": [
@@ -21950,7 +21950,7 @@
   "Radial structure": [],
   "Radiance": [],
   "Radiant PCM panel": [
-    "phase change material"
+    "phase-change material"
   ],
   "Radiant cooling": [],
   "Radiation": [],
@@ -22382,7 +22382,7 @@
   "Renewable": [],
   "Renewable Energy": [],
   "Renewable Energy Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable Energy Integration": [],
   "Renewable Energy Resources": [],
@@ -22404,7 +22404,7 @@
     "photovoltaic"
   ],
   "Renewable Power Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable based hybrid energy system (RBHES)": [
     "renewable based hybrid energy system",
@@ -22413,7 +22413,7 @@
   "Renewable curtailment": [],
   "Renewable desalination": [],
   "Renewable distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable distributed generators (RDGs)": [],
   "Renewable electricity": [],
@@ -22434,7 +22434,7 @@
   "Renewable energy financing": [],
   "Renewable energy forecasting": [],
   "Renewable energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable energy in buildings (REIB)": [
     "renewable energy in building"
@@ -22491,13 +22491,13 @@
   "Renewable enrgy": [],
   "Renewable fraction": [],
   "Renewable generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable generation forecast": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable generation integration": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable generation. Virtual inertia. Stability of the transient frequency. Virtual Synchronous Machine": [],
   "Renewable hydrogen": [],
@@ -22505,12 +22505,12 @@
   "Renewable intermittency": [],
   "Renewable penetration": [],
   "Renewable photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "Renewable portfolio standard": [],
   "Renewable power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Renewable power integration": [],
   "Renewable production forecast": [],
@@ -23023,7 +23023,7 @@
   ],
   "SMC-BSC method": [
     "sliding-mode",
-    "slidingmode control",
+    "sliding-mode control",
     "smc-bsc"
   ],
   "SMES": [
@@ -23037,13 +23037,13 @@
     "so2 depolarized electrolysis"
   ],
   "SOC": [
-    "state of charge"
+    "state-of-charge"
   ],
   "SOC (State Of Charge)": [
-    "state of charge"
+    "state-of-charge"
   ],
   "SOC estimation": [
-    "state of charge"
+    "state-of-charge"
   ],
   "SOFC": [
     "solid oxide fuel cell"
@@ -23059,25 +23059,25 @@
   "SPICE": [],
   "SPICE simulation": [],
   "SPV": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV Array": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV array": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV modules": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV power": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV prediction": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPV technologies": [
-    "solar photovoltaic"
+    "solar-photovoltaic"
   ],
   "SPVA-solar photo voltaic array": [
     "photovoltaic",
@@ -23091,12 +23091,12 @@
     "sinusoidal pulse width modulation"
   ],
   "SPWM MLI": [
-    "multilevel inverter",
+    "multi-level inverter",
     "sinusoidal pulse width modulation"
   ],
   "SPWM and SVPWM": [
     "sinusoidal pulse width modulation",
-    "space vector pulse width modulation"
+    "space-vector pulse width modulation"
   ],
   "SPWM inverter": [
     "sinusoidal pulse width modulation"
@@ -23170,7 +23170,7 @@
   ],
   "SVM: Support vector machine": [],
   "SVPWM": [
-    "space vector pulse width modulation"
+    "space-vector pulse width modulation"
   ],
   "SVR": [
     "support vector machine; regression"
@@ -23244,7 +23244,7 @@
   "Scenario analysis": [],
   "Scenario based modelling": [],
   "Scenario generation": [
-    "gen-eration"
+    "generation"
   ],
   "Scenario reduction": [],
   "Scenarios": [],
@@ -23281,7 +23281,7 @@
   ],
   "Second curvelet neural network": [],
   "Second generation wavelets": [
-    "gen-eration"
+    "generation"
   ],
   "Second law efficiency": [],
   "Second-Life (SL) Battery System": [
@@ -23393,7 +23393,7 @@
     "self-scheduling"
   ],
   "Self-shading": [
-    "self-shading"
+    "self-shadow"
   ],
   "Self-sufficiency": [
     "self-sufficiency"
@@ -24055,7 +24055,7 @@
     "single-machine"
   ],
   "Single-phase PWM rectifier": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "single-phase"
   ],
   "Single-phase induction motor": [
@@ -24209,7 +24209,7 @@
   ],
   "Slidingmode control (SMC)": [
     "sliding-mode",
-    "slidingmode control"
+    "sliding-mode control"
   ],
   "Slip Irreversibility": [],
   "Slope": [],
@@ -24251,7 +24251,7 @@
     "small-signal"
   ],
   "Small signal stability": [
-    "small signal stability",
+    "small-signal stability",
     "small-signal"
   ],
   "Small wind turbine (SWT)": [
@@ -24386,7 +24386,7 @@
   "Snowball Earth": [],
   "Snubber": [],
   "SoC": [
-    "state of charge"
+    "state-of-charge"
   ],
   "SoS": [
     "sum of square"
@@ -24443,7 +24443,7 @@
   ],
   "Solar Angles": [],
   "Solar Array Simulator": [
-    "solar array simulator",
+    "solar-array simulator",
     "solar-array"
   ],
   "Solar Assisted Heat Pumps": [
@@ -24468,7 +24468,7 @@
   "Solar Forecasting": [],
   "Solar Furnace": [],
   "Solar Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar Home System (SHS)": [
     "solar home system"
@@ -24513,7 +24513,7 @@
     "solar-pv"
   ],
   "Solar PV Generation Forecasting": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-pv"
   ],
@@ -24588,12 +24588,12 @@
     "solar-pv"
   ],
   "Solar PV generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-pv"
   ],
   "Solar PV generation power forecast": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-pv"
   ],
@@ -24681,10 +24681,10 @@
     "photovoltaic distributed generation"
   ],
   "Solar PVT air collector": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Solar PVT system": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Solar Panel": [],
   "Solar Panel Model": [],
@@ -24699,22 +24699,22 @@
   ],
   "Solar Photo-Voltaic": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar Photovoltaic": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar Photovoltaic (PV)": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar Photovoltaic (SPV)": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar Photovoltaic Array(SPV)": [
@@ -24762,7 +24762,7 @@
   "Solar Power": [],
   "Solar Power Forecasting": [],
   "Solar Power Generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar Power Plant": [
     "power-plant",
@@ -24812,11 +24812,11 @@
     "solar-array"
   ],
   "Solar array simulator": [
-    "solar array simulator",
+    "solar-array simulator",
     "solar-array"
   ],
   "Solar array simulator (SAS)": [
-    "solar array simulator",
+    "solar-array simulator",
     "solar-array"
   ],
   "Solar arrays": [
@@ -24838,7 +24838,7 @@
   "Solar cell degradation": [],
   "Solar cell efficiency": [],
   "Solar cell generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar cell generator (SCG)": [
     "solar cell generator"
@@ -24879,7 +24879,7 @@
   "Solar data sources": [],
   "Solar desalination": [],
   "Solar direct steam generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar dish collector": [],
   "Solar disinfection": [],
@@ -24892,7 +24892,7 @@
   "Solar electric vehicle": [],
   "Solar electricity": [],
   "Solar electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar electricity prediction": [],
   "Solar energy": [],
@@ -24941,13 +24941,13 @@
   "Solar fuel cell": [],
   "Solar furnace": [],
   "Solar generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar generation curves": [
-    "gen-eration"
+    "generation"
   ],
   "Solar generation forecast": [
-    "gen-eration"
+    "generation"
   ],
   "Solar generator": [],
   "Solar geometry": [],
@@ -25044,12 +25044,12 @@
   ],
   "Solar photovoltaic": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar photovoltaic (PV)": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar photovoltaic (PV) energy conversion system": [
@@ -25059,7 +25059,7 @@
   ],
   "Solar photovoltaic (SPV)": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "Solar photovoltaic (SPV) system": [
@@ -25116,7 +25116,7 @@
     "solar-photovoltaic"
   ],
   "Solar photovoltaic power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-photovoltaic"
   ],
@@ -25165,7 +25165,7 @@
   "Solar power forecast": [],
   "Solar power forecasting": [],
   "Solar power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Solar power output": [],
   "Solar power plant PV": [
@@ -25238,7 +25238,7 @@
   "Solar thermochemistry": [],
   "Solar thermoelectric cooler": [],
   "Solar thermoelectric generation system": [
-    "gen-eration"
+    "generation"
   ],
   "Solar thermoelectric generator": [],
   "Solar thermophotovoltaics": [],
@@ -25411,7 +25411,7 @@
   ],
   "Space vector pulse width modulation (SVPWM)": [
     "pulse-width",
-    "space vector pulse width modulation",
+    "space-vector pulse width modulation",
     "space-vector"
   ],
   "Space weather": [],
@@ -25435,7 +25435,7 @@
   "Spatial databases": [],
   "Spatial dispersion": [],
   "Spatial distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Spatial distribution": [],
   "Spatial energy models": [],
@@ -25620,7 +25620,7 @@
     "stand-alone"
   ],
   "Stand-alone SPV system": [
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "stand-alone"
   ],
   "Stand-alone and PV-based": [
@@ -25738,18 +25738,18 @@
     "static compensator"
   ],
   "State Of Charge": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State Of charge(SOC)": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State Space Average Model": [
     "state-space"
   ],
   "State Space Averaging (SSA)": [
-    "state space averaging",
+    "state-space averaging",
     "state-space"
   ],
   "State Space Modeling": [
@@ -25764,23 +25764,23 @@
     "state-feedback"
   ],
   "State of Charge": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State of Charge (SOC)": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State of Charge SOC": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State of charge": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State of charge (SOC)": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "State of charging": [],
@@ -25788,7 +25788,7 @@
     "state-of-charge"
   ],
   "State space averaging": [
-    "state space averaging",
+    "state-space averaging",
     "state-space"
   ],
   "State space control": [
@@ -25981,7 +25981,7 @@
   "Stochastic factor": [],
   "Stochastic fractal search": [],
   "Stochastic generation planning": [
-    "gen-eration"
+    "generation"
   ],
   "Stochastic gradient": [],
   "Stochastic gradient boosting machine": [],
@@ -26349,7 +26349,7 @@
   "Switzerland": [],
   "Symbolic computation": [],
   "Symmetric MLI (SMLI)": [
-    "multilevel inverter",
+    "multi-level inverter",
     "symmetric mli"
   ],
   "Symmetrical components": [],
@@ -26534,7 +26534,7 @@
     "ts-fuzzy"
   ],
   "TSI": [
-    "total sky imager"
+    "total-sky imager"
   ],
   "TSO": [],
   "TSOOBOOST converter": [],
@@ -26842,7 +26842,7 @@
   "Thermal model": [],
   "Thermal modeling": [],
   "Thermal modeling of PV/T": [
-    "photovoltaic thermal"
+    "photovoltaic-thermal"
   ],
   "Thermal modelling": [],
   "Thermal modelling, heat sink": [],
@@ -26963,7 +26963,7 @@
   "Thermoelectric effect": [],
   "Thermoelectric energy harvesting": [],
   "Thermoelectric generation": [
-    "gen-eration"
+    "generation"
   ],
   "Thermoelectric generator": [
     "thermoelectric generator"
@@ -27093,7 +27093,7 @@
   ],
   "Three Phase VSI": [
     "three-phase",
-    "voltage source inverter"
+    "voltage-source inverter"
   ],
   "Three dimensional thermofluid model": [
     "three-dimensional"
@@ -27114,7 +27114,7 @@
     "three-level"
   ],
   "Three phase PWM inverter": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "three-phase"
   ],
   "Three phase inverter": [
@@ -27413,7 +27413,7 @@
   ],
   "Total Sky Imager (TSI)": [
     "sky-imager",
-    "total sky imager",
+    "total-sky imager",
     "total-sky"
   ],
   "Total cost of ownership": [],
@@ -27661,7 +27661,7 @@
   "Turkey": [],
   "Turkish Electricity Transmission System": [],
   "Two Diode Model": [
-    "two diode model",
+    "two-diode model",
     "two-diode"
   ],
   "Two axis tracking": [],
@@ -27669,11 +27669,11 @@
     "two-diode"
   ],
   "Two diode model": [
-    "two diode model",
+    "two-diode model",
     "two-diode"
   ],
   "Two diode model (TDM)": [
-    "two diode model",
+    "two-diode model",
     "two-diode"
   ],
   "Two diodes": [
@@ -27781,11 +27781,11 @@
     "ug-value"
   ],
   "Ultra capacitor": [
-    "ultra capacitor",
+    "ultra-capacitor",
     "ultra-capacitor"
   ],
   "Ultra capacitor (UC)": [
-    "ultra capacitor",
+    "ultra-capacitor",
     "ultra-capacitor"
   ],
   "Ultra short term": [
@@ -28072,35 +28072,35 @@
   ],
   "VS indexload modelling": [],
   "VSC": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "VSC (Voltage Source Converter)": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "VSC and Power quality": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "VSC inverter": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "VSC modeling": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "VSC-HVDC": [
     "current-source",
     "current-voltage",
     "high-voltage",
     "high-voltage direct current",
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source",
     "vsc-hvdc"
   ],
   "VSG": [],
   "VSI": [
-    "voltage source inverter"
+    "voltage-source inverter"
   ],
   "VSI Control": [
-    "voltage source inverter"
+    "voltage-source inverter"
   ],
   "VSM": [
     "voltage stability margin"
@@ -28144,7 +28144,7 @@
     "variable frequency hysteric current control"
   ],
   "Variable generation": [
-    "gen-eration"
+    "generation"
   ],
   "Variable importance": [],
   "Variable irradiance": [
@@ -28159,7 +28159,7 @@
   "Variable renewable energy source": [],
   "Variable renewable energy sources": [],
   "Variable renewable generation": [
-    "gen-eration"
+    "generation"
   ],
   "Variable renewable resources": [],
   "Variable renewables": [],
@@ -28277,7 +28277,7 @@
   "View factor": [],
   "Viewshed": [],
   "Virtual HIL": [
-    "hardware in the loop"
+    "hardware-in-the-loop"
   ],
   "Virtual Instrumentation": [],
   "Virtual Power Plant (VPP)": [
@@ -28369,27 +28369,27 @@
   "Voltage Sag": [],
   "Voltage Sensor": [],
   "Voltage Source Converter": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage Source Converter (VSC)": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage Source Converters": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage Source Inverter": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "Voltage Source Inverter (VSI)": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "Voltage Source Inverters": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "Voltage Stability": [],
@@ -28446,27 +28446,27 @@
   "Voltage sags": [],
   "Voltage sensing": [],
   "Voltage source converter": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage source converter (VSC)": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage source converter(vsc)": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage source converters": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "Voltage source inverter": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "Voltage source inverter (VSI)": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "Voltage source inverter data": [
@@ -28516,7 +28516,7 @@
   "Vote": [],
   "Voxelization": [],
   "Vsc": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "Vulnerable Road Users": [],
   "V–I curve": [
@@ -28536,7 +28536,7 @@
   "WSHPS": [],
   "WSN": [],
   "WT": [
-    "wind turbine"
+    "wind-turbine"
   ],
   "WTG": [
     "wind turbine generator"
@@ -28771,12 +28771,12 @@
     "wind energy system"
   ],
   "Wind Generation System": [
-    "gen-eration"
+    "generation"
   ],
   "Wind Generators": [],
   "Wind Power": [],
   "Wind Turbine": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "Wind Turbine Generators (WTGs)": [
@@ -28818,7 +28818,7 @@
   "Wind and solar system": [],
   "Wind desalination": [],
   "Wind distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "Wind effects": [],
   "Wind energy": [],
@@ -28850,7 +28850,7 @@
   "Wind flow": [],
   "Wind forecasting": [],
   "Wind generation": [
-    "gen-eration"
+    "generation"
   ],
   "Wind generator": [],
   "Wind generators": [],
@@ -28866,7 +28866,7 @@
     "energy transmission cost"
   ],
   "Wind power generation": [
-    "gen-eration"
+    "generation"
   ],
   "Wind power generator": [],
   "Wind power plant": [
@@ -28886,11 +28886,11 @@
   "Wind system": [],
   "Wind systems": [],
   "Wind turbine": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "Wind turbine (WT)": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "Wind turbine Generator": [
@@ -28898,7 +28898,7 @@
     "wind-turbine"
   ],
   "Wind turbine generation(WTG)": [
-    "gen-eration",
+    "generation",
     "wind-turbine"
   ],
   "Wind turbine generator": [
@@ -28925,11 +28925,11 @@
     "wind-turbine"
   ],
   "Wind turbines": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "Wind turbines generation": [
-    "gen-eration",
+    "generation",
     "wind-turbine"
   ],
   "Wind turbines systems": [
@@ -28938,7 +28938,7 @@
   "Wind uncertainty": [],
   "Wind velocity": [],
   "Wind-PV-ES hybrid micro-grid": [
-    "energy storage",
+    "energy-storage",
     "energy-storage",
     "micro-grid",
     "photovoltaic",
@@ -29466,13 +29466,13 @@
   "autonomous drones": [],
   "autonomy": [],
   "autoregressive integrated moving average (ARIMA) modeling": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "autoregressive model": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "autoregressive moving average": [
-    "auto-regressive",
+    "auto regressive",
     "autoregressive moving average"
   ],
   "availability": [],
@@ -29667,7 +29667,7 @@
   "boost": [],
   "boost chopper": [],
   "boost converter": [
-    "boost converter",
+    "boost-converter",
     "boost-converter"
   ],
   "boost inverter": [],
@@ -29702,7 +29702,7 @@
     "micro-grid"
   ],
   "building integrated photovoltaic": [
-    "building integrated photovoltaic",
+    "building-integrated photovoltaic",
     "building-integrated",
     "photovoltaic"
   ],
@@ -29932,7 +29932,7 @@
   "cluster analysis": [],
   "clustering": [],
   "clustering PV-wind joint power generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "pv-wind"
   ],
@@ -29964,7 +29964,7 @@
   "combined forecasting": [],
   "combined forecasting model": [],
   "combined heat and power": [
-    "combined heat and power",
+    "combined-heat-and-power",
     "combined-heat-and-power"
   ],
   "combined heating and power": [],
@@ -30065,7 +30065,7 @@
   ],
   "constant power generation (CPG)": [
     "constant power generation",
-    "gen-eration"
+    "generation"
   ],
   "constant power management controller (CPMC)": [
     "constant power management controller"
@@ -30125,7 +30125,7 @@
   "converter components design": [],
   "converter control": [],
   "converter interfaced generation": [
-    "gen-eration"
+    "generation"
   ],
   "converter mathematical model": [],
   "converter reliability": [],
@@ -30200,7 +30200,7 @@
     "over-voltage"
   ],
   "current source inverter (CSI)": [
-    "current source inverter",
+    "current-source inverter",
     "current-source"
   ],
   "current-pulse": [
@@ -30368,7 +30368,7 @@
   "decays of charmed mesons": [],
   "decentralised": [],
   "decentralised generation": [
-    "gen-eration"
+    "generation"
   ],
   "decentralized control": [],
   "decentralized control scheme": [],
@@ -30412,11 +30412,11 @@
   "demand management": [],
   "demand model": [],
   "demand response": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "demand response (DR)": [
-    "demand response",
+    "demand-response",
     "demand-response"
   ],
   "demand side": [
@@ -30426,7 +30426,7 @@
     "demand-side"
   ],
   "demand side management": [
-    "demand side management",
+    "demand-side management",
     "demand-side"
   ],
   "demand side response": [
@@ -30438,7 +30438,7 @@
   "depletion width": [],
   "depth of charge and discharge": [],
   "derating adjusted forced outage rate": [
-    "derating"
+    "de-rating"
   ],
   "desalination. Introduction": [],
   "describing function method": [
@@ -30553,7 +30553,7 @@
   "dislocation": [],
   "dispatch scenarios": [],
   "dispersed photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "disruptive technologies": [],
@@ -30591,22 +30591,22 @@
   ],
   "distributed energy system": [],
   "distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generation (DG)": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generation (DG) system": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generation (DG) units": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generation systems": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generation units (DGUs)": [
-    "gen-eration"
+    "generation"
   ],
   "distributed generator": [
     "distributed generator"
@@ -30639,7 +30639,7 @@
   ],
   "distributed power": [],
   "distributed power generation": [
-    "gen-eration"
+    "generation"
   ],
   "distributed power systems": [],
   "distributed renewable energy": [],
@@ -30654,7 +30654,7 @@
   "distribution feeder": [],
   "distribution feeders": [],
   "distribution generation": [
-    "gen-eration"
+    "generation"
   ],
   "distribution grid": [],
   "distribution grids": [],
@@ -30792,7 +30792,7 @@
   "dynamic voltage simulation": [],
   "dynamics": [],
   "dynamics of VSC": [
-    "voltage source converter"
+    "voltage-source converter"
   ],
   "e-bike": [
     "e-bike"
@@ -30886,10 +30886,10 @@
   "electricity demand": [],
   "electricity economics": [],
   "electricity generation": [
-    "gen-eration"
+    "generation"
   ],
   "electricity generation portfolio": [
-    "gen-eration"
+    "generation"
   ],
   "electricity market": [],
   "electricity markets": [],
@@ -30910,7 +30910,7 @@
   "electrolyzer": [],
   "electromagnetic interference (EMI)": [
     "electro-magnetic",
-    "electromagnetic interference"
+    "electro-magnetic interference"
   ],
   "electromagnetic modeling": [
     "electro-magnetic"
@@ -30944,7 +30944,7 @@
     "photovoltaic"
   ],
   "embedded generation": [
-    "gen-eration"
+    "generation"
   ],
   "emergency energy management model": [],
   "emergency generator": [],
@@ -30988,7 +30988,7 @@
     "pv-module"
   ],
   "energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "energy harvest measurement": [],
   "energy harvesting": [
@@ -31054,11 +31054,11 @@
   ],
   "energy source": [],
   "energy storage": [
-    "energy storage",
+    "energy-storage",
     "energy-storage"
   ],
   "energy storage (ES)": [
-    "energy storage",
+    "energy-storage",
     "energy-storage"
   ],
   "energy storage battery": [
@@ -31083,19 +31083,19 @@
     "energy-storage"
   ],
   "energy storage system": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "energy storage system (ESS)": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "energy storage systems": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "energy storage systems (ESS)": [
-    "energy storage system",
+    "energy-storage system",
     "energy-storage"
   ],
   "energy storage.": [],
@@ -31217,11 +31217,11 @@
   "extratropical cyclone": [],
   "extratropical cyclones": [],
   "extreme learning machine": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "extreme learning machine (ELM)": [
-    "extreme learning machine",
+    "extreme-learning machine",
     "extreme-learning"
   ],
   "extreme shading pattern": [],
@@ -31311,11 +31311,11 @@
     "fifth-order"
   ],
   "fill factor": [
-    "fill factor",
+    "fill-factor",
     "fill-factor"
   ],
   "fill factors": [
-    "fill factor",
+    "fill-factor",
     "fill-factor"
   ],
   "filter design": [],
@@ -31383,7 +31383,7 @@
     "amorphous-silicon"
   ],
   "flexible generation": [
-    "gen-eration"
+    "generation"
   ],
   "flexible loads": [],
   "flexible perovskites": [],
@@ -31524,7 +31524,7 @@
   "fuzzy controller": [],
   "fuzzy expert system": [],
   "fuzzy logic": [
-    "fuzzy logic",
+    "fuzzy-logic",
     "fuzzy-logic"
   ],
   "fuzzy logic control": [
@@ -31575,13 +31575,13 @@
   "generalized weather type": [],
   "generated model": [],
   "generation": [
-    "gen-eration"
+    "generation"
   ],
   "generation plan": [
-    "gen-eration"
+    "generation"
   ],
   "generation sources": [
-    "gen-eration"
+    "generation"
   ],
   "generic demand model": [],
   "generic models": [],
@@ -31650,7 +31650,7 @@
   "green energy": [],
   "green façade climate impact": [],
   "green power generation": [
-    "gen-eration"
+    "generation"
   ],
   "greenhouses": [],
   "grey Prediction": [],
@@ -31683,7 +31683,7 @@
     "grid-connected"
   ],
   "grid connected photovoltaic (GCPV)": [
-    "grid connected photovoltaic",
+    "grid-connected photovoltaic",
     "grid-connected",
     "photovoltaic"
   ],
@@ -31826,7 +31826,7 @@
   "halide segregation": [],
   "hamiltonian system": [],
   "hardware in the loop (HIL)": [
-    "hardware in the loop",
+    "hardware-in-the-loop",
     "hardware-in-the-loop"
   ],
   "harmonic": [],
@@ -32040,7 +32040,7 @@
   "hybrid collectors": [],
   "hybrid deep neural network": [],
   "hybrid distributed generation": [
-    "gen-eration"
+    "generation"
   ],
   "hybrid energy storage": [
     "energy-storage"
@@ -32082,7 +32082,7 @@
   ],
   "hybrid power": [],
   "hybrid power generation": [
-    "gen-eration"
+    "generation"
   ],
   "hybrid power integration.": [],
   "hybrid power system": [
@@ -32097,7 +32097,7 @@
   "hybrid simulation": [],
   "hybrid solar vehicle": [],
   "hybrid standalone power generation system (HSPGS)": [
-    "gen-eration",
+    "generation",
     "hybrid standalone power generation system",
     "stand-alone"
   ],
@@ -32354,7 +32354,7 @@
   "inverse distance weighting": [],
   "inverter": [],
   "inverter based generation": [
-    "gen-eration",
+    "generation",
     "inverter based generation",
     "inverter-based"
   ],
@@ -32380,7 +32380,7 @@
   "investment cost": [],
   "invisible sites": [],
   "invisible solar power generation": [
-    "gen-eration"
+    "generation"
   ],
   "ironsand": [],
   "irradiance": [
@@ -32563,7 +32563,7 @@
     "least-square"
   ],
   "least square support vector machine (LSSVM)": [
-    "least square support vector machine",
+    "least-square support vector machine",
     "least-square"
   ],
   "least-square fusion": [
@@ -32581,7 +32581,7 @@
   ],
   "libRadtran": [],
   "life cycle assessment": [
-    "life cycle assessment",
+    "life-cycle assessment",
     "life-cycle"
   ],
   "life cycle costing": [
@@ -32880,7 +32880,7 @@
   "mathematical modelling": [],
   "mathematical models": [],
   "matlab nntool": [
-    "mat-lab"
+    "matlab"
   ],
   "maximum Lyapunov exponent": [],
   "maximum absolute prediction error": [],
@@ -32889,12 +32889,12 @@
   "maximum likelihood estimator": [],
   "maximum power extraction": [],
   "maximum power point": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
   "maximum power point (MPP)": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
@@ -32956,7 +32956,7 @@
     "power-point"
   ],
   "maximum power point(MPP)": [
-    "maximum power point",
+    "maximum-power-point",
     "maximum-power-point",
     "power-point"
   ],
@@ -32982,7 +32982,7 @@
   "mechanical ventilator": [],
   "medicanes": [],
   "medium voltage (MV)": [
-    "medium voltage",
+    "medium-voltage",
     "medium-voltage"
   ],
   "medium voltage grids": [
@@ -33066,11 +33066,11 @@
   "microgirds": [],
   "microgrid": [
     "micro-grid",
-    "microgrid"
+    "micro-grid"
   ],
   "microgrid (MG)": [
     "micro-grid",
-    "microgrid"
+    "micro-grid"
   ],
   "microgrid control": [
     "micro-grid"
@@ -33212,7 +33212,7 @@
     "stand-alone"
   ],
   "modeling of wind generation": [
-    "gen-eration"
+    "generation"
   ],
   "modeling platform": [],
   "modeling techniques": [],
@@ -33283,7 +33283,7 @@
   ],
   "monolithic": [],
   "monte carlo simulation": [
-    "monte carlo simulation",
+    "monte-carlo simulation",
     "monte-carlo"
   ],
   "monte-carlo simulation": [
@@ -33296,7 +33296,7 @@
   "motoring and braking": [],
   "mountain huts": [],
   "multi agent systems": [
-    "multi agent system",
+    "multi-agent system",
     "multi-agent"
   ],
   "multi crystalline": [
@@ -33477,11 +33477,11 @@
   ],
   "multilevel inverter": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "multilevel inverters": [
     "multi-level",
-    "multilevel inverter"
+    "multi-level inverter"
   ],
   "multimoment method": [
     "multi-moment"
@@ -33546,7 +33546,7 @@
   ],
   "nano-PCM": [
     "nano-pcm",
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "nanocrystal": [],
@@ -33686,11 +33686,11 @@
     "non-isolated"
   ],
   "nonlinear autoregressive with exogenous input (NARX)": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "nonlinear autoregressive with exogenous inputs": [
-    "auto-regressive",
+    "auto regressive",
     "non-linear"
   ],
   "nonlinear circuits": [
@@ -33789,7 +33789,7 @@
     "tap-changer"
   ],
   "one diode model": [
-    "one diode model",
+    "one-diode-model",
     "one-diode",
     "one-diode-model"
   ],
@@ -33875,7 +33875,7 @@
     "power-flow"
   ],
   "optimal power generation mix": [
-    "gen-eration"
+    "generation"
   ],
   "optimal predictive control": [],
   "optimal proportion": [],
@@ -33997,41 +33997,41 @@
   ],
   "partial shade": [],
   "partial shaded P&O": [
-    "partial-shaded",
+    "partial-shadow",
     "perturb & observe"
   ],
   "partial shading": [
-    "partial shading",
-    "partial-shading"
+    "partial-shadow",
+    "partial-shadow"
   ],
   "partial shading analysis": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading condition": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading conditions": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading conditions (PSC)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading conditions (PSCs)": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading reverse characteristics": [
-    "partial-shading"
+    "partial-shadow"
   ],
   "partial shading scenario": [
-    "partial shading scenario",
-    "partial-shading"
+    "partial shadow scenario",
+    "partial-shadow"
   ],
   "partial shading scenarios (PSS)": [
-    "partial shading scenario",
-    "partial-shading"
+    "partial shadow scenario",
+    "partial-shadow"
   ],
   "partial-shaded photovoltaic": [
-    "partial-shaded",
+    "partial-shadow",
     "photovoltaic"
   ],
   "partially cloudy day (PCD)": [
@@ -34174,18 +34174,18 @@
   "pervious concrete": [],
   "phase angle jump": [],
   "phase change material": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "phase change materials": [
-    "phase change material",
+    "phase-change material",
     "phase-change"
   ],
   "phase compensation": [],
   "phase connection": [],
   "phase correlation": [],
   "phase locked loop": [
-    "phase locked loop",
+    "phase-locked loop",
     "phase-locked"
   ],
   "phase shifted carrier": [],
@@ -34289,11 +34289,11 @@
     "photovoltaic"
   ],
   "photovoltaic (PV) generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic (PV) generation forecast": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic (PV) incident energy": [
@@ -34343,11 +34343,11 @@
     "photovoltaic"
   ],
   "photovoltaic (PV) power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic (PV) power generations": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic (PV) power prediction": [
@@ -34478,27 +34478,27 @@
     "photovoltaic"
   ],
   "photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generation forecast": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generation model": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generation plants": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generation power prediction": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic generator": [
@@ -34565,7 +34565,7 @@
     "photovoltaic"
   ],
   "photovoltaic panel generation systems": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic panel modeling": [
@@ -34604,19 +34604,19 @@
     "photovoltaic"
   ],
   "photovoltaic power generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic power generation clusters": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic power generation forecast": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic power generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic"
   ],
   "photovoltaic power output": [
@@ -34915,34 +34915,34 @@
   "power forecasting": [],
   "power forecasting model": [],
   "power generation": [
-    "gen-eration"
+    "generation"
   ],
   "power generation control": [
-    "gen-eration"
+    "generation"
   ],
   "power generation dispatch": [
-    "gen-eration"
+    "generation"
   ],
   "power generation estimation": [
-    "gen-eration"
+    "generation"
   ],
   "power generation forecast": [
-    "gen-eration"
+    "generation"
   ],
   "power generation forecasts": [
-    "gen-eration"
+    "generation"
   ],
   "power generation planning": [
-    "gen-eration"
+    "generation"
   ],
   "power generation scheduling": [
-    "gen-eration"
+    "generation"
   ],
   "power generation system": [
-    "gen-eration"
+    "generation"
   ],
   "power generation uncertainty": [
-    "gen-eration"
+    "generation"
   ],
   "power grid": [],
   "power grid safety": [],
@@ -35154,11 +35154,11 @@
     "pulse-width"
   ],
   "pulse width modulation": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "pulse width modulation (PWM)": [
-    "pulse width modulation",
+    "pulse-width modulation",
     "pulse-width"
   ],
   "pulse width modulation converters": [
@@ -35202,7 +35202,7 @@
   "python": [],
   "qZ network": [],
   "qZSI": [
-    "quasi z source inverter"
+    "quasi-z source inverter"
   ],
   "quadratic buck-boost converter": [
     "buck-boost"
@@ -35455,10 +35455,10 @@
   "renewable energy consumption": [],
   "renewable energy forecasting": [],
   "renewable energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "renewable energy power generation": [
-    "gen-eration"
+    "generation"
   ],
   "renewable energy resources": [],
   "renewable energy source": [
@@ -35477,12 +35477,12 @@
   "renewable energy system (RES)": [],
   "renewable energy systems": [],
   "renewable generation": [
-    "gen-eration"
+    "generation"
   ],
   "renewable integration": [],
   "renewable power capacity": [],
   "renewable power generation system": [
-    "gen-eration"
+    "generation"
   ],
   "renewable resources": [],
   "renewable sources": [],
@@ -35598,7 +35598,7 @@
     "roof-top"
   ],
   "rooftop photovoltaic generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "roof-top"
   ],
@@ -35644,7 +35644,7 @@
     "seasonal arima"
   ],
   "second generation generic model": [
-    "gen-eration"
+    "generation"
   ],
   "secondary systems": [],
   "section switchgear with sensor": [],
@@ -35654,7 +35654,7 @@
   "selecting predictors": [],
   "self lift cuk converter": [],
   "self shading": [
-    "self-shading"
+    "self-shadow"
   ],
   "self-adaptive (SA)": [
     "self-adaptive"
@@ -35669,7 +35669,7 @@
     "self-consumption"
   ],
   "self-optimisation": [
-    "self-optimisation"
+    "self-optimization"
   ],
   "self-organizing map (SOM)": [
     "self-organizing",
@@ -35679,7 +35679,7 @@
     "self-organizing"
   ],
   "self-shading": [
-    "self-shading"
+    "self-shadow"
   ],
   "self-shadowing effect": [
     "self-shadowing"
@@ -35834,7 +35834,7 @@
   ],
   "short-term load forecasting (STLF)": [
     "short-term",
-    "short-term load forecasting"
+    "short-term load forecast"
   ],
   "short-term photovoltaic output": [
     "photovoltaic",
@@ -35845,7 +35845,7 @@
     "short-term"
   ],
   "short-term power generation prediction": [
-    "gen-eration",
+    "generation",
     "short-term"
   ],
   "short-term prediction": [
@@ -35903,7 +35903,7 @@
     "photovoltaic"
   ],
   "simulation of solar PV model in MATLAB": [
-    "mat-lab",
+    "matlab",
     "photovoltaic",
     "solar-pv"
   ],
@@ -35998,7 +35998,7 @@
   ],
   "site matching": [],
   "siting and sizing of Distributed Generation (DG)": [
-    "gen-eration"
+    "generation"
   ],
   "situational control": [],
   "sizing": [],
@@ -36048,7 +36048,7 @@
     "small-signal"
   ],
   "small signal stability (SSS)": [
-    "small signal stability",
+    "small-signal stability",
     "small-signal"
   ],
   "small-signal ac model": [
@@ -36153,17 +36153,17 @@
     "solar-pv"
   ],
   "solar PV generation": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-pv"
   ],
   "solar PV generation forecasting": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "solar-pv"
   ],
   "solar PV generation system": [
-    "gen-eration",
+    "generation",
     "photovoltaic",
     "pv-system",
     "solar-pv"
@@ -36201,7 +36201,7 @@
   ],
   "solar Photovoltaic": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "solar Power Forecasting": [],
@@ -36289,12 +36289,12 @@
   "solar photon flux": [],
   "solar photovoltaic": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "solar photovoltaic (PV)": [
     "photovoltaic",
-    "solar photovoltaic",
+    "solar-photovoltaic",
     "solar-photovoltaic"
   ],
   "solar photovoltaic (PV) arrays": [
@@ -36365,10 +36365,10 @@
   "solar power fluctuation": [],
   "solar power forecasting": [],
   "solar power gen-eration": [
-    "gen-eration"
+    "generation"
   ],
   "solar power generation": [
-    "gen-eration"
+    "generation"
   ],
   "solar power modeling": [],
   "solar power output": [],
@@ -36588,7 +36588,7 @@
     "start-up"
   ],
   "start/stop switch number of power generation units": [
-    "gen-eration"
+    "generation"
   ],
   "statcom": [
     "static compensator"
@@ -36607,7 +36607,7 @@
   ],
   "state observer": [],
   "state of charge": [
-    "state of charge",
+    "state-of-charge",
     "state-of-charge"
   ],
   "state of charge (SOC) of the batteries": [
@@ -36620,7 +36620,7 @@
     "state-space"
   ],
   "state space averaging": [
-    "state space averaging",
+    "state-space averaging",
     "state-space"
   ],
   "state space modeling": [
@@ -36689,11 +36689,11 @@
     "steady-state"
   ],
   "steam generation": [
-    "gen-eration"
+    "generation"
   ],
   "steam methane reforming": [],
   "steam turbine and thermal power generation": [
-    "gen-eration"
+    "generation"
   ],
   "step voltage regulator": [],
   "step-wise prediction": [
@@ -36934,7 +36934,7 @@
   "the discontinuous conduction mode (DCM)": [],
   "the grid": [],
   "the hybrid generation system": [
-    "gen-eration"
+    "generation"
   ],
   "the islanded operation and new energy": [],
   "the optimal horizontal obliquity": [],
@@ -37182,7 +37182,7 @@
   "toxicity": [],
   "tracking": [],
   "tracking MPP": [
-    "maximum power point"
+    "maximum-power-point"
   ],
   "tracking differentiator": [],
   "tracking planned output": [],
@@ -37287,7 +37287,7 @@
     "two-diode"
   ],
   "two diode model": [
-    "two diode model",
+    "two-diode model",
     "two-diode"
   ],
   "two point estimation method": [],
@@ -37504,7 +37504,7 @@
   ],
   "varying temperature": [],
   "vector autoregressive model": [
-    "auto-regressive"
+    "auto regressive"
   ],
   "vector control": [
     "vector control"
@@ -37603,23 +37603,23 @@
   "voltage sags": [],
   "voltage smoothing": [],
   "voltage source converter": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "voltage source converter (VSC)": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "voltage source converters": [
-    "voltage source converter",
+    "voltage-source converter",
     "voltage-source"
   ],
   "voltage source inverter": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "voltage source inverter (VSI)": [
-    "voltage source inverter",
+    "voltage-source inverter",
     "voltage-source"
   ],
   "voltage stability": [],
@@ -37699,7 +37699,7 @@
   "wind and solar": [],
   "wind and solar energy": [],
   "wind and solar generation system": [
-    "gen-eration"
+    "generation"
   ],
   "wind direction": [],
   "wind energy": [],
@@ -37707,7 +37707,7 @@
     "wind energy conversion system"
   ],
   "wind energy generation": [
-    "gen-eration"
+    "generation"
   ],
   "wind energy system": [
     "wind energy system"
@@ -37718,10 +37718,10 @@
   ],
   "wind generating system": [],
   "wind generation": [
-    "gen-eration"
+    "generation"
   ],
   "wind generation system": [
-    "gen-eration"
+    "generation"
   ],
   "wind generator": [],
   "wind integration": [],
@@ -37732,7 +37732,7 @@
   "wind power forecast": [],
   "wind power forecasting": [],
   "wind power generation": [
-    "gen-eration"
+    "generation"
   ],
   "wind power plant": [
     "power-plant"
@@ -37745,11 +37745,11 @@
   "wind system": [],
   "wind tunnel": [],
   "wind turbine": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "wind turbine (WT)": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "wind turbine generator": [
@@ -37768,7 +37768,7 @@
     "wind-turbine"
   ],
   "wind turbines": [
-    "wind turbine",
+    "wind-turbine",
     "wind-turbine"
   ],
   "wind velocity": [],

@@ -1,4 +1,5 @@
 {
+    "auto-regressive": "auto regressive",
     "modelling": "modeling",
     "isation": "ization",
     "artificial intelligent": "artificial intelligence",
@@ -10,11 +11,14 @@
     "metaheuristics": "algorithm",
     "technique": "technic",
     "rooftop": "roof",
-    "shade": "shadow",
+    "shade ": "shadow ",
+    "shaded": "shadow",
     "shading": "shadow",
     "\ufeff": "",
     "gen-eration": "generation",
     "ir-radiance": "irradiance",
     "micro-grids": "micro-grid",
-    "mat-lab": "matlab"
+	"microgrids": "micro-grid",
+    "mat-lab": "matlab",
+    "p & o": "perturb & observe"
 }
