@@ -4,19 +4,26 @@
         "analysis of variance",
         "autoregressive integrated moving average",
         "autoregressive moving average",
-        "mean square error",
         "markov",
         "kalman filter",
         "bayes",
         "gaussian process",
-        "mean absolute error",
-        "mean square error",
-        "mean absolute percentage error",
-        "autoregressi",
+        "autoregression",
         "probabilistic",
         "k-fold",
+        "cross-validation",
         "ensemble",
-        "kruskal-wallis",
+        "kruskal-wallis"
+    ]
+}
+
+{
+    "metric":
+    [
+        "mean square error",
+        "mean absolute error",
+        "mean absolute percentage error",
+        "cross-entropy",
         "least-square"
     ]
 }
@@ -31,19 +38,25 @@
         "reinforcement learning",
         "support vector",
         "neural network",
-        "cross-entropy",
-        "cross-validation",
-        "data-mining",
-        "data-driven",
-        "data-based",
+    ]
+}
+
+{
+    "ensemble" :
+    [
         "random forest",
         "adaboost",
-        "doc2vec",
         "bagging",
         "bootstrap",
-        "decision tree",
         "lightgbm",
         "xgboost"
+    ]
+}
+
+{
+    "natural language processing" :
+    [
+        "doc2vec"
     ]
 }
 
@@ -62,7 +75,10 @@
         "database",
         "data acquisition",
         "sql",
-        "hadoop"
+        "hadoop",
+        "data-mining",
+        "data-driven",
+        "data-based",
     ]
 }
 

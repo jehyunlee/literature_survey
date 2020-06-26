@@ -1,0 +1,146 @@
+digraph G {
+	statistics -> analysis_of_variance;
+	statistics -> autoregressive_integrated_moving_average;
+	statistics -> autoregressive_moving_average;
+	statistics -> markov;
+	statistics -> kalman_filter;
+	statistics -> bayes;
+	statistics -> gaussian_process;
+	statistics -> autoregressi;
+	statistics -> probabilistic;
+	statistics -> kfold;
+	statistics -> ensemble;
+	statistics -> kruskal_wallis;
+
+	method -> taguchi;
+	method -> averaging_point_method;
+	method -> describing_function_method;
+	method -> finite_difference_time_domain_method;
+	method -> finite_element_method;
+	method -> group_method_of_data_handling;
+	method -> incremental_conductance_method;
+	method -> match_evaluation_method;
+	method -> multiple_shifted_frequency_method;
+	method -> numerical_method;
+	method -> oblique_asymptote_method;
+	method -> response_surface_methodology;
+	method -> steepest_descent_method;
+	method -> nelder_mead;
+	method -> newton_raphson;
+	method -> runge_kutta;
+	method -> conditional_interpolation;
+	method -> expectation_maximization;
+	method -> Dynamic_simulation;
+	method -> empirical;
+	method -> emulation;
+	method -> Gradient_descent;
+
+	metric -> mean_square_error;
+	metric -> mean_absolute_error;
+	metric -> mean_absolute_percentage_error;
+	metric -> cross_entropy;
+	metric -> least_square;
+
+	machine_learning -> clustering;
+	machine_learning -> regression;
+	machine_learning -> classification;
+	machine_learning -> dimension_reduction;
+	machine_learning -> reinforcement_learning;
+	machine_learning -> support_vector;
+	machine_learning -> neural_network;
+	machine_learning -> ensemble;
+	machine_learning -> natural_language_processing;
+
+	natural_language_processing -> doc2vec;
+
+	reinforcement_learning -> sarsa;
+	reinforcement_learning -> markov;
+
+	ensemble -> random_forest;
+	ensemble -> adaboost;
+	ensemble -> bagging;
+	ensemble -> bootstrap;
+	ensemble -> lightgbm;
+	ensemble -> xgboost;
+
+	data -> database;
+	data -> data_acquisition;
+	data -> data_mining;
+	data -> data_driven;
+	data -> data_based;
+
+	database -> MapReduce;
+	database -> sql;
+	database -> hadoop;
+
+	clustering -> k_means;
+	clustering -> k_nearest_neighbor;
+	clustering -> DBSCAN;
+
+	regression -> ridge;
+	regression -> lasso;
+	regression -> autoregressive;
+	regression -> support_vector_regression;
+
+	neural_network -> artificial_neural_network;
+	neural_network -> learning_vector_quantization;
+	neural_network -> recurrent_neural_network;
+	neural_network -> convolutional_neural_network;
+	neural_network -> autoencoder;
+	neural_network -> adaline;
+	neural_network -> artificial_neural_fuzzy_inference_system;
+	neural_network -> elman;
+	neural_network -> attention;
+	neural_network -> Extreme_Learning_Machine;
+	neural_network -> multilayer_perceptron;
+
+	recurrent_neural_network -> long_short_term_memory;
+	recurrent_neural_network -> boltzmann_machine;
+
+	convolutional_neural_network -> GoogLeNet;
+
+	dimension_reduction -> principal_component_analysis;
+	dimension_reduction -> factor_analysis;
+	dimension_reduction -> autoencoder;
+
+	algorithm -> ant_colony;
+	algorithm -> ant_lion;
+	algorithm -> artificial_bee_colony;
+	algorithm -> 	algorithm -> artificial_fish_swarm;
+	algorithm -> backtracking_search;
+	algorithm -> bacterial_foraging;
+	algorithm -> bat;
+	algorithm -> bee_pollinator;
+	algorithm -> binary_search;
+	algorithm -> bio_inspired;
+	algorithm -> bucket_elimination;
+	algorithm -> crow_search;
+	algorithm -> elite_retention;
+	algorithm -> evolutionary;
+	algorithm -> firefly;
+	algorithm -> fireworks_explosion;
+	algorithm -> flower_pollination;
+	algorithm -> fruitfly;
+	algorithm -> genetic_algorithm;
+	algorithm -> golden_section;
+	algorithm -> grasshopper;
+	algorithm -> gravity_search;
+	algorithm -> grey_wolf;
+	algorithm -> imperialist_competition;
+	algorithm -> jaya;
+	algorithm -> leapfrog;
+	algorithm -> honey_bee_mating;
+	algorithm -> interior_search;
+	algorithm -> invasive_weed;
+	algorithm -> elephant_herding;
+	algorithm -> particle_swarm;
+	algorithm -> pattern_search;
+	algorithm -> perturb_and_observe;
+	algorithm -> shuffled_frog_leaping;
+	algorithm -> versatile_threshold;
+	algorithm -> monte_carlo;
+	algorithm -> rule_based;
+	algorithm -> Dynamic_Programming;
+
+	Dynamic_Programming -> reinforcement_learning;
+}
