@@ -1,0 +1,170 @@
+{
+  "statistics": [
+    "analysis_of_variance",
+    "autoregressive_integrated_moving_average",
+    "autoregressive_moving_average",
+    "markov",
+    "kalman_filter",
+    "bayes",
+    "gaussian_process",
+    "autoregressi",
+    "probabilistic",
+    "kfold",
+    "ensemble",
+    "kruskal_wallis"
+  ],
+  "method": [
+    "taguchi",
+    "averaging_point_method",
+    "describing_function_method",
+    "finite_difference_time_domain_method",
+    "finite_element_method",
+    "group_method_of_data_handling",
+    "incremental_conductance_method",
+    "match_evaluation_method",
+    "multiple_shifted_frequency_method",
+    "numerical_method",
+    "oblique_asymptote_method",
+    "response_surface_methodology",
+    "steepest_descent_method",
+    "nelder_mead",
+    "newton_raphson",
+    "runge_kutta",
+    "conditional_interpolation",
+    "expectation_maximization",
+    "dynamic_simulation",
+    "empirical",
+    "emulation",
+    "gradient_descent",
+    "algorithm"
+  ],
+  "metric": [
+    "mean_square_error",
+    "mean_absolute_error",
+    "mean_absolute_percentage_error",
+    "cross_entropy",
+    "least_square"
+  ],
+  "machine_learning": [
+    "clustering",
+    "regression",
+    "classification",
+    "dimension_reduction",
+    "reinforcement_learning",
+    "ensemble",
+    "natural_language_processing"
+  ],
+  "doc2vec": [
+    "natural_language_processing"
+  ],
+  "reinforcement_learning": [
+    "sarsa",
+    "markov"
+  ],
+  "ensemble": [
+    "random_forest",
+    "adaboost",
+    "bagging",
+    "bootstrap",
+    "lightgbm",
+    "xgboost"
+  ],
+  "data": [
+    "database",
+    "data_acquisition",
+    "data_mining",
+    "data_driven",
+    "data_based"
+  ],
+  "database": [
+    "mapreduce",
+    "sql",
+    "hadoop"
+  ],
+  "classification": [
+    "k_nearest_neighbor",
+    "support_vector_machine",
+    "neural_network"
+  ],
+  "regression": [
+    "k_nearest_neighbor",
+    "support_vector_machine",
+    "neural_network",
+    "ridge",
+    "lasso",
+    "autoregressive",
+    "support_vector_regression"
+  ],
+  "clustering": [
+    "k_means",
+    "dbscan"
+  ],
+  "neural_network": [
+    "artificial_neural_network",
+    "learning_vector_quantization",
+    "recurrent_neural_network",
+    "convolutional_neural_network",
+    "autoencoder",
+    "adaline",
+    "artificial_neural_fuzzy_inference_system",
+    "elman",
+    "attention",
+    "extreme_learning_machine",
+    "multilayer_perceptron"
+  ],
+  "recurrent_neural_network": [
+    "long_short_term_memory",
+    "boltzmann_machine"
+  ],
+  "convolutional_neural_network": [
+    "googlenet"
+  ],
+  "dimension_reduction": [
+    "principal_component_analysis",
+    "factor_analysis",
+    "autoencoder"
+  ],
+  "algorithm": [
+    "ant_colony",
+    "ant_lion",
+    "artificial_bee_colony",
+    "artificial_fish_swarm",
+    "backtracking_search",
+    "bacterial_foraging",
+    "bat",
+    "bee_pollinator",
+    "binary_search",
+    "bio_inspired",
+    "bucket_elimination",
+    "crow_search",
+    "elite_retention",
+    "evolutionary",
+    "firefly",
+    "fireworks_explosion",
+    "flower_pollination",
+    "fruitfly",
+    "genetic_algorithm",
+    "golden_section",
+    "grasshopper",
+    "gravity_search",
+    "grey_wolf",
+    "imperialist_competition",
+    "jaya",
+    "leapfrog",
+    "honey_bee_mating",
+    "interior_search",
+    "invasive_weed",
+    "elephant_herding",
+    "particle_swarm",
+    "pattern_search",
+    "perturb_and_observe",
+    "shuffled_frog_leaping",
+    "versatile_threshold",
+    "monte_carlo",
+    "rule_based",
+    "dynamic_programming"
+  ],
+  "dynamic_programming": [
+    "reinforcement_learning"
+  ]
+}
