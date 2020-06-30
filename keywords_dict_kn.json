@@ -9,20 +9,20 @@
   "(PV) Photovoltaic panel": [],
   "(V-P) voltage power": [],
   "-Artificial-Neural-Network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "-Back-propagation-algorithm": [
-    "artificial neural network",
-    "method",
-    "algorithm",
+    "regression",
     "classification",
     "neural network",
+    "algorithm",
     "machine learning",
-    "regression"
+    "artificial neural network",
+    "method"
   ],
   "-DC/DC-boost-converter": [],
   "-Fuzzy-Logic-Controller": [],
@@ -99,9 +99,9 @@
   "AA%": [],
   "ABC": [],
   "ABC-PSO algorithm": [
+    "particle swarm",
     "algorithm",
     "artificial bee colony",
-    "particle swarm",
     "method"
   ],
   "AC Nano-PV systems": [],
@@ -132,11 +132,11 @@
     "method"
   ],
   "ADALINE Neural Networks": [
-    "adaline",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "adaline"
   ],
   "ADC": [],
   "ADRC": [],
@@ -144,14 +144,9 @@
   "AGO": [],
   "AI techniques": [],
   "AIRS total column ozone": [],
-  "ALO": [
-    "algorithm",
-    "ant lion",
-    "method"
-  ],
+  "ALO": [],
   "ALO algorithm": [
     "algorithm",
-    "ant lion",
     "method"
   ],
   "AMB flywheel": [],
@@ -165,89 +160,37 @@
   "ANFIS": [],
   "ANFIS model": [],
   "ANFIS: Artificial Neural Fuzzy Inference System": [
-    "artificial neural fuzzy inference system",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural fuzzy inference system"
   ],
-  "ANN": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN (Artificial Neural Network)": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN (artificial neural network)": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN Modeling": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN Training and testing": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "ANN": [],
+  "ANN (Artificial Neural Network)": [],
+  "ANN (artificial neural network)": [],
+  "ANN Modeling": [],
+  "ANN Training and testing": [],
   "ANN algorithm": [
-    "method",
     "algorithm",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
   ],
-  "ANN based current control": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "ANN based current control": [],
   "ANN ensemble": [
-    "statistics",
-    "classification",
-    "neural network",
-    "machine learning",
     "ensemble",
-    "regression"
+    "statistics",
+    "machine learning"
   ],
-  "ANN model": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN networks": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "ANN sizing": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "ANN model": [],
+  "ANN networks": [],
+  "ANN sizing": [],
   "ANN, Desalination": [],
   "ANN: Artificial neural networks": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "ANNs": [],
   "ANSYS": [],
@@ -255,8 +198,8 @@
   "AOD": [],
   "AP clustering algorithm": [
     "machine learning",
-    "algorithm",
     "clustering",
+    "algorithm",
     "method"
   ],
   "APF": [],
@@ -267,63 +210,34 @@
   "AR coating": [],
   "AR: Autoregressive": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "ARDUINO": [],
-  "ARIMA": [
-    "statistics",
-    "autoregressive integrated moving average",
-    "machine learning",
-    "autoregressive",
-    "regression"
-  ],
-  "ARIMA model": [
-    "statistics",
-    "autoregressive integrated moving average",
-    "machine learning",
-    "autoregressive",
-    "regression"
-  ],
-  "ARIMA modeling": [
-    "statistics",
-    "autoregressive integrated moving average",
-    "machine learning",
-    "autoregressive",
-    "regression"
-  ],
+  "ARIMA": [],
+  "ARIMA model": [],
+  "ARIMA modeling": [],
   "ARIMA: Autoregressive integrated moving average": [
     "statistics",
+    "regression",
     "autoregressive integrated moving average",
-    "machine learning",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "ARIMAX": [],
-  "ARMA": [
-    "autoregressive moving average",
-    "statistics",
-    "machine learning",
-    "autoregressive",
-    "regression"
-  ],
+  "ARMA": [],
   "ARMA algorithm": [
-    "autoregressive moving average",
-    "method",
     "algorithm",
-    "statistics",
-    "machine learning",
-    "autoregressive",
-    "regression"
+    "method"
   ],
   "ARMA: Auto regressive moving average": [],
   "ARMAX": [],
   "ARX: autoregressive model with exogenous input": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "AS4777": [],
   "ASIC": [],
@@ -363,8 +277,8 @@
   "Acausal modeling": [],
   "Accelerated Life Testing (ALT)": [],
   "Accelerated Particle Swarm Optimization (APSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Accelerated ageing testing": [],
@@ -432,20 +346,20 @@
     "data"
   ],
   "Adaboost": [
-    "machine learning",
-    "adaboost",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "adaboost"
   ],
   "Adaboost + Elman": [
-    "elman",
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
     "adaboost",
     "ensemble",
-    "regression"
+    "elman"
   ],
   "Adam algorithm": [
     "algorithm",
@@ -466,23 +380,23 @@
   "Adaptive P&O": [],
   "Adaptive Perturb & Observe-Fuzzy logic control": [],
   "Adaptive Perturb and Observe Method": [
-    "algorithm",
-    "method",
-    "perturb and observe"
-  ],
-  "Adaptive Perturb and Observe with Clustering": [
-    "method",
     "perturb and observe",
     "algorithm",
+    "method"
+  ],
+  "Adaptive Perturb and Observe with Clustering": [
+    "perturb and observe",
+    "clustering",
+    "algorithm",
     "machine learning",
-    "clustering"
+    "method"
   ],
   "Adaptive Proportional Controller": [],
   "Adaptive autoregression forecasting algorithm": [
-    "autoregression",
-    "method",
     "statistics",
-    "algorithm"
+    "algorithm",
+    "method",
+    "autoregression"
   ],
   "Adaptive control": [],
   "Adaptive differential current": [],
@@ -546,38 +460,38 @@
   "African easterly waves": [],
   "Ageing": [],
   "Agent based model": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent based modelling": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent-based model": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent-based modeling": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent-based modelling": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent-based models": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agent-based simulation": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Agents": [],
@@ -595,7 +509,11 @@
   "Aging phenomenon": [],
   "Agribot (Agricultural robot)": [],
   "Agriculture": [],
-  "Agrivoltaic": [],
+  "Agrivoltaic": [
+    "agriculture",
+    "photovoltaic",
+    "agrivoltaic"
+  ],
   "Agrivoltaics": [],
   "Air Source Heat Pump": [],
   "Air Temperature Prediction": [],
@@ -686,21 +604,21 @@
   "Analog circuits": [],
   "Analog controller": [],
   "Analog ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Analog-digital integrated circuits": [],
   "Analogs Ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Analysis": [],
   "Analysis and statistical methods": [],
   "Analysis of variance (ANOVA)": [
-    "analysis of variance",
-    "statistics"
+    "statistics",
+    "analysis of variance"
   ],
   "Analytic Hierarchy Process": [],
   "Analytic hierarchy process": [],
@@ -727,8 +645,8 @@
   "And PV array interconnections": [],
   "And consumer load profile": [],
   "And empirical correlations": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "And grid utility": [],
   "And mixed integer linear programming": [],
@@ -768,18 +686,18 @@
   "Anomaly Detection": [],
   "Anomaly detection": [],
   "Ant Colony Optimization": [
-    "algorithm",
     "ant colony",
+    "algorithm",
     "method"
   ],
   "Ant colony optimization (ACO)": [
-    "algorithm",
     "ant colony",
+    "algorithm",
     "method"
   ],
   "Ant lion optimizer": [
-    "algorithm",
     "ant lion",
+    "algorithm",
     "method"
   ],
   "Antarctic Circumpolar Current": [],
@@ -805,8 +723,8 @@
   "Applied mathematics": [],
   "Approximate dynamic programming": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "Approximation": [],
   "Apricot": [],
@@ -839,10 +757,10 @@
   "Array voltage": [],
   "Arsenic": [],
   "Artifical neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Artificial Bee Colony Algorithm (ABC)": [
     "algorithm",
@@ -854,53 +772,53 @@
   "Artificial Intelligence (AI)": [],
   "Artificial Intelligent": [],
   "Artificial Neural Network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Network (ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Network (ANNs)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Network Method": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Network(ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Networks": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial Neural Networks(ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial bee colony": [
     "algorithm",
@@ -918,67 +836,67 @@
   "Artificial lighting": [],
   "Artificial lntelligence application": [],
   "Artificial neural network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural network (ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural network (ANNs)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural network MPPT controller": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural network model": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural networks": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural networks (ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural networks (ANNs)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neural networks modelling": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Artificial neuron network": [],
   "Artificial neuron networks (ANNs)": [],
@@ -1026,18 +944,18 @@
   "Atrial fibrillation": [],
   "Attachment rate": [],
   "Attention": [
-    "attention",
+    "regression",
     "classification",
+    "attention",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Attention mechanism": [
-    "attention",
+    "regression",
     "classification",
+    "attention",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Attribute selection": [],
   "Augmented Dickey Fuller": [],
@@ -1051,10 +969,10 @@
   "Auto-Transformer": [],
   "AutoRegressive Integrated Moving Average (ARIMA)": [
     "statistics",
+    "regression",
     "autoregressive integrated moving average",
-    "machine learning",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "Automated Metering Infrastructure (AMI)": [],
   "Automated Transit Networks (ATN)": [],
@@ -1084,42 +1002,42 @@
   "Autonomy": [],
   "Autoregressive": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Autoregressive Neural Network": [
     "statistics",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "Autoregressive and moving average model": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Autoregressive models": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Autoregressive moving average": [
-    "autoregressive moving average",
     "statistics",
-    "machine learning",
+    "regression",
+    "autoregressive moving average",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "Autoregressive process": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Auxiliary black-start power": [],
   "Auxiliary losses": [],
@@ -1142,7 +1060,11 @@
   "Axial piston pump": [],
   "Azimuth": [],
   "Azimuthal Position": [],
-  "BAPV": [],
+  "BAPV": [
+    "bapv",
+    "photovoltaic",
+    "building-integrated"
+  ],
   "BBC": [],
   "BBCCIS-Buck Boost Converter with Coupled Inductor System": [],
   "BD+C system": [],
@@ -1158,83 +1080,102 @@
   "BETA MPPT": [],
   "BGA": [],
   "BIM": [],
-  "BIPV": [],
-  "BIPV (Building integrated photovoltaics)": [],
-  "BIPV performance": [],
-  "BIPV system": [],
-  "BIPV system's power output": [],
-  "BIPV/T": [],
-  "BIPV/T air collector": [],
-  "BIPVT": [],
-  "BISPV": [],
+  "BIPV": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
+  "BIPV (Building integrated photovoltaics)": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
+  "BIPV performance": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
+  "BIPV system": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
+  "BIPV system's power output": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
+  "BIPV/T": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv/t",
+    "thermal"
+  ],
+  "BIPV/T air collector": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv/t",
+    "thermal"
+  ],
+  "BIPVT": [
+    "building-integrated",
+    "photovoltaic",
+    "thermal",
+    "bipvt"
+  ],
+  "BISPV": [
+    "building-integrated",
+    "photovoltaic",
+    "bispv"
+  ],
   "BLDC": [],
   "BLDC (Brushless Direct Current) Motor": [],
   "BLDC motor": [],
   "BMS": [],
   "BOD5/COD": [],
   "BOS-costs": [],
-  "BP Network": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "BP Network": [],
   "BP Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "BP Neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
-  ],
-  "BP network": [
     "machine learning",
-    "classification",
-    "neural network",
-    "regression"
+    "regression",
+    "neural network"
   ],
+  "BP network": [],
   "BP neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "BP neural network algorithm": [
-    "method",
+    "regression",
+    "classification",
+    "neural network",
     "algorithm",
-    "classification",
-    "neural network",
     "machine learning",
-    "regression"
+    "method"
   ],
-  "BP neutral network": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "BP solar": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "BP neutral network": [],
+  "BP solar": [],
   "BP-ANN neural networks": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "BPA": [],
   "BPFPA - Bee Pollinator Flower Pollination Algorithm": [
     "flower pollination",
-    "algorithm",
     "bee pollinator",
+    "algorithm",
     "method"
   ],
   "BPNN": [],
@@ -1250,60 +1191,30 @@
   "BTS": [],
   "BUCK converter": [],
   "BWRO desalination": [],
-  "Back Propagation": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "Back Propagation": [],
   "Back Propagation learning algorithm (BP)": [
-    "artificial neural network",
-    "method",
     "algorithm",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
   ],
   "Back Propagation(BP) Neural Network": [
-    "artificial neural network",
     "classification",
-    "neural network",
     "machine learning",
-    "regression"
+    "regression",
+    "neural network"
   ],
   "Back Surface Field": [],
   "Back cooling": [],
-  "Back propagation": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "Back propagation": [],
   "Back propagation algorithm": [
-    "artificial neural network",
-    "method",
     "algorithm",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
   ],
-  "Back propagation network": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "Back propagation network": [],
   "Back propagation neural network": [
-    "artificial neural network",
     "classification",
-    "neural network",
     "machine learning",
-    "regression"
+    "regression",
+    "neural network"
   ],
   "Back search optimization algorithm (BSA)": [
     "algorithm",
@@ -1312,22 +1223,16 @@
   "Back surface Module Temperature": [],
   "Back temperature": [],
   "Back-propagation neural network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Back-to-Back Static Synchronous Compensator (BtB-STATCOM)": [],
   "Back-to-Back converter": [],
   "Background subtraction": [],
-  "Backpropagation": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "Backpropagation": [],
   "Backsteeping": [],
   "Backstepping": [],
   "Backstepping MPPT -sliding mode": [],
@@ -1336,8 +1241,8 @@
   "Backstepping controller": [],
   "Backstepping finite time fast sliding mode (BFTSM)": [],
   "Backtracking search algorithm": [
-    "algorithm",
     "backtracking search",
+    "algorithm",
     "method"
   ],
   "Backup": [],
@@ -1353,27 +1258,27 @@
   "Backward/Forward Sweep (BFS)": [],
   "Bacteria elimination": [],
   "Bacterial foraging (BF)": [
+    "bacterial foraging",
     "algorithm",
-    "method",
-    "bacterial foraging"
+    "method"
   ],
   "Bacterial foraging optimization algorithm": [
-    "algorithm",
     "bacterial foraging",
+    "algorithm",
     "method"
   ],
   "Bad data": [],
   "Bagging": [
-    "machine learning",
-    "bagging",
     "ensemble",
-    "statistics"
+    "statistics",
+    "bagging",
+    "machine learning"
   ],
   "Bagging learner": [
-    "machine learning",
-    "bagging",
     "ensemble",
-    "statistics"
+    "statistics",
+    "bagging",
+    "machine learning"
   ],
   "Bahrain": [],
   "Balance energy": [],
@@ -1400,8 +1305,8 @@
   ],
   "Bass model": [],
   "Bat algorithm": [
-    "algorithm",
     "bat",
+    "algorithm",
     "method"
   ],
   "Battaries": [],
@@ -1491,10 +1396,10 @@
     "statistics"
   ],
   "Bayesian Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Bayesian inference": [],
   "Bayesian model averaging": [],
@@ -1575,9 +1480,9 @@
   "Bifurcation diagram": [],
   "Bifurcations": [],
   "Big Bang-Big crunch Copula Monte Carlo Renewable energy Stochastic Distributed Generation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Big Data": [],
   "Big Data Analytics": [],
@@ -1585,8 +1490,8 @@
   "Big data": [],
   "Big data analytics": [],
   "Big data mining": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "Big-M formulation": [],
   "Bilateral energy negotiations": [],
@@ -1645,12 +1550,12 @@
   "Bogotá": [],
   "Boiling in tubes": [],
   "Boltzmann machine": [
+    "regression",
     "boltzmann machine",
-    "machine learning",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Bond Graph": [],
   "Bond graph": [],
@@ -1683,9 +1588,9 @@
   ],
   "Boosting": [],
   "Bootstrap": [
+    "ensemble",
     "machine learning",
     "bootstrap",
-    "ensemble",
     "statistics"
   ],
   "Boric acid": [],
@@ -1893,8 +1798,8 @@
   "CFD simulation": [],
   "CFD simulations": [],
   "CFD-FEM 3D modeling and simulation": [
-    "finite element method",
-    "method"
+    "method",
+    "finite element method"
   ],
   "CFD/VOF modeling": [],
   "CFNN": [],
@@ -1953,11 +1858,7 @@
   "CPC collector": [],
   "CPC reactor": [],
   "CPS": [],
-  "CPSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "CPSO": [],
   "CPV": [],
   "CPV cells": [],
   "CPV reflective system": [],
@@ -2069,12 +1970,7 @@
   "Carnarvon": [],
   "Carrier lifetime": [],
   "Carrier lifetimes": [],
-  "Cascade ANN": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Cascade ANN": [],
   "Cascade H-bridge": [],
   "Cascade PCM": [],
   "Cascade circuit of a grid inverter": [],
@@ -2150,15 +2046,15 @@
   "Channel heat exchanger": [],
   "Chaos": [],
   "Chaotic Heterogeneous Comprehensive Learning Particle Swarm Optimizer": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Chaotic elitist perturbation": [],
   "Chaotic maps": [],
   "Chaotic particle swarm optimization (CPSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Chaotic search": [],
@@ -2248,17 +2144,17 @@
   "Classic controller": [],
   "Classical methods": [],
   "Classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Classification Tree": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Classification algorithms": [
+    "classification",
     "machine learning",
     "algorithm",
-    "classification",
     "method"
   ],
   "Classifiers": [],
@@ -2437,9 +2333,9 @@
   "Combined heat and power system": [],
   "Combined modeling": [],
   "Combined scenario and Monte-Carlo method": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Combined-heat-and-power": [],
   "Combustion in small scale": [],
@@ -2502,10 +2398,10 @@
   "Complex system dynamics": [],
   "Complex systems": [],
   "Complex-valued wavelet neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Complexity of the boundary": [],
   "Component": [],
@@ -2756,41 +2652,41 @@
   "Convex model": [],
   "Convex optimization": [],
   "Convolutional Neural Network": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Convolutional neural network": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Convolutional neural network (CNN)": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Convolutional neural networks": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Convolutional perfectly matched layer (CPML)": [],
   "Convolutional-LSTM network": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Cool roof": [],
   "Cool roofs": [],
@@ -2920,21 +2816,21 @@
   "Cross-case study": [],
   "Cross-correlation": [],
   "Cross-entropy optimisation": [
-    "cross-entropy",
-    "metric"
+    "metric",
+    "cross-entropy"
   ],
   "Cross-laminated timber": [],
   "Crossed compound parabolic concentrator": [],
   "Crossed compound parabolic concentrator (CCPC)": [],
   "Crow search algorithm": [
+    "crow search",
     "algorithm",
-    "method",
-    "crow search"
+    "method"
   ],
   "Crow search algorithm (CSA)": [
+    "crow search",
     "algorithm",
-    "method",
-    "crow search"
+    "method"
   ],
   "Crowd sensing": [],
   "Crowdfunding": [],
@@ -2957,8 +2853,8 @@
   "CuPc: C60": [],
   "CuSb(S,Se)2": [],
   "Cubature kalman filter": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "CubeSat": [],
   "Cubed-sphere grid": [],
@@ -3071,9 +2967,9 @@
   "DAS": [],
   "DBN": [],
   "DBSCAN": [
-    "machine learning",
+    "dbscan",
     "clustering",
-    "dbscan"
+    "machine learning"
   ],
   "DC": [],
   "DC - AC converter": [],
@@ -3202,11 +3098,11 @@
   "DCM": [],
   "DCM(Discontinuous Conduction Mode)": [],
   "DCNN-DNN": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "DCOES": [],
   "DC–DC bidirectional converter": [],
@@ -3234,10 +3130,10 @@
   "DG reliability evaluation": [],
   "DG uncertainty modeling": [],
   "DGS-SVM": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "DGSR": [],
   "DGs": [],
@@ -3262,12 +3158,7 @@
   "DNI model": [],
   "DNI modeling": [],
   "DNI: Direct normal irradiance": [],
-  "DNN": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "DNN": [],
   "DNP3": [],
   "DOE analysis": [],
   "DOM activation": [],
@@ -3316,8 +3207,8 @@
   "Data Intelligent Analysis": [],
   "Data Management and Analytics": [],
   "Data Mining": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "Data Science": [],
   "Data acquisition": [
@@ -3346,12 +3237,12 @@
   "Data intelligence analysis": [],
   "Data interpolation": [],
   "Data mining": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "Data mining technique": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "Data model": [],
   "Data models": [],
@@ -3415,8 +3306,8 @@
     "data"
   ],
   "Data-mining techniques": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "Datalogger": [],
   "Datasheet": [],
@@ -3507,37 +3398,32 @@
   "Decoupling control": [],
   "Decoupling model": [],
   "Deep Boltzmann machine": [
+    "regression",
     "boltzmann machine",
-    "machine learning",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Deep Convolutional Neural Network-Deep Neural Network (DCNNDNN)": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
-  "Deep Learning": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Deep Learning": [],
   "Deep Neural Networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Deep Neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Deep Regression Network": [
     "machine learning",
@@ -3546,48 +3432,40 @@
   "Deep aquifer thermal energy storage": [],
   "Deep convection": [],
   "Deep convolutional neural network": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Deep convolutional neural network (DCNN)": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Deep energy retrofit": [],
   "Deep ensemble model": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Deep frying": [],
-  "Deep learning": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Deep learning": [],
   "Deep moist convection": [],
   "Deep neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Deep reinforcement learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
-    "classification",
-    "neural network",
     "machine learning",
-    "reinforcement learning",
-    "regression"
+    "method"
   ],
   "Deep residual network": [],
   "Deep retrofit": [],
@@ -3641,12 +3519,12 @@
   "Demand–supply matching": [],
   "Demonstrator": [],
   "Denoising autoencoder model": [
+    "regression",
     "dimension reduction",
     "autoencoder",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Dense array": [],
   "Dense convolutional network": [],
@@ -3668,8 +3546,8 @@
   "Deposition Detection": [],
   "Deposition density": [],
   "Depression classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Depression estimation": [],
   "Depression recognition": [],
@@ -3684,8 +3562,8 @@
   "Desalination plant": [],
   "Descent method": [],
   "Describing function (DF) method": [
-    "describing function method",
-    "method"
+    "method",
+    "describing function method"
   ],
   "Desert climate": [],
   "Desert environment": [],
@@ -3770,14 +3648,14 @@
     "method"
   ],
   "Differential evolution and the particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Differential evolution grey wolf optimize": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "Differential evolution technique": [],
   "Differential flatness": [],
@@ -3816,8 +3694,8 @@
   "Digitally controlled": [],
   "Digsilent": [],
   "Dimension reduction": [
-    "machine learning",
-    "dimension reduction"
+    "dimension reduction",
+    "machine learning"
   ],
   "Dimensional analysis": [],
   "Dimensionality reduction": [],
@@ -4208,8 +4086,8 @@
   "Dynamic Pricing": [],
   "Dynamic Programming (DP)": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "Dynamic Reconfiguration": [],
   "Dynamic Thermal Line Rating (DTLR)": [],
@@ -4237,9 +4115,9 @@
   "Dynamic energy performance simulation": [],
   "Dynamic energy pricing": [],
   "Dynamic ensembles": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Dynamic equivalent modeling": [],
   "Dynamic harmonic regression": [
@@ -4267,14 +4145,14 @@
   "Dynamic photovoltaic model": [],
   "Dynamic pricing": [],
   "Dynamic probabilistic dimensioning": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Dynamic probability model": [],
   "Dynamic programming": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "Dynamic resistance": [],
   "Dynamic response": [],
@@ -4329,21 +4207,15 @@
   "EHP": [],
   "EKF": [],
   "ELECTRE method": [],
-  "ELM": [
-    "extreme learning machine",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "ELM": [],
   "ELM: Extreme learning machine algorithms": [
-    "method",
-    "algorithm",
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "EMC/EMI": [],
   "EMD": [],
@@ -4701,32 +4573,32 @@
   "Elevation and azimuth angle control": [],
   "Elevation angle": [],
   "Elman": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "Elman Neural Network": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "Elman neural network": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "Elman neural network (ENN)": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "Elongation prediction": [],
   "Embedded C language": [],
@@ -4752,32 +4624,32 @@
   "Emitter doping concentration": [],
   "Empiric model": [],
   "Empirical Data Fitting": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical Mode Decomposition": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical equations": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical mode decomposition": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical model": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical models": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Empirical set of equations": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Employment impacts": [],
   "Emulation": [
@@ -5054,8 +4926,8 @@
   "Enhanced conduction model": [],
   "Enhanced conductivity method": [],
   "Enhanced empirical mode decomposition": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Enhanced oil recovery": [],
   "Enhanced phase locked loop (EPLL)": [],
@@ -5063,127 +4935,127 @@
   "Enhancement of communications": [],
   "Enriched lower mantle composition": [],
   "Ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble Kalman Filter": [
-    "machine learning",
     "ensemble",
-    "kalman",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "kalman"
   ],
   "Ensemble Kalman filter": [
-    "machine learning",
     "ensemble",
-    "kalman",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "kalman"
   ],
   "Ensemble Network": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble algorithms": [
-    "method",
-    "algorithm",
     "statistics",
     "machine learning",
-    "ensemble"
+    "algorithm",
+    "ensemble",
+    "method"
   ],
   "Ensemble correlation": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble empirical mode decomposition": [
-    "method",
-    "empirical",
     "statistics",
     "machine learning",
-    "ensemble"
+    "ensemble",
+    "method",
+    "empirical"
   ],
   "Ensemble forecast": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble forecasting": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble learning": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble method": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble methodology": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble methods": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble model": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble modeling": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble neural network": [
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
-    "ensemble",
-    "regression"
+    "ensemble"
   ],
   "Ensemble prediction": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble prediction methods": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble predictors": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble selection": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensemble verification": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "Ensembles": [],
   "Ensembles of neural networks": [
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
-    "ensemble",
-    "regression"
+    "ensemble"
   ],
   "Enterprise Resource Planning (ERP)": [],
   "Entrainment": [],
@@ -5279,53 +5151,53 @@
   "Evapotranspiration": [],
   "Event logs": [],
   "Evolution Kalman filter": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Evolutionary Algorithm": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary algorithm": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary algorithms": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary computation": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary computing": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary game theory": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary optimization": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary programming": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Evolutionary programming (EP)": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Exact modeling": [],
   "Excess carriers": [],
@@ -5380,12 +5252,7 @@
   "Experimentation": [],
   "Experiments": [],
   "Explainable Machine Learning": [],
-  "Explainable deep learning": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Explainable deep learning": [],
   "Explicit Method": [],
   "Explicit equation": [],
   "Explicit model": [],
@@ -5395,12 +5262,12 @@
   "Exprimental mesures": [],
   "Exprimental validation": [],
   "Extended Kalman filter": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Extended Kalman filters": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Extended describing function (EDF)": [],
   "Extended stochastic programming": [],
@@ -5413,18 +5280,18 @@
   "Extraterrestrial irradiation": [],
   "Extratropical cyclones": [],
   "Extreme Learning Machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme Learning Machines": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme Machine Learning": [],
   "Extreme climate": [],
@@ -5432,46 +5299,46 @@
   "Extreme extratropical cyclone": [],
   "Extreme gradient boosting": [],
   "Extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme learning machine (ELM)": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme learning machine (ELM), heat gain": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme learning machines": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme learning machines (ELM)": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extreme-learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Extremely randomised trees": [],
   "Extremum Seeking": [],
@@ -5483,11 +5350,7 @@
   "Extrinsic and anonymous Matlab functions": [],
   "Eyewall": [],
   "F-VMEA": [],
-  "FA": [
-    "algorithm",
-    "firefly",
-    "method"
-  ],
+  "FA": [],
   "FACTS": [],
   "FBLMS": [],
   "FC": [],
@@ -5496,23 +5359,11 @@
     "clustering"
   ],
   "FCS-MPC": [],
-  "FDTD analysis": [
-    "finite difference time domain method",
-    "method"
-  ],
-  "FDTD modelling": [
-    "finite difference time domain method",
-    "method"
-  ],
+  "FDTD analysis": [],
+  "FDTD modelling": [],
   "FEA": [],
-  "FEM": [
-    "finite element method",
-    "method"
-  ],
-  "FEM calculation": [
-    "finite element method",
-    "method"
-  ],
+  "FEM": [],
+  "FEM calculation": [],
   "FET circuits": [],
   "FF": [],
   "FFNN": [],
@@ -5532,19 +5383,15 @@
   "FMI": [],
   "FNN": [],
   "FNN: feed-forward neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "FOC": [],
   "FOPID": [],
   "FP-LAPW": [],
-  "FPA": [
-    "flower pollination",
-    "algorithm",
-    "method"
-  ],
+  "FPA": [],
   "FPA - Flower Pollination Algorithm": [
     "flower pollination",
     "algorithm",
@@ -5571,9 +5418,9 @@
   "Facade": [],
   "Facebook": [],
   "Factor analysis": [
+    "dimension reduction",
     "machine learning",
-    "factor analysis",
-    "dimension reduction"
+    "factor analysis"
   ],
   "Factor separation": [],
   "Factors": [],
@@ -5607,8 +5454,8 @@
   "Fatigue life": [],
   "Fault": [],
   "Fault Classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Fault Detection": [],
   "Fault Detection and diagnosis": [],
@@ -5618,8 +5465,8 @@
   "Fault analysis": [],
   "Fault arc simulation": [],
   "Fault classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Fault detection": [],
   "Fault diagnose": [],
@@ -5662,10 +5509,10 @@
   "Fecal coliform": [],
   "Fecal pollution": [],
   "Feed forward neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Feed in tariff": [],
   "Feed in tarrif": [],
@@ -5696,8 +5543,8 @@
   "Field performance": [],
   "Field support vector regression (F-SVR)": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Field test": [],
   "Field test verification": [],
@@ -5749,8 +5596,8 @@
   "Finite element analysis": [],
   "Finite element analysis system": [],
   "Finite element method": [
-    "finite element method",
-    "method"
+    "method",
+    "finite element method"
   ],
   "Finite element model": [],
   "Finite element modeling": [],
@@ -5766,8 +5613,8 @@
   "Finite-difference time-domain": [],
   "Finite-element analysis": [],
   "Finite-element method (FEM)": [
-    "finite element method",
-    "method"
+    "method",
+    "finite element method"
   ],
   "Finite-element-analysis": [],
   "Finite-volume method": [],
@@ -5780,28 +5627,28 @@
   "Fire regime": [],
   "Firefly Algorithm": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Firefly Algorithm (FA)": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Firefly algorithm": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Firefly algorithm (FA)": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Firefly method": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Fires": [],
   "Fireworks explosion optimization algorithm (FEO)": [
@@ -5969,12 +5816,12 @@
   "Fraction order incremental conductance": [],
   "Fractional calculus": [],
   "Fractional chaotic ensemble particle swarm optimizer": [
-    "method",
-    "algorithm",
     "statistics",
-    "particle swarm",
     "machine learning",
-    "ensemble"
+    "ensemble",
+    "algorithm",
+    "particle swarm",
+    "method"
   ],
   "Fractional circuit": [],
   "Fractional cover": [],
@@ -6085,10 +5932,10 @@
   "Fuzzy Logic Control": [],
   "Fuzzy Logic Control (FLC)": [],
   "Fuzzy Logic Control Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Fuzzy Logic Controller": [],
   "Fuzzy Logic Controller (FLC)": [],
@@ -6098,10 +5945,10 @@
   "Fuzzy MPPT": [],
   "Fuzzy Models of Multiple-Criteria Evaluation": [],
   "Fuzzy Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Fuzzy PI": [],
   "Fuzzy approach": [],
@@ -6142,22 +5989,22 @@
   "Fuzzy model": [],
   "Fuzzy modeling": [],
   "Fuzzy neural network controller": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Fuzzy observer": [],
   "Fuzzy optimization": [],
   "Fuzzy prediction interval": [],
   "Fuzzy rule-based classifier": [
-    "algorithm",
     "rule-based",
+    "algorithm",
     "method"
   ],
   "Fuzzy rule-based systems": [
-    "algorithm",
     "rule-based",
+    "algorithm",
     "method"
   ],
   "Fuzzy rules": [],
@@ -6172,41 +6019,37 @@
   "Fuzzy-SOM": [],
   "Fuzzy-logic controller": [],
   "G2V-grid-to-vehicle": [],
-  "GA": [
-    "algorithm",
-    "method",
-    "genetic algorithm"
-  ],
+  "GA": [],
   "GA- Genetic Algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "GA-ANN": [
-    "genetic algorithm",
-    "method",
-    "algorithm",
+    "regression",
     "classification",
     "neural network",
+    "algorithm",
+    "genetic algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "GA-Genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "GA-KF": [
-    "genetic algorithm",
-    "method",
-    "algorithm",
+    "statistics",
     "kalman",
-    "statistics"
+    "algorithm",
+    "genetic algorithm",
+    "method"
   ],
   "GA: Genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "GAMS": [],
   "GAMS software": [],
@@ -6236,14 +6079,8 @@
   "GLSSVM": [],
   "GLSSVM (Group Least Square Support Vector Machine)": [],
   "GMC": [],
-  "GMDH (Group method of data handling)": [
-    "method",
-    "group method of data handling"
-  ],
-  "GMDH network": [
-    "method",
-    "group method of data handling"
-  ],
+  "GMDH (Group method of data handling)": [],
+  "GMDH network": [],
   "GMPP": [],
   "GPDL-5": [],
   "GPHS": [],
@@ -6262,11 +6099,7 @@
   "GTI": [],
   "GUI (Graphical User Interface)": [],
   "GUI matlab": [],
-  "GWO": [
-    "algorithm",
-    "grey wolf",
-    "method"
-  ],
+  "GWO": [],
   "GaAs": [],
   "GaAs concentrator cells": [],
   "GaAs/InAsSb": [],
@@ -6300,22 +6133,15 @@
   "Gas‐fired turbine": [],
   "Gated Recurrent Unit": [],
   "Gated recurrent unit": [],
-  "Gated-feedback LSTM": [
-    "machine learning",
-    "long short-term memory",
-    "classification",
-    "neural network",
-    "recurrent neural network",
-    "regression"
-  ],
+  "Gated-feedback LSTM": [],
   "Gateway": [],
   "Gathers": [],
   "Gauss-Seidel": [],
   "Gaussian Process Regression": [
     "machine learning",
     "statistics",
-    "gaussian process",
-    "regression"
+    "regression",
+    "gaussian process"
   ],
   "Gaussian Processes": [
     "statistics",
@@ -6337,14 +6163,14 @@
   "Gaussian process regression": [
     "machine learning",
     "statistics",
-    "gaussian process",
-    "regression"
+    "regression",
+    "gaussian process"
   ],
   "Gaussian process regression (GPR)": [
     "machine learning",
     "statistics",
-    "gaussian process",
-    "regression"
+    "regression",
+    "gaussian process"
   ],
   "Gaussian processes": [
     "statistics",
@@ -6363,10 +6189,10 @@
   "General algebraic modelling system": [],
   "General circulation models": [],
   "General regression neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Generalization": [],
   "Generalized additive model": [],
@@ -6374,10 +6200,10 @@
   "Generalized model": [],
   "Generalized modeling": [],
   "Generalized neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Generalized predictive control": [],
   "Generalized system load": [],
@@ -6403,49 +6229,49 @@
   "Generic model": [],
   "Genetic Algorihms": [],
   "Genetic Algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic Algorithm (GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic Algorithms": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic Algorithms (GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic algorithm (GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic algorithm and renewable energy": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic algorithm(GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic algorithms": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Genetic programming": [],
   "Geographic Information System (GIS)": [],
@@ -6536,18 +6362,18 @@
   "Golden ratio": [],
   "Golden section search algorithm": [
     "algorithm",
-    "method",
-    "golden section"
+    "golden section",
+    "method"
   ],
   "Gompertz model": [],
   "Goodness of fit": [],
   "GoogLeNet": [
-    "googlenet",
+    "regression",
     "convolutional neural network",
+    "googlenet",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Google Earth imagery": [],
   "Google Little Box Challenge": [],
@@ -6561,17 +6387,17 @@
     "method"
   ],
   "Gradient descent": [
-    "method",
-    "gradient descent"
+    "gradient descent",
+    "method"
   ],
   "Gradient descent adaptive rate and momentum": [
-    "method",
-    "gradient descent"
+    "gradient descent",
+    "method"
   ],
   "Gradient descent algorithm": [
+    "gradient descent",
     "algorithm",
-    "method",
-    "gradient descent"
+    "method"
   ],
   "Gram-Charlier expansion": [],
   "Granger causality test": [],
@@ -6585,8 +6411,8 @@
   "Graphical user interface": [],
   "Graphite plate": [],
   "Grasshopper optimizer": [
-    "algorithm",
     "grasshopper",
+    "algorithm",
     "method"
   ],
   "Grassland": [],
@@ -6597,8 +6423,8 @@
   ],
   "Gravity currents": [],
   "Gravity search (GS) algorithm": [
-    "algorithm",
     "gravity search",
+    "algorithm",
     "method"
   ],
   "Gravity storage": [],
@@ -6647,14 +6473,14 @@
   "Grey System": [],
   "Grey Theory": [],
   "Grey Wolf Optimization (GWO)": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "Grey Wolf optimizer": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "Grey clustering": [
     "machine learning",
@@ -6667,22 +6493,22 @@
   "Grey relational analysis": [],
   "Grey relevance theory": [],
   "Grey support vector machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Grey system model": [],
   "Grey theory": [],
   "Grey wolf optimization": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "Grey wolf optimizer": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "Grey-box modeling": [],
   "Grey-box modelling": [],
@@ -6703,8 +6529,8 @@
   "Grid Tied Inverter": [],
   "Grid Voltage Orientated control": [],
   "Grid classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Grid code": [],
   "Grid codes": [],
@@ -6835,16 +6661,16 @@
   "Groundwater level": [],
   "Groundwater recharge": [],
   "Group Method of Data Handling (GMDH)": [
-    "method",
-    "group method of data handling"
+    "group method of data handling",
+    "method"
   ],
   "Group method of data handing": [],
   "Growth from melts": [],
   "Growth prediction": [],
   "Growth rate": [],
   "Guaranteed convergence particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Guess Integer-Valued Function": [],
@@ -7042,40 +6868,40 @@
   ],
   "Heuristic search": [],
   "Hidden Markov Model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Hidden Markov Model (HMM)": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Hidden Markov Models": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Hidden Markov model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Hidh voltage direct current bus (HVDC-bus)": [],
   "Hierarchical Bayesian model": [],
@@ -7093,8 +6919,8 @@
     "regression"
   ],
   "Hierarchical probabilistic forecasting": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "High Concentrator PhotoVoltaic": [],
   "High Efficiency": [],
@@ -7177,13 +7003,13 @@
   "High-voltage-gain (HVG) dc-dc converter": [],
   "Higher education": [],
   "Higher-order multivariate Markov chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Highest occupied molecular orbit (HOMO)": [],
   "Highgain": [],
@@ -7289,10 +7115,10 @@
     "method"
   ],
   "Hybrid GA-PSO method and optimal size": [
-    "algorithm",
     "particle swarm",
-    "method",
-    "genetic algorithm"
+    "genetic algorithm",
+    "algorithm",
+    "method"
   ],
   "Hybrid ML model": [],
   "Hybrid MPPT": [],
@@ -7330,10 +7156,10 @@
   "Hybrid System (HS)": [],
   "Hybrid Systems": [],
   "Hybrid Taguchi-genetic algorithm (TGA)": [
+    "genetic algorithm",
     "algorithm",
     "taguchi",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Hybrid Vehicle": [],
   "Hybrid Wind-Photovoltaic System": [],
@@ -7352,12 +7178,7 @@
   "Hybrid collector": [],
   "Hybrid coupling with a cylindro parabolic concentrator": [],
   "Hybrid dc/ac grids": [],
-  "Hybrid deep learning strategy": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Hybrid deep learning strategy": [],
   "Hybrid distillation": [],
   "Hybrid electric tractor": [],
   "Hybrid electric vehicle": [],
@@ -7389,10 +7210,7 @@
     "algorithm",
     "method"
   ],
-  "Hybrid metaheuristic": [
-    "algorithm",
-    "method"
-  ],
+  "Hybrid metaheuristic": [],
   "Hybrid methodology": [],
   "Hybrid micro-grid": [],
   "Hybrid microgrid": [],
@@ -7558,11 +7376,7 @@
   "IBSCS": [],
   "IC": [],
   "IC and P O": [],
-  "ICA": [
-    "imperialist competition",
-    "algorithm",
-    "method"
-  ],
+  "ICA": [],
   "ICBP": [],
   "ICE": [],
   "ICT": [],
@@ -7603,20 +7417,12 @@
   "IMF": [],
   "INC": [],
   "IOD": [],
-  "IPSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "IPSO": [],
   "IPython": [],
   "IR camera": [],
   "IR spectroscopy": [],
   "IRES": [],
-  "ISA S101": [
-    "algorithm",
-    "method",
-    "interior search"
-  ],
+  "ISA S101": [],
   "ISCC": [],
   "ISFOC: Spanish Institute for Concentration Photo Voltaic Systems": [],
   "ISM: clouds": [],
@@ -7638,8 +7444,8 @@
   "IVIFS-TOPSIS": [],
   "IWD model": [],
   "IWO-PSO Algorithm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Ibadan": [],
@@ -7663,8 +7469,8 @@
   "Imbalance penalties": [],
   "Imbalances": [],
   "Immune particle swarm optimization algorithm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Impact assessment": [],
@@ -7685,8 +7491,8 @@
   "Impedance spectroscopy": [],
   "Imperfect competition": [],
   "Imperialist Competition Algorithm (ICA)": [
-    "imperialist competition",
     "algorithm",
+    "imperialist competition",
     "method"
   ],
   "Imperialist competitive algorithm": [
@@ -7709,11 +7515,7 @@
   "Impression Retrieval": [],
   "Improved Latin Hypercube sampling method": [],
   "Improved P&O": [],
-  "Improved PSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "Improved PSO": [],
   "Improved PV model": [],
   "Improved boost converter": [],
   "Improved cuckoo search algorithm": [
@@ -7722,8 +7524,8 @@
   ],
   "Improved firefly algorithm": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Improved gray prediction model": [],
   "Improved greedy algorithm": [
@@ -7732,8 +7534,8 @@
   ],
   "Improved grey Wolf optimizer algorithm": [
     "algorithm",
-    "grey wolf",
-    "method"
+    "method",
+    "grey wolf"
   ],
   "Improved honey bee mating optimization (HBMO)": [
     "algorithm",
@@ -7742,8 +7544,8 @@
   ],
   "Improved support vector regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Imputation methods": [],
   "In situ concrete temperature": [],
@@ -7784,20 +7586,20 @@
   ],
   "Incremental Conductance MPPT": [],
   "Incremental Conductance Method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Incremental Conductance algorithm": [
     "algorithm",
     "method"
   ],
   "Incremental Conductance method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Incremental Conductance method(INC)": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Incremental Conductance(IC)": [],
   "Incremental Step Pulse Programming (ISPP)": [],
@@ -7820,12 +7622,12 @@
   ],
   "Incremental conductance maximum power point tracking": [],
   "Incremental conductance method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Incremental conductance method (INC.)": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Incremental conductance technique": [],
   "Incremental conductance(INC)": [],
@@ -7928,8 +7730,8 @@
   "Input admittance": [],
   "Input current": [],
   "Input data classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Input filter design": [],
   "Input various": [],
@@ -8077,9 +7879,9 @@
   "Intraseasonal variability": [],
   "Intrinsic SiGe region": [],
   "Invasive Weed Optimization": [
+    "algorithm",
     "invasive weed",
-    "method",
-    "algorithm"
+    "method"
   ],
   "Inventory model": [],
   "Inverse heat transfer technique": [],
@@ -8227,10 +8029,10 @@
   "Jupiter": [],
   "Just-In-Time modeling": [],
   "K Nearest Neighbors": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "K factor control": [],
   "K-Means Clustring": [
@@ -8239,30 +8041,30 @@
     "k means"
   ],
   "K-NNR": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "K-Nearest Neighbor (KNN) algorithm": [
-    "method",
-    "algorithm",
-    "classification",
+    "regression",
     "k-nearest neighbor",
+    "classification",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "K-Nearest Neighbour (KNN) algorithm": [
-    "method",
-    "algorithm",
+    "regression",
     "k-nearest neighbor",
     "classification",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "K-fold cross-validation": [
-    "k-fold",
-    "statistics"
+    "statistics",
+    "k-fold"
   ],
   "K-means": [
     "machine learning",
@@ -8270,11 +8072,11 @@
     "k means"
   ],
   "K-means algorithm": [
-    "method",
+    "clustering",
     "algorithm",
-    "k means",
     "machine learning",
-    "clustering"
+    "method",
+    "k means"
   ],
   "K-means clustering": [
     "machine learning",
@@ -8287,73 +8089,64 @@
     "k means"
   ],
   "K-nearest neighbor": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "K-nearest neighbor algorithm": [
-    "method",
-    "algorithm",
-    "classification",
+    "regression",
     "k-nearest neighbor",
+    "classification",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "K-nearest neighbors": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "K-nearest-neighbor algorithm": [
-    "method",
-    "algorithm",
-    "classification",
+    "regression",
     "k-nearest neighbor",
+    "classification",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "KELM": [],
   "KNIME": [],
-  "KNN": [
-    "machine learning",
-    "classification",
-    "k-nearest neighbor",
-    "regression"
-  ],
+  "KNN": [],
   "KNN and Isolation Forest Algorithms": [
-    "method",
     "algorithm",
-    "classification",
-    "k-nearest neighbor",
-    "machine learning",
-    "regression"
+    "method"
   ],
   "Kafka": [],
   "Kalman": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalman Filter": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalman filter": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalman filter (KF)": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalman filtering": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalman training": [
-    "kalman",
-    "statistics"
+    "statistics",
+    "kalman"
   ],
   "Kalmen filter": [],
   "Kaneka GSA-60": [],
@@ -8369,11 +8162,11 @@
   "Kernel Method": [],
   "Kernel density estimation": [],
   "Kernel extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Kernel generalized likelihood ratio test (KGLRT)": [],
   "Kernel methods (KMs)": [],
@@ -8397,13 +8190,10 @@
   "Kohonen network": [],
   "Korea": [],
   "Krasovskii’s method": [],
-  "Kriging": [
-    "statistics",
-    "gaussian process"
-  ],
+  "Kriging": [],
   "Kruskal-Wallis": [
-    "statistics",
-    "kruskal-wallis"
+    "kruskal-wallis",
+    "statistics"
   ],
   "Kuiper belt objects: individual (2015 RR245)": [],
   "Kupang": [],
@@ -8411,9 +8201,9 @@
   "L.O.L.E.": [],
   "LADRC": [],
   "LASSO": [
-    "lasso",
+    "regression",
     "machine learning",
-    "regression"
+    "lasso"
   ],
   "LBIC": [],
   "LC Filters": [],
@@ -8462,63 +8252,28 @@
   "LNAPL recovery": [],
   "LPSP": [],
   "LRT": [],
-  "LS-SVM": [
-    "least-square",
-    "metric",
-    "support vector machine",
-    "classification",
-    "machine learning",
-    "regression"
-  ],
-  "LS-SVM (Least square support vector machine)": [
-    "least-square",
-    "metric",
-    "support vector machine",
-    "classification",
-    "machine learning",
-    "regression"
-  ],
+  "LS-SVM": [],
+  "LS-SVM (Least square support vector machine)": [],
   "LSPV system": [],
-  "LSTM": [
-    "machine learning",
-    "long short-term memory",
-    "classification",
-    "neural network",
-    "recurrent neural network",
-    "regression"
-  ],
-  "LSTM classifier": [
-    "machine learning",
-    "long short-term memory",
-    "classification",
-    "neural network",
-    "recurrent neural network",
-    "regression"
-  ],
-  "LSTM models": [
-    "machine learning",
-    "long short-term memory",
-    "classification",
-    "neural network",
-    "recurrent neural network",
-    "regression"
-  ],
+  "LSTM": [],
+  "LSTM classifier": [],
+  "LSTM models": [],
   "LSTM-Convolutional network": [
+    "regression",
     "convolutional neural network",
-    "machine learning",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "LSTM-RNN": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "LTC 3105": [],
   "LTSPICE": [],
@@ -8604,9 +8359,9 @@
   "Large-signal model": [],
   "Laser processing": [],
   "Lasso": [
-    "lasso",
+    "regression",
     "machine learning",
-    "regression"
+    "lasso"
   ],
   "Latent heat storage": [],
   "Latent heat system": [],
@@ -8654,50 +8409,48 @@
     "least-square"
   ],
   "Least Square Support Vector Machine": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least Square Support Vector Machine (LS-SVM)": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least Square Support Vector Regression": [
-    "least-square",
+    "regression",
     "metric",
-    "support vector regression",
     "machine learning",
-    "regression"
+    "support vector regression",
+    "least-square"
   ],
   "Least Squares Support Vector Machine": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least Squares Support Vector Machines (LS-SVM)": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least cost combinations": [],
   "Least mean square algorithm": [
     "algorithm",
-    "metric",
-    "method",
-    "least-square"
+    "method"
   ],
   "Least square method": [
     "metric",
@@ -8708,12 +8461,12 @@
     "least-square"
   ],
   "Least square support vector machine": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least squares approximations": [
     "metric",
@@ -8728,34 +8481,34 @@
     "least-square"
   ],
   "Least squares support vector machine": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least squares support vector machines": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least-square support vector machine": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "Least-squares algorithm": [
+    "least-square",
     "algorithm",
     "metric",
-    "method",
-    "least-square"
+    "method"
   ],
   "Least-squares boosting": [
     "metric",
@@ -8763,8 +8516,8 @@
   ],
   "Least-squares regression": [
     "machine learning",
-    "metric",
     "regression",
+    "metric",
     "least-square"
   ],
   "Led diode": [],
@@ -8825,12 +8578,7 @@
   "Lifetime modelling": [],
   "Lifetime optimization": [],
   "Lifetime prediction": [],
-  "Light GBM": [
-    "machine learning",
-    "lightgbm",
-    "ensemble",
-    "statistics"
-  ],
+  "Light GBM": [],
   "Light absorption": [],
   "Light concentration": [],
   "Light emitting diodes (LEDS)": [],
@@ -8843,10 +8591,10 @@
   "Light trapping": [],
   "Light wavelength": [],
   "LightGBM": [
-    "machine learning",
-    "lightgbm",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "lightgbm"
   ],
   "Lightenergy conversion": [],
   "Lighting Schemes": [],
@@ -8997,8 +8745,8 @@
   "Local climate conditions": [],
   "Local consumption": [],
   "Local control， particle swarm algorithm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Local electricity markets": [],
@@ -9030,54 +8778,54 @@
   ],
   "Lombok electrical network": [],
   "Long Short Term Memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long Short-Term Memory (LSTM)": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long Short-Term Memory networks": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long and medium-term power market": [],
   "Long and short term analysis": [],
   "Long short term memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long short term memory network": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long short-term memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long term energy strategy": [],
   "Long term flicker (Plt)": [],
@@ -9085,12 +8833,12 @@
   "Long wave radiation losses": [],
   "Long-distance delivery": [],
   "Long-short term memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "Long-term PV measures": [],
   "Long-term Variability": [],
@@ -9150,11 +8898,11 @@
   "Low load demand": [],
   "Low radiation cycle": [],
   "Low rank robust kernel extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Low stratus": [],
   "Low voltage distribution grid": [],
@@ -9195,10 +8943,7 @@
   "Lower upper bound estimation (LUBE)": [],
   "Lubrication": [],
   "Luenberger Observer": [],
-  "Lumerical FDTD": [
-    "finite difference time domain method",
-    "method"
-  ],
+  "Lumerical FDTD": [],
   "Luminescence": [],
   "Luminescent coupling": [],
   "Luminescent solar concentrator": [],
@@ -9221,27 +8966,15 @@
   "M5' model trees": [],
   "MACC": [],
   "MACSimJX": [],
-  "MAE": [
-    "metric",
-    "mean absolute error"
-  ],
-  "MAE (Mean Absolute Error)": [
-    "metric",
-    "mean absolute error"
-  ],
+  "MAE": [],
+  "MAE (Mean Absolute Error)": [],
   "MAE: Mean absolute error": [
-    "metric",
-    "mean absolute error"
+    "mean absolute error",
+    "metric"
   ],
   "MANOVA": [],
-  "MAPE": [
-    "mean absolute percentage error",
-    "metric"
-  ],
-  "MAPE (Mean Absolute Percentage Error)": [
-    "mean absolute percentage error",
-    "metric"
-  ],
+  "MAPE": [],
+  "MAPE (Mean Absolute Percentage Error)": [],
   "MARKAL model": [],
   "MARS": [],
   "MAT LAB SIMULINK": [],
@@ -9274,22 +9007,10 @@
   "MATLAB/simulink etc.": [],
   "MATLAB®": [],
   "MATLAB®/SIMULINK": [],
-  "MCS": [
-    "algorithm",
-    "method",
-    "monte carlo"
-  ],
+  "MCS": [],
   "MDA": [],
   "MDE": [],
-  "MDP": [
-    "method",
-    "algorithm",
-    "dynamic programming",
-    "statistics",
-    "machine learning",
-    "reinforcement learning",
-    "markov"
-  ],
+  "MDP": [],
   "MED": [],
   "MED-TVC": [],
   "MEMS": [],
@@ -9320,19 +9041,19 @@
   "MLI": [],
   "MLP": [],
   "MLP: Multilayer perceptron algorithm": [
-    "method",
-    "algorithm",
-    "multilayer perceptron",
+    "regression",
     "classification",
     "neural network",
+    "multilayer perceptron",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "MLPNN: Multi-layered perceptron neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "MLRT": [],
   "MMC": [],
@@ -9400,9 +9121,9 @@
   "MPPT experimental design": [],
   "MPPT for multiple peaks": [],
   "MPPT genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "MPPT maximum power point tracking": [],
   "MPPT optimization technique": [],
@@ -9422,26 +9143,12 @@
     "method"
   ],
   "MPRVS": [],
-  "MPSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "MPSO": [],
   "MRAC strategy": [],
   "MRM": [],
   "MSD": [],
-  "MSE": [
-    "mean square error",
-    "algorithm",
-    "metric",
-    "method"
-  ],
-  "MSE (Mean Square Error)": [
-    "mean square error",
-    "algorithm",
-    "metric",
-    "method"
-  ],
+  "MSE": [],
+  "MSE (Mean Square Error)": [],
   "MSOGI-FLL": [],
   "MSX 120PV Module": [],
   "MT": [],
@@ -9512,8 +9219,8 @@
   "Manufacturing and processing": [],
   "MapReduce": [
     "mapreduce",
-    "data",
-    "database"
+    "database",
+    "data"
   ],
   "Mapping": [],
   "Marcus theory": [],
@@ -9531,103 +9238,103 @@
   "Market pricing": [],
   "Market value": [],
   "Markov": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov Chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov Model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov chains": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov decision process (MDP)": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov decision processes": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov process": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov processes": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markov reliability model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Markovian Process": [],
   "Mars": [],
@@ -9642,8 +9349,8 @@
   "Master–slave based hierarchical control": [],
   "Mat LAB": [],
   "Match evaluation method (MEM)": [
-    "match evaluation method",
-    "method"
+    "method",
+    "match evaluation method"
   ],
   "Matching between site and hybrid renewable energy system": [],
   "Material Models": [],
@@ -9702,9 +9409,9 @@
   "Maximum Power Point Tracking (MPPT)": [],
   "Maximum Power Point Tracking (MPPT) Techniques": [],
   "Maximum Power Point Tracking (MPPT) and Perturb and Observe (P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Maximum Power Point Tracking (MPPT) scheme": [],
   "Maximum Power Point Tracking MPPT": [],
@@ -9759,9 +9466,9 @@
   "Maximum power point tracking (MPPT) nonlinear dynamics": [],
   "Maximum power point tracking (MPPT) techniques": [],
   "Maximum power point tracking (mppt) and perturb and observe (p&o)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Maximum power point tracking MPPT": [],
   "Maximum power point tracking system (MPPT)": [],
@@ -9774,40 +9481,40 @@
   "Maximum-power-point tracking (MPPT)": [],
   "Maximum-power-pointt-racking": [],
   "Mean Absolute Error (MAE)": [
-    "metric",
-    "mean absolute error"
+    "mean absolute error",
+    "metric"
   ],
   "Mean Absolute Percentage Error": [
-    "mean absolute percentage error",
-    "metric"
+    "metric",
+    "mean absolute percentage error"
   ],
   "Mean Absolute Percentage Error (MAPE)": [
-    "mean absolute percentage error",
-    "metric"
+    "metric",
+    "mean absolute percentage error"
   ],
   "Mean Absolute percentage error": [
-    "mean absolute percentage error",
-    "metric"
+    "metric",
+    "mean absolute percentage error"
   ],
   "Mean Squared Error": [],
   "Mean Time Between Failure": [],
   "Mean absolute error": [
-    "metric",
-    "mean absolute error"
+    "mean absolute error",
+    "metric"
   ],
   "Mean absolute error (MAE)": [
-    "metric",
-    "mean absolute error"
+    "mean absolute error",
+    "metric"
   ],
   "Mean bias error": [],
   "Mean free path": [],
   "Mean interval length": [],
   "Mean relative error": [],
   "Mean square Error (MSE) algorithm": [
-    "mean square error",
     "algorithm",
     "metric",
-    "method"
+    "method",
+    "mean square error"
   ],
   "Mean time to failure": [],
   "Meantime to failure": [],
@@ -9853,11 +9560,11 @@
   "Membrane stress": [],
   "Membranes": [],
   "Memetic reinforcement learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "Meridional impermeability": [],
   "Merit order": [],
@@ -9879,26 +9586,14 @@
     "method"
   ],
   "Meta-learning": [],
-  "Metaheuristic": [
-    "algorithm",
-    "method"
-  ],
+  "Metaheuristic": [],
   "Metaheuristic algorithms": [
     "algorithm",
     "method"
   ],
-  "Metaheuristic method": [
-    "algorithm",
-    "method"
-  ],
-  "Metaheuristic optimization": [
-    "algorithm",
-    "method"
-  ],
-  "Metaheuristics": [
-    "algorithm",
-    "method"
-  ],
+  "Metaheuristic method": [],
+  "Metaheuristic optimization": [],
+  "Metaheuristics": [],
   "Metal honeycomb": [],
   "Metal hydride": [],
   "Metal plate": [],
@@ -10051,8 +9746,8 @@
   "Min-max optimization": [],
   "Mind evolutionary algorithm": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Mineral dust aerosol": [],
   "Mineralization": [],
@@ -10237,17 +9932,17 @@
   "Models": [],
   "Models and modeling": [],
   "Modified Artificial Neural Networks (MANN),": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Modified Cuk converter": [],
   "Modified Elephant Herding Optimization (MEHO)": [
     "algorithm",
-    "elephant herding",
-    "method"
+    "method",
+    "elephant herding"
   ],
   "Modified Elephant Swarm Water Search Algorithm": [
     "algorithm",
@@ -10266,13 +9961,13 @@
   ],
   "Modified PMC": [],
   "Modified Particle Swarm Optimisation (MPSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Modified Particle Swarm Optimization (MPSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Modified artificial bee colony": [
@@ -10370,89 +10065,89 @@
   "Monsoon trough": [],
   "Monsoons": [],
   "Monte Carlo": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo (MC) simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo Estimation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo Simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo analysis": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo method": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo methods": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo ray tracing": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo ray-tracing method": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo simulation (MCS)": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte Carlo simulations": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte carlo": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte carlo simulations": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte-Carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monte-Carlo simulations": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Monthly global solar radiation": [],
   "Monthly mean variation": [],
@@ -10491,10 +10186,10 @@
   "Multi-Junction Cells": [],
   "Multi-Layer Feed Forward": [],
   "Multi-Layer Feedforward Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Multi-Level Cascaded qZSI": [],
   "Multi-Objective Programming Model": [],
@@ -10504,16 +10199,16 @@
   "Multi-agent": [],
   "Multi-agent adaptive fuzzy neuronet": [],
   "Multi-agent based modelling": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Multi-agent system": [],
   "Multi-agent system (MAS)": [],
   "Multi-agent systems": [],
   "Multi-agent-based model": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "Multi-attribute": [],
@@ -10546,24 +10241,19 @@
   "Multi-junction solar cells": [],
   "Multi-junctions": [],
   "Multi-layer artificial neural network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Multi-layer perceptron neural network (MLPNN)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
-  ],
-  "Multi-layered Feed-forward ANN model": [
     "machine learning",
-    "classification",
-    "neural network",
-    "regression"
+    "regression",
+    "neural network"
   ],
+  "Multi-layered Feed-forward ANN model": [],
   "Multi-level converters": [],
   "Multi-level games": [],
   "Multi-level inverter": [],
@@ -10587,9 +10277,9 @@
   "Multi-objective decision-making": [],
   "Multi-objective function": [],
   "Multi-objective genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Multi-objective linear programming": [],
   "Multi-objective model": [],
@@ -10637,23 +10327,35 @@
   "Multigeneration": [],
   "Multijunction solar cell": [],
   "Multijunction solar cells": [],
-  "Multilayer Perceptron": [],
-  "Multilayer backpropagation NN.": [
-    "artificial neural network",
+  "Multilayer Perceptron": [
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
-  ],
-  "Multilayer per-ceptron": [],
-  "Multilayer perceptron": [],
-  "Multilayer perceptron (MLP)": [],
-  "Multilayer perceptron model": [
     "multilayer perceptron",
+    "machine learning"
+  ],
+  "Multilayer backpropagation NN.": [],
+  "Multilayer per-ceptron": [],
+  "Multilayer perceptron": [
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "multilayer perceptron",
+    "machine learning"
+  ],
+  "Multilayer perceptron (MLP)": [
+    "regression",
+    "classification",
+    "neural network",
+    "multilayer perceptron",
+    "machine learning"
+  ],
+  "Multilayer perceptron model": [
+    "regression",
+    "classification",
+    "neural network",
+    "multilayer perceptron",
+    "machine learning"
   ],
   "Multilevel Converters": [],
   "Multilevel H-bridge inverter": [],
@@ -10663,8 +10365,8 @@
   "Multilevel converter": [],
   "Multilevel converters": [],
   "Multilevel cross entropy method": [
-    "cross-entropy",
-    "metric"
+    "metric",
+    "cross-entropy"
   ],
   "Multilevel inverter": [],
   "Multilevel inverter (MLI)": [],
@@ -10675,8 +10377,8 @@
   "Multiobjective": [],
   "Multiobjective evolutionary algorithms": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "Multiobjective fuzzy tracking control": [],
   "Multiobjective optimisation": [],
@@ -10698,8 +10400,8 @@
   ],
   "Multiple MPP": [],
   "Multiple Objective Particle Swarm Optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Multiple PV units": [],
@@ -10708,17 +10410,22 @@
     "regression"
   ],
   "Multiple artificial neural network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "Multiple buildings energy simulation": [],
   "Multiple data sources": [],
   "Multiple dependence": [],
   "Multiple energy tariffs": [],
-  "Multiple inlet BIPV/T": [],
+  "Multiple inlet BIPV/T": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv/t",
+    "thermal"
+  ],
   "Multiple linear regression": [
     "machine learning",
     "regression"
@@ -10752,21 +10459,20 @@
   "Multiple steps prediction": [],
   "Multiple types of batteries": [],
   "Multiple-Shifted-Frequency (MSF) method": [
-    "multiple-shifted-frequency method",
-    "method"
+    "method",
+    "multiple-shifted-frequency method"
   ],
   "Multiple-criteria fuzzy evaluation": [],
   "Multiple-inlet": [],
-  "Multiple-layer perceptron (MLP)": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "Multiple-layer perceptron (MLP)": [],
   "Multiplicative seasonality": [],
   "Multiport DC-DC converter": [],
   "Multiport Interleaved Power Converter (MIPC)": [],
-  "Multipurpose BIPV system": [],
+  "Multipurpose BIPV system": [
+    "building-integrated",
+    "photovoltaic",
+    "bipv"
+  ],
   "Multiregression Analysis": [],
   "Multiscale modeling": [],
   "Multisim": [],
@@ -10810,23 +10516,13 @@
   "N-paralleled PV systems": [],
   "NAND Flash": [],
   "NAR": [],
-  "NARX": [
-    "machine learning",
-    "autoregressive",
-    "statistics",
-    "regression"
-  ],
-  "NARX model": [
-    "machine learning",
-    "autoregressive",
-    "statistics",
-    "regression"
-  ],
+  "NARX": [],
+  "NARX model": [],
   "NARX: Nonlinear autoregressive models with exogenous": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "NASA": [],
   "NASA Ames Sustainability Base": [],
@@ -10845,25 +10541,20 @@
   "NIT Rourkela": [],
   "NLO": [],
   "NLP": [],
-  "NN": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "NN": [],
   "NN: Neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "NNE: Neural network ensemble": [
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
-    "ensemble",
-    "regression"
+    "ensemble"
   ],
   "NOCT": [],
   "NOx": [],
@@ -11006,94 +10697,94 @@
   "Network sharing": [],
   "Network upgrade": [],
   "Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural Network (NN)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural Network Control (NNC)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural Network Model": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural Network Models": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural Networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural and Fuzzy Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural and fuzzy neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network (NN)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network applications": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network controller": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network inverse model": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural network models": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Neuro fuzzy inference system": [],
   "Neuro-Fuzzy": [],
@@ -11159,8 +10850,8 @@
     "method"
   ],
   "Newton-Raphson algorithm": [
-    "algorithm",
     "newton-raphson",
+    "algorithm",
     "method"
   ],
   "Newton-Raphson method": [
@@ -11175,8 +10866,8 @@
   "NiMH": [],
   "Niche development": [],
   "Niched particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Nickel-metal hydride battery": [],
@@ -11215,8 +10906,8 @@
   "Non-overlapped connections": [],
   "Non-photosynthetic vegetation": [],
   "Non-probabilistic reliability": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Non-residential building": [],
   "Non-smooth bifurcation": [],
@@ -11237,9 +10928,9 @@
   "Nonlinear Auto-Regressive Models with eXogenous Inputs (NARX)": [],
   "Nonlinear AutoRegressive network with eXogenous inputs (NARX)": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Nonlinear DAE's": [],
   "Nonlinear Load": [],
@@ -11247,22 +10938,22 @@
   "Nonlinear auto-regressive with exogenous input model": [],
   "Nonlinear autoregressive exogenous (NARX)": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Nonlinear autoregressive network with exogenous inputs": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "Nonlinear circuits": [],
   "Nonlinear control": [],
   "Nonlinear dynamical systems": [],
   "Nonlinear finite element method": [
-    "finite element method",
-    "method"
+    "method",
+    "finite element method"
   ],
   "Nonlinear inductance": [],
   "Nonlinear load": [],
@@ -11617,11 +11308,11 @@
   "Optimized Type-3 controller": [],
   "Optimized array power": [],
   "Optimized kernel extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Optimized laying": [],
   "Optimizers": [],
@@ -11737,18 +11428,18 @@
   "P&O based MPPT": [],
   "P-25": [],
   "P-ELM": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "P-ELM: Persistent extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "P-Q based inverter controller": [],
   "P-Q chart": [],
@@ -11775,15 +11466,11 @@
   ],
   "PARTIAL shading": [],
   "PC1D": [],
-  "PCA": [
-    "principal component analysis",
-    "machine learning",
-    "dimension reduction"
-  ],
+  "PCA": [],
   "PCA-AP clustering": [
     "principal component analysis",
-    "clustering",
     "machine learning",
+    "clustering",
     "dimension reduction"
   ],
   "PCB": [],
@@ -11886,41 +11573,27 @@
   "PSDs": [],
   "PSF": [],
   "PSIM": [],
-  "PSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "PSO": [],
   "PSO algorithm": [
     "algorithm",
-    "particle swarm",
     "method"
   ],
-  "PSO based MPPT": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
-  "PSO techniques": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "PSO based MPPT": [],
+  "PSO techniques": [],
   "PSO-ANFIS controller": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "PSO-Particle swam optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "PSO-guided BF": [
-    "algorithm",
-    "method",
     "particle swarm",
-    "bacterial foraging"
+    "algorithm",
+    "method"
   ],
   "PSPICE": [],
   "PSPICE simulation": [],
@@ -12038,8 +11711,8 @@
   "PV characteristics": [],
   "PV characterization": [],
   "PV classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "PV cluster": [],
   "PV collector": [],
@@ -12281,10 +11954,10 @@
   "PV-Photo Voltaic": [],
   "PV-STATCOM": [],
   "PV-SVM": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "PV-Solar unit": [],
   "PV-Storage systems": [],
@@ -12422,10 +12095,10 @@
   "Paradigm": [],
   "Paraffin wax": [],
   "Paragraph Vector-Support Vector Machine (PV-SVM)": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Paragraph vector": [],
   "Paragraph vector model": [],
@@ -12534,18 +12207,18 @@
   "Partially shading conditions": [],
   "Particle Image Velocimetry (PIV)": [],
   "Particle Swarm Optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle Swarm Optimization (PSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle Swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle deposition": [],
@@ -12554,44 +12227,44 @@
   "Particle packing": [],
   "Particle physics": [],
   "Particle swarm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimisation": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimisation (PSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimization (PSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimization algorithm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Particle swarm optimization-artificial neural networks": [
-    "artificial neural network",
-    "method",
-    "algorithm",
+    "regression",
     "classification",
     "particle swarm",
     "neural network",
+    "algorithm",
     "machine learning",
-    "regression"
+    "artificial neural network",
+    "method"
   ],
   "Particulate matter": [],
   "Particulate organic matter": [],
@@ -12615,13 +12288,13 @@
   "Path planning": [],
   "Pathways": [],
   "Pattern Classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Pattern Recognition": [],
   "Pattern classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Pattern recognition": [],
   "Pattern search": [
@@ -12653,13 +12326,13 @@
   "Peak total purchasing power": [],
   "Peak-Shaving": [],
   "Peak-Type Markov chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Peak-shifting": [],
   "Peak-to-valley ratio": [],
@@ -12772,79 +12445,79 @@
     "method"
   ],
   "Perturb and Observe": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe (P & O) method and Boost Converter": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe (P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe (PO)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe PO": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe algorithm (P % O)": [
-    "algorithm",
     "perturb and observe",
+    "algorithm",
     "method"
   ],
   "Perturb and Observe technique (P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and Observe(P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe (P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe (PO)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe (PO) method": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe MPPT": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb and observe algorithm": [
-    "algorithm",
     "perturb and observe",
+    "algorithm",
     "method"
   ],
   "Perturb and observe(PO)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Perturb&Observe": [],
   "Perturb-and-observe (P&O) algorithm": [
@@ -13436,10 +13109,10 @@
   "Polynomial control": [],
   "Polynomial fuzzy model (PFM)": [],
   "Polynomial neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Polynomial pole placement": [],
   "Polynomial regression": [
@@ -13871,140 +13544,140 @@
   "Pro-environmental behavior": [],
   "Proactive control": [],
   "Probabilistic": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic Load Flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic Methods": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic Production Simulation": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic ZIP load model": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic analysis": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic analytical method": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic approach": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic approaches": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic density function (PDF)": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic forecast": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic forecast solar power": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic forecasting": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic forecasts": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic load flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic load modelling": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic methods": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic model": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic modeling": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic modelling": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic multistate model": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic neural network": [
-    "probabilistic",
     "statistics",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "probabilistic"
   ],
   "Probabilistic optimal power flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic power flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic power forecast of PV generation and net load": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic prediction": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic predictions": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic production costing": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic profiles": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic ramp of PV": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic reactive power": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic reliability analysis": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probabilistic uncertainty modelling": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Probability": [],
   "Probability Density Functions": [],
@@ -14069,8 +13742,8 @@
   "Prospective life cycle assessment": [],
   "Prostate cancer": [],
   "Prostate cancer classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Prostate-specific antigen": [],
   "Prostate-specific antigen (PSA)": [],
@@ -14189,10 +13862,10 @@
     "regression"
   ],
   "Quantile regression neural network (QRNN)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Quantitative design": [],
   "Quantity demand optimization": [],
@@ -14203,8 +13876,8 @@
   "Quantum efficiency": [],
   "Quantum mechanics": [],
   "Quantum particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Quantum transport": [],
@@ -14264,24 +13937,24 @@
   "RBD": [],
   "RBF": [],
   "RBF neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "RBF neural network (Radial basis function network)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "RBF: Radial basis function": [],
   "RBFNN": [],
   "RBFNN: Radial basis function neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "RBT bus 2": [],
   "RBTS": [],
@@ -14306,17 +13979,12 @@
   "RETSceen": [],
   "RETScreen": [],
   "RF - Random forest": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
-  "RF energy": [
-    "machine learning",
-    "random forest",
-    "statistics",
-    "ensemble"
-  ],
+  "RF energy": [],
   "RFID": [],
   "RIAC": [],
   "RK4": [],
@@ -14328,48 +13996,28 @@
   "RMS simulation": [],
   "RMS transient model": [],
   "RMS-simulations": [],
-  "RMSE": [
-    "mean square error",
-    "metric"
-  ],
-  "RMSE (Root Mean Square Error)": [
-    "mean square error",
-    "metric"
-  ],
-  "RMSE (root mean square error)": [
-    "mean square error",
-    "metric"
-  ],
+  "RMSE": [],
+  "RMSE (Root Mean Square Error)": [],
+  "RMSE (root mean square error)": [],
   "RMSE: Root mean square error": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "RNMSE: Rooted normalized mean square error": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
-  "RNN": [
-    "recurrent neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "RNN": [],
   "RNN algorithm": [
-    "method",
     "algorithm",
-    "recurrent neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
   ],
   "RNN: Recurrent neural network": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "RO": [],
   "RO Desalination": [],
@@ -14389,42 +14037,42 @@
   "Radial Basis": [],
   "Radial Basis Function": [],
   "Radial Basis Function (RBF) neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Radial Basis Function Network Models": [],
   "Radial Basis Function Neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Radial Basis Function network": [],
   "Radial Distribution Network": [],
   "Radial basic function (RBF)": [],
   "Radial basis function": [],
   "Radial basis function (RBF) neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Radial basis function network": [],
   "Radial basis function networks": [],
   "Radial basis function neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Radial basis functions": [],
   "Radial basis neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Radial distribution network": [],
   "Radial distribution networks": [],
@@ -14463,67 +14111,67 @@
   "Ramp-rate control": [],
   "Ramping capacity": [],
   "Random Forest": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random Forest Regression": [
-    "random forest",
     "statistics",
-    "machine learning",
+    "regression",
+    "random forest",
     "ensemble",
-    "regression"
+    "machine learning"
   ],
   "Random Forests": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random Fuzzy": [],
   "Random Parameters": [],
   "Random Search Method": [],
   "Random delay": [],
   "Random forest": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random forest (RF)": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random forest algorithm": [
-    "method",
-    "algorithm",
-    "random forest",
     "statistics",
     "machine learning",
-    "ensemble"
+    "random forest",
+    "algorithm",
+    "ensemble",
+    "method"
   ],
   "Random forests": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random forests (RFs)": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Random load": [],
   "Random walk model": [],
   "Random-Forest model": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "Rapid thermal diffusion": [],
   "Rate design": [],
@@ -14566,9 +14214,9 @@
   "Reactive-Power-Management": [],
   "Reactor model": [],
   "Real Coded Genetic Algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "Real Test Conditions (RTC)": [],
   "Real Time": [],
@@ -14640,59 +14288,59 @@
   "Rectifier": [],
   "Recurrence plot": [],
   "Recurrent Neural Network": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent Neural Networks": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent Neural network(RNN)": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent deep neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Recurrent neural network": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent neural network (RNN)": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent neural networks": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recurrent neural networks (RNN)": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "Recycle center deployment": [],
   "Recycle modes": [],
@@ -14800,19 +14448,19 @@
   "Regulating Capacity": [],
   "Regulating capacity": [],
   "Reinforcement Learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "Reinforcement Measure": [],
   "Reinforcement learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "Relative Gain Array": [],
   "Relative Humidity": [],
@@ -15016,13 +14664,13 @@
   "Residential urban districts": [],
   "Residential user": [],
   "Residual Correction of Markov Chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Residual capacity of inverter": [],
   "Residual load": [],
@@ -15089,16 +14737,16 @@
   "Ride-sharing": [],
   "Ridge regression": [
     "machine learning",
-    "ridge",
-    "regression"
+    "regression",
+    "ridge"
   ],
   "Ridgelet Probabilistic Neural Network": [
-    "probabilistic",
     "statistics",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "probabilistic"
   ],
   "Ringwoodite": [],
   "Ripple": [],
@@ -15118,10 +14766,7 @@
   "Risk-averse strategy": [],
   "Risk-based maintenance": [],
   "River": [],
-  "Rmse": [
-    "mean square error",
-    "metric"
-  ],
+  "Rmse": [],
   "RnE": [],
   "Road lighting": [],
   "Road solar collector": [],
@@ -15157,8 +14802,8 @@
   "Roof and facade": [],
   "Roof orientation": [],
   "Roof shape classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Roof top grid connected PV system": [],
   "Roof-Top solar panels": [],
@@ -15185,19 +14830,19 @@
   "Rooftop solar photovoltaics": [],
   "Room ventilation": [],
   "Root Mean Square Error": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "Root Mean Square Error (RMSE)": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "Root locus": [],
   "Root mean square": [],
   "Root mean square deviation": [],
   "Root mean square error": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "Root of equation": [],
   "Ropp test": [],
@@ -15222,13 +14867,13 @@
   "Rp and Rs estimations": [],
   "Rp-model": [],
   "Rule-based neural networks": [
-    "method",
-    "algorithm",
-    "rule-based",
+    "regression",
     "classification",
+    "rule-based",
     "neural network",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "Run-of-the River hydropower": [],
   "Run-to-run control": [],
@@ -15245,8 +14890,8 @@
   "Rural electrification": [],
   "Russia": [],
   "SA-PSO": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "SADM": [],
@@ -15259,19 +14904,19 @@
   "SARIMA model": [],
   "SARIMA modeling": [],
   "SARIMA-SVM": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "SARIMAX modeling": [],
   "SARSA": [
-    "method",
+    "reinforcement learning",
     "algorithm",
-    "sarsa",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "sarsa",
+    "method"
   ],
   "SBI": [],
   "SBPWM": [],
@@ -15282,10 +14927,7 @@
   "SCAPS": [],
   "SCIG": [],
   "SCWR": [],
-  "SDM": [
-    "steepest descent method",
-    "method"
-  ],
+  "SDM": [],
   "SECS": [],
   "SEIG": [],
   "SEPIC": [],
@@ -15297,11 +14939,7 @@
   "SEPIC converer": [],
   "SEPIC converter": [],
   "SEVIRI channels": [],
-  "SFLA": [
-    "algorithm",
-    "shuffled frog leaping",
-    "method"
-  ],
+  "SFLA": [],
   "SG": [],
   "SHAPF": [],
   "SHE": [],
@@ -15350,9 +14988,9 @@
   "SPWM inverter": [],
   "SQ80 Datasheet": [],
   "SQL-on-hadoop": [
-    "data",
     "database",
     "sql",
+    "data",
     "hadoop"
   ],
   "SRAM": [],
@@ -15383,67 +15021,33 @@
   "SVC": [],
   "SVC (static var compensator)": [],
   "SVD: Singular value decomposition": [],
-  "SVM": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
-  "SVM (Support Vector Machines)": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
+  "SVM": [],
+  "SVM (Support Vector Machines)": [],
   "SVM - Support vector machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "SVM Regression": [
     "machine learning",
-    "classification",
-    "support vector machine",
     "regression"
   ],
   "SVM regression": [
     "machine learning",
-    "classification",
-    "support vector machine",
     "regression"
   ],
-  "SVM technique": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
+  "SVM technique": [],
   "SVM: Support vector machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "SVPWM": [],
-  "SVR": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
-  "SVR(Support Vector Regression)": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
-  "SVR(step voltage regulator)": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
+  "SVR": [],
+  "SVR(Support Vector Regression)": [],
+  "SVR(step voltage regulator)": [],
   "SWAT model": [],
   "SWRL": [],
   "Sabah Grid System": [],
@@ -15467,12 +15071,12 @@
   "Sandbox": [],
   "Sandia National Laboratory model": [],
   "Sarsa": [
-    "method",
+    "reinforcement learning",
     "algorithm",
-    "sarsa",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "sarsa",
+    "method"
   ],
   "Sate of charge": [],
   "Satellite": [],
@@ -15507,8 +15111,8 @@
   "Scenarios": [],
   "Scenarios analysis": [],
   "Scene classification method": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Scheduling": [],
   "Scheduling optimization": [],
@@ -15534,10 +15138,10 @@
   "Seawater hydraulics": [],
   "Seawater-cooling systems": [],
   "Second curvelet neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Second generation wavelets": [],
   "Second law efficiency": [],
@@ -15593,10 +15197,10 @@
   "Self-organization model": [],
   "Self-organizing feature map (SOFM)": [],
   "Self-organizing incremental neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Self-organizing map": [],
   "Self-scheduling": [],
@@ -15611,30 +15215,25 @@
   "Semantic integration": [],
   "Semi ellipse shaped obstacle": [],
   "Semi-empirical model": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Semi-empirical models": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "Semi-industrial manufacture process": [],
   "Semi-lagrangian models": [],
   "Semi-markov process": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
-  "Semi-supervised SVM": [
-    "machine learning",
-    "classification",
-    "support vector machine",
-    "regression"
-  ],
+  "Semi-supervised SVM": [],
   "Semi-supervised learning": [],
   "Semi-transparent": [],
   "Semi-transparent CdTe photovoltaics": [],
@@ -15683,14 +15282,14 @@
   "Sequence domain": [],
   "Sequence operation theory": [],
   "Sequential Monte Carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Sequential Monte-Carlo": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "Sequential Quadratic Programming": [],
   "Sequential cluster": [],
@@ -15804,14 +15403,14 @@
   "Short-term wind speed prediction": [],
   "Shortwave radiation": [],
   "Shuffled Frog Leaping Algorithm": [
-    "algorithm",
     "shuffled frog leaping",
+    "algorithm",
     "method"
   ],
   "Shuffled complex evolution": [],
   "Shuffled frog leaping algorithm": [
-    "algorithm",
     "shuffled frog leaping",
+    "algorithm",
     "method"
   ],
   "Shunt Acttive Filter (SAF)": [],
@@ -15874,8 +15473,8 @@
   "Simple modelling": [],
   "Simple secondary model": [],
   "Simplified Particle Swarm Optimization(SPSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "Simplified cost model": [],
@@ -16415,8 +16014,8 @@
   "Solar irradiance": [],
   "Solar irradiance (G)": [],
   "Solar irradiance classification system": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Solar irradiance forecasting": [],
   "Solar irradiance model": [],
@@ -16639,8 +16238,8 @@
   "Spare Gaussian process regression": [
     "machine learning",
     "statistics",
-    "gaussian process",
-    "regression"
+    "regression",
+    "gaussian process"
   ],
   "Spark": [],
   "Sparse Systems": [],
@@ -16721,16 +16320,16 @@
   "Spherical grid": [],
   "Spice": [],
   "Spiking neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Spiking neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Spin on doping": [],
   "Spinning reserve": [],
@@ -16791,8 +16390,8 @@
   "Standard Test Conditions (STC)": [],
   "Standard firefly algorithm": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Standard load profile": [],
   "Standard protocol": [],
@@ -16924,13 +16523,13 @@
   "Stochastic": [],
   "Stochastic Energy Scheduling": [],
   "Stochastic Markov Modeling": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Stochastic Modeling": [],
   "Stochastic Programming": [],
@@ -16943,8 +16542,8 @@
   "Stochastic control": [],
   "Stochastic dynamic programming": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "Stochastic energy procurement problem (SEPP)": [],
   "Stochastic factor": [],
@@ -17118,48 +16717,48 @@
   "Supply sector": [],
   "Supply side and demand side": [],
   "Support Vector Machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Support Vector Machines": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Support Vector Regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Support vector machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Support vector machines": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "Support vector regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Support vector regression (SVR)": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Support vectors regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "Supporting policy": [],
   "Surface engineering": [],
@@ -17302,10 +16901,10 @@
   "Systems modeling": [],
   "T Location-Scale distribution": [],
   "T-S fuzzy neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "T-S model": [],
   "TAITherm": [],
@@ -17465,8 +17064,8 @@
   "Temperature sensors": [],
   "Temperature variation": [],
   "Temperature-augmented probabilistic load flow (TPLF)": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "Temperature-dependent resistance": [],
   "Temporal and spatial variability": [],
@@ -17486,8 +17085,8 @@
   "Testing platform model": [],
   "Tetralogy of Fallot": [],
   "Text classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Texture": [],
   "The AVC system": [],
@@ -17510,13 +17109,13 @@
   "The maximum power point tracking (MPPT)": [],
   "The reverse saturation current of the diode": [],
   "The weighted Markov chain": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "Theis formula": [],
   "Thematic mapping": [],
@@ -17783,10 +17382,10 @@
   "Time series model": [],
   "Time series modeling": [],
   "Time series neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Time series prediction": [],
   "Time-Series": [],
@@ -17810,10 +17409,7 @@
   "Time-of-use tariff": [],
   "Time-sequence production simulation": [],
   "Time-series": [],
-  "Time-series datamining": [
-    "data",
-    "data-mining"
-  ],
+  "Time-series datamining": [],
   "Time-series simulation": [],
   "Time-series study": [],
   "Time-varying commercial charging load model": [],
@@ -17867,9 +17463,9 @@
   "Tracking efficiency": [],
   "Tracking methods": [],
   "Tracking perturb and observe": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "Tracking schedule output": [],
   "Tracking system": [],
@@ -18273,12 +17869,12 @@
   "Variable speed wind turbine": [],
   "Variable step disturbance observation": [],
   "Variable step incremental conductance method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Variable step length incremental conductance method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "Variable step size": [],
   "Variable step size MPPT algorithm": [
@@ -18291,12 +17887,12 @@
   "Variance of the prediction errors": [],
   "Variation management": [],
   "Variational Recurrent Autoencoder": [
+    "regression",
     "dimension reduction",
     "autoencoder",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "Variational inference": [],
   "Variational mode decomposition": [],
@@ -18574,25 +18170,25 @@
   "Wavelet": [],
   "Wavelet Decomposition": [],
   "Wavelet Neural Network Forecast Model": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Wavelet Transform": [],
   "Wavelet Transform (WT)": [],
   "Wavelet analysis": [],
   "Wavelet and firefly algorithms": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "Wavelet decomposition": [],
   "Wavelet neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "Wavelet packet decomposition and recombination": [],
   "Wavelet transform": [],
@@ -18615,8 +18211,8 @@
   "Weather Forecast": [],
   "Weather analysis": [],
   "Weather classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "Weather condition": [],
   "Weather conditions": [],
@@ -18650,10 +18246,10 @@
   "Weighted Euclidean distance": [],
   "Weighted blended model": [],
   "Weighted k Nearest Neighbors": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "Weighted least squares": [
     "metric",
@@ -18812,22 +18408,22 @@
   "X-ray detection": [],
   "X/R ratio": [],
   "XGBoost": [
-    "machine learning",
-    "xgboost",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "xgboost"
   ],
   "XGBoost (Extreme Gradient Boosting)": [
-    "machine learning",
-    "xgboost",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "xgboost"
   ],
   "XGBoost model": [
-    "machine learning",
-    "xgboost",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning",
+    "xgboost"
   ],
   "XLSTAT": [],
   "XMPP": [],
@@ -18955,8 +18551,8 @@
   "adaptive kernel density estimator": [],
   "adaptive least square regression (ALSR)": [
     "machine learning",
-    "metric",
     "regression",
+    "metric",
     "least-square"
   ],
   "adaptive neuro-fuzzy inference system (ANFIS)": [],
@@ -18971,8 +18567,8 @@
   "ageing": [],
   "ageing indicator": [],
   "agent-based model": [
-    "algorithm",
     "agent-based",
+    "algorithm",
     "method"
   ],
   "aggregated PV source": [],
@@ -18984,7 +18580,11 @@
   "aging model": [],
   "aglectric": [],
   "agriculture": [],
-  "agrivoltaic": [],
+  "agrivoltaic": [
+    "agriculture",
+    "photovoltaic",
+    "agrivoltaic"
+  ],
   "agrivoltaics": [],
   "agrophotovoltaic": [],
   "aided software design": [],
@@ -19023,8 +18623,8 @@
   "analog controller": [],
   "analog processing circuits": [],
   "analysis of variance": [
-    "analysis of variance",
-    "statistics"
+    "statistics",
+    "analysis of variance"
   ],
   "analytical method": [],
   "ancillary services": [],
@@ -19039,8 +18639,8 @@
   "annual": [],
   "annual total solar radiation": [],
   "anomaly classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "anomaly detection": [],
   "anti-islanding protection": [],
@@ -19068,61 +18668,61 @@
     "method"
   ],
   "artificial bee colony–sparse Bayesian regression": [
-    "method",
-    "algorithm",
+    "regression",
     "artificial bee colony",
+    "algorithm",
     "machine learning",
-    "regression"
+    "method"
   ],
   "artificial classification of history day": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "artificial fish swarm algorithm (AFSA)": [
-    "algorithm",
     "artificial fish swarm",
+    "algorithm",
     "method"
   ],
   "artificial fish swarm algorithm with adaptive visual and step (AAFSA)": [
-    "algorithm",
     "artificial fish swarm",
+    "algorithm",
     "method"
   ],
   "artificial intelligence": [],
   "artificial neural network": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "artificial neural network (ANN)": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "artificial neural network (ANN) method": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "artificial neural network and performance analysis": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "artificial neural networks": [
-    "artificial neural network",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "artificial neuronal networks": [],
   "artificiel intelligence": [],
@@ -19137,11 +18737,11 @@
   "atmospheric dynamics": [],
   "atrial fibrillation": [],
   "attention mechanism": [
-    "attention",
+    "regression",
     "classification",
+    "attention",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "autocad": [],
   "automatic decision": [],
@@ -19150,23 +18750,23 @@
   "autonomy": [],
   "autoregressive integrated moving average (ARIMA) modeling": [
     "statistics",
+    "regression",
     "autoregressive integrated moving average",
-    "machine learning",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "autoregressive model": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "autoregressive moving average": [
-    "autoregressive moving average",
     "statistics",
-    "machine learning",
+    "regression",
+    "autoregressive moving average",
     "autoregressive",
-    "regression"
+    "machine learning"
   ],
   "availability": [],
   "average current mode": [],
@@ -19179,44 +18779,22 @@
   "azimuth angle": [],
   "back contact": [],
   "back contacts": [],
-  "back propagation (BP) network": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "back propagation (BP) network": [],
   "back propagation algorithm": [
-    "artificial neural network",
-    "method",
     "algorithm",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
   ],
   "back to back converter": [],
   "back-illumination": [],
   "back-tracking search": [
     "backtracking search",
-    "method",
-    "algorithm"
-  ],
-  "backpropagation": [
-    "artificial neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
-  "backpropagation algorithm": [
-    "artificial neural network",
-    "method",
     "algorithm",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
+    "method"
+  ],
+  "backpropagation": [],
+  "backpropagation algorithm": [
+    "algorithm",
+    "method"
   ],
   "backtracking": [],
   "bacteria": [],
@@ -19233,8 +18811,8 @@
   "baseband frequency": [],
   "basins": [],
   "bat algorithm (BA)": [
-    "algorithm",
     "bat",
+    "algorithm",
     "method"
   ],
   "batteries": [],
@@ -19264,10 +18842,7 @@
   "behind-the-meter": [],
   "belt and road initiative": [],
   "bendable PV": [],
-  "beta PDF": [
-    "probabilistic",
-    "statistics"
-  ],
+  "beta PDF": [],
   "beta probability density function": [],
   "beta probability density functions": [],
   "bi-directional": [],
@@ -19288,18 +18863,18 @@
   "bifurcation and chaos": [],
   "big data": [],
   "binary classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "binary search algorithm": [
-    "algorithm",
     "binary search",
+    "algorithm",
     "method"
   ],
   "bio-inspired algorithms": [
-    "bio-inspired",
+    "algorithm",
     "method",
-    "algorithm"
+    "bio-inspired"
   ],
   "biodiesel": [],
   "biogas": [],
@@ -19333,8 +18908,8 @@
   "buck-boost converter": [],
   "bucket elimination algorithm": [
     "algorithm",
-    "bucket elimination",
-    "method"
+    "method",
+    "bucket elimination"
   ],
   "building integrated PV": [],
   "building integrated microgrid": [],
@@ -19348,8 +18923,8 @@
   "buildings as power stations": [],
   "bulk heterojunction": [],
   "bus classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "bus type inspection principle": [],
   "business intelligence": [],
@@ -19420,8 +18995,8 @@
   "chaos": [],
   "chaotic characteristic": [],
   "chaotic inertia weight particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "chaotic load model": [],
@@ -19458,12 +19033,12 @@
   "circuit theory": [],
   "circulatory support": [],
   "classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "classification of electric load": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "cleaning": [],
   "cleantech": [],
@@ -19507,8 +19082,8 @@
   ],
   "clustering algorithm": [
     "machine learning",
-    "algorithm",
     "clustering",
+    "algorithm",
     "method"
   ],
   "clustering effect": [
@@ -19586,8 +19161,8 @@
   "conceptual model": [],
   "condition monitoring": [],
   "conditional interpolation algorithm": [
-    "algorithm",
     "conditional interpolation",
+    "algorithm",
     "method"
   ],
   "conditional probability": [],
@@ -19651,11 +19226,11 @@
   "converters control": [],
   "convex optimization": [],
   "convolutional neural network": [
+    "regression",
     "convolutional neural network",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "cooling": [],
   "cooling system": [],
@@ -19687,9 +19262,9 @@
   "coupling": [],
   "covariate": [],
   "crow search algorithm": [
+    "crow search",
     "algorithm",
-    "method",
-    "crow search"
+    "method"
   ],
   "crystalline Si solar cells": [],
   "crystalline materials": [],
@@ -19722,10 +19297,10 @@
   "curved roof": [],
   "curved solar": [],
   "custom neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "cut-off low": [],
   "cyber physical system": [],
@@ -19753,12 +19328,12 @@
   "data fusion": [],
   "data in power network": [],
   "data mining": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "data mining techniques": [
-    "data",
-    "data-mining"
+    "data-mining",
+    "data"
   ],
   "data preprocessing": [],
   "data processing": [],
@@ -19771,10 +19346,7 @@
     "data-driven",
     "data"
   ],
-  "datadriven optimization": [
-    "data-driven",
-    "data"
-  ],
+  "datadriven optimization": [],
   "datasheet": [],
   "datasheet's parameters": [],
   "day ahead forecasting": [],
@@ -19817,41 +19389,28 @@
   "decoupled network": [],
   "decoupling control": [],
   "deep belief net": [],
-  "deep learning": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
-  "deep learning desert type PV": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "deep learning": [],
+  "deep learning desert type PV": [],
   "deep moist convection": [],
   "deep neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "deep reinforcement learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
-    "classification",
-    "neural network",
     "machine learning",
-    "reinforcement learning",
-    "regression"
+    "method"
   ],
   "deep stratospheric intrusion": [],
   "deep-learning": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "defect increment": [],
   "defective solar cells": [],
@@ -19880,8 +19439,8 @@
   "derating adjusted forced outage rate": [],
   "desalination. Introduction": [],
   "describing function method": [
-    "describing function method",
-    "method"
+    "method",
+    "describing function method"
   ],
   "desert": [],
   "desert of southern Tunisia": [],
@@ -19916,10 +19475,10 @@
   "differential evolution": [],
   "differential mode converter": [],
   "differential polynomial neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "differential power processors": [],
   "diffuse horizontal irradiance": [],
@@ -20075,18 +19634,13 @@
   "dv/dt triggering of TRIACs": [],
   "dyesensitized solar cell": [],
   "dynamic": [],
-  "dynamic BP model": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "dynamic BP model": [],
   "dynamic Elman model": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "dynamic adjustment ability": [],
   "dynamic clustering equivalence": [
@@ -20095,9 +19649,9 @@
   ],
   "dynamic droop": [],
   "dynamic ensembles": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "dynamic equivalent": [],
   "dynamic equivalent modeling": [],
@@ -20112,18 +19666,18 @@
   "dynamic pricing": [],
   "dynamic programming": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "dynamic programming (DP)": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "dynamic programming (DP). electric vehicle (EV) charging": [
     "algorithm",
-    "dynamic programming",
-    "method"
+    "method",
+    "dynamic programming"
   ],
   "dynamic reactive power support": [],
   "dynamic shading": [],
@@ -20255,12 +19809,12 @@
   "emission": [],
   "emission level": [],
   "empirical": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "empirical equations": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "emulation": [
     "emulation",
@@ -20359,41 +19913,41 @@
   "energy-exergy analysis": [],
   "energy-level alignments": [],
   "ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "ensemble empirical mode decomposition (EEMD)": [
-    "method",
-    "empirical",
     "statistics",
     "machine learning",
-    "ensemble"
+    "ensemble",
+    "method",
+    "empirical"
   ],
   "ensemble forecasting": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "ensemble forecasts": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "ensemble network (EN)": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "ensemble of classifiers": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "ensemble predictions": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "entropy": [],
   "environment": [],
@@ -20428,18 +19982,18 @@
   "evolution fuzzy rules": [],
   "evolutionary learning": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "evolutionary programming": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "evolutionary programming (EP)": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "exciton": [],
   "exergetic performance": [],
@@ -20479,18 +20033,18 @@
   "extratropical cyclone": [],
   "extratropical cyclones": [],
   "extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "extreme learning machine (ELM)": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "extreme shading pattern": [],
   "extremum seeking": [],
@@ -20506,8 +20060,8 @@
   "fault calculation": [],
   "fault characteristic": [],
   "fault classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "fault correction": [],
   "fault detection": [],
@@ -20559,14 +20113,14 @@
   "finite volume method": [],
   "finite-amplitude instability": [],
   "finite-element method": [
-    "finite element method",
-    "method"
+    "method",
+    "finite element method"
   ],
   "fins": [],
   "firefly algorithm": [
     "algorithm",
-    "firefly",
-    "method"
+    "method",
+    "firefly"
   ],
   "first principle model": [],
   "first-principles": [],
@@ -20641,8 +20195,8 @@
   "frequency-domain methods": [],
   "frost prevention": [],
   "fruitfly optimization algorithm": [
-    "algorithm",
     "fruitfly",
+    "algorithm",
     "method"
   ],
   "fuel cell": [],
@@ -20700,25 +20254,25 @@
   "generic demand model": [],
   "generic models": [],
   "genetic algorithm": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "genetic algorithm (GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "genetic algorithm with elite retention": [
-    "algorithm",
     "genetic algorithm",
+    "algorithm",
     "method",
     "elite retention"
   ],
   "genetic algorithms (GA)": [
+    "genetic algorithm",
     "algorithm",
-    "method",
-    "genetic algorithm"
+    "method"
   ],
   "geo-spatial statistics": [],
   "geodynamic modeling": [],
@@ -20742,8 +20296,8 @@
   "grain boundaries": [],
   "grain boundary": [],
   "graph based classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
   "graph theory": [],
   "graphical model": [],
@@ -20751,10 +20305,10 @@
   "graphics processing unit (GPU)": [],
   "graphite heater": [],
   "gray neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "gray-box modeling": [],
   "green BRI": [],
@@ -20885,13 +20439,13 @@
   "heuristics": [],
   "hexagonal converter": [],
   "hidden Markov model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "hierarchical control": [],
   "high Energy Transfer efficiency": [],
@@ -20949,7 +20503,6 @@
   "hybrid MPPT": [],
   "hybrid PSO algorithm": [
     "algorithm",
-    "particle swarm",
     "method"
   ],
   "hybrid PV-Thermal": [],
@@ -20958,10 +20511,10 @@
   "hybrid TMDC alloys": [],
   "hybrid collectors": [],
   "hybrid deep neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "hybrid distributed generation": [],
   "hybrid energy storage": [],
@@ -20971,8 +20524,8 @@
   "hybrid energy systems": [],
   "hybrid evolutionary algorithm": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "hybrid forecast engine": [],
   "hybrid heat pump": [],
@@ -21040,33 +20593,33 @@
   "impedance spectroscopy": [],
   "importance measure": [],
   "improved K-means algorithm": [
-    "method",
+    "clustering",
     "algorithm",
-    "k means",
     "machine learning",
-    "clustering"
+    "method",
+    "k means"
   ],
   "improved Y-source inverter": [],
   "improved ant colony algorithm": [
-    "algorithm",
     "ant colony",
+    "algorithm",
     "method"
   ],
   "improved droop control": [],
   "improved gray prediction": [],
   "improved particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "improved particle swarm optimization (IPSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "improved particle swarm optimization algorithm": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "improved pointwise mutual information (IPMI)": [],
@@ -21084,8 +20637,8 @@
   "incremental conductance": [],
   "incremental conductance MPPT": [],
   "incremental conductance method": [
-    "incremental conductance method",
-    "method"
+    "method",
+    "incremental conductance method"
   ],
   "index": [],
   "individual MPPT": [],
@@ -21266,23 +20819,18 @@
     "k means"
   ],
   "k-nearest neighbor (k-NN)": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
+    "machine learning",
+    "regression",
+    "k-nearest neighbor"
   ],
   "k-nearest neighbors": [
-    "machine learning",
     "classification",
-    "k-nearest neighbor",
-    "regression"
-  ],
-  "kNN": [
     "machine learning",
-    "classification",
-    "k-nearest neighbor",
-    "regression"
+    "regression",
+    "k-nearest neighbor"
   ],
+  "kNN": [],
   "kernel density estimation": [],
   "kernel principal component analysis": [
     "principal component analysis",
@@ -21294,10 +20842,7 @@
     "regression"
   ],
   "key performance indicators (KPIs)": [],
-  "kriging": [
-    "statistics",
-    "gaussian process"
-  ],
+  "kriging": [],
   "lab-lab": [],
   "lagging": [],
   "laminated glass": [],
@@ -21330,33 +20875,33 @@
   "leakage current mitigation": [],
   "leakage currents": [],
   "leapfrog firefly algorithm": [
-    "leapfrog",
     "algorithm",
-    "firefly",
-    "method"
+    "leapfrog",
+    "method",
+    "firefly"
   ],
   "learning algorithms": [
     "algorithm",
     "method"
   ],
   "learning vector quantization (LVQ)": [
-    "learning vector quantization",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "learning vector quantization",
+    "machine learning"
   ],
   "least square method": [
     "metric",
     "least-square"
   ],
   "least square support vector machine (LSSVM)": [
-    "least-square",
-    "metric",
-    "support vector machine",
+    "regression",
     "classification",
+    "metric",
     "machine learning",
-    "regression"
+    "support vector machine",
+    "least-square"
   ],
   "least-square fusion": [
     "metric",
@@ -21412,11 +20957,7 @@
     "machine learning",
     "regression"
   ],
-  "linear weight reduction PSO": [
-    "algorithm",
-    "particle swarm",
-    "method"
-  ],
+  "linear weight reduction PSO": [],
   "linearization": [],
   "linearization approach": [],
   "linearized PV panel": [],
@@ -21475,47 +21016,47 @@
   ],
   "long lifetime": [],
   "long short-term memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "long short-term memory network": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "long short-term memory networks": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "long short-term memory-back-propagation neural network": [
-    "artificial neural network",
-    "recurrent neural network",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
+    "recurrent neural network",
     "machine learning",
-    "regression"
+    "artificial neural network"
   ],
   "long time series": [],
   "long-endurance target tracking": [],
   "long-short term memory": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "long-term prediction": [],
   "long-term unit commitment": [],
@@ -21571,13 +21112,13 @@
   "market liquidity": [],
   "markets": [],
   "markov model": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "mask optimization": [],
   "mass production effect": [],
@@ -21622,12 +21163,12 @@
   "maximum power point(MPP)": [],
   "maximum-power-point tracking": [],
   "mean absolute error": [
-    "metric",
-    "mean absolute error"
+    "mean absolute error",
+    "metric"
   ],
   "mean absolute percentage error (MAPE)": [
-    "mean absolute percentage error",
-    "metric"
+    "metric",
+    "mean absolute percentage error"
   ],
   "mean time to failure (MTTF)": [],
   "measured data": [],
@@ -21657,10 +21198,7 @@
     "algorithm",
     "method"
   ],
-  "metaheuristics": [
-    "algorithm",
-    "method"
-  ],
+  "metaheuristics": [],
   "metal foam": [],
   "metal precipitates": [],
   "metallic grating": [],
@@ -21712,8 +21250,8 @@
   "mild steel cones": [],
   "mind evolutionary algorithm": [
     "algorithm",
-    "method",
-    "evolutionary"
+    "evolutionary",
+    "method"
   ],
   "minimax regret criterion": [],
   "minimization of the maximum error": [],
@@ -21747,9 +21285,9 @@
   "model": [],
   "model acceptance testing": [],
   "model ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "model equations formulation": [],
   "model error": [],
@@ -21793,9 +21331,9 @@
   "modified current injection method": [],
   "modified direct incremental MPPT": [],
   "modified grey wolf optimization": [
-    "grey wolf",
+    "algorithm",
     "method",
-    "algorithm"
+    "grey wolf"
   ],
   "modified multidimension diode model": [],
   "modified nodal analysis (MNA)": [],
@@ -21826,14 +21364,14 @@
   "monocrystalline silicon panel": [],
   "monolithic": [],
   "monte carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "monte-carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "monthly": [],
   "motion sensor": [],
@@ -21862,13 +21400,7 @@
   "multi-junction PV cells": [],
   "multi-junction solar cell": [],
   "multi-junction solar cells": [],
-  "multi-layer RNN": [
-    "recurrent neural network",
-    "classification",
-    "neural network",
-    "machine learning",
-    "regression"
-  ],
+  "multi-layer RNN": [],
   "multi-layer perceptron": [],
   "multi-level converters": [],
   "multi-level inverters": [],
@@ -21878,9 +21410,9 @@
     "method"
   ],
   "multi-model ensemble": [
-    "machine learning",
     "ensemble",
-    "statistics"
+    "statistics",
+    "machine learning"
   ],
   "multi-objective optimization": [],
   "multi-objective probability model": [],
@@ -21897,10 +21429,10 @@
   "multi-time scale": [],
   "multi-variable control": [],
   "multiclass support vector machines": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "multicrystalline": [],
   "multicrystalline silicon": [],
@@ -21938,12 +21470,7 @@
   "multiple peaks": [],
   "multiple phase-lead compensator": [],
   "multiple-input converter": [],
-  "multiple-layer perceptron (MLP)": [
-    "machine learning",
-    "classification",
-    "neural network",
-    "regression"
-  ],
+  "multiple-layer perceptron (MLP)": [],
   "multiport": [],
   "multiport converter": [],
   "multiscale modeling": [],
@@ -21994,57 +21521,57 @@
   "networked converter systems": [],
   "networked microgrid": [],
   "neural Network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neural model": [],
   "neural network": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neural network ensbmle (NNE)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neural network ensemble (NNE)": [
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
-    "ensemble",
-    "regression"
+    "ensemble"
   ],
   "neural network ensembles": [
     "statistics",
+    "regression",
+    "machine learning",
     "classification",
     "neural network",
-    "machine learning",
-    "ensemble",
-    "regression"
+    "ensemble"
   ],
   "neural network modeling": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neural networks (NNs)": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "neuromorphic engineering": [],
   "neuronal network": [],
@@ -22074,15 +21601,15 @@
   "nonisolated inverter": [],
   "nonlinear autoregressive with exogenous input (NARX)": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "nonlinear autoregressive with exogenous inputs": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "nonlinear circuits": [],
   "nonlinear function": [],
@@ -22121,8 +21648,8 @@
   "object based point cloud analysis": [],
   "object detection": [],
   "oblique asymptote (OA) method": [
-    "method",
-    "oblique asymptote method"
+    "oblique asymptote method",
+    "method"
   ],
   "observer-based controller": [],
   "obstructed solar astronomical model": [],
@@ -22255,11 +21782,11 @@
   "parabolic trough collectors": [],
   "parabolic trough solar collector": [],
   "parallel Elman neural network": [
-    "elman",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "elman"
   ],
   "parallel algorithms": [
     "algorithm",
@@ -22294,8 +21821,8 @@
   "partial feedback linearization": [],
   "partial least squares regression": [
     "machine learning",
-    "metric",
     "regression",
+    "metric",
     "least-square"
   ],
   "partial shade": [],
@@ -22316,23 +21843,23 @@
   "partially shaded conditions (PSCs)": [],
   "participation in grid services": [],
   "particle swarm operation": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "particle swarm optimization": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "particle swarm optimization (PSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "particle swarm optimization (PSO.)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "particulate matter (PM)": [],
@@ -22392,27 +21919,27 @@
   "perovskites": [],
   "persistence": [],
   "persistence-extreme learning machine": [
+    "regression",
     "extreme learning machine",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "personalized ventilation": [],
   "perturb & observe": [],
   "perturb and observe": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "perturb and observe (P&O)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "perturb and observe (P&O) algorithm": [
-    "algorithm",
     "perturb and observe",
+    "algorithm",
     "method"
   ],
   "perturbation and observation": [],
@@ -22454,9 +21981,9 @@
   "photovoltaic": [],
   "photovoltaic (PV)": [],
   "photovoltaic (PV) and Perturb and Observe (PO)": [
+    "perturb and observe",
     "algorithm",
-    "method",
-    "perturb and observe"
+    "method"
   ],
   "photovoltaic (PV) array": [],
   "photovoltaic (PV) arrays": [],
@@ -22829,60 +22356,60 @@
   "prize collecting Steiner tree": [],
   "proabilistic power flow": [],
   "probabilistic": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic feeder performance": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic forecasting": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic forecasts": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic hosting capacity (PHC)": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic load flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic load flow (PLF)": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic load prediction": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic model": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic neural network (PNN)": [
-    "probabilistic",
     "statistics",
+    "regression",
     "classification",
     "neural network",
     "machine learning",
-    "regression"
+    "probabilistic"
   ],
   "probabilistic optimal power flow": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic techniques": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probabilistic uncertainty": [
-    "probabilistic",
-    "statistics"
+    "statistics",
+    "probabilistic"
   ],
   "probability": [],
   "probability density function": [],
@@ -22999,22 +22526,22 @@
   "random example sampling": [],
   "random feature selection": [],
   "random forest": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "random forests": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "random forests (RFs) technique": [
-    "machine learning",
     "random forest",
+    "ensemble",
     "statistics",
-    "ensemble"
+    "machine learning"
   ],
   "random fuzzy variable": [],
   "random installation": [],
@@ -23049,18 +22576,18 @@
   "reconfigurable systems": [],
   "reconfiguration by Magic Square": [],
   "recurrent neural network": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "recurrent neural networks": [
-    "recurrent neural network",
+    "regression",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "recurrent neural network",
+    "machine learning"
   ],
   "recycling": [],
   "reduce scenarios": [],
@@ -23090,25 +22617,25 @@
   ],
   "regulation ability of wind turbine": [],
   "reinforcement learning": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "reinforcement learning (RL)": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "reinforcement learning.": [
-    "method",
+    "reinforcement learning",
     "algorithm",
     "dynamic programming",
     "machine learning",
-    "reinforcement learning"
+    "method"
   ],
   "relative error": [],
   "relative gain array (RGA)": [],
@@ -23224,12 +22751,12 @@
   "rooftop photovoltaic generation": [],
   "root locus": [],
   "root mean square error": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "root mean square error (RMSE)": [
-    "mean square error",
-    "metric"
+    "metric",
+    "mean square error"
   ],
   "rotating shadowband spectroradiometer": [],
   "rotational inertia": [],
@@ -23259,16 +22786,10 @@
   "sea surface temperature": [],
   "seamless switch": [],
   "seasonal Classification": [
-    "machine learning",
-    "classification"
+    "classification",
+    "machine learning"
   ],
-  "seasonal-ARIMA (SARIMA)": [
-    "statistics",
-    "autoregressive integrated moving average",
-    "machine learning",
-    "autoregressive",
-    "regression"
-  ],
+  "seasonal-ARIMA (SARIMA)": [],
   "second generation generic model": [],
   "secondary systems": [],
   "section switchgear with sensor": [],
@@ -23295,18 +22816,18 @@
   "self-sustained": [],
   "semantic analysis": [],
   "semi-Markov process": [
-    "method",
+    "reinforcement learning",
+    "statistics",
+    "markov",
     "algorithm",
     "dynamic programming",
-    "statistics",
     "machine learning",
-    "reinforcement learning",
-    "markov"
+    "method"
   ],
   "semi-arid climate": [],
   "semi-empirical model": [
-    "empirical",
-    "method"
+    "method",
+    "empirical"
   ],
   "semi-supervised learning": [],
   "semi-transparent": [],
@@ -23329,14 +22850,14 @@
   "separately excited wound DC motor": [],
   "sepic converter": [],
   "sequential Monte Carlo simulation": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "sequential Monte Carlo simulation (SMCS)": [
+    "monte carlo",
     "algorithm",
-    "method",
-    "monte carlo"
+    "method"
   ],
   "sequential learning": [],
   "sequential modeling": [],
@@ -23385,8 +22906,8 @@
   "short-term prediction": [],
   "short-time prediction": [],
   "shuffled frog leaping algorithm (SFLA)": [
-    "algorithm",
     "shuffled frog leaping",
+    "algorithm",
     "method"
   ],
   "shunt active filter": [],
@@ -23727,20 +23248,20 @@
   "stability prediction": [],
   "stabilization": [],
   "stacked autoencoder (SAE)": [
+    "regression",
     "dimension reduction",
     "autoencoder",
     "classification",
     "neural network",
-    "machine learning",
-    "regression"
+    "machine learning"
   ],
   "stacked bidirectional long short-term memory approach": [
-    "machine learning",
+    "regression",
     "long short-term memory",
     "classification",
     "neural network",
     "recurrent neural network",
-    "regression"
+    "machine learning"
   ],
   "stackelberg game": [],
   "stand-alone": [],
@@ -23874,49 +23395,49 @@
   "supply-demand imbalance": [],
   "supply-demand-storage balancing": [],
   "support Vector Machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "support Vector Regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "support vector data description": [],
   "support vector machine": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "support vector machine (SVM)": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "support vector machines (SVM)": [
-    "machine learning",
     "classification",
-    "support vector machine",
-    "regression"
+    "machine learning",
+    "regression",
+    "support vector machine"
   ],
   "support vector regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "support vector regression (SVR)": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "support vector regression method": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "supraharmonics": [],
   "surface activation bonding": [],
@@ -24010,14 +23531,14 @@
   "the optimal horizontal obliquity": [],
   "the optimization model": [],
   "the particle swarm optimization (PSO)": [
-    "algorithm",
     "particle swarm",
+    "algorithm",
     "method"
   ],
   "the support vector regression": [
     "machine learning",
-    "support vector regression",
-    "regression"
+    "regression",
+    "support vector regression"
   ],
   "theoretical prediction": [],
   "thermal": [],
@@ -24210,10 +23731,10 @@
   "two-phase interleaved (TPI) boost converter": [],
   "two-stage PV systems": [],
   "two-stage neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "two-stage system": [],
   "two-terminal": [],
@@ -24302,9 +23823,9 @@
   "varying temperature": [],
   "vector autoregressive model": [
     "machine learning",
-    "autoregressive",
     "statistics",
-    "regression"
+    "regression",
+    "autoregressive"
   ],
   "vector control": [],
   "vehicle-To-grid": [],
@@ -24314,8 +23835,8 @@
   "vehicular charging center": [],
   "ventilated wall": [],
   "versatile threshold optimization (VTO)": [
-    "algorithm",
     "versatile threshold",
+    "algorithm",
     "method"
   ],
   "very short-term prediction": [],
@@ -24408,10 +23929,10 @@
   "wavelet": [],
   "wavelet decomposition": [],
   "wavelet neural networks": [
-    "machine learning",
     "classification",
-    "neural network",
-    "regression"
+    "machine learning",
+    "regression",
+    "neural network"
   ],
   "wavelet transform": [],
   "wavelet transform (WT)": [],
@@ -24504,8 +24025,8 @@
   "Čuk Converter": [],
   "Λ-ridge concentrators": [
     "machine learning",
-    "ridge",
-    "regression"
+    "regression",
+    "ridge"
   ],
   "αβ0": [],
   "β-blocker": [],

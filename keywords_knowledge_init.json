@@ -168,5 +168,42 @@
   ],
   "dynamic programming": [
     "reinforcement learning"
+  ],
+  "building-integrated": [
+    "bapv",
+    "bipv",
+    "biss",
+    "bispv",
+    "bispvt",
+    "bipv",
+    "bipvt",
+    "bipv/t",
+    "bist",
+    "bists"
+  ],
+  "thermal": [
+    "bapvt",
+    "bapv/t",
+    "bispvt",
+    "bipvt",
+    "bipv/t",
+    "bist",
+    "bists"
+  ],
+  "photovoltaic": [
+    "bapv",
+    "bispv",
+    "bispvt",
+    "bipv",
+    "biss",
+    "bipv",
+    "bipvt",
+    "bipv/t",
+    "bist",
+    "bists",
+    "agrivoltaic"
+  ],
+  "agriculture": [
+    "agrivoltaic"
   ]
 }
