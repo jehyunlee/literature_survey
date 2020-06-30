@@ -44,7 +44,8 @@
     "mean absolute error",
     "mean absolute percentage error",
     "cross-entropy",
-    "least-square"
+    "least-square",
+    "mean bias error"
   ],
   "machine learning": [
     "clustering",
