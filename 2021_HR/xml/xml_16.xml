@@ -1,0 +1,2611 @@
+<!DOCTYPE html>
+<!--[if IE 8]><html class="no-js lt-ie9" lang="en"></html><![endif]-->
+<!--[if (gte IE 8)]<!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="IE=edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <title>
+   Phys. Rev. Fluids 4, 114606 (2019)  -  Influence of wall-attached structures on the boundary of the quiescent core region in turbulent pipe flow
+  </title>
+  <meta content="width=device-width" name="viewport"/>
+  <link href="/manifest.json" rel="manifest"/>
+  <link href="//cdn.journals.aps.org/development/journals/images/favicon.ico" rel="icon" type="image/vnd.microsoft.icon"/>
+  <link href="//cdn.journals.aps.org/development/journals/stylesheets/prfluids-7879b33a.css" rel="stylesheet" type="text/css"/>
+  <script src="//cdn.journals.aps.org/development/journals/javascripts/modernizr-4e3616e6.custom.99321.js" type="text/javascript">
+  </script>
+  <meta content="Influence of wall-attached structures on the boundary of the quiescent core region in turbulent pipe flow" property="og:title"/>
+  <meta content="Physical Review Fluids" property="og:site_name"/>
+  <meta content="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.114606" property="og:url"/>
+  <meta content="article" property="og:type"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="2019-11-18" property="article:published_time"/>
+  <meta content="https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.4.114606.png" property="og:image"/>
+  <meta content="https://cdn.journals.aps.org/journals/PRFLUIDS/key_images/10.1103/PhysRevFluids.4.114606.png" property="twitter:image"/>
+  <meta content="image/png" property="og:image:type"/>
+  <meta content="The entrainment phenomena of the quiescent core region in a turbulent pipe flow are examined by characterizing the tall wall-attached structures of the streamwise velocity fluctuations. The quiescent core region is the uniform momentum zone with the highest streamwise velocity magnitude." name="description"/>
+  <meta content="The entrainment phenomena of the quiescent core region in a turbulent pipe flow are examined by characterizing the tall wall-attached structures of the streamwise velocity fluctuations. The quiescent core region is the uniform momentum zone with the highest streamwise velocity magnitude." property="og:description"/>
+  <meta name="twitter:card" value="summary"/>
+  <meta name="twitter:site" value="@APSphysics"/>
+  <meta content="1995707307312120" property="fb:app_id"/>
+  <meta content="doi:10.1103/PhysRevFluids.4.114606" name="dc.identifier"/>
+  <link href="https://link.aps.org/doi/10.1103/PhysRevFluids.4.114606" rel="canonical"/>
+  <meta content="American Physical Society" name="citation_publisher"/>
+  <meta content="Influence of wall-attached structures on the boundary of the quiescent core region in turbulent pipe flow" name="citation_title"/>
+  <meta content="2019/11/18" name="citation_date"/>
+  <meta content="10.1103/PhysRevFluids.4.114606" name="citation_doi"/>
+  <meta content="Physical Review Fluids" name="citation_journal_title"/>
+  <meta content="Phys. Rev. Fluids" name="citation_journal_abbrev"/>
+  <meta content="4" name="citation_volume"/>
+  <meta content="11" name="citation_issue"/>
+  <meta content="114606" name="citation_firstpage"/>
+  <meta content="Jongmin Yang" name="citation_author"/>
+  <meta content="Department of Mechanical Engineering, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jinyul Hwang" name="citation_author"/>
+  <meta content="Department of Mechanical Engineering, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Hyung Jin Sung" name="citation_author"/>
+  <meta content="Department of Mechanical Engineering, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea" name="citation_author_institution"/>
+  <meta content="http://link.aps.org/pdf/10.1103/PhysRevFluids.4.114606" name="citation_pdf_url"/>
+  <script async="" src="https://scholar.google.com/scholar_js/casa.js">
+  </script>
+  <!--[if IE 8]><link href="//cdn.journals.aps.org/development/journals/stylesheets/ie-bf8cfe43.css" rel="stylesheet" type="text/css" /><![endif]-->
+  <!--[if lt IE 9]><script>function closeInsufficientBrowserDialog () {
+  document.getElementById("insufficient-browser-dialog").style.display = "none";
+  if (document.getElementById("noshow_insufficient_browser_checkbox").checked) {
+    document.cookie = "noshow_insufficient_browser_dialog=true; path=/";
+  }
+}
+
+(function () {
+  var prev_window_onload = window.onload;
+  window.onload = function () {
+    if (!(document.cookie && /noshow_insufficient_browser_dialog/.test(document.cookie))) {
+      var body = document.getElementsByTagName('body')[0];
+      body.innerHTML += '<div id="insufficient-browser-dialog" style="position: absolute; top: 100px; visibility: visible; z-index: 999; display: block; opacity: 1;" class="small reveal-modal open"><h2>Please note:</h2> <p>Although we endeavor to make our web sites work with a wide variety of browsers, we can only support browsers that provide sufficiently modern support for web standards. Thus, this site requires the use of reasonably up-to-date versions of Google Chrome, FireFox, Internet Explorer (IE 9 or greater), or Safari (5 or greater). If you are experiencing trouble with the web site, please try one of these alternative browsers. If you need further assistance, you may write to <a href="mailto:help@aps.org">help@aps.org</a>.</p><p><input type="checkbox" id="noshow_insufficient_browser_checkbox" /> Please do not show this message again.</p><p><input class="small button" type="button" value="Close" onclick="closeInsufficientBrowserDialog()" /></p></div>';
+    }
+    prev_window_onload && prev_window_onload();
+  };
+})();</script><![endif]-->
+  <script>
+   !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
+analytics.load("F0FERKmaweSeRJJcUSSdRntbisjNC0L8");
+analytics.page();
+}}();
+  </script>
+ </head>
+ <body>
+  <nav class="top-bar" data-topbar="" id="top-bar">
+   <div id="skip">
+    <a href="#content">
+     Skip to Main Content
+    </a>
+   </div>
+   <ul class="title-area main">
+    <li class="name">
+     <h1>
+      <a href="https://www.aps.org/">
+       <img alt="APS Logo" class="logo" src="//cdn.journals.aps.org/development/journals/images/aps-logo.svg" style="height: 39px;"/>
+      </a>
+     </h1>
+    </li>
+    <li class="toggle-topbar menu-icon">
+     <a href="#">
+      <span>
+      </span>
+     </a>
+    </li>
+   </ul>
+   <section class="top-bar-section">
+    <ul class="left">
+     <li class="divider">
+     </li>
+     <li class="has-dropdown">
+      <a href="/">
+       Journals
+      </a>
+      <ul class="dropdown overflow">
+       <li>
+        <a href="/prl/">
+         Physical Review Letters
+        </a>
+       </li>
+       <li>
+        <a href="/prx/">
+         Physical Review X
+        </a>
+       </li>
+       <li>
+        <a href="/prxenergy/">
+         PRX Energy
+        </a>
+       </li>
+       <li>
+        <a href="/prxquantum/">
+         PRX Quantum
+        </a>
+       </li>
+       <li>
+        <a href="/rmp/">
+         Reviews of Modern Physics
+        </a>
+       </li>
+       <li>
+        <a href="/pra/">
+         Physical Review A
+        </a>
+       </li>
+       <li>
+        <a href="/prb/">
+         Physical Review B
+        </a>
+       </li>
+       <li>
+        <a href="/prc/">
+         Physical Review C
+        </a>
+       </li>
+       <li>
+        <a href="/prd/">
+         Physical Review D
+        </a>
+       </li>
+       <li>
+        <a href="/pre/">
+         Physical Review E
+        </a>
+       </li>
+       <li>
+        <a href="/prresearch/">
+         Physical Review Research
+        </a>
+       </li>
+       <li>
+        <a href="/prab/">
+         Physical Review Accelerators and Beams
+        </a>
+       </li>
+       <li>
+        <a href="/prapplied/">
+         Physical Review Applied
+        </a>
+       </li>
+       <li>
+        <a href="/prfluids/">
+         Physical Review Fluids
+        </a>
+       </li>
+       <li>
+        <a href="/prmaterials/">
+         Physical Review Materials
+        </a>
+       </li>
+       <li>
+        <a href="/prper/">
+         Physical Review Physics Education Research
+        </a>
+       </li>
+       <li>
+        <a href="/archive/">
+         Physical Review
+        </a>
+       </li>
+       <li>
+        <a href="/archive/">
+         Physical Review (Series I)
+        </a>
+       </li>
+       <li>
+        <a href="/ppf/">
+         Physics Physique Fizika
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="divider">
+     </li>
+     <li>
+      <a href="https://physics.aps.org/">
+       Physics Magazine
+      </a>
+     </li>
+     <li class="divider">
+     </li>
+     <li>
+      <a data-reveal-id="report-bug-modal" href="#" id="report-bug">
+       Help/Feedback
+      </a>
+     </li>
+     <li class="divider">
+     </li>
+    </ul>
+    <ul class="right">
+     <li class="has-form">
+      <form accept-charset="UTF-8" action="/search" class="top-bar-search" method="get">
+       <input name="authenticity_token" type="hidden" value="98b6e7b1433bc3affc4593f5dad2956d56e9921d663fd24b9f49c0f5e2cba35b"/>
+       <div class="row collapse">
+        <div class="small-10 large-10 columns">
+         <input name="sort" type="hidden" value="relevance"/>
+         <input autocapitalize="off" autocomplete="off" autocorrect="off" id="top-bar-search-input" name="q" placeholder="Journal, vol, page, DOI, etc." spellcheck="false" type="text"/>
+         <span class="adv-expand-wrap">
+          <a data-reveal-id="search-modal" href="#" id="adv-expand">
+           <span class="adv-expand-icon">
+           </span>
+          </a>
+         </span>
+         <a data-reveal-id="search-modal" href="#" id="adv-reveal-link">
+          Search/Article Lookup
+         </a>
+        </div>
+        <div class="small-2 large-2 columns">
+         <button class="button" type="submit">
+          <i class="fi-magnifying-glass">
+          </i>
+         </button>
+        </div>
+       </div>
+      </form>
+     </li>
+     <li class="divider">
+     </li>
+     <li>
+      <a data-reveal-id="login-modal" href="#">
+       Log in
+      </a>
+     </li>
+    </ul>
+   </section>
+  </nav>
+  <div class="top-alert-stripe">
+   Learn about our
+   <a href="https://journals.aps.org/covid19?utm_source=top_stripe&amp;amp;utm_medium=web&amp;amp;utm_campaign=covid19">
+    response to COVID-19
+   </a>
+   , including
+   <a href="https://journals.aps.org/collections/covid19?utm_source=top_stripe&amp;amp;utm_medium=web&amp;amp;utm_campaign=covid19">
+    freely available research
+   </a>
+   and
+   <a href="https://journals.aps.org/remote-access?utm_source=top_stripe&amp;amp;utm_medium=web&amp;amp;utm_campaign=covid19">
+    expanded remote access support.
+   </a>
+  </div>
+  <div class="reveal-modal" data-reveal="" id="tqc-hold-modal">
+  </div>
+  <div class="reveal-modal" data-reveal="" id="tqc-delete-modal">
+  </div>
+  <section class="has-subnav" id="header">
+   <div class="row">
+    <div class="large-12 columns">
+     <h2 class="title">
+      <a href="/prfluids/">
+       Physical Review Fluids
+      </a>
+     </h2>
+     <ul class="journal-nav inline-list">
+      <li>
+       <a href="/prfluids/highlights">
+        Highlights
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/recent">
+        Recent
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/accepted">
+        Accepted
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/collections">
+        Collections
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/authors">
+        Authors
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/referees">
+        Referees
+       </a>
+      </li>
+      <li>
+       <a href="/search">
+        Search
+       </a>
+      </li>
+      <li>
+       <a href="/press">
+        Press
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/about">
+        About
+       </a>
+      </li>
+      <li>
+       <a href="/prfluids/staff">
+        Staff
+       </a>
+      </li>
+      <li>
+       <a href="/feeds">
+        <i class="fi-rss">
+        </i>
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </section>
+  <div id="title">
+   <div class="row">
+    <large-12 class="columns">
+     <div class="panel header-panel">
+      <div class="row">
+       <div class="medium-12 columns">
+        <ul class="inline-list labels">
+         <li class="go-mobile">
+          <a href="https://journals.aps.org/account/go-mobile">
+           Go Mobile »
+          </a>
+         </li>
+         <li class="access">
+          Access by Korea Institute of Energy Research
+         </li>
+        </ul>
+       </div>
+      </div>
+      <div class="row">
+       <div class="medium-9 columns">
+        <h3>
+         Influence of wall-attached structures on the boundary of the quiescent core region in turbulent pipe flow
+        </h3>
+        <h5 class="authors">
+         Jongmin Yang, Jinyul Hwang, and Hyung Jin Sung
+        </h5>
+        <h5 class="pub-info">
+         Phys. Rev. Fluids
+         <b>
+          4
+         </b>
+         , 114606 – Published 18 November 2019
+        </h5>
+       </div>
+       <div class="medium-3 columns">
+        <div class="altmetric-embed" data-badge-popover="left" data-badge-type="donut" data-doi="10.1103/PhysRevFluids.4.114606" data-hide-no-mentions="true" data-link-target="_blank">
+        </div>
+        <div data-doi="10.1103/PhysRevFluids.4.114606" data-title="Phys. Rev. Fluids 4, 114606 (2019)  -  Influence of wall-attached structures on the boundary of the quiescent core region in turbulent pipe flow" data-url="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.114606" id="aps-share-widget">
+         <a class="share-button share-link" data-network="twitter">
+          <span>
+           <img src="//cdn.journals.aps.org/development/journals/images/icons/icon-twitter-white.svg"/>
+          </span>
+         </a>
+         <a class="share-button share-link" data-network="facebook">
+          <span>
+           <img src="//cdn.journals.aps.org/development/journals/images/icons/icon-facebook-white.svg"/>
+          </span>
+         </a>
+         <a class="share-button" id="share-more-button">
+          <img class="more" src="//cdn.journals.aps.org/development/journals/images/icons/sharethis.svg"/>
+          <span>
+           More
+          </span>
+         </a>
+         <div class="modal medium reveal-modal" data-reveal="" id="aps-share-widget-modal">
+          <div class="modal-content">
+          </div>
+          <a aria-label="close" class="close-reveal-modal">
+           ×
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="article-nav" id="article-actions">
+      <div class="row">
+       <div class="large-12 columns">
+        <ul class="article-nav-menu">
+         <li class="selected">
+          <a href="/prfluids/abstract/10.1103/PhysRevFluids.4.114606">
+           Article
+          </a>
+         </li>
+         <li class="">
+          <a href="/prfluids/references/10.1103/PhysRevFluids.4.114606">
+           References
+          </a>
+         </li>
+         <li class="">
+          <a href="/prfluids/cited-by/10.1103/PhysRevFluids.4.114606">
+           Citing Articles (4)
+          </a>
+         </li>
+        </ul>
+        <select class="article-nav-dropdown">
+         <option selected="selected" value="/prfluids/abstract/10.1103/PhysRevFluids.4.114606">
+          Article
+         </option>
+         <option value="/prfluids/references/10.1103/PhysRevFluids.4.114606">
+          References
+         </option>
+         <option value="/prfluids/cited-by/10.1103/PhysRevFluids.4.114606">
+          Citing Articles (4)
+         </option>
+        </select>
+        <div class="article-nav-actions">
+         <a class="small button" href="/prfluids/pdf/10.1103/PhysRevFluids.4.114606">
+          PDF
+         </a>
+         <a class="small button show-for-medium-up" href="/prfluids/abstract/10.1103/PhysRevFluids.4.114606#fulltext" id="fulltext-button">
+          HTML
+         </a>
+         <a class="small button" data-id="10.1103/PhysRevFluids.4.114606" href="/prfluids/export/10.1103/PhysRevFluids.4.114606" id="export-article-link">
+          Export
+          <span class="show-for-medium-up">
+           Citation
+          </span>
+         </a>
+        </div>
+       </div>
+      </div>
+     </div>
+    </large-12>
+   </div>
+  </div>
+  <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info:ofi/fmt:kev:mtx:journal&amp;rft_id=info:doi/10.1103/PhysRevFluids.4.114606&amp;rft.genre=article&amp;rft.atitle=Influence%20of%20wall-attached%20structures%20on%20the%20boundary%20of%20the%20quiescent%20core%20region%20in%20turbulent%20pipe%20flow&amp;rft.date=2019&amp;rft.jtitle=Physical%20Review%20Fluids&amp;rft.stitle=Phys.%20Rev.%20Fluids&amp;rft.volume=4&amp;rft.issue=11&amp;rft.artnum=114606&amp;rft.aufirst=Jongmin&amp;rft.aulast=Yang">
+   <!-- COinS -->
+  </span>
+  <div class="medium reveal-modal" data-reveal="" id="export-article">
+  </div>
+  <section id="article-body">
+   <div id="mobile-article-nav">
+    <select>
+     <option value="abstract">
+      Abstract
+     </option>
+     <option value="authors">
+      Authors
+     </option>
+     <option value="fulltext">
+      Article Text
+     </option>
+     <option value="#s1">
+      — INTRODUCTION
+     </option>
+     <option value="#s2">
+      — NUMERICAL SIMULATION
+     </option>
+     <option value="#s3">
+      — RESULTS AND DISCUSSION
+     </option>
+     <option value="#s4">
+      — CONCLUSIONS
+     </option>
+     <option value="#acknowledgements">
+      — ACKNOWLEDGMENTS
+     </option>
+     <option value="references">
+      References
+     </option>
+    </select>
+   </div>
+   <div class="nav-toggle">
+    <a aria-label="expand" class="sidebar-toggle" data-sidebar-toggle="">
+     <img src="//cdn.journals.aps.org/development/journals/images/icons/chevron-right.svg"/>
+    </a>
+   </div>
+   <div id="article-nav">
+    <div class="magellan-container" data-magellan-expedition="">
+     <dl class="side-nav show-for-medium-up">
+      <dd>
+       <a class="article-section-menu-item" data-magellan-arrival="abstract" href="#abstract" id="section-abstract">
+        Abstract
+       </a>
+      </dd>
+      <dd>
+       <a class="article-section-menu-item" data-magellan-arrival="authors" href="#authors" id="section-authors">
+        Authors
+       </a>
+      </dd>
+      <dd>
+       <a class="article-section-menu-item" data-magellan-arrival="fulltext" href="#fulltext" id="section-fulltext">
+        Article Text
+       </a>
+      </dd>
+      <dl>
+       <li>
+        <a class="fulltext-section-menu-item" data-magellan-arrival="s1" href="#s1">
+         INTRODUCTION
+        </a>
+       </li>
+       <li>
+        <a class="fulltext-section-menu-item" data-magellan-arrival="s2" href="#s2">
+         NUMERICAL SIMULATION
+        </a>
+       </li>
+       <li>
+        <a class="fulltext-section-menu-item" data-magellan-arrival="s3" href="#s3">
+         RESULTS AND DISCUSSION
+        </a>
+       </li>
+       <li>
+        <a class="fulltext-section-menu-item" data-magellan-arrival="s4" href="#s4">
+         CONCLUSIONS
+        </a>
+       </li>
+       <li>
+        <a class="fulltext-section-menu-item" data-magellan-arrival="acknowledgements" href="#acknowledgements">
+         ACKNOWLEDGMENTS
+        </a>
+       </li>
+      </dl>
+      <dd>
+       <a class="article-section-menu-item" data-magellan-arrival="references" href="#references" id="section-references">
+        References
+       </a>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <div class="nav-toggle">
+    <a aria-label="close" class="sidebar-toggle close" data-sidebar-toggle="">
+     <img src="//cdn.journals.aps.org/development/journals/images/icons/chevron-left.svg"/>
+    </a>
+   </div>
+   <div id="article-content">
+    <a name="abstract">
+    </a>
+    <section class="article open abstract" data-magellan-destination="abstract">
+     <h4 class="title">
+      Abstract
+      <span class="right">
+       <i class="fi-plus">
+       </i>
+       <i class="fi-minus">
+       </i>
+      </span>
+     </h4>
+     <div class="content" data-loaded="yes">
+      <p>
+       The entrainment phenomena of the quiescent core region in a turbulent pipe flow are examined by characterizing the tall wall-attached structures of the streamwise velocity fluctuations
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mo>
+         (
+        </mo>
+        <mi>
+         u
+        </mi>
+        <mo>
+         )
+        </mo>
+       </math>
+       extracted from direct numerical simulation data for
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <mi mathvariant="normal">
+          R
+         </mi>
+         <msub>
+          <mi mathvariant="normal">
+           e
+          </mi>
+          <mi>
+           τ
+          </mi>
+         </msub>
+         <mo>
+          =
+         </mo>
+         <mn>
+          926
+         </mn>
+        </mrow>
+       </math>
+       . The quiescent core region is the uniform momentum zone with the highest streamwise velocity magnitude. The conditionally averaged turbulence statistics undergo an abrupt jump across the boundary of the core region, which indicates that there is a viscous shear layer at this interface, and that it is similar to the turbulent-nonturbulent interface. The two-point correlation of the interface height fluctuations extends along the streamwise direction in a manner similar to that of
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mi>
+         u
+        </mi>
+       </math>
+       at the core boundary. The magnitudes of the local entrainment velocity were conditionally sampled by measuring the local curvatures of the core boundary, which are associated with large-scale structures. The local entrainment velocity
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mo>
+         (
+        </mo>
+        <msub>
+         <mi>
+          v
+         </mi>
+         <mi mathvariant="normal">
+          n
+         </mi>
+        </msub>
+        <mo>
+         )
+        </mo>
+       </math>
+       is enhanced at saddle concave and elliptic convex regions of the interface. This behavior mainly arises from small-scale motions due to viscous diffusion, which indicates that the large-scale features modulate the small scales associated with the entrainment velocity. In particular, the saddle concave shape formed by the bulgelike low-speed structures significantly strengthens the viscous component of
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+         <mi>
+          v
+         </mi>
+         <mi mathvariant="normal">
+          n
+         </mi>
+        </msub>
+       </math>
+       . The turbulence statistics near the core boundary were obtained based on the projection area of the tall wall-attached structures that were extracted from the instantaneous flow field. Sharp changes in the turbulence statistics are evident; the magnitude of these changes increases with increases in the height
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mo>
+         (
+        </mo>
+        <msub>
+         <mi>
+          l
+         </mi>
+         <mi>
+          y
+         </mi>
+        </msub>
+        <mo>
+         )
+        </mo>
+       </math>
+       of the identified structures. We reconstructed the turbulence statistics by using the tall structures with
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <mrow>
+         <msup>
+          <mrow>
+           <msub>
+            <mi>
+             l
+            </mi>
+            <mi>
+             y
+            </mi>
+           </msub>
+          </mrow>
+          <mo>
+           +
+          </mo>
+         </msup>
+         <mo>
+          &gt;
+         </mo>
+         <mn>
+          100
+         </mn>
+        </mrow>
+       </math>
+       and found that the reconstructed profiles are remarkably similar to the turbulence statistics across the core boundary. These results confirm that the sudden changes in the averaged turbulence statistics and the modulation of
+       <math xmlns="http://www.w3.org/1998/Math/MathML">
+        <msub>
+         <mi>
+          v
+         </mi>
+         <mi mathvariant="normal">
+          n
+         </mi>
+        </msub>
+       </math>
+       are associated with the instantaneous wall-attached structures that reach the core region.
+      </p>
+      <div class="clear-wrap">
+       <ul class="small-block-grid-2 large-block-grid-7">
+        <li>
+         <a data-orbit-link="figure-0" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/1/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-1" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/2/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-2" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/3/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-3" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/4/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-4" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/5/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-5" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/6/thumbnail"/>
+         </a>
+        </li>
+        <li>
+         <a data-orbit-link="figure-6" data-reveal-id="slideshow">
+          <img alt="Figure " src="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/7/thumbnail"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+      <a data-orbit-link="figure-7" data-reveal-id="slideshow" href="#">
+       7 More
+      </a>
+      <ul class="inline-list pub-dates">
+       <li>
+        Received 22 March 2019
+       </li>
+      </ul>
+      <p>
+       <span class="doi">
+        DOI:
+       </span>
+       <span class="doi-field">
+        https://doi.org/10.1103/PhysRevFluids.4.114606
+       </span>
+      </p>
+      <section id="rights">
+       <p>
+        ©2019 American Physical Society
+       </p>
+      </section>
+      <div class="physh-header">
+       <div class="physh-logo">
+       </div>
+       <h4>
+        Physics Subject Headings (PhySH)
+       </h4>
+      </div>
+      <div class="physh-tagging">
+       <div id="physh-dropdown-placeholder" style="display: none">
+       </div>
+       <div class="row collapse physh-concepts">
+        <div class="medium-3 columns">
+         <ol class="physh-path-breadcrumb wide">
+          <li>
+           <span class="facet">
+            Research Areas
+           </span>
+          </li>
+         </ol>
+        </div>
+        <div class="medium-9 columns">
+         <a class="physh-concept" data-id="0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89" href="/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%220c2f74cc-42b0-4b3a-b470-cd50aa7d0f89%5C%22%2C%5C%22label%5C%22%3A%5C%22Boundary%20layers%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;per_page=20">
+          Boundary layers
+         </a>
+         <a class="physh-concept primary" data-id="10c138e7-fbf9-4875-938c-c1e84ad5e598" href="/search/results?clauses=%5B%7B%22field%22%3A%22physh%22%2C%22value%22%3A%22%7B%5C%22facetid%5C%22%3Anull%2C%5C%22conceptid%5C%22%3A%5C%2210c138e7-fbf9-4875-938c-c1e84ad5e598%5C%22%2C%5C%22label%5C%22%3A%5C%22Structure%20%26%20turbulence%20of%20boundary%20layers%5C%22%2C%5C%22facetlabel%5C%22%3A%5C%22%5C%22%7D%22%2C%22operator%22%3A%22AND%22%7D%5D&amp;per_page=20">
+          Structure &amp; turbulence of boundary layers
+         </a>
+        </div>
+       </div>
+      </div>
+      <script>
+       window.articlePhySH = {"concepts":{"0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89":{"id":"0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89","label":"Boundary layers","paths":[[{"id":"bdb1ef91-b776-4e36-8f8f-3e93666bac1e","label":"Research Areas","uri":"http://physh.aps.org/facet/bdb1ef91-b776-4e36-8f8f-3e93666bac1e","exclude_from_indexing":true,"type":"facet"},{"id":"0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89","label":"Boundary layers","uri":"http://physh.aps.org/concept/0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89","type":"concept"}]]},"10c138e7-fbf9-4875-938c-c1e84ad5e598":{"id":"10c138e7-fbf9-4875-938c-c1e84ad5e598","label":"Structure & turbulence of boundary layers","paths":[[{"id":"bdb1ef91-b776-4e36-8f8f-3e93666bac1e","label":"Research Areas","uri":"http://physh.aps.org/facet/bdb1ef91-b776-4e36-8f8f-3e93666bac1e","exclude_from_indexing":true,"type":"facet"},{"id":"0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89","label":"Boundary layers","uri":"http://physh.aps.org/concept/0c2f74cc-42b0-4b3a-b470-cd50aa7d0f89","type":"concept"},{"id":"10c138e7-fbf9-4875-938c-c1e84ad5e598","label":"Structure & turbulence of boundary layers","uri":"http://physh.aps.org/concept/10c138e7-fbf9-4875-938c-c1e84ad5e598","type":"concept"}]]}}};
+      </script>
+      <div class="physh-disciplines">
+       <span class="label physh-discipline">
+        Fluid Dynamics
+       </span>
+      </div>
+     </div>
+    </section>
+    <a name="authors">
+    </a>
+    <section class="article authors open" data-magellan-destination="authors">
+     <h4 class="title">
+      Authors &amp; Affiliations
+      <span class="right">
+       <i class="fi-plus">
+       </i>
+       <i class="fi-minus">
+       </i>
+      </span>
+     </h4>
+     <div class="content" data-loaded="yes" style="">
+      <p>
+       <a href="/search/field/author/Jongmin%20Yang">
+        Jongmin Yang
+       </a>
+       ,
+       <a href="/search/field/author/Jinyul%20Hwang">
+        Jinyul Hwang
+       </a>
+       , and
+       <a href="/search/field/author/Hyung%20Jin%20Sung">
+        Hyung Jin Sung
+       </a>
+       <a href="https://orcid.org/0000-0002-4671-3626" style="display: inline-flex; align-self: center;">
+        <span class="orcid-id-icon">
+        </span>
+       </a>
+       <sup>
+        *
+       </sup>
+      </p>
+      <ul class="no-bullet">
+       <li>
+        <sup>
+        </sup>
+        Department of Mechanical Engineering, KAIST, 291 Daehak-ro, Yuseong-gu, Daejeon 34141, Republic of Korea
+       </li>
+      </ul>
+      <p>
+      </p>
+      <ul class="no-bullet contrib-notes">
+       <li id="n1">
+        <sup>
+         *
+        </sup>
+        Corresponding author: hjsung@kaist.ac.kr
+       </li>
+      </ul>
+     </div>
+     <div class="help-message" style="display: none;">
+      Click to Expand
+     </div>
+    </section>
+    <a name="fulltext">
+    </a>
+    <section class="article fulltext" data-auth-required="false" data-magellan-destination="fulltext">
+     <h4 class="title">
+      Article Text
+      <span class="right">
+       <i class="fi-plus">
+       </i>
+       <i class="fi-minus">
+       </i>
+      </span>
+     </h4>
+     <div class="content" data-loaded="no" id="fulltext-content" style="display: none">
+     </div>
+     <div class="help-message">
+      Click to Expand
+     </div>
+    </section>
+    <a name="references">
+    </a>
+    <section class="article references" data-auth-required="false" data-magellan-destination="references" id="references">
+     <h4 class="title">
+      References
+      <span class="right">
+       <i class="fi-plus">
+       </i>
+       <i class="fi-minus">
+       </i>
+      </span>
+     </h4>
+     <div class="content" data-loaded="no" style="display: none">
+     </div>
+     <div class="help-message">
+      Click to Expand
+     </div>
+    </section>
+   </div>
+   <div id="article-sidebar">
+    <section class="panel">
+     <h5>
+      Issue
+     </h5>
+     <p>
+      <a href="/prfluids/issues/4/11" id="article-issue-link">
+       Vol. 4, Iss. 11 — November 2019
+      </a>
+     </p>
+    </section>
+    <section class="panel" style="text-align: center;">
+     <a data-kind="Crossmark Widget" data-target="crossmark" data-title="Crossmark">
+      <img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" width="167"/>
+     </a>
+    </section>
+    <section class="panel" style="text-align: center;">
+     <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+      Reuse &amp; Permissions
+     </a>
+    </section>
+    <section class="panel">
+     <p>
+      <b>
+       Operations at APS will pause starting December 25 through January 2.
+      </b>
+      Journal articles will continue to be published December 27 through December 30. Submissions, referee reports, and other correspondence will be received and timestamped. Normal business operations will resume on January 3. We appreciate your understanding as processing and response times will be delayed.
+     </p>
+    </section>
+    <section class="panel">
+     <a href="/prxenergy/?utm_source=prfluids&amp;utm_medium=web&amp;utm_campaign=prxenergy">
+      <img src="//cdn.journals.aps.org/test/e9eb5c44-218b-4eb0-b9bd-97fb91c4754c/prx-energy-placard-image.png"/>
+     </a>
+    </section>
+    <section class="panel">
+     <a href="/prxquantum/?utm_source=prfluids&amp;utm_medium=web&amp;utm_campaign=prxquantum">
+      <img src="//cdn.journals.aps.org/test/91f8b0d1-9543-4367-b155-d089dbd52641/PRX Q placard-9.29-20211005-120306.png"/>
+     </a>
+    </section>
+    <section class="panel">
+     <h5>
+     </h5>
+     <div style="margin-bottom: 1.5rem;">
+      <a data-item-id="84b49c5c-1139-4fdb-a12c-6bdeaa0383f2" data-kind="Placard" data-title="Ways to Access APS Journal Articles Off-Campus" href="https://journals.aps.org/remote-access">
+       <strong>
+        Ways to Access APS Journal Articles Off-Campus
+       </strong>
+      </a>
+      <div class="teaser">
+       <p>
+        Many researchers now find themselves working away from their institutions and, thus, may have trouble accessing the Physical Review journals. To address this, we have been improving access via several different mechanisms. See
+        <a href="https://journals.aps.org/remote-access">
+         Off-Campus Access to
+         <em>
+          Physical Review
+         </em>
+        </a>
+        for further instructions.
+       </p>
+      </div>
+     </div>
+    </section>
+   </div>
+  </section>
+  <div class="reveal-modal" data-reveal="" id="get-article">
+   <div class="row">
+    <large-12 class="columns">
+     <h4>
+      Authorization Required
+     </h4>
+     <hr/>
+    </large-12>
+   </div>
+   <div class="row">
+    <div class="large-6 columns">
+     <form>
+      <input name="username" placeholder="Username" type="text"/>
+      <input name="password" placeholder="Password" type="password"/>
+      <a class="small button">
+       Log In
+      </a>
+     </form>
+    </div>
+    <div class="large-6 columns">
+     <h6>
+      Other Options
+     </h6>
+     <ul>
+      <li>
+       <a href="#">
+        Buy Article »
+       </a>
+      </li>
+      <li>
+       <a href="#">
+        Find an Institution with the Article »
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <a aria-label="close" class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <div class="reveal-modal" data-reveal="" id="action-modal">
+   <div class="row">
+    <div class="large-12 columns">
+     <h4>
+      Download &amp; Share
+     </h4>
+     <hr/>
+     <a class="button expand" href="/prfluids/pdf/10.1103/PhysRevFluids.4.114606">
+      PDF
+     </a>
+     <a class="button expand" data-id="10.1103/PhysRevFluids.4.114606" data-reveal-id="export-article" href="/prfluids/export/10.1103/PhysRevFluids.4.114606">
+      Export
+     </a>
+     <a class="button expand" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+      Reuse &amp; Permissions
+     </a>
+     <a class="button expand" href="/prfluids/cited-by/10.1103/PhysRevFluids.4.114606">
+      Citing Articles (4)
+     </a>
+     <ul class="inline-list">
+      <li>
+       <div class="fb-like" data-layout="button_count" data-send="false" data-show-faces="true" data-width="450" href="https://link.aps.org/doi/10.1103/PhysRevFluids.4.114606">
+       </div>
+      </li>
+      <li>
+       <a class="twitter-share-button" data-url="https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.114606" href="https://twitter.com/share">
+        Tweet
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+   <a aria-label="close" class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <div class="reveal-modal" data-reveal="" id="slideshow">
+   <div class="row">
+    <div class="large-12 columns">
+     <h4>
+      Images
+     </h4>
+    </div>
+   </div>
+   <ul data-orbit="">
+    <li data-orbit-slide="figure-0">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 1" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/1/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 1
+       </h6>
+       <p>
+        (a) 3D-contour representation of the instantaneous streamwise velocity for 1.8 &lt;
+        <i>
+         x/R
+        </i>
+        &lt; 1.9 and 0 &lt;
+        <i>
+         y/R
+        </i>
+        &lt; 1. (b) The PDF of the instantaneous streamwise velocity was constructed by using
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mn>
+          1.2
+         </mn>
+         <mi>
+          R
+         </mi>
+        </math>
+        as the streamwise domain length of the subzone (inset). (c) The distribution of the modal velocities as a function of the streamwise domain length of the subzone (
+        <i>
+         Δx
+        </i>
+        ). (d) The PDF of the modal velocities obtained from all the instantaneous flow fields with
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi mathvariant="normal">
+           Δ
+          </mi>
+          <mi>
+           x
+          </mi>
+          <mo>
+           =
+          </mo>
+          <mn>
+           1.2
+          </mn>
+          <mi>
+           R
+          </mi>
+         </mrow>
+        </math>
+        .
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-1">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 2" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/2/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 2
+       </h6>
+       <p>
+        (a) Instantaneous flow field of the streamwise velocity in the
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi>
+           x
+          </mi>
+          <mtext>
+           −
+          </mtext>
+          <mi>
+           y
+          </mi>
+         </mrow>
+        </math>
+        plane. The white lines are the contour
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover accent="true">
+           <mi>
+            u
+           </mi>
+           <mo>
+            ̃
+           </mo>
+          </mover>
+          <mo>
+           =
+          </mo>
+          <mn>
+           0.95
+          </mn>
+          <msub>
+           <mi>
+            U
+           </mi>
+           <mi>
+            CL
+           </mi>
+          </msub>
+         </mrow>
+        </math>
+        . (b) The
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           C
+          </mi>
+         </msub>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           N
+          </mi>
+         </msub>
+        </math>
+        regions with bubbles
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           B
+          </mi>
+         </msub>
+         <mo>
+          )
+         </mo>
+        </math>
+        and drops
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           D
+          </mi>
+         </msub>
+         <mo>
+          )
+         </mo>
+        </math>
+        in the cross-stream plane at
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi>
+           x
+          </mi>
+          <mo>
+           /
+          </mo>
+          <mi>
+           R
+          </mi>
+          <mo>
+           =
+          </mo>
+          <mn>
+           1.5
+          </mn>
+         </mrow>
+        </math>
+        (see the vertical dashed line in (a)).
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           C
+          </mi>
+         </msub>
+        </math>
+        is the core region where
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover accent="true">
+           <mi>
+            u
+           </mi>
+           <mo>
+            ̃
+           </mo>
+          </mover>
+          <mo>
+           &gt;
+          </mo>
+          <mn>
+           0.95
+          </mn>
+          <msub>
+           <mi>
+            U
+           </mi>
+           <mi>
+            CL
+           </mi>
+          </msub>
+         </mrow>
+        </math>
+        (gray), and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           N
+          </mi>
+         </msub>
+        </math>
+        is the noncore region where
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover accent="true">
+           <mi>
+            u
+           </mi>
+           <mo>
+            ̃
+           </mo>
+          </mover>
+          <mo>
+           &lt;
+          </mo>
+          <mn>
+           0.95
+          </mn>
+          <msub>
+           <mi>
+            U
+           </mi>
+           <mi>
+            CL
+           </mi>
+          </msub>
+         </mrow>
+        </math>
+        (white) respectively. (c) Boundary of the core
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           I
+          </mi>
+         </msub>
+         <mo>
+          )
+         </mo>
+        </math>
+        obtained from Eq. (
+        <a href="#d1">
+         1
+        </a>
+        ). In (a), the thick white line indicates the identified core boundary
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msub>
+          <mi mathvariant="normal">
+           Ω
+          </mi>
+          <mi mathvariant="normal">
+           I
+          </mi>
+         </msub>
+         <mo>
+          )
+         </mo>
+        </math>
+        and the inset shows the
+        <i>
+         x-ζ
+        </i>
+        plane
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <mrow>
+          <mn>
+           2
+          </mn>
+          <mo>
+           &lt;
+          </mo>
+          <mi>
+           x
+          </mi>
+          <mo>
+           /
+          </mo>
+          <mi>
+           R
+          </mi>
+          <mo>
+           &lt;
+          </mo>
+          <mn>
+           3
+          </mn>
+         </mrow>
+         <mo>
+          )
+         </mo>
+        </math>
+        of the instantaneous streamwise velocity.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-2">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 3" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/3/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 3
+       </h6>
+       <p>
+        Conditional mean profiles of (a) the streamwise velocity, (b) the wall-normal velocity, (c) the turbulence intensity, (d) the Reynolds shear stress, (e) the spanwise vorticity
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           ω
+          </mi>
+          <mi>
+           z
+          </mi>
+         </msub>
+        </math>
+        , and (f) the population densities of the prograde
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msup>
+          <mi mathvariant="normal">
+           Π
+          </mi>
+          <mi mathvariant="normal">
+           p
+          </mi>
+         </msup>
+         <mo>
+          )
+         </mo>
+        </math>
+        and retrograde
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <msup>
+          <mi mathvariant="normal">
+           Π
+          </mi>
+          <mi mathvariant="normal">
+           r
+          </mi>
+         </msup>
+         <mo>
+          )
+         </mo>
+        </math>
+        vortices as functions of
+        <i>
+         ζ
+        </i>
+        .
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-3">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 4" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/4/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 4
+       </h6>
+       <p>
+        Two-point correlations of (a) the boundary height fluctuations, and (b) the streamwise velocity fluctuations; the reference wall-normal location is at
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi>
+           y
+          </mi>
+          <mo>
+           =
+          </mo>
+          <msub>
+           <mover accent="true">
+            <mi>
+             y
+            </mi>
+            <mo>
+             ̃
+            </mo>
+           </mover>
+           <mi mathvariant="normal">
+            I
+           </mi>
+          </msub>
+         </mrow>
+        </math>
+        .
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-4">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 5" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/5/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 5
+       </h6>
+       <p>
+        (a) Percolation diagram for the identified structures. Isosurfaces of the identified structures in the instantaneous flow field when (b)
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mi>
+           α
+          </mi>
+          <mo>
+           =
+          </mo>
+          <mn>
+           0.5
+          </mn>
+         </mrow>
+        </math>
+        , (c) 1.5, and (d) 1.9. The blue and red isosurfaces are the low- and high-speed structures, respectively.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-5">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 6" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/6/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 6
+       </h6>
+       <p>
+        (a) The number of clusters per unit wall-parallel area
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mo>
+           (
+          </mo>
+          <mrow>
+           <mo>
+            =
+           </mo>
+           <mn>
+            2
+           </mn>
+           <mi>
+            π
+           </mi>
+           <mi>
+            R
+           </mi>
+           <msub>
+            <mi>
+             L
+            </mi>
+            <mi>
+             x
+            </mi>
+           </msub>
+          </mrow>
+          <mo>
+           )
+          </mo>
+         </mrow>
+        </math>
+        as a function of
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mi>
+           min
+          </mi>
+         </msub>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           y
+          </mi>
+          <mi>
+           max
+          </mi>
+         </msub>
+        </math>
+        . (b) The population densities of the wall-attached low-speed (blue) and high-speed (red) structures as functions of
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           ζ
+          </mi>
+          <mi>
+           min
+          </mi>
+         </msub>
+        </math>
+        .
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           ζ
+          </mi>
+          <mi>
+           min
+          </mi>
+         </msub>
+        </math>
+        is the minimum wall-normal distance of the object from the core boundary. The arrow denotes
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <msub>
+           <mi>
+            ζ
+           </mi>
+           <mi>
+            min
+           </mi>
+          </msub>
+          <mo>
+           =
+          </mo>
+          <mo>
+           −
+          </mo>
+          <mn>
+           0.066
+          </mn>
+          <mi>
+           R
+          </mi>
+          <mrow>
+           <mo>
+            (
+           </mo>
+           <mrow>
+            <mo>
+             ≈
+            </mo>
+            <mn>
+             60
+            </mn>
+            <mspace width="0.16em">
+            </mspace>
+            <mi>
+             ν
+            </mi>
+            <mo>
+             /
+            </mo>
+            <msub>
+             <mi>
+              u
+             </mi>
+             <mi>
+              τ
+             </mi>
+            </msub>
+           </mrow>
+           <mo>
+            )
+           </mo>
+          </mrow>
+         </mrow>
+        </math>
+        . Isosurfaces of the (c) wall-attached and (d) wall-detached structures. The red and blue isosurfaces correspond to positive and negative fluctuations respectively, and the brightness of the color indicates the distance from the wall.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-6">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 7" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/7/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 7
+       </h6>
+       <p>
+        JPDFs of the relative positions of the wall-attached structures near the core boundary: (a) pairs of high-speed structures, (b) pairs of high- and low-speed structures, and (c) pairs of low-speed structures.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-7">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 8" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/8/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 8
+       </h6>
+       <p>
+        Enstrophy flux
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mo>
+          (
+         </mo>
+         <mrow>
+          <mo>
+           −
+          </mo>
+          <mi>
+           v
+          </mi>
+          <msup>
+           <mrow>
+            <msub>
+             <mi>
+              w
+             </mi>
+             <mi>
+              z
+             </mi>
+            </msub>
+           </mrow>
+           <mn>
+            2
+           </mn>
+          </msup>
+         </mrow>
+         <mo>
+          )
+         </mo>
+        </math>
+        for a saddle concave geometry with a wall-attached low-speed structure in the instantaneous flow field. (ai) Isosurface of the core boundary. The color indicates the height of the boundary. (bi) A wall-attached low-speed structure. The brightness of the color indicates the distance from the wall. (aii, bii) Instantaneous enstrophy flux in the cross-stream plane. The black (aii) and blue (bii) lines are the core boundary and the wall-attached structure, respectively.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-8">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 9" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/9/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 9
+       </h6>
+       <p>
+        (a) JPDF of the local curvatures at the boundary of the quiescent core region as a function of the mean and Gaussian curvatures
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        . Conditional averages as a function of
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        of (b) the local entrainment velocity, (c) the viscous contribution, and (d) the inviscid contribution.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-9">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 10" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/10/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 10
+       </h6>
+       <p>
+        (a) JPDF of the local curvatures at the boundary of the quiescent core region obtained by projecting the wall-attached high-speed structures onto the core boundary as a function of the Gaussian and mean curvatures
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        . Conditional averages as a function of
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        of (b) the local entrainment velocity, (c) the viscous contribution, and (d) the inviscid contribution.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-10">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 11" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/11/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 11
+       </h6>
+       <p>
+        (a) JPDF of the local curvatures at the boundary of the quiescent core region obtained by projecting the wall-attached low-speed structures onto the core boundary as a function of the Gaussian and mean curvatures
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        . Conditional averages as a function of
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          H
+         </mi>
+        </math>
+        and
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mi>
+          K
+         </mi>
+        </math>
+        of (b) the local entrainment velocity, (c) the viscous contribution, and (d) the inviscid contribution.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-11">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 12" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/12/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 12
+       </h6>
+       <p>
+        Conditional averages of (a) the streamwise velocity, (b) the streamwise turbulence intensity, (c) the wall-normal turbulence intensity, and (d) the Reynolds shear stress contained within the projection area of the wall-attached structures as a function of
+        <i>
+         ζ
+        </i>
+        . The heights of the wall-attached structures vary from
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <msup>
+           <mrow>
+            <msub>
+             <mi>
+              l
+             </mi>
+             <mi>
+              y
+             </mi>
+            </msub>
+           </mrow>
+           <mo>
+            +
+           </mo>
+          </msup>
+          <mo>
+           =
+          </mo>
+          <mn>
+           100
+          </mn>
+         </mrow>
+        </math>
+        to
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <msup>
+           <mrow>
+            <msub>
+             <mi>
+              l
+             </mi>
+             <mi>
+              y
+             </mi>
+            </msub>
+           </mrow>
+           <mo>
+            +
+           </mo>
+          </msup>
+          <mo>
+           =
+          </mo>
+          <mn>
+           900
+          </mn>
+         </mrow>
+        </math>
+        . The horizontal line in (a) is
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <mrow>
+          <mover accent="true">
+           <mi>
+            u
+           </mi>
+           <mo>
+            ̃
+           </mo>
+          </mover>
+          <mo>
+           =
+          </mo>
+          <mn>
+           0.95
+          </mn>
+          <msub>
+           <mi>
+            U
+           </mi>
+           <mi>
+            CL
+           </mi>
+          </msub>
+         </mrow>
+        </math>
+        .
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-12">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 13" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/13/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 13
+       </h6>
+       <p>
+        Conditional averages of the local entrainment velocity on the projection area of (ai) the wall-attached high-speed structures and (bi) the wall-attached low-speed structures with respect to
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           l
+          </mi>
+          <mi>
+           y
+          </mi>
+         </msub>
+        </math>
+        . Conditional averages of the viscous and inviscid contributions to the local entrainment velocity on the projection area of (aii) the wall-attached high-speed structures and (bii) the wall-attached low-speed structures with respect to
+        <math xmlns="http://www.w3.org/1998/Math/MathML">
+         <msub>
+          <mi>
+           l
+          </mi>
+          <mi>
+           y
+          </mi>
+         </msub>
+        </math>
+        . The dashed line indicates the mean value.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+    <li data-orbit-slide="figure-13">
+     <div class="row">
+      <div class="large-8 columns">
+       <div class="img-wrap">
+        <img alt="Figure 14" class="lazy" data-original="/prfluids/article/10.1103/PhysRevFluids.4.114606/figures/14/medium"/>
+       </div>
+      </div>
+      <div class="large-4 columns caption-container">
+       <h6>
+        Figure 14
+       </h6>
+       <p>
+        The conditional profiles (lines) in Fig.
+        <a href="#f3">
+         3
+        </a>
+        and the reconstructed profiles (circles) obtained from Eq. (
+        <a href="#d11">
+         11
+        </a>
+        ): (a) the streamwise velocity, (b) the streamwise turbulence intensity, (c) the wall-normal turbulence intensity, and (d) the Reynolds shear stress.
+       </p>
+       <a class="small button" href="https://powerxeditor.aptaracorp.com/sciprisaps/RnPRequest/submit?ArticleTitle=Influence+of+wall-attached+structures+on+the+boundary+of+the+quiescent+core+region+in+turbulent+pipe+flow&amp;AuthorName=Jongmin+Yang%2C+Jinyul+Hwang%2C+and+Hyung+Jin+Sung&amp;JournalCode=PRFLUIDS&amp;contentid=10.1103%2FPhysRevFluids.4.114606" id="reuse-button" target="_blank">
+        Reuse &amp; Permissions
+       </a>
+      </div>
+     </div>
+    </li>
+   </ul>
+   <a aria-label="close" class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Register.MessageHook("Math Processing Error",function (message) {
+  console.log(message[2].stack);  // message[2] is the error object
+});
+  </script>
+  <div class="email-callout" style="text-align: center; padding-top: 3rem; padding-bottom: 5rem; margin-top: 6rem;">
+   <section class="column-row">
+    <p>
+     Sign up to receive regular email alerts from
+     <i>
+      Physical Review Fluids
+     </i>
+    </p>
+    <form action="/alerts" method="post" style="max-width: 31.25rem; width: auto; margin: 0 auto">
+     <input name="authenticity_token" type="hidden" value="98b6e7b1433bc3affc4593f5dad2956d56e9921d663fd24b9f49c0f5e2cba35b"/>
+     <div style="width: 75%; padding-left: 0; padding-right: 0; float: left">
+      <input autocapitalize="off" autocorrect="off" name="email" placeholder="Enter your email" type="email"/>
+      <input name="journals" type="hidden" value="PRFLUIDS"/>
+     </div>
+     <div style="width: 25%; padding-left: 0; padding-right: 0; float: left">
+      <input class="button small" type="submit" value="Sign Up"/>
+     </div>
+    </form>
+   </section>
+  </div>
+  <footer>
+   <section id="footer-top">
+    <div class="row">
+     <div class="large-12 columns">
+      <h5 class="footer-drop">
+       More Links
+      </h5>
+      <ul class="inline-list footer-drop-links">
+       <li>
+        <a href="https://www.aps.org/">
+         APS
+        </a>
+       </li>
+       <li>
+        <a href="https://www.aps.org/membership/join.cfm">
+         Join APS
+        </a>
+       </li>
+       <li class="social">
+        <a href="https://twitter.com/APSphysics">
+         <i class="social fi-twitter">
+         </i>
+        </a>
+       </li>
+       <li class="social">
+        <a href="https://www.facebook.com/apsphysics">
+         <i class="social fi-facebook">
+         </i>
+        </a>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </section>
+   <div class="row collapse link-block">
+    <div class="large-12 columns">
+     <ul class="small-block-grid-1 medium-block-grid-5 large-block-grid-5 lists">
+      <li>
+       <h6 class="title">
+        Authors
+       </h6>
+       <div class="content">
+        <ul>
+         <li>
+          <a href="/prfluids/authors">
+           General Information
+          </a>
+         </li>
+         <li>
+          <a href="https://authors.aps.org/Submissions/">
+           Submit a Manuscript
+          </a>
+         </li>
+         <li>
+          <a href="/pub_rights.html">
+           Publication Rights
+          </a>
+         </li>
+         <li>
+          <a href="/open_access.html">
+           Open Access
+          </a>
+         </li>
+         <li>
+          <a href="/prfluids/authors/editorial-policies-practices">
+           Policies &amp; Practices
+          </a>
+         </li>
+         <li>
+          <a href="/authors/tips-authors-physical-review-physical-review-letters">
+           Tips for Authors
+          </a>
+         </li>
+         <li>
+          <a href="/authors/professional-conduct-ethics">
+           Professional Conduct
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+      <li>
+       <h6 class="title">
+        Referees
+       </h6>
+       <div class="content">
+        <ul>
+         <li>
+          <a href="/prfluids/referees">
+           General Information
+          </a>
+         </li>
+         <li>
+          <a href="http://referees.aps.org/">
+           Submit a Report
+          </a>
+         </li>
+         <li>
+          <a href="http://referees.aps.org/">
+           Update Your Information
+          </a>
+         </li>
+         <li>
+          <a href="/prfluids/authors/editorial-policies-practices">
+           Policies &amp; Practices
+          </a>
+         </li>
+         <li>
+          <a href="/referees/faq.html">
+           Referee FAQ
+          </a>
+         </li>
+         <li>
+          <a href="/prfluids/referees/advice-referees-physical-review">
+           Guidelines for Referees
+          </a>
+         </li>
+         <li>
+          <a href="/OutstandingReferees">
+           Outstanding Referees
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+      <li>
+       <h6 class="title">
+        Librarians
+       </h6>
+       <div class="content">
+        <ul>
+         <li>
+          <a href="https://librarians.aps.org/">
+           General Information
+          </a>
+         </li>
+         <li>
+          <a href="https://librarians.aps.org/subscriptions">
+           Subscriptions
+          </a>
+         </li>
+         <li>
+          <a href="https://librarians.aps.org/sitelicense.pdf">
+           Online License Agreement
+          </a>
+         </li>
+         <li>
+          <a href="http://counter.aps.org/">
+           Usage Statistics
+          </a>
+         </li>
+         <li>
+          <a href="https://librarians.aps.org/account">
+           Your Account
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+      <li>
+       <h6 class="title">
+        Students
+       </h6>
+       <div class="content">
+        <ul>
+         <li>
+          <a href="https://physics.aps.org">
+           Physics
+          </a>
+         </li>
+         <li>
+          <a href="http://www.physicscentral.com/">
+           PhysicsCentral
+          </a>
+         </li>
+         <li>
+          <a href="https://www.aps.org/membership/student.cfm">
+           Student Membership
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+      <li>
+       <h6 class="title">
+        APS Members
+       </h6>
+       <div class="content">
+        <ul>
+         <li>
+          <a href="https://www.aps.org/membership/aps-publications.cfm">
+           Subscriptions
+          </a>
+         </li>
+         <li>
+          <a href="https://journals.aps.org/article-packs">
+           Article Packs
+          </a>
+         </li>
+         <li>
+          <a href="https://www.aps.org/membership/index.cfm">
+           Membership
+          </a>
+         </li>
+         <li>
+          <a href="https://www.aps.org/membership/faq.cfm">
+           FAQ
+          </a>
+         </li>
+         <li>
+          <a href="https://www.aps.org/publications/apsnews/index.cfm">
+           APS News
+          </a>
+         </li>
+         <li>
+          <a href="https://www.aps.org/meetings/index.cfm">
+           Meetings &amp; Events
+          </a>
+         </li>
+        </ul>
+       </div>
+      </li>
+     </ul>
+     <hr/>
+     <ul class="inline-list misc">
+      <li>
+       <a href="https://www.aps.org/about/webpolicies.cfm#privacy">
+        Privacy
+       </a>
+      </li>
+      <li>
+       <a href="/policies">
+        Policies
+       </a>
+      </li>
+      <li>
+       <a href="/contact.html">
+        Contact Information
+       </a>
+      </li>
+      <li>
+       <a href="mailto:feedback@aps.org">
+        Feedback
+       </a>
+      </li>
+     </ul>
+     <p class="legal">
+      ISSN 2469-990X (online). ©2021
+      <a href="https://www.aps.org/">
+       American Physical Society.
+      </a>
+      All rights reserved.
+      <em>
+       Physical Review Fluids™
+      </em>
+      is a trademark of the American Physical Society, registered in the United States. The
+      <em>
+       APS Physics logo
+      </em>
+      and
+      <em>
+       Physics logo
+      </em>
+      are trademarks of the American Physical Society. Information about registration may be found
+      <a href="/legal">
+       here
+      </a>
+      .
+    Use of the American Physical Society websites and journals implies that
+    the user has read and agrees to our
+      <a href="/info/terms.html">
+       Terms and
+    Conditions
+      </a>
+      and any applicable
+      <a href="https://librarians.aps.org/sitelicense.pdf">
+       Subscription
+    Agreement
+      </a>
+      .
+     </p>
+    </div>
+   </div>
+  </footer>
+  <script src="//cdn.journals.aps.org/libs/mathjax/2.7.2/MathJax.js?delayStartupUntil=configured" type="text/javascript">
+  </script>
+  <script src="//cdn.journals.aps.org/development/journals/javascripts/journals/vendor-47b6f450.js">
+  </script>
+  <script src="//cdn.journals.aps.org/development/journals/javascripts/tapp/app-26deab4b.js">
+  </script>
+  <script src="https://cdn.aps.org/cookie-widget/latest/cookiewidget.js">
+  </script>
+  <div id="app">
+  </div>
+  <script>
+   window.APS = {"features":{"enable_mathjax":true},"product":{"code":"PRFLUIDS","urlPrefix":"/prfluids/"},"article":{"id":"10.1103/PhysRevFluids.4.114606"},"authorized":true}
+
+window.onload = function () {
+  $(document).foundation();
+}
+
+tapp.core.init(window.APS);
+
+$(function () {
+  $('#header .title').click(function(){
+    if ($(window).width() < 769) {
+      $(this).toggleClass('open');
+      $('.journal-nav').slideToggle();
+    }
+  });
+});
+  </script>
+  <script async="async" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+  </script>
+  <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js">
+  </script>
+  <div class="small reveal-modal" data-reveal="" id="login-modal">
+   <h4>
+    Log In
+   </h4>
+   <form action="https://journals.aps.org/login?rt=https://journals.aps.org/prfluids/abstract/10.1103/PhysRevFluids.4.114606" method="post">
+    <input name="authenticity_token" type="hidden" value="98b6e7b1433bc3affc4593f5dad2956d56e9921d663fd24b9f49c0f5e2cba35b"/>
+    <input name="_method" type="hidden" value="put"/>
+    <input name="username" placeholder="Username" type="text"/>
+    <input name="password" placeholder="Password" type="password"/>
+    <input class="small button" type="submit" value="Log In"/>
+    <a class="small secondary button cancel">
+     Cancel
+    </a>
+    <ul class="no-bullet">
+     <li>
+      <a href="https://journals.aps.org/password/lost">
+       Forgot your username/password?
+      </a>
+     </li>
+     <li>
+      <a href="https://journals.aps.org/signup">
+       Create an account
+      </a>
+     </li>
+    </ul>
+   </form>
+   <a aria-label="close" class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <div class="large reveal-modal" data-reveal="" id="search-modal">
+   <h4>
+    Search
+   </h4>
+   <form accept-charset="UTF-8" action="/search" class="custom" method="get">
+    <div class="row">
+     <div class="large-3 columns">
+      <select name="field">
+       <option value="all">
+        All Fields
+       </option>
+       <option value="author">
+        Author
+       </option>
+       <option value="abstract">
+        Abstract
+       </option>
+       <option value="abstitle">
+        Abstract/Title
+       </option>
+       <option value="physh">
+        PhySH Concept
+       </option>
+       <option value="title">
+        Title
+       </option>
+       <option value="refauth">
+        Cited Author
+       </option>
+       <option value="affiliation">
+        Affiliation
+       </option>
+       <option value="collaboration">
+        Collaboration
+       </option>
+      </select>
+     </div>
+     <div class="large-7 columns">
+      <input name="q" type="text"/>
+     </div>
+     <div class="large-2 columns">
+      <input class="button small" type="submit" value="Search"/>
+     </div>
+    </div>
+   </form>
+   <hr/>
+   <h4>
+    Article Lookup
+   </h4>
+   <h6>
+    Paste a citation or DOI
+   </h6>
+   <form accept-charset="UTF-8" action="/search/citation" class="custom" method="post">
+    <div class="row">
+     <div class="large-10 columns">
+      <input id="citation_modal_q" name="q" placeholder="e.g. Phys. Rev. Lett. 111, 012345" type="text"/>
+     </div>
+     <div class="large-2 columns">
+      <input class="button small" type="submit" value="Lookup"/>
+     </div>
+    </div>
+   </form>
+   <hr class="citation-spacer"/>
+   <h6>
+    Enter a citation
+   </h6>
+   <form accept-charset="UTF-8" action="/search/citation" class="custom" method="post">
+    <div class="row">
+     <div class="large-4 columns">
+      <label for="citation_modal_journal">
+       Journal:
+      </label>
+      <select id="citation_modal_journal" name="journal">
+       <option value="PRL">
+        Phys. Rev. Lett.
+       </option>
+       <option value="PRX">
+        Phys. Rev. X
+       </option>
+       <option value="PRXQUANTUM">
+        PRX Quantum
+       </option>
+       <option value="RMP">
+        Rev. Mod. Phys.
+       </option>
+       <option value="PRA">
+        Phys. Rev. A
+       </option>
+       <option value="PRB">
+        Phys. Rev. B
+       </option>
+       <option value="PRC">
+        Phys. Rev. C
+       </option>
+       <option value="PRD">
+        Phys. Rev. D
+       </option>
+       <option value="PRE">
+        Phys. Rev. E
+       </option>
+       <option value="PRRESEARCH">
+        Phys. Rev. Research
+       </option>
+       <option value="PRAB">
+        Phys. Rev. Accel. Beams
+       </option>
+       <option value="PRSTAB">
+        Phys. Rev. ST Accel. Beams
+       </option>
+       <option value="PRAPPLIED">
+        Phys. Rev. Applied
+       </option>
+       <option selected="selected" value="PRFLUIDS">
+        Phys. Rev. Fluids
+       </option>
+       <option value="PRMATERIALS">
+        Phys. Rev. Materials
+       </option>
+       <option value="PRPER">
+        Phys. Rev. Phys. Educ. Res.
+       </option>
+       <option value="PRSTPER">
+        Phys. Rev. ST Phys. Educ. Res.
+       </option>
+       <option value="PHYSICS">
+        Physics
+       </option>
+       <option value="PR">
+        Phys. Rev.
+       </option>
+       <option value="PRI">
+        Phys. Rev. (Series I)
+       </option>
+       <option value="PPF">
+        Physics Physique Fizika
+       </option>
+      </select>
+     </div>
+     <div class="large-3 columns">
+      <label for="citation_modal_volume">
+       Volume:
+      </label>
+      <input id="citation_modal_volume" name="volume" type="text"/>
+     </div>
+     <div class="large-3 columns">
+      <label for="citation_modal_article">
+       Article:
+      </label>
+      <input id="citation_modal_article" name="article" type="text"/>
+     </div>
+     <div class="large-2 columns">
+      <input class="small button lookup2" type="submit" value="Lookup"/>
+     </div>
+    </div>
+   </form>
+   <a aria-label="close" class="close-reveal-modal">
+    ×
+   </a>
+  </div>
+  <div class="reveal-modal" data-reveal="" id="report-bug-modal">
+  </div>
+  <div class="reveal-modal" data-reveal="media-modal" id="modal-placeholder">
+  </div>
+  <div class="f-dropdown content medium" data-dropdown-content="" id="drop1">
+  </div>
+ </body>
+</html>
