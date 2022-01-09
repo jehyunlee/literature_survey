@@ -1,0 +1,2533 @@
+<!DOCTYPE html>
+<html class="pb-page" data-request-id="71193879-a10f-415a-8bc4-2c3370e3b750" lang="en">
+ <head data-pb-dropzone="head">
+  <meta content=";article:article:10.1246/cl.170634;page:string:Article/Chapter View;ctype:string:Journal Content;wgroup:string:Website Group 1;subPage:string:Abstract;website:website:csj1;requestedJournal:journal:cl;journal:journal:cl;issue:issue:10.1246/cl.2017.46.10;pageGroup:string:Publication Pages" name="pbContext"/>
+  <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
+  <meta content="Chemistry Letters" name="citation_journal_title"/>
+  <meta content="New Calcium Ion Conducting Solid Electrolyte with NASICON-type Structure" name="dc.Title"/>
+  <meta content="Wonrak  Lee" name="dc.Creator"/>
+  <meta content="Shinji  Tamura" name="dc.Creator"/>
+  <meta content="Nobuhito  Imanaka" name="dc.Creator"/>
+  <meta content="Solid electrolyte; Calcium ion; NASICON-type structure" name="dc.Subject"/>
+  <meta content="Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (CaxHf1−x)4/(4−2x)Nb(PO4)3, was successfully developed by introducing Ca2+ cations into HfNb(PO4)3 a..." name="dc.Description"/>
+  <meta content="Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (CaxHf1−x)4/(4−2x)Nb(PO4)3, was successfully developed by introducing Ca2+ cations into HfNb(PO4)3 a..." name="Description"/>
+  <meta content="Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (CaxHf1−x)4/(4−2x)Nb(PO4)3, was successfully developed. The existence of three kinds of high valence..." name="dc.Description"/>
+  <meta content="Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (CaxHf1−x)4/(4−2x)Nb(PO4)3, was successfully developed. The existence of three kinds of high valence..." name="Description"/>
+  <meta content="The Chemical Society of Japan" name="dc.Publisher"/>
+  <meta content="2017-07-22" name="dc.Date" scheme="WTN8601"/>
+  <meta content="rapid-communication" name="dc.Type"/>
+  <meta content="text/HTML" name="dc.Format"/>
+  <meta content="CL-170634" name="dc.Identifier" scheme="publisher-id"/>
+  <meta content="10.1246/cl.170634" name="dc.Identifier" scheme="doi"/>
+  <meta content="https://doi.org/10.1246/cl.170634" name="dc.Source"/>
+  <meta content="en" name="dc.Language"/>
+  <meta content="world" name="dc.Coverage"/>
+  <meta content="The Chemical Society of Japan" name="dc.Rights"/>
+  <meta content="Solid electrolyte,Calcium ion,NASICON-type structure" name="keywords"/>
+  <link href="https://doi.org/10.1246%2Fcl.170634" rel="meta" type="application/atom+xml"/>
+  <link href="https://doi.org/10.1246%2Fcl.170634" rel="meta" type="application/rdf+json"/>
+  <link href="https://doi.org/10.1246%2Fcl.170634" rel="meta" type="application/unixref+xml"/>
+  <meta charset="utf-8"/>
+  <meta content="noarchive" name="robots"/>
+  <meta content="Article" property="og:type"/>
+  <meta content="https://www.journal.csj.jp/doi/abs/10.1246/cl.170634" property="og:url"/>
+  <meta content="https://www.journal.csj.jp/na101/home/literatum/publisher/csj/journals/covergifs/cl/cover.jpg" property="og:image"/>
+  <meta content="" property="og:image:width"/>
+  <meta content="" property="og:image:height"/>
+  <meta content="Chemistry Letters" property="og:site_name"/>
+  <meta content="Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (CaxHf1−x)4/(4−2x)Nb(PO4)3, was successfully developed by introducing Ca2+ cations into HfNb(PO4)3 as mother solid. The existence of three kinds of high valence cation, Hf4+, Nb5+, and P5+, in the structure successfully realized the effective reduction of electrostatic interaction functioned to Ca2+ in the structure. The (Ca0.05Hf0.95)4/3.9Nb(PO4)3 solid showed considerably higher Ca2+ cation conductivity and lower activation energy than those of previously reported NASICON-type Ca0.5Zr2(PO4)3 solid." property="og:description"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0" name="viewport"/>
+  <title>
+   New Calcium Ion Conducting Solid Electrolyte with NASICON-type Structure | Chemistry Letters
+  </title>
+  <link href="/wro/kuo4~product.css" rel="stylesheet" type="text/css"/>
+  <link data-pb-css-id="t1639478462000-v1639478462000/head_1_7_25_en.css" href="/pb/css/t1639478462000-v1639478462000/head_1_7_25_en.css" id="pb-css" rel="stylesheet" type="text/css"/>
+  <script type="text/javascript">
+   if (window.location.hash && window.location.hash == '#_=_') {
+        window.location.hash = '';
+    }
+  </script>
+  <script src="/wro/kuo4~product.js" type="text/javascript">
+  </script>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+                _gaq.push(['_setAccount', 'UA-49001840-1']);
+                _gaq.push(['_trackPageview']);
+
+                (function() {
+                    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+                })();
+  </script>
+  <script async="" src="//scholar.google.com/scholar_js/casa.js">
+  </script>
+ </head>
+ <body class="pb-ui">
+  <script type="text/javascript">
+   if(false) {
+        document.getElementById("skipNavigationLink").onclick =function skipElement () {
+            var element = document.getElementById('');
+            if(element == null || element == undefined) {
+                element = document.getElementsByClassName('').item(0);
+            }
+            element.setAttribute('tabindex','0');
+            element.focus();
+
+        }
+
+    }
+  </script>
+  <div data-ng-non-bindable="" id="pb-page-content">
+   <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+    <div class="widget page-main-content none widget-none widget-compact-all" id="a60755a2-980d-46a0-a88b-20e499420722">
+     <div class="wrapped">
+      <div class="widget-body body body-none body-compact-all">
+       <main data-pb-dropzone="contents" role="main">
+        <div class="widget pageHeader none widget-none widget-compact-all" id="7c5811af-d2fe-4941-9b94-08e7a546ebb9">
+         <div class="wrapped">
+          <div class="widget-body body body-none body-compact-all">
+           <header class="page-header">
+            <div data-pb-dropzone="main">
+             <div class="widget responsive-layout none header-user-links widget-none widget-compact-all" id="7f59c4bc-80c6-4cca-9c15-b279e996e690">
+              <div class="wrapped">
+               <div class="widget-body body body-none body-compact-all">
+                <div class="container">
+                 <div class="row row-xs gutterless">
+                  <div class="col-xs-1-2">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget literatumInstitutionBanner alignLeft widget-none widget-compact-all" id="3b93dd20-7231-4464-9673-b689b2a28145">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="welcome">
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="col-xs-1-2">
+                   <div class="contents" data-pb-dropzone="contents1">
+                    <div class="widget literatumNavigationLoginBar alignRight widget-none widget-compact-all" id="3c2c4d20-4010-43e1-9823-4a92071fa1ee">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="loginBar">
+                        <a href="/action/showLogin?uri=%2Fdoi%2F10.1246%2Fcl.170634">
+                         Sign in
+                        </a>
+                        |
+                        <a class="register-link" href="/action/registration?redirectUri=%2Fdoi%2F10.1246%2Fcl.170634">
+                         Register
+                        </a>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumCartLink none widget-none" id="7422996e-f2c3-440d-a09c-05aab800e78e">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none">
+                       <a href="/action/showCart">
+                        <div class="cartLabel" style="">
+                         Cart
+                        </div>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="widget responsive-layout none generic-page-header widget-none widget-compact-all" id="68544a10-cb9b-4e35-8578-276e20f349dd">
+              <div class="wrapped">
+               <div class="widget-body body body-none body-compact-all">
+                <div class="container">
+                 <div class="row row-md gutterless">
+                  <div class="col-md-1-1">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget general-html none logo-container widget-none widget-compact-all" id="5e4f4048-c60b-4ea4-8f98-534d2c7d85a3">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <h1 class="logo">
+                        <a href="/">
+                         CSJ Journals
+                        </a>
+                       </h1>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget menuButton none hidden-md hidden-lg widget-none widget-compact-all" id="b1bec731-6d8a-4f6a-94a7-ab1a1d9117a8">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <button aria-controls="navdrawer" aria-expanded="false" aria-label="navigation menu toggler" class="appbar-icons-container mini-menu" title="navigation menu">
+                        <span class="drawer-icon-toggle icon-menu">
+                        </span>
+                        <span class="menu-icon-caption">
+                         Menu
+                        </span>
+                       </button>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget menuHtml none menu-container widget-none widget-compact-all" id="1e9d0405-fad5-4f5d-aa23-7f18021572fd">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="normal-view-desktop">
+                        <div class="navdrawer-container navdrawer-container-ltr" id="navdrawer">
+                         <div class="navdrawer-header">
+                          <div class="menuLogoDropZone" data-pb-dropzone="menuLogoDropZone">
+                          </div>
+                          <button aria-label="Close navigation menu" class="appbar-icons-container">
+                           <span class="drawer-icon-toggle icon-close_thin">
+                           </span>
+                          </button>
+                         </div>
+                         <nav role="navigation">
+                          <ul class="navdrawer-items">
+                           <li>
+                            <a href="/journal/cl">
+                             Chem.Lett.
+                            </a>
+                           </li>
+                           <li>
+                            <a href="/journal/bcsj">
+                             BCSJ
+                            </a>
+                           </li>
+                           <li>
+                            <a href="/subscribe-journals">
+                             Subscription Journals
+                            </a>
+                           </li>
+                           <li>
+                            <a href="/purchase-articles">
+                             Purchase Articles
+                            </a>
+                           </li>
+                           <li>
+                            <a href="/copyright-permission">
+                             Copyright Permission
+                            </a>
+                           </li>
+                           <li>
+                            <a href="/blog-topic/all-news">
+                             Blog
+                            </a>
+                           </li>
+                          </ul>
+                         </nav>
+                         <div class="menuDropZone" data-pb-dropzone="menuDropZone">
+                         </div>
+                        </div>
+                        <div class="navdrawer-bg promote-layer">
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget responsiveQuickSearchWidget none menu-search widget-none widget-compact-all" id="ca459fae-b783-4018-8dfa-d0d96615af52">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <util:actioncontext>
+                       </util:actioncontext>
+                       <div class="quickSearchFormContainer">
+                        <a class="icon-search mini-search" href="#">
+                        </a>
+                        <form action="/action/doSearch" class="quickSearchForm search-open resQuickSearchForm" method="get" name="quickSearch" title="Quick Search">
+                         <div class="container">
+                          <span class="searchDropDownDivLeft">
+                           <label class="visuallyhidden" for="searchInSelector">
+                            Search in:
+                           </label>
+                           <select class="custom-dropdown js__searchInSelector" id="searchInSelector" name="SeriesKey">
+                            <option data-search-in="default" value="">
+                             Anywhere
+                            </option>
+                            <option data-search-in="citation" value="citation">
+                             Citation
+                            </option>
+                           </select>
+                          </span>
+                          <div class="quicksearch-container">
+                           <span class="citationSearchBoxContainer hidden">
+                            <input autocomplete="off" autopopulate="true" class="journalName mediumTextInput textIndent autocomplete ui-autocomplete-input" data-auto-complete-target="title-auto-complete" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" name="quickLinkJournal" placeholder="Journal" title="Journal" type="text" value="Chemistry Letters"/>
+                            <input name="quickLink" type="hidden" value="true"/>
+                            <input autocomplete="false" class="year smallTextInput" name="quickLinkYear" pattern="([0-9]){1,4}$" placeholder="Year" size="15" title="Year" type="text" value=""/>
+                            <input autocomplete="false" class="volume smallTextInput" name="quickLinkVolume" placeholder="Volume" size="15" title="Volume" type="text" value=""/>
+                            <input autocomplete="false" class="page smallTextInput" name="quickLinkPage" placeholder="Page" size="15" title="Page" type="text" value=""/>
+                           </span>
+                           <div class="simpleSearchBoxContainer">
+                            <input autocomplete="off" class="searchText main-search-field textIndent autocomplete ui-autocomplete-input" data-auto-complete-target="auto-complete" data-contributors-conf="3" data-display-labels="true" data-fuzzy-suggester="false" data-group-titles-conf="3" data-history-items-conf="3" data-publication-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" name="AllField" placeholder="Enter words / phrases / DOI / ISBN / authors / keywords / etc." title="Type search term here" type="search"/>
+                            <input name="ConceptID" type="hidden" value=""/>
+                           </div>
+                           <div class="quicksearch-actions">
+                            <input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search"/>
+                            <a class="responsiveAdvanceSearch" href="/search/advanced" title="Advanced">
+                             <span class="icon-cog visible-sm visible-xs">
+                             </span>
+                             <span class="hidden-xs hidden-sm icon-advanced_search">
+                             </span>
+                            </a>
+                           </div>
+                          </div>
+                         </div>
+                        </form>
+                       </div>
+                       <div class="search-bg overlay-fixed">
+                       </div>
+                       <div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+                       </div>
+                       <div class="overlay-hidden-spinner hide">
+                       </div>
+                       <div class="hidden-spinner-container hide">
+                        <div class="spinner-box">
+                         <h1 class="spinner-ttl">
+                          <img src="/templates/jsp/_style2/_csj/images/searchlogo.png"/>
+                          Searching Articles
+                         </h1>
+                         <p class="spinner-img">
+                          <span class="js-spinner-img">
+                           <img src="/templates/jsp/_style2/_csj/images/searching.gif"/>
+                          </span>
+                          <strong class="now-search">
+                           Now Searching ...
+                          </strong>
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="widget responsive-layout none journals-second-header widget-none widget-compact-all" id="5c71488b-c140-404d-827f-cdcdefde0219">
+              <div class="wrapped">
+               <div class="widget-body body body-none body-compact-all">
+                <div class="container">
+                 <div class="row row-md">
+                  <div class="col-md-1-1">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget general-image none journals-logo widget-none widget-compact-all" id="2819fc3f-78b4-43f0-a181-13db21184990">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <a href="/journal/cl">
+                        <img src="/pb-assets/images/chem-lett-logo-1459421816910.png"/>
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget layout-tabs none header-search-tabs-container widget-none widget-compact-all" id="a8e9a847-f861-4172-8d41-51a4950140b3">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div aria-atomic="true" aria-live="polite" aria-relevant="additions" class="tabs tabs-widget">
+                        <ul class="tab-nav">
+                         <li class="active">
+                          <a href="#a8e9a847-f861-4172-8d41-51a4950140b3-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" title="show Search">
+                           Search
+                          </a>
+                         </li>
+                         <li class="">
+                          <a href="#a8e9a847-f861-4172-8d41-51a4950140b3-b6de7b7c-de82-45a5-9538-313dd15c6659" title="show Citation">
+                           Citation
+                          </a>
+                         </li>
+                         <li class="">
+                          <a href="#a8e9a847-f861-4172-8d41-51a4950140b3-e9ef2f3d-285f-49bc-b066-5cedc0c27cf8" title="show List of Issues">
+                           List of Issues
+                          </a>
+                         </li>
+                        </ul>
+                        <div class="tab-content">
+                         <div class="tab-pane active" id="a8e9a847-f861-4172-8d41-51a4950140b3-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a">
+                          <div class="tab-pane-content" data-pb-dropzone="tab-58132d06-cf2f-4e31-a696-f4f2aa0cdd9a" data-pb-dropzone-name="Search">
+                           <div class="widget responsiveQuickSearchWidget none widget-none widget-compact-all" id="f2d561b3-2849-4009-8762-76c62a7ee2db">
+                            <div class="wrapped">
+                             <div class="widget-body body body-none body-compact-all">
+                              <util:actioncontext>
+                              </util:actioncontext>
+                              <div class="quickSearchFormContainer">
+                               <form action="/action/doSearch" class="quickSearchForm" method="get" name="quickSearch" title="Quick Search">
+                                <span class="simpleSearchBoxContainer">
+                                 <input autocomplete="off" class="searchText main-search-field autocomplete" data-auto-complete-target="title-auto-complete" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" id="searchText" name="AllField" placeholder="Enter words / phrases / ISBN / authors / keywords / etc." title="Type search term here" type="search" value=""/>
+                                 <input name="ConceptID" type="hidden" value=""/>
+                                </span>
+                                <span class="citationSearchBoxContainer hidden">
+                                 <input autocomplete="off" autopopulate="true" class="journalName mediumTextInput textIndent autocomplete ui-autocomplete-input" data-auto-complete-target="title-auto-complete" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" name="quickLinkJournal" placeholder="Journal" title="Journal" type="text" value="Chemistry Letters"/>
+                                 <input name="quickLink" type="hidden" value="true"/>
+                                 <input autocomplete="false" class="year smallTextInput" name="quickLinkYear" pattern="([0-9]){1,4}$" placeholder="Year" size="15" title="Year" type="text" value=""/>
+                                 <input autocomplete="false" class="volume smallTextInput" name="quickLinkVolume" placeholder="Volume" size="15" title="Volume" type="text" value=""/>
+                                 <input autocomplete="false" class="issue smallTextInput enable" name="quickLinkIssue" placeholder="Issue" size="15" title="Issue" type="text" value=""/>
+                                 <input autocomplete="false" class="page smallTextInput" name="quickLinkPage" placeholder="Page" size="15" title="Page" type="text" value=""/>
+                                </span>
+                                <input class="mainSearchButton searchButtons pointer" title="search" type="submit" value="Search"/>
+                               </form>
+                              </div>
+                              <div class="advancedSearchLinkDropZone" data-pb-dropzone="advancedSearchLinkDropZone">
+                              </div>
+                              <div class="overlay-hidden-spinner hide">
+                              </div>
+                              <div class="hidden-spinner-container hide">
+                               <div class="spinner-box">
+                                <h1 class="spinner-ttl">
+                                 <img src="/templates/jsp/_style2/_csj/images/searchlogo.png"/>
+                                 Searching Articles
+                                </h1>
+                                <p class="spinner-img">
+                                 <span class="js-spinner-img">
+                                  <img src="/templates/jsp/_style2/_csj/images/searching.gif"/>
+                                 </span>
+                                 <strong class="now-search">
+                                  Now Searching ...
+                                 </strong>
+                                </p>
+                               </div>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                         <div class="tab-pane" id="a8e9a847-f861-4172-8d41-51a4950140b3-b6de7b7c-de82-45a5-9538-313dd15c6659">
+                          <div class="tab-pane-content" data-pb-dropzone="tab-b6de7b7c-de82-45a5-9538-313dd15c6659" data-pb-dropzone-name="Citation">
+                           <div class="widget citationSearch none widget-none widget-compact-all" id="de46c009-dd93-429d-a9be-1397bb886b0d">
+                            <div class="wrapped">
+                             <div class="widget-body body body-none body-compact-all">
+                              <div class="citationSearchContainer clear searchBox">
+                               <form action="/action/quickLink" id="citationSearchForm" method="get" name="citationSearch">
+                                <fieldset>
+                                 <select class="citationJournalName citation magicsuggest" data-placeholder="Journal" id="publicationSpan" name="quickLinkJournal" size="7">
+                                  <option value="bcsj">
+                                   Bulletin of the Chemical Society of Japan
+                                  </option>
+                                  <option value="cl">
+                                   Chemistry Letters
+                                  </option>
+                                 </select>
+                                 <div class="citation-details float-right">
+                                  <input name="quickLink" type="hidden" value="true"/>
+                                  <input autocomplete="false" class="search-term smallTextInput" name="quickLinkYear" placeholder="Year" size="15" type="text" value=""/>
+                                  <input autocomplete="false" class="search-term smallTextInput" name="quickLinkVolume" placeholder="Volume" size="15" type="text" value=""/>
+                                  <input autocomplete="false" class="search-term fist-page-input smallTextInput" name="quickLinkPage" placeholder="Page" size="15" type="text" value=""/>
+                                 </div>
+                                 <div class="submitRow float-right clear">
+                                  <input class="searchButtons pointer" disabled="disabled" id="citationSearchSubmitButton" title="Citation Search" type="submit" value="Citation Search"/>
+                                 </div>
+                                </fieldset>
+                               </form>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                         <div class="tab-pane" id="a8e9a847-f861-4172-8d41-51a4950140b3-e9ef2f3d-285f-49bc-b066-5cedc0c27cf8">
+                          <div class="tab-pane-content" data-pb-dropzone="tab-e9ef2f3d-285f-49bc-b066-5cedc0c27cf8" data-pb-dropzone-name="List of Issues">
+                           <div class="widget listOfIssuesDropdown none widget-none" id="87af11ae-0819-4cd8-8bbd-b824374b7afe">
+                            <div class="wrapped">
+                             <div class="widget-body body body-none">
+                              <div class="loi-dropdown js__loi_dropdown">
+                               <span class="arrow">
+                                ▾
+                               </span>
+                               <ul class="dropdown">
+                                <li class="first">
+                                 -
+                                </li>
+                               </ul>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget general-html none journals-secondary-menu-wrapper widget-none widget-compact-all" id="b27d4278-20f3-4625-8321-652ee2b96e5b">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <nav class="journals-secondary-menu chem-lett-menu clear">
+                        <ul>
+                         <li>
+                          <a href="/journal/cl">
+                           TOP
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/loi/cl">
+                           List of Issue
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/toc/cl/0/0">
+                           Advance Publication
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/cl/submission">
+                           Submission
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/cl/about">
+                           About Chem.Lett.
+                          </a>
+                         </li>
+                        </ul>
+                       </nav>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </header>
+          </div>
+         </div>
+        </div>
+        <div class="widget pageBody none widget-none widget-compact-all" id="ee2faff1-d28b-4648-80f8-83a0fb17626d">
+         <div class="wrapped">
+          <div class="widget-body body body-none body-compact-all">
+           <!--begin pagefulltext-->
+           <div class="page-body pagefulltext">
+            <div data-pb-dropzone="main">
+             <div class="widget responsive-layout none widget-none" id="0d438c92-69f9-4450-8697-667185519b42">
+              <div class="wrapped">
+               <div class="widget-body body body-none">
+                <div class="container">
+                 <div class="row row-md">
+                  <div class="col-md-2-3">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget literatumBreadcrumbs none widget-none widget-compact-all" id="fc83252e-bc31-4e1c-80c8-e24b99e99a9f">
+                     <div class="wrapped 12_12">
+                      <div class="widget-body body body-none body-compact-all">
+                       <!-- Service: showAbstract -->
+                       <nav aria-label="breadcrumbs">
+                        <ul class="breadcrumbs">
+                         <li class="">
+                          <a href="/">
+                           Home
+                          </a>
+                          <span class="divider">
+                           &gt;
+                          </span>
+                         </li>
+                         <li class="">
+                          <a href="/toc/cl/current">
+                           Chemistry Letters
+                          </a>
+                          <span class="divider">
+                           &gt;
+                          </span>
+                         </li>
+                         <li class="">
+                          <a href="/loi/cl">
+                           List of Issues
+                          </a>
+                          <span class="divider">
+                           &gt;
+                          </span>
+                         </li>
+                         <li class="">
+                          <a href="/toc/cl/46/10">
+                           Volume 46, Issue 10
+                          </a>
+                          <span class="divider">
+                           &gt;
+                          </span>
+                         </li>
+                         <li class="truncate">
+                          New Calcium Ion Conducting Solid Electrolyte with NASICON-type Structure
+                         </li>
+                        </ul>
+                       </nav>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumPublicationContentWidget none widget-none" id="954036c0-260c-4364-bf69-7d32d1aca475">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none">
+                       <article class="actl-item clear status-publish">
+                        <h1 class="actl-vol">
+                         2017, Vol.46, No.10
+                        </h1>
+                        <div class="info-group actl-group clearfix">
+                         <span class="atcl-pageno">
+                          <p>
+                           1486-1489
+                          </p>
+                         </span>
+                         <div class="atcl-tags">
+                         </div>
+                        </div>
+                        <div class="atcl-item">
+                         <div class="atcl-prize">
+                         </div>
+                        </div>
+                        <script type="text/javascript">
+                         <!-- // hide it from old browsers
+
+var anyDbId = -1;
+var sideParts = {
+    citation: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\"><a href=\"javascript:newWindow('{$linkoutUrl}')\">{$display}<\/a><\/td><\/tr>",
+    citingIsi: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\">Search for citing articles in:<br/>&nbsp;<a href=\"javascript:newWindow('/servlet/linkout?suffix=s0&dbid=128&doi={$doi}&url={$urlEnc}')\">ISI Web of Science<\/a> ({$citNum} or more)<\/a><\/td><\/tr>",
+    citingCrossref: "<tr><td class=\"black9pt\" width=\"15\" valign=\"top\">&nbsp;&bull;&nbsp;<\/td><td class=\"black9pt\" valign=\"top\"><a href=\"{$url}\">Citing articles in Crossref<\/a><\/td><\/tr>",
+    quicksearch: "<option value=\"{$value}\">{$display}<\/option>",
+    related: ", <a href=\"javascript:newWindow('{$linkoutUrl}')\">{$display}<\/a>"
+};
+
+function genSide(part, dbid, linkoutUrl, display, doi, url, citNum, value) {
+    if (dbid != anyDbId && (1125899906842623 & dbid) == 0) return;
+    var content = sideParts[part];
+    if (linkoutUrl) { content = content.replace(/{\$linkoutUrl}/g, linkoutUrl); }
+    if (display) { content = content.replace(/{\$display}/g, display); }
+    if (doi) { content = content.replace(/{\$doi}/g, doi); }
+    if (url) {
+        content = content.replace(/{\$url}/g, url);
+        content = content.replace(/{\$urlEnc}/g, encodeURIComponent(encodeURIComponent(url)));
+    }
+    if (citNum) { content = content.replace(/{\$citNum}/g, citNum); }
+    if (value) { content = content.replace(/{\$value}/g, value); }
+    document.write(content);
+}
+
+function hasSfxLinks() {
+	return false;
+}
+
+
+function genSfxLinks(id, url, doi) {
+    if (! doi) { doi = ""; }
+
+}
+function popSfxLink(prefix, id, url, doi) {
+    if (doi) {
+        url += "&id=doi:"+doi;
+    } else {
+        doi = "10.1246%2Fcl.170634";
+    }
+    var redirect = prefix + encodeURIComponent("?sid=literatum:csj&genre=article"+url);
+    var href = "/servlet/linkout?suffix="+id+"&dbid=16384&doi="+doi+"&url=" + encodeURIComponent(redirect);
+    return newWindow(href);
+}
+
+var sfxRefDisplay = {
+64:"ADS",
+32:"CAS",
+8192:"CIS",
+256:"CSA",
+16:"Crossref",
+128:"ISI",
+4096:"JSTOR",
+8:"Medline",
+1099511627776: "Ichushi",
+17592186044416: "Medical Online",
+8796093022208: "J-Stage",
+2199023255552: "Medical Finder",
+4398046511104: "Pier Online"
+};
+
+window.onload=disableRefLinkWrite ;
+
+function genRefLink(dbid, id, key, textOfLink) {
+    if (1125899906842623 & dbid != 0) {
+        if (typeof textOfLink === "undefined") {
+            if (sfxRefDisplay[dbid].substring(0,1) == "[") {
+                textOfLink = sfxRefDisplay[dbid];
+            } else {
+                textOfLink = "["+sfxRefDisplay[dbid]+"]";
+            }
+            // ToDo: move '[' and ']' to sfxRefDisplay (UPDATE: finish changing sfxRefDisplays and remove this branch)
+        }
+        else{ textOfLink = unescape(textOfLink)};
+
+        if(document.disableRefLinkWrite == null){
+            document.write("<a class='ref' href=\"javascript:popRefLink("+dbid+",'"+id+"','"+key+"')\">"+textOfLink+"<\/a>");
+        }
+    }
+}
+
+function disableRefLinkWrite () {
+    document.disableRefLinkWrite = true;
+}
+
+function popRefLink(dbid, id, key) {
+    var redirect = "/servlet/linkout?suffix=" + id + "&dbid=" + dbid + "&doi=10.1246%2Fcl.170634&key=" + key;
+    return newWindow(redirect);
+}
+function popRefFull(rid, citart, ptype, area) {
+    return popRefImplFull(rid, citart, ptype, area, 600, 500);
+}
+function popRefImplFull(rid, citart, ptype, area, width, height) {
+    var doi = "10.1246%2Fcl.170634";
+    if (! ptype) { ptype = ""; }
+    var pt = rid.charAt(0) + "cl170634" + ptype;
+    return popupFull(rid, doi, pt, area, width, height);
+}
+function popRef(rid, citart, ptype, area) {
+    return popRefImpl(rid, citart, ptype, area, 600, 500);
+}
+function popRef2(rid, citart, ptype, area) {
+    return popRefImpl(rid, citart, ptype, area, 400, 100);
+}
+function popRefImpl(rid, citart, ptype, area, width, height) {
+    var doi = "10.1246%2Fcl.170634";
+    if (! citart) { citart = "citart1"; }
+    if (! ptype) { ptype = ""; }
+    var pt = rid.charAt(0) + "cl170634" + ptype;
+    return popupRef(citart, rid, doi, pt, area, width, height);
+}
+
+
+
+function genCitingCrossref() {
+}
+
+var citLinkDisplay = {
+    
+    0:"SYSTEM",
+4:"SYSTEM",
+20:"SYSTEM",
+64:"ADS",
+32:"CAS",
+8192:"CIS",
+256:"CSA",
+16:"Crossref",
+128:"ISI",
+4096:"JSTOR",
+8:"MEDLINE"
+};
+var feeBasedMask = 4480;
+
+function genCitLink(dbid, suffix, key) {
+    if (dbid != anyDbId && (feeBasedMask & dbid) != 0 && (1125899906842623 & dbid) == 0) return;
+
+    var param = "/servlet/linkout?suffix=" + suffix + "&dbid=" + dbid + "&doi=10.1246%2Fcl.170634&key=" + key;
+    var display = citLinkDisplay[dbid];
+    var img = "/templates/jsp/_style2/_csj/images/" + display + "_btn.gif";
+
+
+
+    document.write("<a class='ref' href='javascript:newWindow(\"" + param + "\")'>");
+    document.write("<" + "img src='"+img+"' width='85' height='20' align='BOTTOM' alt='"+display+" Abstract' border='0'/>");
+    document.write("<\/a>");
+}
+// stop hiding -->
+                        </script>
+                        <script src="/swfobject.js" type="text/javascript">
+                        </script>
+                        <script type="text/javascript">
+                         function addFlashMovie(id, flv) {
+    var flashvars = {file: flv ,type: 'flv'};
+    var params = {allowfullscreen :true};
+    var attributes = {};
+    swfobject.embedSWF('/flvplayer.swf', id, "352", "288", "7.0.0", false, flashvars, params, attributes);
+}
+
+function addFlashMovie(id, flv, image) {
+    var flashvars = {file: flv ,type: 'flv', image: image};
+    var params = {allowfullscreen :true};
+    var attributes = {};
+    swfobject.embedSWF('/flvplayer.swf', id, "352", "288", "7.0.0", false, flashvars, params, attributes);
+}
+                        </script>
+                        <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+                        </script>
+                        <div class="articleMeta ja">
+                         <div class="hlFld-Title">
+                          <div class="publicationContentTitle">
+                           <h1 class="actl-title">
+                            New Calcium Ion Conducting Solid Electrolyte with NASICON-type Structure
+                           </h1>
+                          </div>
+                         </div>
+                         <div class="copyrightStatement">
+                         </div>
+                         <div class="articleMetaDrop publicationContentDropZone" data-pb-dropzone="articleMetaDropZone">
+                         </div>
+                         <div class="publicationContentAuthors">
+                          <div class="author-notes">
+                          </div>
+                          <div class="hlFld-ContribAuthor">
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Lee%2C+Wonrak">
+                              Wonrak Lee
+                             </a>
+                             ,
+                            </span>
+                           </span>
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Tamura%2C+Shinji">
+                              Shinji Tamura
+                             </a>
+                             , and
+                            </span>
+                           </span>
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Imanaka%2C+Nobuhito">
+                              Nobuhito Imanaka
+                             </a>
+                             <a class="ref corresp" href="javascript:popRef('cor01')" id="cor01">
+                              <sup>
+                               *
+                              </sup>
+                             </a>
+                            </span>
+                           </span>
+                          </div>
+                          <div class="affiliationsGroup">
+                           Department of Applied Chemistry, Faculty of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871
+                           <br/>
+                          </div>
+                         </div>
+                         <div class="actl-doi">
+                          <a href="https://doi.org/10.1246/cl.170634">
+                           https://doi.org/10.1246/cl.170634
+                          </a>
+                         </div>
+                         <span>
+                          <a class="affiliations expandable">
+                           Affiliations
+                          </a>
+                         </span>
+                         <div class="publicationContentAffiliations hidden">
+                          <div class="author-notes">
+                          </div>
+                          <div class="hlFld-ContribAuthor">
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Lee%2C+Wonrak">
+                              Wonrak Lee
+                             </a>
+                             ,
+                            </span>
+                           </span>
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Tamura%2C+Shinji">
+                              Shinji Tamura
+                             </a>
+                             , and
+                            </span>
+                           </span>
+                           <span class="contribDegrees">
+                            <span class="actl-author">
+                             <a class="entryAuthor" href="/author/Imanaka%2C+Nobuhito">
+                              Nobuhito Imanaka
+                             </a>
+                             <a class="ref corresp" href="javascript:popRef('cor01')" id="cor01">
+                              <sup>
+                               *
+                              </sup>
+                             </a>
+                            </span>
+                           </span>
+                          </div>
+                          <div class="affiliationsGroup">
+                           Department of Applied Chemistry, Faculty of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871
+                           <br/>
+                          </div>
+                         </div>
+                         <br/>
+                         <div class="additionalInfoGroup">
+                          <span>
+                           <a class="additionalInf expandable">
+                            Additional Info
+                           </a>
+                          </span>
+                          <div class="actl-dates hidden">
+                           <div class="author-notes">
+                           </div>
+                           <div class="hlFld-ContribAuthor">
+                            <span class="contribDegrees">
+                             <span class="actl-author">
+                              <a class="entryAuthor" href="/author/Lee%2C+Wonrak">
+                               Wonrak Lee
+                              </a>
+                              ,
+                             </span>
+                            </span>
+                            <span class="contribDegrees">
+                             <span class="actl-author">
+                              <a class="entryAuthor" href="/author/Tamura%2C+Shinji">
+                               Shinji Tamura
+                              </a>
+                              , and
+                             </span>
+                            </span>
+                            <span class="contribDegrees">
+                             <span class="actl-author">
+                              <a class="entryAuthor" href="/author/Imanaka%2C+Nobuhito">
+                               Nobuhito Imanaka
+                              </a>
+                              <a class="ref corresp" href="javascript:popRef('cor01')" id="cor01">
+                               <sup>
+                                *
+                               </sup>
+                              </a>
+                             </span>
+                            </span>
+                           </div>
+                           <div class="affiliationsGroup">
+                            Department of Applied Chemistry, Faculty of Engineering, Osaka University, 2-1 Yamadaoka, Suita, Osaka 565-0871
+                            <br/>
+                           </div>
+                           <div class="publicationContentDates">
+                            Received: June 28, 2017
+                            <br/>
+                            Accepted: July 13, 2017
+                            <br/>
+                            Web Released: July 22, 2017
+                            <br/>
+                            <div class="actl-keywords">
+                             <span class="label">
+                              Keywords:
+                             </span>
+                             <a href="/keyword/Solid+Electrolyte">
+                              Solid electrolyte
+                             </a>
+                             |
+                             <a href="/keyword/Calcium+Ion">
+                              Calcium ion
+                             </a>
+                             |
+                             <a href="/keyword/Nasicon-type+Structure">
+                              NASICON-type structure
+                             </a>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                         <div>
+                         </div>
+                         <div class="articleMetaDrop publicationContentDropZone publicationContentDropZone1" data-pb-dropzone="articleMetaDropZone1">
+                         </div>
+                        </div>
+                       </article>
+                       <div class="publication-tabs ja publication-tabs-dropdown">
+                        <div class="publication-tabs-tools-container">
+                         <div class="publicationContentTabDropzone" data-pb-dropzone="publicationContentTabDropzone">
+                          <div class="widget general-bookmark-share alignRight widget-none" id="3d1f67e8-7a09-4e75-824f-aedf0943089e">
+                           <div class="wrapped">
+                            <div class="widget-body body body-none">
+                             <!-- AddThis Button BEGIN -->
+                             <div class="addthis_toolbox addthis_default_style">
+                              <a class="addthis_button_mendeley">
+                              </a>
+                              <a class="addthis_button_twitter">
+                              </a>
+                              <a class="addthis_button_facebook">
+                              </a>
+                              <a class="addthis_button_email">
+                              </a>
+                              <a class="addthis_button_compact">
+                              </a>
+                             </div>
+                             <script type="text/javascript">
+                              var script = document.createElement('script');
+    script.type='text/javascript';
+    script.src='//s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5c6e02ac2bcca416';
+    script.async = true;
+    $('head').append(script)
+                             </script>
+                             <!-- AddThis Button END -->
+                            </div>
+                           </div>
+                          </div>
+                          <div class="widget literatumArticleToolsWidget none widget-none" id="335a6f83-1220-4b24-b9e7-683b1fc5a959">
+                           <div class="wrapped">
+                            <div class="widget-body body body-none">
+                             <div class="articleTools">
+                              <div class="articleToolsListContainer">
+                               <a class="articleToolsList" href="#">
+                                Tools
+                                <span class="icon-arrow_d_n">
+                                </span>
+                               </a>
+                               <ul class="linkList blockLinks separators centered hiddenList">
+                                <li class="addToFavs">
+                                 <a href="/personalize/addFavoritePublication?doi=10.1246%2Fcl.170634">
+                                  Add to Favorites
+                                 </a>
+                                </li>
+                                <li class="trackCitations">
+                                 <a href="/action/addCitationAlert?doi=10.1246%2Fcl.170634&amp;referrer=%2Fdoi%2F10.1246%2Fcl.170634">
+                                  Track Citations
+                                 </a>
+                                </li>
+                                <li class="downloadCitations">
+                                 <a href="/action/showCitFormats?doi=10.1246%2Fcl.170634">
+                                  Download Citation
+                                 </a>
+                                </li>
+                                <li class="email">
+                                 <a href="/action/showMailPage?doi=10.1246%2Fcl.170634&amp;href=%2Fdoi%2F10.1246%2Fcl.170634&amp;title=New+Calcium+Ion+Conducting+Solid+Electrolyte+with+NASICON-type+Structure">
+                                  Email to a Friend
+                                 </a>
+                                </li>
+                               </ul>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                         <div class="pdf-button">
+                          <a class="show-pdf" href="/doi/pdf/10.1246/cl.170634" target="_blank">
+                           PDF
+                    
+                (1258K)
+                          </a>
+                         </div>
+                        </div>
+                        <div class="tabs tabs-widget">
+                         <ul class="tab-nav" role="tablist">
+                          <li class="active" role="tab">
+                           <a class="show-abstract" href="/doi/abs/10.1246/cl.170634">
+                            Abstract
+                           </a>
+                          </li>
+                          <li role="tab">
+                           <a href="/doi/fpi/10.1246/cl.170634">
+                            Look Inside
+                           </a>
+                          </li>
+                          <li role="tab">
+                           <a class="show-full" href="/doi/full/10.1246/cl.170634">
+                            Full Text
+                           </a>
+                          </li>
+                          <li role="tab">
+                           <a class="show-references" href="/doi/ref/10.1246/cl.170634">
+                            References
+                           </a>
+                          </li>
+                          <li role="tab">
+                           <a href="/doi/citedby/10.1246/cl.170634">
+                            Cited by
+                           </a>
+                          </li>
+                          <li role="tab">
+                           <a class="show-pdf" href="/doi/pdf/10.1246/cl.170634" target="_blank">
+                            PDF
+                           </a>
+                          </li>
+                          <li class="version-clone" style="border:none;background:transparent;">
+                          </li>
+                         </ul>
+                         <div class="tab-content">
+                          <a id="top-content-scroll">
+                          </a>
+                          <div class="tab tab-pane active">
+                           <article class="article hideMathJax">
+                            <!-- abstract content -->
+                            <div class="hlFld-Abstract">
+                             <a class="scroll-offset" name="abstract">
+                             </a>
+                             <div class="abstract-tab sectionInfo abstractSectionHeading">
+                              <div class="sectionHeading">
+                               Abstract
+                              </div>
+                             </div>
+                             <div class="abstractSection abstractInFull">
+                              <p>
+                               Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (Ca
+                               <i>
+                                <sub>
+                                 x
+                                </sub>
+                               </i>
+                               Hf
+                               <sub>
+                                1−
+                               </sub>
+                               <i>
+                                <sub>
+                                 x
+                                </sub>
+                               </i>
+                               )
+                               <sub>
+                                4/(4−2
+                               </sub>
+                               <i>
+                                <sub>
+                                 x
+                                </sub>
+                               </i>
+                               <sub>
+                                )
+                               </sub>
+                               Nb(PO
+                               <sub>
+                                4
+                               </sub>
+                               )
+                               <sub>
+                                3
+                               </sub>
+                               , was successfully developed by introducing Ca
+                               <sup>
+                                2+
+                               </sup>
+                               cations into HfNb(PO
+                               <sub>
+                                4
+                               </sub>
+                               )
+                               <sub>
+                                3
+                               </sub>
+                               as mother solid. The existence of three kinds of high valence cation, Hf
+                               <sup>
+                                4+
+                               </sup>
+                               , Nb
+                               <sup>
+                                5+
+                               </sup>
+                               , and P
+                               <sup>
+                                5+
+                               </sup>
+                               , in the structure successfully realized the effective reduction of electrostatic interaction functioned to Ca
+                               <sup>
+                                2+
+                               </sup>
+                               in the structure. The (Ca
+                               <sub>
+                                0.05
+                               </sub>
+                               Hf
+                               <sub>
+                                0.95
+                               </sub>
+                               )
+                               <sub>
+                                4/3.9
+                               </sub>
+                               Nb(PO
+                               <sub>
+                                4
+                               </sub>
+                               )
+                               <sub>
+                                3
+                               </sub>
+                               solid showed considerably higher Ca
+                               <sup>
+                                2+
+                               </sup>
+                               cation conductivity and lower activation energy than those of previously reported NASICON-type Ca
+                               <sub>
+                                0.5
+                               </sub>
+                               Zr
+                               <sub>
+                                2
+                               </sub>
+                               (PO
+                               <sub>
+                                4
+                               </sub>
+                               )
+                               <sub>
+                                3
+                               </sub>
+                               solid.
+                              </p>
+                             </div>
+                             <div class="abstractSection abstractInFull">
+                              <div class="figuresContent">
+                               <div class="figure" id="extrafiglink-_i1">
+                                <div class="holder">
+                                 <a class="thumbnail showFiguresEEvent" data-attr-fig-id="_i1" href="#" title="Open Figure Viewer">
+                                  <img alt="figure" src="/na101/home/literatum/publisher/csj/journals/content/cl/2017/cl.2017.46.10/cl.170634/20170831/images/medium/cl-170634figcweb.gif"/>
+                                  <span class="overlay">
+                                  </span>
+                                 </a>
+                                 <div class="caption">
+                                  <p>
+                                   Divalent calcium ion conducting solid electrolyte with three-dimensional NASICON-type structure, (Ca
+                                   <i>
+                                    <sub>
+                                     x
+                                    </sub>
+                                   </i>
+                                   Hf
+                                   <sub>
+                                    1−
+                                   </sub>
+                                   <i>
+                                    <sub>
+                                     x
+                                    </sub>
+                                   </i>
+                                   )
+                                   <sub>
+                                    4/(4−2
+                                   </sub>
+                                   <i>
+                                    <sub>
+                                     x
+                                    </sub>
+                                   </i>
+                                   <sub>
+                                    )
+                                   </sub>
+                                   Nb(PO
+                                   <sub>
+                                    4
+                                   </sub>
+                                   )
+                                   <sub>
+                                    3
+                                   </sub>
+                                   , was successfully developed. The existence of three kinds of high valence Hf
+                                   <sup>
+                                    4+
+                                   </sup>
+                                   , Nb
+                                   <sup>
+                                    5+
+                                   </sup>
+                                   , and P
+                                   <sup>
+                                    5+
+                                   </sup>
+                                   cations in the structure realized the effective reduction of electrostatic interaction function to Ca
+                                   <sup>
+                                    2+
+                                   </sup>
+                                   . The (Ca
+                                   <sub>
+                                    0.05
+                                   </sub>
+                                   Hf
+                                   <sub>
+                                    0.95
+                                   </sub>
+                                   )
+                                   <sub>
+                                    4/3.9
+                                   </sub>
+                                   Nb(PO
+                                   <sub>
+                                    4
+                                   </sub>
+                                   )
+                                   <sub>
+                                    3
+                                   </sub>
+                                   solid showed higher Ca
+                                   <sup>
+                                    2+
+                                   </sup>
+                                   cation conductivity and lower activation energy than those of NASICON-type Ca
+                                   <sub>
+                                    0.5
+                                   </sub>
+                                   Zr
+                                   <sub>
+                                    2
+                                   </sub>
+                                   (PO
+                                   <sub>
+                                    4
+                                   </sub>
+                                   )
+                                   <sub>
+                                    3
+                                   </sub>
+                                   solid.
+                                  </p>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                              <script type="text/javascript">
+                               window.figureViewer={doi:'10.1246/cl.170634',path:'/na101/home/literatum/publisher/csj/journals/content/cl/2017/cl.2017.46.10/cl.170634/20170831',figures:[{i:'_i1',type:'fig',g:[{m:'cl-170634figcweb.gif',l:'cl-170634figcweb.jpeg',size:'49 KB'}]}
+                        ,{i:'fig01',type:'fig',g:[{m:'cl-170634fig01.gif',l:'cl-170634fig01.jpeg',size:'235 KB'}]}
+                        ,{i:'fig02',type:'fig',g:[{m:'cl-170634fig02.gif',l:'cl-170634fig02.jpeg',size:'75 KB'}]}
+                        ,{i:'fig03',type:'fig',g:[{m:'cl-170634fig03.gif',l:'cl-170634fig03.jpeg',size:'56 KB'}]}
+                        ,{i:'fig04',type:'fig',g:[{m:'cl-170634fig04.gif',l:'cl-170634fig04.jpeg',size:'69 KB'}]}
+                        ,{i:'fig05',type:'fig',g:[{m:'cl-170634fig05.gif',l:'cl-170634fig05.jpeg',size:'69 KB'}]}
+                        ]}
+                              </script>
+                             </div>
+                            </div>
+                            <!-- /abstract content -->
+                            <script type="text/javascript">
+                             window.figureViewer={doi:'10.1246/cl.170634',path:'/na101/home/literatum/publisher/csj/journals/content/cl/2017/cl.2017.46.10/cl.170634/20170831',figures:[{i:'_i1',type:'fig',g:[{m:'cl-170634figcweb.gif',l:'cl-170634figcweb.jpeg',size:'49 KB'}]}
+                        ,{i:'fig01',type:'fig',g:[{m:'cl-170634fig01.gif',l:'cl-170634fig01.jpeg',size:'235 KB'}]}
+                        ,{i:'fig02',type:'fig',g:[{m:'cl-170634fig02.gif',l:'cl-170634fig02.jpeg',size:'75 KB'}]}
+                        ,{i:'fig03',type:'fig',g:[{m:'cl-170634fig03.gif',l:'cl-170634fig03.jpeg',size:'56 KB'}]}
+                        ,{i:'fig04',type:'fig',g:[{m:'cl-170634fig04.gif',l:'cl-170634fig04.jpeg',size:'69 KB'}]}
+                        ,{i:'fig05',type:'fig',g:[{m:'cl-170634fig05.gif',l:'cl-170634fig05.jpeg',size:'69 KB'}]}
+                        ]}
+                            </script>
+                            <div class="response">
+                             <div class="sub-article-title">
+                             </div>
+                            </div>
+                           </article>
+                          </div>
+                          <div class="tab tab-pane" id="relatedContent">
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                       <input id="viewLargeImageCaption" type="hidden" value="View Large Image"/>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumBookIssueNavigation none widget-none" id="4dc8c280-8f57-4f91-b66c-1017aeeb1974">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none">
+                       <div class="pager issueBookNavPager">
+                        <span class="journalNavLeftTd">
+                         <span class="prev placedLeft" title="Practical Models for Predicting the Emission Peak Wavelengths of Inorganic Phosphors Based on Stoichiometric Information">
+                          <a href="http://www.journal.csj.jp/doi/abs/10.1246/cl.170611">
+                           <span class="navLinkTitle">
+                            &lt;&lt; Previous
+                           </span>
+                           Practical Models for Predicting the Emission Peak Wavelengths of Inorganic Phosphors Based on Stoichiometric Information
+                          </a>
+                         </span>
+                        </span>
+                        <span class="journalNavRightTd">
+                         <span class="next" title="Molecular Design for Blue Thermal Activated Delayed Fluorescence Materials: Substitution Position Effect">
+                          <a href="http://www.journal.csj.jp/doi/abs/10.1246/cl.170587">
+                           <span class="navLinkTitle">
+                            Next &gt;&gt;
+                           </span>
+                           Molecular Design for Blue Thermal Activated Delayed Fluorescence Materials: Substitution Position Effect
+                          </a>
+                         </span>
+                        </span>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="col-md-1-3 sidebar">
+                   <div class="contents" data-pb-dropzone="contents1">
+                    <div class="widget listOfIssuesDropdown none aside-loi widget-none" id="785e685e-1295-4704-8df2-6bd89e533891">
+                     <div class="wrapped">
+                      <h4 class="widget-header header-none">
+                       Select Issues
+                      </h4>
+                      <div class="widget-body body body-none">
+                       <div class="loi-dropdown js__loi_dropdown">
+                        <span class="arrow">
+                         ▾
+                        </span>
+                        <ul class="dropdown">
+                         <li class="first">
+                          -
+                         </li>
+                        </ul>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget newAdvancedSearch none search-mini widget-emphasis" id="2aec0259-a5c7-439e-bee4-3bf37c3add19">
+                     <div class="wrapped">
+                      <h3 class="widget-header header-emphasis">
+                       Search for Articles
+                      </h3>
+                      <div class="widget-body body body-emphasis">
+                       <div class="search-tabs search-tabs-widget">
+                        <div class="tab-content">
+                         <div aria-hidden="false" aria-labelledby="refine-search-tab" class="tab-pane clear active" id="refine-search-panel" role="tabpanel">
+                          <div aria-hidden="false" class="smallMarginTop clear" id="mainSearchFormContainer">
+                           <form action="/action/doSearch" class="frmSearch" id="frmSearch" method="get" name="frmSearch">
+                            <fieldset class="mainSearchForm" id="mainSearchForm">
+                             <legend class="visuallyhidden">
+                              Advanced
+                             </legend>
+                             <input type="hidden" value="AfterYear"/>
+                             <input type="hidden" value="BeforeYear"/>
+                             <div class="search-terms">
+                              <div class="formRow">
+                               <label class="visuallyhidden">
+                                Search in
+                               </label>
+                               <label class="off-screen fieldLabel" for="field1">
+                                Where we should looking for?
+                               </label>
+                               <select class="fieldSelect" id="field1" name="field1" title="">
+                                <option value="AllField">
+                                 Any
+                                </option>
+                                <option value="Title">
+                                 Title
+                                </option>
+                                <option value="Contrib">
+                                 Author
+                                </option>
+                                <option value="Keyword">
+                                 Keywords
+                                </option>
+                                <option value="Abstract">
+                                 Abstract
+                                </option>
+                               </select>
+                               <input aria-labelledby="search-for" class="search-term" id="advSearch_keyw_for_1" name="text1" placeholder="Enter search term" title="Type search term here" type="search" value=""/>
+                               <span class="addTerm js__addTermNew" role="button" tabindex="0" title="Add more search terms">
+                               </span>
+                               <span class="removeTerm hidden" role="button" tabindex="0" title="Remove this search term">
+                               </span>
+                              </div>
+                             </div>
+                             <div class="search-filters">
+                              <div class="normal-filters">
+                               <label for="publication">
+                                Published in
+                               </label>
+                               <input class="search-term magicsuggest" data-auto-complete-max-chars="32" data-auto-complete-max-words="7" data-auto-complete-target="title-auto-complete" data-id="publication" data-selected="" name="publication" placeholder="e.g. Chemistry Letters" title="Type publication here" type="search"/>
+                              </div>
+                              <div class="normal-filters date-filter formRowRes">
+                               <!-- Publication Date -->
+                               <label class="pub-date-heading">
+                                Publication Date
+                               </label>
+                               <div class="date-filters">
+                                <div class="date-field">
+                                 <input checked="checked" id="anyDate" name="Ppub" onchange="SearchUtil.clearMonthYearDropDown()" type="radio" value=""/>
+                                 <label for="anyDate">
+                                  <!-- All Dates -->
+                                  All dates
+                                 </label>
+                                </div>
+                                <div class="date-field timeFrame">
+                                 <input id="static-range" name="Ppub" onchange="SearchUtil.clearMonthYearDropDown()" type="radio" value=""/>
+                                 <label for="static-range">
+                                  <!-- Last this isn't great but it's not staying for long-->
+                                  Last:
+                                 </label>
+                                 <select class="static-ranges" id="static-ranges" name="Ppub">
+                                  <option selected="selected" value="">
+                                   Select
+                                  </option>
+                                  <option value="20211209-20220109">
+                                   month
+                                  </option>
+                                  <option value="20210709-20220109">
+                                   6 months
+                                  </option>
+                                  <option value="20210109-20220109">
+                                   year
+                                  </option>
+                                 </select>
+                                </div>
+                                <div class="date-field clear timeFrame" id="timeFrame">
+                                 <input id="custom-range" name="Ppub" onchange="SearchUtil.clearMonthYearDropDown()" type="radio" value=""/>
+                                 <label for="custom-range">
+                                  Custom range:
+                                 </label>
+                                 <label class="visuallyhidden">
+                                  From:
+                                 </label>
+                                 <div class="AfterFilter">
+                                  <label class="visuallyhidden" for="AfterYear">
+                                  </label>
+                                  <select class="AfterYearSelect dateFilterSelect" id="AfterYear" name="AfterYear">
+                                   <option value="">
+                                    Year
+                                   </option>
+                                   <option value="2022">
+                                    2022
+                                   </option>
+                                   <option value="2021">
+                                    2021
+                                   </option>
+                                   <option value="2020">
+                                    2020
+                                   </option>
+                                   <option value="2019">
+                                    2019
+                                   </option>
+                                   <option value="2018">
+                                    2018
+                                   </option>
+                                   <option value="2017">
+                                    2017
+                                   </option>
+                                   <option value="2016">
+                                    2016
+                                   </option>
+                                   <option value="2015">
+                                    2015
+                                   </option>
+                                   <option value="2014">
+                                    2014
+                                   </option>
+                                   <option value="2013">
+                                    2013
+                                   </option>
+                                   <option value="2012">
+                                    2012
+                                   </option>
+                                   <option value="2011">
+                                    2011
+                                   </option>
+                                   <option value="2010">
+                                    2010
+                                   </option>
+                                   <option value="2009">
+                                    2009
+                                   </option>
+                                   <option value="2008">
+                                    2008
+                                   </option>
+                                   <option value="2007">
+                                    2007
+                                   </option>
+                                   <option value="2006">
+                                    2006
+                                   </option>
+                                   <option value="2005">
+                                    2005
+                                   </option>
+                                   <option value="2004">
+                                    2004
+                                   </option>
+                                   <option value="2003">
+                                    2003
+                                   </option>
+                                   <option value="2002">
+                                    2002
+                                   </option>
+                                   <option value="2001">
+                                    2001
+                                   </option>
+                                   <option value="2000">
+                                    2000
+                                   </option>
+                                   <option value="1999">
+                                    1999
+                                   </option>
+                                   <option value="1998">
+                                    1998
+                                   </option>
+                                   <option value="1997">
+                                    1997
+                                   </option>
+                                   <option value="1996">
+                                    1996
+                                   </option>
+                                   <option value="1995">
+                                    1995
+                                   </option>
+                                   <option value="1994">
+                                    1994
+                                   </option>
+                                   <option value="1993">
+                                    1993
+                                   </option>
+                                   <option value="1992">
+                                    1992
+                                   </option>
+                                   <option value="1991">
+                                    1991
+                                   </option>
+                                   <option value="1990">
+                                    1990
+                                   </option>
+                                   <option value="1989">
+                                    1989
+                                   </option>
+                                   <option value="1988">
+                                    1988
+                                   </option>
+                                   <option value="1987">
+                                    1987
+                                   </option>
+                                   <option value="1986">
+                                    1986
+                                   </option>
+                                   <option value="1985">
+                                    1985
+                                   </option>
+                                   <option value="1984">
+                                    1984
+                                   </option>
+                                   <option value="1983">
+                                    1983
+                                   </option>
+                                   <option value="1982">
+                                    1982
+                                   </option>
+                                   <option value="1981">
+                                    1981
+                                   </option>
+                                   <option value="1980">
+                                    1980
+                                   </option>
+                                   <option value="1979">
+                                    1979
+                                   </option>
+                                   <option value="1978">
+                                    1978
+                                   </option>
+                                   <option value="1977">
+                                    1977
+                                   </option>
+                                   <option value="1976">
+                                    1976
+                                   </option>
+                                   <option value="1975">
+                                    1975
+                                   </option>
+                                   <option value="1974">
+                                    1974
+                                   </option>
+                                   <option value="1973">
+                                    1973
+                                   </option>
+                                   <option value="1972">
+                                    1972
+                                   </option>
+                                   <option value="1971">
+                                    1971
+                                   </option>
+                                   <option value="1970">
+                                    1970
+                                   </option>
+                                   <option value="1969">
+                                    1969
+                                   </option>
+                                   <option value="1968">
+                                    1968
+                                   </option>
+                                   <option value="1967">
+                                    1967
+                                   </option>
+                                   <option value="1966">
+                                    1966
+                                   </option>
+                                   <option value="1965">
+                                    1965
+                                   </option>
+                                   <option value="1964">
+                                    1964
+                                   </option>
+                                   <option value="1963">
+                                    1963
+                                   </option>
+                                   <option value="1962">
+                                    1962
+                                   </option>
+                                   <option value="1961">
+                                    1961
+                                   </option>
+                                   <option value="1960">
+                                    1960
+                                   </option>
+                                   <option value="1959">
+                                    1959
+                                   </option>
+                                   <option value="1958">
+                                    1958
+                                   </option>
+                                   <option value="1957">
+                                    1957
+                                   </option>
+                                   <option value="1956">
+                                    1956
+                                   </option>
+                                   <option value="1955">
+                                    1955
+                                   </option>
+                                   <option value="1954">
+                                    1954
+                                   </option>
+                                   <option value="1953">
+                                    1953
+                                   </option>
+                                   <option value="1952">
+                                    1952
+                                   </option>
+                                   <option value="1951">
+                                    1951
+                                   </option>
+                                   <option value="1950">
+                                    1950
+                                   </option>
+                                   <option value="1949">
+                                    1949
+                                   </option>
+                                   <option value="1948">
+                                    1948
+                                   </option>
+                                   <option value="1947">
+                                    1947
+                                   </option>
+                                   <option value="1946">
+                                    1946
+                                   </option>
+                                   <option value="1945">
+                                    1945
+                                   </option>
+                                   <option value="1944">
+                                    1944
+                                   </option>
+                                   <option value="1943">
+                                    1943
+                                   </option>
+                                   <option value="1942">
+                                    1942
+                                   </option>
+                                   <option value="1941">
+                                    1941
+                                   </option>
+                                   <option value="1940">
+                                    1940
+                                   </option>
+                                   <option value="1939">
+                                    1939
+                                   </option>
+                                   <option value="1938">
+                                    1938
+                                   </option>
+                                   <option value="1937">
+                                    1937
+                                   </option>
+                                   <option value="1936">
+                                    1936
+                                   </option>
+                                   <option value="1935">
+                                    1935
+                                   </option>
+                                   <option value="1934">
+                                    1934
+                                   </option>
+                                   <option value="1933">
+                                    1933
+                                   </option>
+                                   <option value="1932">
+                                    1932
+                                   </option>
+                                   <option value="1931">
+                                    1931
+                                   </option>
+                                   <option value="1930">
+                                    1930
+                                   </option>
+                                   <option value="1929">
+                                    1929
+                                   </option>
+                                   <option value="1928">
+                                    1928
+                                   </option>
+                                   <option value="1927">
+                                    1927
+                                   </option>
+                                   <option value="1926">
+                                    1926
+                                   </option>
+                                  </select>
+                                 </div>
+                                 <label class="to-date-label">
+                                  To:
+                                 </label>
+                                 <div class="BeforeFilter">
+                                  <label class="visuallyhidden" for="BeforeYear">
+                                  </label>
+                                  <select class="BeforeYearSelect dateFilterSelect" id="BeforeYear" name="BeforeYear">
+                                   <option value="">
+                                    Year
+                                   </option>
+                                   <option value="2022">
+                                    2022
+                                   </option>
+                                   <option value="2021">
+                                    2021
+                                   </option>
+                                   <option value="2020">
+                                    2020
+                                   </option>
+                                   <option value="2019">
+                                    2019
+                                   </option>
+                                   <option value="2018">
+                                    2018
+                                   </option>
+                                   <option value="2017">
+                                    2017
+                                   </option>
+                                   <option value="2016">
+                                    2016
+                                   </option>
+                                   <option value="2015">
+                                    2015
+                                   </option>
+                                   <option value="2014">
+                                    2014
+                                   </option>
+                                   <option value="2013">
+                                    2013
+                                   </option>
+                                   <option value="2012">
+                                    2012
+                                   </option>
+                                   <option value="2011">
+                                    2011
+                                   </option>
+                                   <option value="2010">
+                                    2010
+                                   </option>
+                                   <option value="2009">
+                                    2009
+                                   </option>
+                                   <option value="2008">
+                                    2008
+                                   </option>
+                                   <option value="2007">
+                                    2007
+                                   </option>
+                                   <option value="2006">
+                                    2006
+                                   </option>
+                                   <option value="2005">
+                                    2005
+                                   </option>
+                                   <option value="2004">
+                                    2004
+                                   </option>
+                                   <option value="2003">
+                                    2003
+                                   </option>
+                                   <option value="2002">
+                                    2002
+                                   </option>
+                                   <option value="2001">
+                                    2001
+                                   </option>
+                                   <option value="2000">
+                                    2000
+                                   </option>
+                                   <option value="1999">
+                                    1999
+                                   </option>
+                                   <option value="1998">
+                                    1998
+                                   </option>
+                                   <option value="1997">
+                                    1997
+                                   </option>
+                                   <option value="1996">
+                                    1996
+                                   </option>
+                                   <option value="1995">
+                                    1995
+                                   </option>
+                                   <option value="1994">
+                                    1994
+                                   </option>
+                                   <option value="1993">
+                                    1993
+                                   </option>
+                                   <option value="1992">
+                                    1992
+                                   </option>
+                                   <option value="1991">
+                                    1991
+                                   </option>
+                                   <option value="1990">
+                                    1990
+                                   </option>
+                                   <option value="1989">
+                                    1989
+                                   </option>
+                                   <option value="1988">
+                                    1988
+                                   </option>
+                                   <option value="1987">
+                                    1987
+                                   </option>
+                                   <option value="1986">
+                                    1986
+                                   </option>
+                                   <option value="1985">
+                                    1985
+                                   </option>
+                                   <option value="1984">
+                                    1984
+                                   </option>
+                                   <option value="1983">
+                                    1983
+                                   </option>
+                                   <option value="1982">
+                                    1982
+                                   </option>
+                                   <option value="1981">
+                                    1981
+                                   </option>
+                                   <option value="1980">
+                                    1980
+                                   </option>
+                                   <option value="1979">
+                                    1979
+                                   </option>
+                                   <option value="1978">
+                                    1978
+                                   </option>
+                                   <option value="1977">
+                                    1977
+                                   </option>
+                                   <option value="1976">
+                                    1976
+                                   </option>
+                                   <option value="1975">
+                                    1975
+                                   </option>
+                                   <option value="1974">
+                                    1974
+                                   </option>
+                                   <option value="1973">
+                                    1973
+                                   </option>
+                                   <option value="1972">
+                                    1972
+                                   </option>
+                                   <option value="1971">
+                                    1971
+                                   </option>
+                                   <option value="1970">
+                                    1970
+                                   </option>
+                                   <option value="1969">
+                                    1969
+                                   </option>
+                                   <option value="1968">
+                                    1968
+                                   </option>
+                                   <option value="1967">
+                                    1967
+                                   </option>
+                                   <option value="1966">
+                                    1966
+                                   </option>
+                                   <option value="1965">
+                                    1965
+                                   </option>
+                                   <option value="1964">
+                                    1964
+                                   </option>
+                                   <option value="1963">
+                                    1963
+                                   </option>
+                                   <option value="1962">
+                                    1962
+                                   </option>
+                                   <option value="1961">
+                                    1961
+                                   </option>
+                                   <option value="1960">
+                                    1960
+                                   </option>
+                                   <option value="1959">
+                                    1959
+                                   </option>
+                                   <option value="1958">
+                                    1958
+                                   </option>
+                                   <option value="1957">
+                                    1957
+                                   </option>
+                                   <option value="1956">
+                                    1956
+                                   </option>
+                                   <option value="1955">
+                                    1955
+                                   </option>
+                                   <option value="1954">
+                                    1954
+                                   </option>
+                                   <option value="1953">
+                                    1953
+                                   </option>
+                                   <option value="1952">
+                                    1952
+                                   </option>
+                                   <option value="1951">
+                                    1951
+                                   </option>
+                                   <option value="1950">
+                                    1950
+                                   </option>
+                                   <option value="1949">
+                                    1949
+                                   </option>
+                                   <option value="1948">
+                                    1948
+                                   </option>
+                                   <option value="1947">
+                                    1947
+                                   </option>
+                                   <option value="1946">
+                                    1946
+                                   </option>
+                                   <option value="1945">
+                                    1945
+                                   </option>
+                                   <option value="1944">
+                                    1944
+                                   </option>
+                                   <option value="1943">
+                                    1943
+                                   </option>
+                                   <option value="1942">
+                                    1942
+                                   </option>
+                                   <option value="1941">
+                                    1941
+                                   </option>
+                                   <option value="1940">
+                                    1940
+                                   </option>
+                                   <option value="1939">
+                                    1939
+                                   </option>
+                                   <option value="1938">
+                                    1938
+                                   </option>
+                                   <option value="1937">
+                                    1937
+                                   </option>
+                                   <option value="1936">
+                                    1936
+                                   </option>
+                                   <option value="1935">
+                                    1935
+                                   </option>
+                                   <option value="1934">
+                                    1934
+                                   </option>
+                                   <option value="1933">
+                                    1933
+                                   </option>
+                                   <option value="1932">
+                                    1932
+                                   </option>
+                                   <option value="1931">
+                                    1931
+                                   </option>
+                                   <option value="1930">
+                                    1930
+                                   </option>
+                                   <option value="1929">
+                                    1929
+                                   </option>
+                                   <option value="1928">
+                                    1928
+                                   </option>
+                                   <option value="1927">
+                                    1927
+                                   </option>
+                                   <option value="1926">
+                                    1926
+                                   </option>
+                                  </select>
+                                 </div>
+                                </div>
+                               </div>
+                              </div>
+                              <!-- Nothing to be done by default-->
+                             </div>
+                             <div class="clear">
+                              <input class="searchButtons pointer" id="submitPubSearchButton" title="Search" type="submit" value="Search"/>
+                             </div>
+                            </fieldset>
+                           </form>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumSavedSearchesWidget none widget-emphasis" id="016f24bd-1092-4f27-b2d7-679ef1cec467">
+                     <div class="wrapped">
+                      <h3 class="widget-header header-emphasis">
+                       Saved Search
+                      </h3>
+                      <div class="widget-body body body-emphasis">
+                       <div id="searchSavedQueryBox">
+                        <div class="SavedSearchesWrapper clearfix">
+                         <p class="italicText">
+                          Please
+                          <a href="/action/showLogin?redirectUri=%2Fdoi%2F10.1246%2Fcl.170634">
+                           login
+                          </a>
+                          to view your saved searches.
+                         </p>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumMostReadWidget none widget-emphasis widget-compact-all" id="84fae97f-1cbb-44b0-993a-1a49eecd4694">
+                     <div class="wrapped">
+                      <h3 class="widget-header header-emphasis header-compact-all">
+                       Top Accessed Articles
+                      </h3>
+                      <div class="widget-body body body-emphasis body-compact-all">
+                       <section class="popular">
+                        <div class="mostRead">
+                         <ul>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.210546">
+                             Birch Reduction of Arenes Using Sodium Dispersion and DMI under Mild Conditions
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.190930">
+                             Low-temperature Conversion of Carbon Dioxide to Methane in an Electric Field
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.190731">
+                             Metal-Organic Cages (MOCs): From Discrete to Cage-based Extended Architectures
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.190262">
+                             Characterization of Sn(II)-based Perovskites by XRD, DTA, NQR and
+                             <sup>
+                              119
+                             </sup>
+                             Sn NMR for Photovoltaic Applications
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.200568">
+                             Sodium-driven Rechargeable Batteries: An Effort towards Future Energy Storage
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                         </ul>
+                        </div>
+                       </section>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget literatumMostCitedWidget none widget-emphasis widget-compact-all" id="7f06633e-fb96-438e-91d2-4ca05d327f0d">
+                     <div class="wrapped">
+                      <h3 class="widget-header header-emphasis header-compact-all">
+                       Most Cited
+                      </h3>
+                      <div class="widget-body body body-emphasis body-compact-all">
+                       <section class="popular">
+                        <div class="mostRead">
+                         <ul>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.2010.1118">
+                             Overview of the Mechanistic Work on the Concerted Metallation–Deprotonation Pathway
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.2001.642">
+                             Layered Lithium Insertion Material of LiCo
+                             <sub>
+                              1/3
+                             </sub>
+                             Ni
+                             <sub>
+                              1/3
+                             </sub>
+                             Mn
+                             <sub>
+                              1/3
+                             </sub>
+                             O
+                             <sub>
+                              2
+                             </sub>
+                             for Lithium-Ion Batteries
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.2004.1072">
+                             Task-Specific Ionic Liquids
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.2012.397">
+                             Highly Luminescent Lead Bromide Perovskite Nanoparticles Synthesized with Porous Alumina Media
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                          <li>
+                           <div class="title">
+                            <a href="/doi/abs/10.1246/cl.130987">
+                             Layer-by-layer Nanoarchitectonics: Invention, Innovation, and Evolution
+                            </a>
+                           </div>
+                           <div class="volumeIssue">
+                           </div>
+                          </li>
+                         </ul>
+                        </div>
+                       </section>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget combinedRecommendationsWidget none widget-emphasis" id="f61784f5-35b6-4346-9464-faca8fc03469">
+                     <div class="wrapped">
+                      <h3 class="widget-header header-emphasis">
+                       Related Articles
+                      </h3>
+                      <div class="widget-body body body-emphasis">
+                       <ol "="" class="recommended">
+                        <li>
+                         <div class="title">
+                          <a href="/doi/abs/10.1246/bcsj.20100178?src=recsys">
+                           Development of Multivalent Ion Conducting Solid Electrolytes
+                          </a>
+                         </div>
+                        </li>
+                        <li>
+                         <div class="title">
+                          <a href="/doi/abs/10.1246/bcsj.20090238?src=recsys">
+                           Enhancement of Hf4+ Ion Conductivity in a NASICON-Type Solid
+                          </a>
+                         </div>
+                        </li>
+                        <li>
+                         <div class="title">
+                          <a href="/doi/abs/10.1246/cl.2011.118?src=recsys">
+                           A New Type of Cesium-ion-conducting Solid
+                          </a>
+                         </div>
+                        </li>
+                        <li>
+                         <div class="title">
+                          <a href="/doi/abs/10.1246/cl.2001.672?src=recsys">
+                           Optimization of Sc3+ Ion Conduction in NASICON Type Solid Electrolytes
+                          </a>
+                         </div>
+                        </li>
+                        <li>
+                         <div class="title">
+                          <a href="/doi/abs/10.1246/bcsj.81.521?src=recsys">
+                           High-Trivalent Rare Earth Ion Conduction in Solids Based on NASICON-Type Phosphate
+                          </a>
+                         </div>
+                        </li>
+                       </ol>
+                       <script>
+                        var myMap = {
+                
+                "identifier": '' ,
+                
+                "level": 'h3' ,
+                
+                "numOfItems": '5' ,
+                
+                "css-compactType": 'css-compact-all' ,
+                
+                "wrapperTag": 'div' ,
+                
+                "title": 'Related Articles' ,
+                
+                "align": 'none' ,
+                
+                "numOfItemsCollapsed": '5' ,
+                
+                "wrapperClass": '' ,
+                
+                "displayType": 'simple' ,
+                
+                "data-track-tag": '' ,
+                
+                "cssClass": '' ,
+                
+                "decoration": 'emphasis' 
+                
+            };
+            javascript:initWidgetView(myMap);
+                       </script>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget general-html none manage-alerts-button widget-none widget-compact-all" id="269bcf1a-530d-4307-bb2a-0b0ae916ee55">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <a href="/action/showPreferences?menuTab=Alerts">
+                        MANAGE YOUR ALERTS
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget general-html none recommend-button widget-none widget-compact-all" id="87f75d9b-3697-478d-b749-8eff904b1b04">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <a href="/action/recommendation?doi=10.1246/cl.170634">
+                        RECOMMEND TO LIBRARY
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+           <!--end pagefulltext-->
+          </div>
+         </div>
+        </div>
+        <div class="widget pageFooter none widget-none widget-compact-all" id="584310b7-c5ce-4907-9ace-4fe5b12a1123">
+         <div class="wrapped">
+          <div class="widget-body body body-none body-compact-all">
+           <footer class="page-footer">
+            <div data-pb-dropzone="main">
+             <div class="widget responsive-layout none footer-wrapper widget-none widget-compact-all" id="d6c205a0-11cc-4a3b-be9c-828c19e88a28">
+              <div class="wrapped">
+               <div class="widget-body body body-none body-compact-all">
+                <div class="container">
+                 <div class="row row-sm gutterless">
+                  <div class="col-sm-1-2">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget responsive-layout none footer-right-wrapper widget-none widget-compact-all" id="608adabb-2c2a-4ba7-b908-35f4edf3d687">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="container-fluid">
+                        <div class="row row-md gutterless">
+                         <div class="col-md-1-1">
+                          <div class="contents" data-pb-dropzone="contents0">
+                           <div class="widget general-html none footer-content-block left-side widget-none widget-compact-all" id="4ef301ef-bacf-44f4-9e5d-286399bfeea4">
+                            <div class="wrapped">
+                             <div class="widget-body body body-none body-compact-all">
+                              <div class="footer-journals">
+                               <h2 class="footer-menu-heading">
+                                CSJ Journals
+                               </h2>
+                               <ul>
+                                <li>
+                                 <a href="/journal/cl">
+                                  Chemistry Letters
+                                 </a>
+                                </li>
+                                <li>
+                                 <a href="/journal/bcsj">
+                                  Bulletin of the Chemical Society of Japan
+                                 </a>
+                                </li>
+                                <li>
+                                 <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291528-0691" target="_blank">
+                                  The Chemical Record
+                                 </a>
+                                </li>
+                                <li>
+                                 <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%291861-471X" target="_blank">
+                                  Chemistry - An Asian Journal
+                                 </a>
+                                </li>
+                                <li>
+                                 <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292193-5815" target="_blank">
+                                  Asian Journal of Organic Chemistry
+                                 </a>
+                                </li>
+                                <li>
+                                 <a href="http://onlinelibrary.wiley.com/journal/10.1002/%28ISSN%292199-692X" target="_blank">
+                                  ChemNanoMat
+                                 </a>
+                                </li>
+                               </ul>
+                              </div>
+                             </div>
+                            </div>
+                           </div>
+                          </div>
+                         </div>
+                        </div>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                  <div class="col-sm-1-2">
+                   <div class="contents" data-pb-dropzone="contents1">
+                    <div class="widget general-html none footer-content-block right-side widget-none widget-compact-all" id="717d0d6c-8f3f-4415-a3c1-08a86482e7b6">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="footer-privacy-policy">
+                        <ul>
+                         <li>
+                          <a href="/privacy-policy">
+                           Privacy Policy
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/terms-conditions">
+                           Terms &amp; Conditions
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/site-map">
+                           Site Map
+                          </a>
+                         </li>
+                         <li>
+                          <a href="/contact">
+                           Contact
+                          </a>
+                         </li>
+                        </ul>
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="widget responsive-layout none widget-none widget-compact-all" id="85b3844f-e3af-4b05-9e03-c3042d049fb0">
+              <div class="wrapped">
+               <div class="widget-body body body-none body-compact-all">
+                <div class="container-fluid">
+                 <div class="row row-md gutterless">
+                  <div class="col-md-1-1">
+                   <div class="contents" data-pb-dropzone="contents0">
+                    <div class="widget general-html alignCenter widget-none widget-compact-all" id="a18c189f-5526-4489-ac3b-afec99fdf363">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none body-compact-all">
+                       <div class="copyright">
+                        Copyright © 2022
+                        <a href="http://www.chemistry.or.jp/en/" target="_blank">
+                         The Chemical Society of Japan.
+                        </a>
+                        All Rights Reserved.
+                       </div>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget general-html alignCenter widget-none" id="57c7580d-b6d9-4043-8f6f-b4ec03fdee9d">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none">
+                       Powered by
+                       <a href="http://www.atypon.com" target="_blank">
+                        Atypon® Literatum
+                       </a>
+                      </div>
+                     </div>
+                    </div>
+                    <div class="widget cookiePolicy none csjcookiebanner widget-none" id="e68c4f38-652a-4777-957e-71f40ee273db">
+                     <div class="wrapped">
+                      <div class="widget-body body body-none">
+                       <div class="cookieBanner" id="cookieBanner">
+                        <p>
+                         Our journal website uses cookies to support your experience .
+                         <a href="/terms-conditions">
+                          Show Policy
+                         </a>
+                        </p>
+                        <input id="accept-cookie-policy" type="button" value="Close"/>
+                       </div>
+                       <script type="text/javascript">
+                        $("#accept-cookie-policy").click(function() {
+        $.get('/action/cookiePolicy?response=accept', function(data) {
+            $(".cookiePolicy").remove();
+        });
+
+    });
+                       </script>
+                      </div>
+                     </div>
+                    </div>
+                   </div>
+                  </div>
+                 </div>
+                </div>
+               </div>
+              </div>
+             </div>
+             <div class="widget general-html none widget-none" id="b645bccd-60b0-4c03-b614-6f73d5e3d3f7">
+              <div class="wrapped">
+               <div class="widget-body body body-none">
+                <div class="page-top-wrapper">
+                 <a class="page-top">
+                 </a>
+                </div>
+               </div>
+              </div>
+             </div>
+            </div>
+           </footer>
+          </div>
+         </div>
+        </div>
+       </main>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+ </body>
+</html>

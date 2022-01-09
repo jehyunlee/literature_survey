@@ -1,0 +1,2184 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+ <head>
+  <!-- 2.0.15 -->
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport"/>
+  <meta content="Access full-text academic articles: J-STAGE is an online platform for Japanese academic journals." name="description"/>
+  <meta content="JOURNAL OF CHEMICAL ENGINEERING OF JAPAN" name="citation_journal_title"/>
+  <meta content="The Society of Chemical Engineers, Japan" name="citation_publisher"/>
+  <meta content="Jeongpil Kim" name="citation_author"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="Ohchan Kwon" name="citation_author"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="Hansung Kim" name="citation_author"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="Dae Woo Kim" name="citation_author"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="Yukwon Jeon" name="citation_author"/>
+  <meta content="Department of Environmental Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="Yunseong Ji" name="citation_author"/>
+  <meta content="Institute of Tissue Regeneration Engineering (ITREN), Dankook University" name="citation_author_institution"/>
+  <meta content="Ok sung Jeon" name="citation_author"/>
+  <meta content="Center for Applied Electromagnetic Research (CAER), Advanced Institutes of Convergence Technology (AICT), Seoul National University" name="citation_author_institution"/>
+  <meta content="Chanmin Lee" name="citation_author"/>
+  <meta content="Green and Sustainable Materials R&amp;D Department, Korea Institute of Industrial Technology" name="citation_author_institution"/>
+  <meta content="Yong-Gun Shul" name="citation_author"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="citation_author_institution"/>
+  <meta content="0000-0003-4137-0414" name="citation_author_orcid"/>
+  <meta content="Cross-Linked PVA/PAA Fibrous Web Composite Membrane for Enhanced Performance of PEM Fuel Cells under High-Temperature and Low-Humidity Conditions" name="citation_title"/>
+  <meta content="2020/09/20" name="citation_publication_date"/>
+  <meta content="2020/09/20" name="citation_online_date"/>
+  <meta content="53" name="citation_volume"/>
+  <meta content="9" name="citation_issue"/>
+  <meta content="569" name="citation_firstpage"/>
+  <meta content="575" name="citation_lastpage"/>
+  <meta content="10.1252/jcej.19we078" name="citation_doi"/>
+  <meta content="https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_pdf" name="citation_pdf_url"/>
+  <meta content="0021-9592" name="citation_issn"/>
+  <meta content="en" name="citation_language"/>
+  <meta content="High Temperature PEMFC" name="citation_keywords"/>
+  <meta content="Supported Membrane" name="citation_keywords"/>
+  <meta content="Electrospinning" name="citation_keywords"/>
+  <meta content="10.1252/jcej.19we078" name="dc.identifier"/>
+  <meta content="jcej" name="journal_code"/>
+  <meta content="JOURNAL OF CHEMICAL ENGINEERING OF JAPAN" name="journal_title"/>
+  <meta content="The Society of Chemical Engineers, Japan" name="publisher"/>
+  <meta content="Jeongpil Kim" name="authors"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="Ohchan Kwon" name="authors"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="Hansung Kim" name="authors"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="Dae Woo Kim" name="authors"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="Yukwon Jeon" name="authors"/>
+  <meta content="Department of Environmental Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="Yunseong Ji" name="authors"/>
+  <meta content="Institute of Tissue Regeneration Engineering (ITREN), Dankook University" name="authors_institutions"/>
+  <meta content="Ok sung Jeon" name="authors"/>
+  <meta content="Center for Applied Electromagnetic Research (CAER), Advanced Institutes of Convergence Technology (AICT), Seoul National University" name="authors_institutions"/>
+  <meta content="Chanmin Lee" name="authors"/>
+  <meta content="Green and Sustainable Materials R&amp;D Department, Korea Institute of Industrial Technology" name="authors_institutions"/>
+  <meta content="Yong-Gun Shul" name="authors"/>
+  <meta content="Department of Chemical and Biomolecular Engineering, Yonsei University" name="authors_institutions"/>
+  <meta content="0000-0003-4137-0414" name="authors_orcids"/>
+  <meta content="Cross-Linked PVA/PAA Fibrous Web Composite Membrane for Enhanced Performance of PEM Fuel Cells under High-Temperature and Low-Humidity Conditions" name="title"/>
+  <meta content="2020/09/20" name="publication_date"/>
+  <meta content="2020/09/20" name="online_date"/>
+  <meta content="53" name="volume"/>
+  <meta content="9" name="issue"/>
+  <meta content="569" name="firstpage"/>
+  <meta content="575" name="lastpage"/>
+  <meta content="10.1252/jcej.19we078" name="doi"/>
+  <meta content="https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_pdf" name="pdf_url"/>
+  <meta content="0021-9592" name="print_issn"/>
+  <meta content="en" name="language"/>
+  <meta content="High Temperature PEMFC" name="keywords"/>
+  <meta content="Supported Membrane" name="keywords"/>
+  <meta content="Electrospinning" name="keywords"/>
+  <meta content="A cross-linked poly(vinyl alcohol) (PVA)/poly(acrylic acid) (PAA) fibrous web supported composite ionomer (Aquivion) membrane was fabricated and evaluated for high-temperature and low-humidity proton exchange membrane fuel cell operations. PVA/PAA fibrous webs were initially prepared by the electrospinning method, followed by heat-treatment for cross-linking the polymers in order to increase mechanical strength. The successful formation of cross-linking bonds between PVA and PAA was confirmed by Fourier transform infrared spectroscopy analysis. For electrolyte membrane preparation in single cell tests, the fibrous webs were further impregnated with an Aquivion ionomer phase, which could be observed in scanning electron microscopy images. The prepared composite membrane had considerably improved mechanical strength compared to Aquivion-only membranes, as was evident by a 1.78-fold increase in tensile strength. Single cell and proton conductivity tests were also performed. The Aquivion-impregnated PVA/PAA fibrous composite membranes showed approximately 1.4-, 1.6-, and 1.2-fold higher maximum power densities than did the Aquivion-only membranes at 75°C/100% relative humidity (RH), 75°C/40% RH, and 120°C/40% RH, respectively. These results demonstrate the strong potential of the cross-linked PVA/PAA fibrous composite membranes impregnated with Aquivion for application to PEMFC operation at high temperatures and in low-humidity (&gt;40% RH) regions." name="abstract"/>
+  <meta content="RESTRICTED ACCESS" name="access_control"/>
+  <meta content="2020 The Society of Chemical Engineers, Japan" name="copyright"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="@jstage_ej" name="twitter:site"/>
+  <meta content="https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_article" name="og:url"/>
+  <meta content="Cross-Linked PVA/PAA Fibrous Web Composite Membrane for Enhanced Performance of PEM Fuel Cells under High-Temperature and Low-Humidity Conditions" name="og:title"/>
+  <meta content="A cross-linked poly(vinyl alcohol) (PVA)/poly(acrylic acid) (PAA) fibrous web supported composite ionomer (Aquivion) membrane was fabricated and evalu …" name="og:description"/>
+  <meta content="J-STAGE" name="og:site_name"/>
+  <meta content="https://www.jstage.jst.go.jp/html/images/common/SNS/J-STAGE_logo_sns.png" name="og:image"/>
+  <link href="/favicon.ico" rel="icon" type="image/x-icon"/>
+  <title>
+   Cross-Linked PVA/PAA Fibrous Web Composite Membrane for Enhanced Performance of PEM Fuel Cells under High-Temperature and Low-Humidity Conditions
+  </title>
+  <link href="/web/css/bootstrap3-wysiwyg5-color.css" rel="stylesheet"/>
+  <link href="/web/css/bootstrap3-wysiwyg5.css" rel="stylesheet"/>
+  <link href="/web/css/ranking.css?rn=2.0.15" rel="stylesheet"/>
+  <link href="/web/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="/web/css/style.css?rn=2.0.15" rel="stylesheet"/>
+  <link href="/web/css/common-elements-style.css?rn=2.0.15" rel="stylesheet"/>
+  <link href="/web/css/jquery.treefilter.css" rel="stylesheet"/>
+  <link href="/web/css/jplayer.blue.monday.css" rel="stylesheet"/>
+  <link href="/web/css/main.css?rn=2.0.15" rel="stylesheet"/>
+  <link href="/web/css/print.css" media="print" rel="stylesheet"/>
+  <!--[if lt IE 9]>
+
+<script src="/web/js/html5shiv.min.js"></script>
+<script src="/web/js/respond.min.js"></script>
+<![endif]-->
+  <style type="text/css">
+   <!--
+b {
+	font-weight: bold;
+}
+i {
+	font-style: italic;
+}
+// -->
+  </style>
+ </head>
+ <body class="body-offcanvas addition-pages">
+  <!-- HEADER :: START -->
+  <span class="noprint">
+   <header class="clearfix">
+    <!-- NAVIGATION :: START -->
+    <nav class="navbar navbar-default navbar-fixed-top ep-nav-shadow">
+     <div class="container">
+      <button class="navbar-toggle offcanvas-toggle" data-target="#js-bootstrap-offcanvas" data-toggle="offcanvas" style="float:left;" type="button">
+       <span class="sr-only">
+        Toggle navigation
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+       <span class="icon-bar">
+       </span>
+      </button>
+      <!-- RIGHT NAV SEARCH :: BEGIN -->
+      <div class="search-nav-block dropdown">
+       <a class="" data-target="#Search_nav" data-toggle="collapse" href="javascript:;">
+        <i class="search-nav-icon">
+        </i>
+       </a>
+      </div>
+      <!-- RIGHT NAV SEARCH :: END -->
+      <!-- LOGO :: START -->
+      <a class="navbar-brand ms-logowrap hm-logo-padding" href="https://www.jstage.jst.go.jp/browse/-char/en">
+       <img alt="" src="/web/images/J-STAGE_logo_A3.png" style="margin-top:6px;"/>
+      </a>
+      <!-- LOGO :: END -->
+      <!-- HAMBURGER LEFT TO RIGHT SLIDE :: START -->
+      <div class="offcanvas-left-wrap register-offcanvas-left-wrap">
+       <div class="navbar-offcanvas navbar-offcanvas-touch navbar-offcanvas-fade" id="js-bootstrap-offcanvas" role="navigation">
+        <div class="offcanvas-left-wrap">
+         <div class="navbar-header">
+          <a class="navbar-brand jst-homelink" href="https://www.jstage.jst.go.jp/browse/-char/en">
+           J-STAGE home
+          </a>
+          <button class="navbar-toggle offcanvas-toggle pull-right" data-target="#js-bootstrap-offcanvas" data-toggle="offcanvas" style="float:left;" type="button">
+           <img alt="" src="/web/images/edit-profile/icon-close-menu.png"/>
+          </button>
+         </div>
+         <div class="offcanvas-nav-wrap">
+          <ul class="nav navbar-nav">
+           <li class="dropdown reponsive-menu">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+             Browse
+             <b class="caret">
+             </b>
+            </a>
+            <ul class="dropdown-menu ep-dropdown-menu">
+             <li style="background:none !important;">
+              <span class="topnav-dropdown-icon">
+               <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+              </span>
+             </li>
+             <li>
+              <a href="/journal/list/-char/en">
+               All titles
+              </a>
+             </li>
+             <li>
+              <a href="/journal/fields/-char/en">
+               All subject areas
+              </a>
+             </li>
+             <li>
+              <a href="/journal/publisher/-char/en">
+               All publishers
+              </a>
+             </li>
+             <li>
+              <a href="/search/global/_search/-char/en">
+               Search articles
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="dropdown reponsive-menu">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+             About J-STAGE
+             <b class="caret">
+             </b>
+            </a>
+            <ul class="dropdown-menu ep-dropdown-menu">
+             <li style="background:none !important;">
+              <span class="topnav-dropdown-icon">
+               <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+              </span>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/JstageOverview/-char/en">
+               Overview
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/JstageServices/TAB1/-char/en">
+               Services and features
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/PublicDataAboutJstage/-char/en">
+               Public data
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/TermsAndPolicies/ForIndividuals/-char/en">
+               Terms and Policy
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="dropdown reponsive-menu">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+             News and PR
+             <b class="caret">
+             </b>
+            </a>
+            <ul class="dropdown-menu ep-dropdown-menu">
+             <li style="background:none !important;">
+              <span class="topnav-dropdown-icon">
+               <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+              </span>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB1/Current/Page1/-char/en">
+               News
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB2/Page1/-char/en">
+               Maintenance information
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB6/Page1/-char/en">
+               Special contents
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB7/Page1/-char/en">
+               PR media
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="dropdown reponsive-menu">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+             Support
+             <b class="caret">
+             </b>
+            </a>
+            <ul class="dropdown-menu ep-dropdown-menu">
+             <li style="background:none !important;">
+              <span class="topnav-dropdown-icon">
+               <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+              </span>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/ForReaders/-char/en">
+               User's manual
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/RecommendedEnvironment/-char/en">
+               Current confirmed browsers
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/FAQs/TAB3/-char/en">
+               FAQ
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/Contact/-char/en">
+               Contact
+              </a>
+             </li>
+             <li>
+              <a href="https://www.jstage.jst.go.jp/static/pages/Sitemap/-char/en">
+               Sitemap
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="reponsive-menu">
+            <a href="/mylogin/-char/en?sourceurl=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen">
+             Sign in
+            </a>
+           </li>
+           <li class="reponsive-menu">
+           </li>
+           <li class="reponsive-menu">
+            <a class="" href="/cart/list/-char/en?backurl=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen">
+             Cart
+             <img alt="" src="/web/images/edit-profile/icon-cart.png"/>
+            </a>
+           </li>
+           <li class="dropdown reponsive-menu">
+            <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+             EN
+             <img alt="" src="/web/images/edit-profile/icon-lang.png"/>
+             <b class="caret">
+             </b>
+            </a>
+            <ul class="dropdown-menu ep-dropdown-menu">
+             <li style="background:none !important;">
+              <span class="topnav-dropdown-icon">
+               <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+              </span>
+             </li>
+             <li>
+              <a href="javascript:;" onclick="doChangeLang('en')">
+               English
+              </a>
+             </li>
+             <li>
+              <a href="javascript:;" onclick="doChangeLang('ja')">
+               日本語
+              </a>
+             </li>
+            </ul>
+           </li>
+          </ul>
+         </div>
+         <div class="clearfix">
+         </div>
+        </div>
+       </div>
+       <ul class="nav navbar-nav offcanvas-left-display-none">
+        <li class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          Browse
+          <b class="caret">
+          </b>
+         </a>
+         <ul class="dropdown-menu ep-dropdown-menu">
+          <li style="background:none !important;">
+           <span class="topnav-dropdown-icon">
+            <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+           </span>
+          </li>
+          <li>
+           <a href="/journal/list/-char/en">
+            All titles
+           </a>
+          </li>
+          <li>
+           <a href="/journal/fields/-char/en">
+            All subject areas
+           </a>
+          </li>
+          <li>
+           <a href="/journal/publisher/-char/en">
+            All publishers
+           </a>
+          </li>
+          <li>
+           <a href="/search/global/_search/-char/en">
+            Search articles
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          About J-STAGE
+          <b class="caret">
+          </b>
+         </a>
+         <ul class="dropdown-menu ep-dropdown-menu">
+          <li style="background:none !important;">
+           <span class="topnav-dropdown-icon">
+            <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+           </span>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/JstageOverview/-char/en">
+            Overview
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/JstageServices/TAB1/-char/en">
+            Services and features
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/PublicDataAboutJstage/-char/en">
+            Public data
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/TermsAndPolicies/ForIndividuals/-char/en">
+            Terms and Policy
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          News and PR
+          <b class="caret">
+          </b>
+         </a>
+         <ul class="dropdown-menu ep-dropdown-menu">
+          <li style="background:none !important;">
+           <span class="topnav-dropdown-icon">
+            <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+           </span>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB1/Current/Page1/-char/en">
+            News
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB2/Page1/-char/en">
+            Maintenance information
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB6/Page1/-char/en">
+            Special contents
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB7/Page1/-char/en">
+            PR media
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          Support
+          <b class="caret">
+          </b>
+         </a>
+         <ul class="dropdown-menu ep-dropdown-menu">
+          <li style="background:none !important;">
+           <span class="topnav-dropdown-icon">
+            <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+           </span>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/ForReaders/-char/en">
+            User's manual
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/RecommendedEnvironment/-char/en">
+            Current confirmed browsers
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/FAQs/TAB3/-char/en">
+            FAQ
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/Contact/-char/en">
+            Contact
+           </a>
+          </li>
+          <li>
+           <a href="https://www.jstage.jst.go.jp/static/pages/Sitemap/-char/en">
+            Sitemap
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+      <!-- HAMBURGER LEFT TO RIGHT SLIDE :: END -->
+      <div class="offcanvas-right-wrap register-offcanvas-right-wrap">
+       <ul class="nav navbar-nav">
+        <li class="">
+         <a class="" href="/mylogin/-char/en?sourceurl=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen">
+          Sign in
+         </a>
+        </li>
+        <li class="">
+        </li>
+        <li class="">
+         <a class="" href="/cart/list/-char/en?backurl=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen">
+          Cart
+         </a>
+        </li>
+        <li class="dropdown">
+         <a class="dropdown-toggle" data-toggle="dropdown" href="#">
+          EN
+          <b class="caret">
+          </b>
+         </a>
+         <ul class="dropdown-menu ep-dropdown-menu" style="min-width: 80px;">
+          <li style="background:none !important;">
+           <span class="topnav-dropdown-icon">
+            <img alt="" height="10" src="/web/images/top-nav-dropdown-arrow.png" width="18"/>
+           </span>
+          </li>
+          <li>
+           <a href="javascript:;" onclick="doChangeLang('en')">
+            English
+           </a>
+          </li>
+          <li>
+           <a href="javascript:;" onclick="doChangeLang('ja')">
+            日本語
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+      </div>
+      <!-- RIGHT NAV SEARCH DROPDOWN :: BEGIN -->
+      <ul class="dropdown-menu collapse ep-dropdown-menu search-dropdown-menu" id="Search_nav" style="max-width: 300px;">
+       <li style="background:none !important;">
+        <span class="topnav-dropdown-icon">
+        </span>
+       </li>
+       <li>
+        <div class="col-md-24 edit-profile-form-control">
+         <form action="/result/journal/-char/en" method="get">
+          <div class="input-group">
+           <input class="form-control search-nav-input" name="globalSearchKey" placeholder="Search within all titles on J-STAGE" type="text"/>
+           <span class="input-group-btn search-btn">
+            <button class="btn btn-default" type="submit">
+             <i class="search-nav-icon">
+             </i>
+            </button>
+           </span>
+          </div>
+          <!-- /input-group -->
+          <a class="advanced-search-link" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en">
+           Advanced search
+          </a>
+         </form>
+        </div>
+       </li>
+      </ul>
+      <!-- RIGHT NAV SEARCH DROPDOWN :: END -->
+      <div class="clearfix">
+      </div>
+     </div>
+    </nav>
+    <!-- NAVIGATION :: END -->
+   </header>
+  </span>
+  <!-- HEADER :: END -->
+  <!-- JOURNAL INTRODUCTION :: START -->
+  <div id="page-content">
+   <div class="secondlevel-tabnavigation-detail colorscheme09-normal" id="journal-header-compact">
+    <div class="container">
+     <div class="flt-left" style="width:100%; position:relative;">
+      <div class="journal-name">
+       JOURNAL OF CHEMICAL ENGINEERING OF JAPAN
+      </div>
+      <div class="col-sm-6" id="journal-right-infosection" style="padding-top:15px;">
+       <div class="fs-12">
+        Print ISSN : 0021-9592
+        <br/>
+       </div>
+      </div>
+      <div class="journal-tags-clearfix">
+      </div>
+     </div>
+     <div class="clearfix">
+     </div>
+    </div>
+   </div>
+  </div>
+  <!-- JOURNAL INTRODUCTION :: END -->
+  <!-- SECOND LEVEL TAB NAVIGATION :: START -->
+  <div class="colorscheme09-normal">
+   <div class="container">
+    <div id="second-level-nav-tabs">
+     <ul class="nav nav-tabs">
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/-char/en">
+        Journal home
+       </a>
+      </li>
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/advpub/0/_contents/-char/en">
+        Advance online publication
+       </a>
+      </li>
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/list/-char/en">
+        Journal issue
+       </a>
+      </li>
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/spenum/54/5/_contents/-char/en">
+        Special issue
+       </a>
+      </li>
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/_pubinfo/-char/en">
+        About the journal
+       </a>
+      </li>
+     </ul>
+    </div>
+   </div>
+  </div>
+  <!-- SECOND LEVEL TAB NAVIGATION :: END -->
+  <div class="container">
+   <div class="row">
+    <div class="col-md-24">
+     <!-- BREDCRUMBS :: START -->
+     <ul class="global-breadcrumbs">
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/-char/en">
+        J-STAGE home
+       </a>
+      </li>
+      <li>
+       /
+      </li>
+      <li>
+       <a class="customTooltip" href="https://www.jstage.jst.go.jp/browse/jcej/-char/en" title="JOURNAL OF CHEMICAL ENGINEERING OF JAPAN">
+        JOURNAL OF CHEMICAL ENGINEERIN ...
+       </a>
+      </li>
+      <li>
+       /
+      </li>
+      <li>
+       <a href="https://www.jstage.jst.go.jp/browse/jcej/53/9/_contents/-char/en">
+        Volume 53 (2020) Issue 9
+       </a>
+      </li>
+      <li>
+       /
+      </li>
+      <li>
+       Article overview
+      </li>
+     </ul>
+     <div class="clearfix">
+     </div>
+     <!-- BREDCRUMBS :: END -->
+    </div>
+   </div>
+   <div class="row">
+    <!-- LEFT SECTION :: START -->
+    <div class="col-md-18">
+     <div class="global-article-subtitle">
+      Energy
+     </div>
+     <div class="global-article-title">
+      Cross-Linked PVA/PAA Fibrous Web Composite Membrane for Enhanced Performance of PEM Fuel Cells under High-Temperature and Low-Humidity Conditions
+     </div>
+     <div class="global-article-inner-title">
+     </div>
+     <div class="global-authors-name-tags">
+      <!--
+	
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Jeongpil+Kim" title="Jeongpil Kim, Department of Chemical and Biomolecular Engineering, Yonsei University">
+       <span>
+        Jeongpil Kim
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Ohchan+Kwon" title="Ohchan Kwon, Department of Chemical and Biomolecular Engineering, Yonsei University">
+       <span>
+        Ohchan Kwon
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Hansung+Kim" title="Hansung Kim, Department of Chemical and Biomolecular Engineering, Yonsei University">
+       <span>
+        Hansung Kim
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Dae+Woo+Kim" title="Dae Woo Kim, Department of Chemical and Biomolecular Engineering, Yonsei University">
+       <span>
+        Dae Woo Kim
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Yukwon+Jeon" title="Yukwon Jeon, Department of Environmental Engineering, Yonsei University">
+       <span>
+        Yukwon Jeon
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Yunseong+Ji" title="Yunseong Ji, Institute of Tissue Regeneration Engineering (ITREN), Dankook University">
+       <span>
+        Yunseong Ji
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Ok+sung+Jeon" title="Ok sung Jeon, Center for Applied Electromagnetic Research (CAER), Advanced Institutes of Convergence Technology (AICT), Seoul National University">
+       <span>
+        Ok sung Jeon
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Chanmin+Lee" title="Chanmin Lee, Green and Sustainable Materials R&amp;D Department, Korea Institute of Industrial Technology">
+       <span>
+        Chanmin Lee
+       </span>
+      </a>
+      <!--
+			
+				-->
+      ,
+      <!--
+		
+				-->
+      <a class="customTooltip" href="https://www.jstage.jst.go.jp/search/global/_search/-char/en?item=8&amp;word=Yong-Gun+Shul" title="Yong-Gun Shul, Department of Chemical and Biomolecular Engineering, Yonsei University">
+       <span>
+        Yong-Gun Shul
+       </span>
+      </a>
+      <!--
+				-->
+      <div class="accordion_container">
+       <div class="accordion_head plus-icn">
+        Author information
+       </div>
+       <div class="accordion_body new_accordion_body_style" style="display: none;">
+        <ul class="accodion_body_ul">
+         <li>
+          <span style="font-size:1.1em">
+           Jeongpil Kim
+          </span>
+          <p>
+           Department of Chemical and Biomolecular Engineering, Yonsei University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Ohchan Kwon
+          </span>
+          <p>
+           Department of Chemical and Biomolecular Engineering, Yonsei University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Hansung Kim
+          </span>
+          <p>
+           Department of Chemical and Biomolecular Engineering, Yonsei University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Dae Woo Kim
+          </span>
+          <p>
+           Department of Chemical and Biomolecular Engineering, Yonsei University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Yukwon Jeon
+          </span>
+          <p>
+           Department of Environmental Engineering, Yonsei University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Yunseong Ji
+          </span>
+          <p>
+           Institute of Tissue Regeneration Engineering (ITREN), Dankook University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Ok sung Jeon
+          </span>
+          <p>
+           Center for Applied Electromagnetic Research (CAER), Advanced Institutes of Convergence Technology (AICT), Seoul National University
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Chanmin Lee
+          </span>
+          <p>
+           Green and Sustainable Materials R&amp;D Department, Korea Institute of Industrial Technology
+          </p>
+         </li>
+         <li>
+          <span style="font-size:1.1em">
+           Yong-Gun Shul
+          </span>
+          <p>
+           <img alt="ORCID" class="author_ic" src="/web/images/new_update/author_ic.jpg"/>
+           <a href="https://orcid.org/0000-0003-4137-0414" rel="noopener noreferrer" target="_blank">
+            https://orcid.org/0000-0003-4137-0414
+            <span class="fa fa-external-link global-external-link">
+            </span>
+           </a>
+           <br/>
+           Department of Chemical and Biomolecular Engineering, Yonsei University
+          </p>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <div class="global-para">
+      Keywords:
+      <a class="bluelink-style" href="/search/global/_search/-char/en?item=5&amp;word=High+Temperature+PEMFC">
+       High Temperature PEMFC
+      </a>
+      ,
+      <a class="bluelink-style" href="/search/global/_search/-char/en?item=5&amp;word=Supported+Membrane">
+       Supported Membrane
+      </a>
+      ,
+      <a class="bluelink-style" href="/search/global/_search/-char/en?item=5&amp;word=Electrospinning">
+       Electrospinning
+      </a>
+     </div>
+     <div class="global-tags">
+      <span class="tags-wrap original-tag-style" title="JOURNAL">
+       JOURNAL
+      </span>
+      <span class="tags-wrap freeaccess-tag-style" title="RESTRICTED ACCESS">
+       RESTRICTED ACCESS
+      </span>
+      <br/>
+     </div>
+     <p class="global-para">
+      2020
+	 Volume 53
+			Issue 9
+				Pages 569-575
+     </p>
+     <div class="articleoverview-doi-wrap" id="fig-doi">
+      <span class="doi-icn">
+       DOI
+      </span>
+      <a class="bluelink-style" href="https://doi.org/10.1252/jcej.19we078" style="word-break:break-all">
+       https://doi.org/10.1252/jcej.19we078
+      </a>
+     </div>
+     <div class="articleoverview-doi-wrap">
+     </div>
+     <div class="top-margin-2x bottom-margin-2x">
+     </div>
+     <div class="accordion_container">
+      <div class="accordion_head plus-icn">
+       Details
+      </div>
+      <div class="accordion_body new_accordion_body_style" style="display: none;">
+       <ul class="accodion_body_ul accodion_detail">
+        <li>
+         <span class="accodion_lic">
+          Published: September 20, 2020
+         </span>
+         <span class="accodion_lic">
+          Received: May 08, 2019
+         </span>
+         <span class="accodion_lic">
+          Published on J-STAGE: September 20, 2020
+         </span>
+         <span class="accodion_lic">
+          Accepted: March 02, 2020
+         </span>
+         <span class="accodion_lic">
+          Advance online publication: -
+         </span>
+         <span class="accodion_lic">
+          Revised: -
+         </span>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <!-- LEFT SECTION :: END -->
+    <!-- RIGHT SECTION :: START -->
+    <div class="col-md-6 print-non-disp">
+     <div id="third-level-navigation">
+      <a class="thirdlevel-pdf-btn" href="https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_pdf/-char/en">
+       Download PDF
+       <span class="download-file-size">
+        (2180K)
+       </span>
+      </a>
+      <span class="third-level-nav-divider">
+      </span>
+      <div class="third-level-sublinks">
+       <span class="heading">
+        Download Meta
+       </span>
+       <span class="fa fa-file-o">
+       </span>
+       <a href="https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jcej&amp;noVol=53&amp;noIssue=9&amp;kijiCd=53_19we078&amp;kijiLangKrke=en&amp;kijiToolIdHkwtsh=AT0072&amp;request_locale=EN">
+        RIS
+       </a>
+       <p class="notice_mess">
+        (compatible with EndNote, Reference Manager, ProCite, RefWorks)
+       </p>
+       <div class="clearfix">
+       </div>
+       <span class="fa fa-file-o">
+       </span>
+       <a href="https://www.jstage.jst.go.jp/AF06S010ShoshJkuDld?sryCd=jcej&amp;noVol=53&amp;noIssue=9&amp;kijiCd=53_19we078&amp;kijiLangKrke=en&amp;kijiToolIdHkwtsh=AT0073&amp;request_locale=EN">
+        BIB TEX
+       </a>
+       <p class="notice_mess">
+        (compatible with BibDesk, LaTeX)
+       </p>
+       <div class="clearfix">
+       </div>
+       <span class="fa fa-file-o">
+       </span>
+       <a href="javascript:void(0);" onclick="downloadText('https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_article/-char/en'.replace('&amp;amp;','&amp;'))">
+        Text
+       </a>
+       <div class="clearfix">
+       </div>
+       <a class="download-help-link bluelink-style" href="https://www.jstage.jst.go.jp/static/pages/HowToDownload/-char/en">
+        How to download Meta
+       </a>
+      </div>
+      <a class="thirdlevel-links" href="https://www.jstage.jst.go.jp/browse/jcej/_pubinfo/-char/en#information">
+       Contact us
+      </a>
+      <span class="third-level-nav-divider">
+      </span>
+     </div>
+    </div>
+    <!-- RIGHT SECTION :: END -->
+    <div class="clearfix">
+    </div>
+   </div>
+  </div>
+  <!-- ARTICLE OVERVIEW  INTRODUCTION :: END -->
+  <!-- ARTICLE OVERVIEW :: START -->
+  <div class="clearfix container">
+   <!-- LEFT STICKY SIDEBAR :: START -->
+   <div class="print-non-disp" id="sticky-sidebar">
+    <div class="section-title-14">
+     Article overview
+    </div>
+    <!-- ARTICLE OVERVIEW LINKS :: START -->
+    <nav id="article-overiew-section-links">
+     <nav id="article-overiew-section-links">
+      <ul id="article-overiew-section-list">
+       <li>
+        <a class="customTooltip" href="#article-overiew-abstract-wrap" onclick="menueAnime('Abstract')" title="Abstract">
+         Abstract
+        </a>
+       </li>
+       <li>
+        <a class="customTooltip" href="#article-overiew-references-wrap" onclick="menueAnime('References')" title="References">
+         References (35)
+        </a>
+       </li>
+       <li id="author-info-navi">
+        <a class="customTooltip" href="#author-information-wrap" onclick="menueAnime('information')" title="Information related to the author">
+         Information related to the author
+        </a>
+       </li>
+      </ul>
+     </nav>
+    </nav>
+    <!-- ARTICLE OVERVIEW LINKS :: END -->
+    <!-- SHARING ICONS :: SMALL SET :: START -->
+    <div id="sticky-sidebar-shareicons">
+     <div class="section-title-noborder-14">
+      Share
+     </div>
+     <ul class="global-share-x-icons-list">
+      <li>
+       <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078" rel="noopener noreferrer" target="_blank">
+        <span class="fa fa-facebook facebook-share-icn">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="http://twitter.com/share?url=https%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078&amp;text=J-STAGE+Articles+-+Cross-Linked+PVA%2FPAA+Fibrous+Web+Composite+Membrane+for+Enhanced+Performance+of+PEM+Fuel+Cells+under+High-Temperature+and+Low-Humidity+Conditions" rel="noopener noreferrer" target="_blank">
+        <span class="fa fa-twitter twitter-share-icn">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="mailto:?body=JOURNAL%20OF%20CHEMICAL%20ENGINEERING%20OF%20JAPAN%0A%0ACross-Linked%20PVA%2FPAA%20Fibrous%20Web%20Composite%20Membrane%20for%20Enhanced%20Performance%20of%20PEM%20Fuel%20Cells%20under%20High-Temperature%20and%20Low-Humidity%20Conditions%0A%0Ahttps%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078%0A">
+        <span class="fa fa-envelope outlook-share-icn">
+        </span>
+       </a>
+      </li>
+      <li>
+       <a href="http://www.mendeley.com/import/?doi=10.1252/jcej.19we078" rel="noopener noreferrer" target="_blank">
+        <span class="mendeley-share-icn">
+         <img alt="" height="32" src="/web/images/mendeley-share-icon.png" width="32"/>
+        </span>
+       </a>
+      </li>
+     </ul>
+    </div>
+    <!-- SHARING ICONS :: SMALL SET :: END -->
+   </div>
+   <!-- LEFT STICKY SIDEBAR :: END -->
+   <!-- RIGHT NON-STICKY SIDEBAR :: START -->
+   <div class="non-sticky-content">
+    <div id="non-sticky-content-leftsection">
+     <div id="article-overiew-abstract-wrap">
+      <!-- INNER SECTION :: START -->
+      <div class="section-title-18">
+       Abstract
+      </div>
+      <p class="global-para-14">
+      </p>
+      <p>
+       A cross-linked poly(vinyl alcohol) (PVA)/poly(acrylic acid) (PAA) fibrous web supported composite ionomer (Aquivion) membrane was fabricated and evaluated for high-temperature and low-humidity proton exchange membrane fuel cell operations. PVA/PAA fibrous webs were initially prepared by the electrospinning method, followed by heat-treatment for cross-linking the polymers in order to increase mechanical strength. The successful formation of cross-linking bonds between PVA and PAA was confirmed by Fourier transform infrared spectroscopy analysis. For electrolyte membrane preparation in single cell tests, the fibrous webs were further impregnated with an Aquivion ionomer phase, which could be observed in scanning electron microscopy images. The prepared composite membrane had considerably improved mechanical strength compared to Aquivion-only membranes, as was evident by a 1.78-fold increase in tensile strength. Single cell and proton conductivity tests were also performed. The Aquivion-impregnated PVA/PAA fibrous composite membranes showed approximately 1.4-, 1.6-, and 1.2-fold higher maximum power densities than did the Aquivion-only membranes at 75°C/100% relative humidity (RH), 75°C/40% RH, and 120°C/40% RH, respectively. These results demonstrate the strong potential of the cross-linked PVA/PAA fibrous composite membranes impregnated with Aquivion for application to PEMFC operation at high temperatures and in low-humidity (&gt;40% RH) regions.
+      </p>
+      <p>
+      </p>
+      <div style="text-align:center;">
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="datarepo-wrap">
+     </div>
+     <input id="figshareArticleSearchUrl" type="hidden" value="https://api.figshare.com/v2/articles"/>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="article-overiew-references-wrap">
+      <div class="section-title-18" style="display:none;">
+       References (35)
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="article-overiew-related-wrap">
+      <div class="section-title-18" style="display:none;">
+       Related articles (0)
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="figures-tables-wrap">
+      <div class="section-title-noborder-18" style="display:none;">
+       Figures (0)
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="author-information-wrap" style="">
+      <div id="author_info_main">
+       <div class="section-title-18" id="author_info_title" onclick="getAuthorList(this)">
+        <img alt="" class="jglobal_img" src="/web/images/data-services/J-GLOBAL.jpg"/>
+        <span id="author_info_label">
+         Information related to the author
+        </span>
+       </div>
+       <div class="accordion_container">
+        <div id="author_info_status">
+        </div>
+        <div id="author_info_contents">
+        </div>
+       </div>
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="supplimentary-materials-wrap">
+      <div class="section-title-18" style="display:none;">
+       Supplementary material (0)
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="resultsanddiscussion-wrap">
+      <div class="section-title-18" style="display:none;">
+       Result List ()
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="citedby-wrap">
+      <div class="section-title-18" style="display:none;">
+       Cited by (0)
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="jstage-external-links">
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div class="section-divider">
+      <div class="grey-txt-color fontsize12">
+       © 	2020 The Society of Chemical Engineers, Japan
+      </div>
+      <div class="grey-txt-color fontsize12 margintop10">
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div class="print-non-disp" id="article-navigation-links">
+      <a class="next-icon colorscheme09-lighter" href="https://www.jstage.jst.go.jp/article/jcej/53/9/53_20we085/_article/-char/en">
+       Previous article
+      </a>
+      <div class="clearfix">
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+    </div>
+    <div class="print-non-disp" id="non-sticky-content-rightsection">
+     <!-- INNER SECTION :: START -->
+     <div class="section-divider">
+      <div class="section-title-14">
+       Favorites &amp; Alerts
+      </div>
+      <ul class="star-list-style">
+       <li>
+        <a class="add-favorites-articles" href="javascript:;" value="1">
+         Add to favorites
+        </a>
+       </li>
+       <li>
+        <a class="add-favorites-articles" href="javascript:;" value="4">
+         Additional info alert
+        </a>
+       </li>
+       <li>
+        <a class="add-favorites-articles" href=" javascript:;" value="2">
+         Citation alert
+        </a>
+       </li>
+       <li>
+        <a class="add-favorites-articles" href="javascript:;" value="3">
+         Authentication alert
+        </a>
+       </li>
+      </ul>
+     </div>
+     <form action="/fav/articles/_insert/-char/en" id="favorites-articles" method="get" name="favorites-articles">
+     </form>
+     <form action="/fav/title/_insert/-char/en" id="favorites-titles" method="get" name="favorites-titles">
+     </form>
+     <input name="sryCd" type="hidden" value="jcej"/>
+     <input name="noVol" type="hidden" value="53"/>
+     <input name="noIssue" type="hidden" value="9"/>
+     <input name="kijiCd" type="hidden" value="53_19we078"/>
+     <!-- INNER SECTION :: END -->
+     <!-- INNER SECTION :: START -->
+     <div id="related_articles_main">
+      <div class="section-title-14" id="related_articles_title">
+       <span onclick="getArticleJGID(this)" style="cursor: pointer;">
+        <img alt="" class="jglobal_img_side" src="/web/images/data-services/J-GLOBAL.jpg"/>
+        <div id="related_articles_label">
+         <span style="display:inline-block; vertical-align:middle;">
+          Related articles
+         </span>
+         <span class="glyphicon glyphicon-menu-right" id="glyphiconmenu" style="display:inline; vertical-align:middle;">
+         </span>
+        </div>
+       </span>
+      </div>
+      <div class="accordion_container">
+       <div id="related_articles_status">
+       </div>
+       <div id="related_articles_contents">
+       </div>
+      </div>
+     </div>
+     <!-- INNER SECTION :: END -->
+     <div class="clearfix">
+     </div>
+     <br/>
+     <!-- ALTMETRIC WRAPPER :: START -->
+     <div id="altmetric-wrap">
+      <div class="section-title-14">
+       Altmetrics
+      </div>
+      <div id="altmetric-widget">
+       <div class="altmetric-embed" data-badge-details="bottom" data-badge-type="donut" data-doi="10.1252/jcej.19we078" data-hide-no-mentions="true">
+       </div>
+      </div>
+     </div>
+     <!-- ALTMETRIC WRAPPER :: END -->
+     <div class="clearfix">
+     </div>
+     <!-- INNER SECTION :: START -->
+     <div class="section-title-14">
+      Recently visited articles
+     </div>
+     <ul class="common-list-style">
+     </ul>
+     <!-- INNER SECTION :: END -->
+     <div class="clearfix">
+     </div>
+     <!-- INNER SECTION :: START -->
+     <!-- INNER SECTION :: END -->
+     <div class="clearfix">
+     </div>
+     <!-- SHARING ICONS :: BIG SET :: START -->
+     <div class="sticky-sidebar-shareicons-rightsection top-margin-2x">
+      <div class="colorscheme09-lighter" id="socialmedia-share-plugins">
+       <div class="sectionheading">
+        Share this page
+       </div>
+       <ul class="share-icons-list">
+        <li>
+         <a href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078" rel="noopener noreferrer" target="_blank">
+          <span class="fa fa-facebook facebook-share-icn">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://twitter.com/share?url=https%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078&amp;text=J-STAGE+Articles+-+Cross-Linked+PVA%2FPAA+Fibrous+Web+Composite+Membrane+for+Enhanced+Performance+of+PEM+Fuel+Cells+under+High-Temperature+and+Low-Humidity+Conditions" rel="noopener noreferrer" target="_blank">
+          <span class="fa fa-twitter twitter-share-icn">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="mailto:?body=JOURNAL%20OF%20CHEMICAL%20ENGINEERING%20OF%20JAPAN%0A%0ACross-Linked%20PVA%2FPAA%20Fibrous%20Web%20Composite%20Membrane%20for%20Enhanced%20Performance%20of%20PEM%20Fuel%20Cells%20under%20High-Temperature%20and%20Low-Humidity%20Conditions%0A%0Ahttps%3A%2F%2Fdoi.org%2F10.1252%2Fjcej.19we078%0A">
+          <span class="fa fa-envelope outlook-share-icn">
+          </span>
+         </a>
+        </li>
+        <li>
+         <a href="http://www.mendeley.com/import/?doi=10.1252/jcej.19we078" rel="noopener noreferrer" target="_blank">
+          <span class="mendeley-share-icn">
+           <img alt="" height="32" src="/web/images/mendeley-share-icon.png" width="32"/>
+          </span>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <!-- SHARING ICONS :: BIG SET :: END -->
+    </div>
+    <!-- RIGHT NON-STICKY SIDEBAR :: END -->
+   </div>
+  </div>
+  <!-- ARTICLE OVERVIEW :: END -->
+  <div class="clearfix">
+  </div>
+  <!-- MODAL POPUP :: START -->
+  <!-- MODAL POPUP :: END -->
+  <!-- FOOTER :: START -->
+  <span class="noprint">
+   <footer class="footer-style2">
+    <div class="colorscheme09-lighter" id="footer-strip">
+     <div class="container">
+      Edited and published by : The Society of Chemical Engineers, Japan
+      <br/>
+      Produced and listed by : International Academic Printing Co., Ltd.(Vol.43 No.4-) TERRAPUB(Vol.22 No.1-Vol.43 No.3)
+     </div>
+    </div>
+    <div class="footer-wrap print-non-disp">
+     <a class="take-on-top1" href="#0">
+      Top
+     </a>
+     <div class="container">
+      <div class="footer-link-section">
+       <div class="footer-link-heading">
+        Browse
+       </div>
+       <ul class="footer-link-list">
+        <li>
+         <a href="/journal/list/-char/en">
+          All titles
+         </a>
+        </li>
+        <li>
+         <a href="/journal/fields/-char/en">
+          All subject areas
+         </a>
+        </li>
+        <li>
+         <a href="/journal/publisher/-char/en">
+          All publishers
+         </a>
+        </li>
+        <li>
+         <a href="/search/global/_search/-char/en">
+          Search articles
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-link-section">
+       <div class="footer-link-heading">
+        About J-STAGE
+       </div>
+       <ul class="footer-link-list">
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/JstageOverview/-char/en">
+          Overview
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/JstageServices/TAB1/-char/en">
+          Services and features
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/PublicDataAboutJstage/-char/en">
+          Public data
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/TermsAndPolicies/ForIndividuals/-char/en">
+          Terms and Policy
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-link-section">
+       <div class="footer-link-heading">
+        News and PR
+       </div>
+       <ul class="footer-link-list">
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB1/Current/Page1/-char/en">
+          News
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB2/Page1/-char/en">
+          Maintenance information
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB6/Page1/-char/en">
+          Special contents
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/News/TAB7/Page1/-char/en">
+          PR media
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="footer-link-section">
+       <div class="footer-link-heading">
+        Support
+       </div>
+       <ul class="footer-link-list">
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/ForReaders/-char/en">
+          User's manual
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/RecommendedEnvironment/-char/en">
+          Current confirmed browsers
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/FAQs/TAB3/-char/en">
+          FAQ
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/Contact/-char/en">
+          Contact
+         </a>
+        </li>
+        <li>
+         <a href="https://www.jstage.jst.go.jp/static/pages/Sitemap/-char/en">
+          Sitemap
+         </a>
+        </li>
+       </ul>
+      </div>
+      <div class="clearfix">
+      </div>
+      <div class="clearfix">
+      </div>
+     </div>
+    </div>
+   </footer>
+  </span>
+  <!-- FOOTER :: END -->
+  <!-- FEEDBACK BUTTON :: START -->
+  <span class="noprint print-non-disp">
+   <div id="right-feedback-btn">
+    <a href="https://form.jst.go.jp/enquetes/jstage-feedback" rel="noopener noreferrer" target="_blank">
+     feedback
+    </a>
+   </div>
+  </span>
+  <!-- FEEDBACK BUTTON :: END -->
+  <!-- TAKE ME TO TOP :: START -->
+  <a class="take-on-top" href="#0" style="z-index:inherit">
+   Top
+  </a>
+  <!-- TAKE ME TO TOP :: END -->
+  <!-- STICKY REGISTER TO J-STAGE HERE :: START -->
+  <div class="sticky-register-to-j-stage print-non-disp" id="sticky-register-to-j-stage" style="display:none;">
+   <span class="noprint">
+    <a class="sticky-register-to-j-stage-close" href="javascript:;" onclick="registerStickyClose();">
+     <i class="fa fa-times-circle-o">
+     </i>
+    </a>
+   </span>
+   <h3 class="register-for-free">
+    <nobr>
+     Register with J-STAGE for free!
+    </nobr>
+   </h3>
+   <a class="sticky-register-btn" href="/myregister/-char/en">
+    Register
+   </a>
+   <p class="register-for-already">
+    Already have an account? Login in
+    <a href="/mylogin/-char/en?sourceurl=https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen">
+     here
+    </a>
+   </p>
+  </div>
+  <!-- STICKY REGISTER TO J-STAGE HERE :: END -->
+  <script src="/web/js/jquery.min.js">
+  </script>
+  <!-- Include all compiled plugins (below) -->
+  <script src="/web/js/bootstrap.js">
+  </script>
+  <script src="/web/js/bootstrap.offcanvas.min.js">
+  </script>
+  <script src="/web/js/bootstrap-tabdrop.min.js">
+  </script>
+  <script src="/web/js/modernizr.js">
+  </script>
+  <script src="/web/js/jquery.hc-sticky.min.js">
+  </script>
+  <script src="/web/js/jquery.touchSwipe.min.js">
+  </script>
+  <script src="/web/js/jquery.advancedSlider.min.js">
+  </script>
+  <script src="/web/js/jquery-navtoselect.min.js?rn=2.0.15">
+  </script>
+  <script src="/web/js/jquery.treefilter.min.js">
+  </script>
+  <script src="/web/js/jquery.jplayer.min.js">
+  </script>
+  <script src="/web/js/jquery.coolfieldset.min.js">
+  </script>
+  <script src="/web/js/select2.full.min.js">
+  </script>
+  <script src="/web/js/prettify.min.js">
+  </script>
+  <script src="/web/js/common.js?rn=2.0.15">
+  </script>
+  <script src="/web/js/tableHeadFixe.min.js">
+  </script>
+  <script src="/web/js/validation.js?rn=2.0.15">
+  </script>
+  <script src="/web/js/jquery.hc-sticky.min.js">
+  </script>
+  <script src="/web/js/jglobal_related_article_api.js?rn=2.0.15">
+  </script>
+  <script src="/web/js/jglobal_author_info_api.js?rn=2.0.15">
+  </script>
+  <script src="https://widgets.figshare.com/static/figshare.js" type="text/javascript">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.6/MathJax.js?config=MML_HTMLorMML" type="text/javascript">
+  </script>
+  <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+  </script>
+  <script src="/web/js/new_plugin/slick/slick.js">
+  </script>
+  <script src="/web/js/new_plugin/slick/slick.min.js">
+  </script>
+  <script src="/web/js/favoriteAlerts.js">
+  </script>
+  <script src="/web/js/downloadText.js">
+  </script>
+  <script src="/web/js/articleHome_getArticleMenu.js?rn=2.0.15">
+  </script>
+  <link href="/web/css/lity.css" rel="stylesheet"/>
+  <script src="/web/js/lity.js">
+  </script>
+  <script>
+   $(document).ready(function () {
+if(('localStorage' in window) && (window.localStorage !== null)) {
+	if(localStorage.getItem('C.regsticky') != 'off'){
+	$('#sticky-register-to-j-stage').show();
+	}
+}
+$('.dropdown-toggle').on('click', function(E) {
+	$(this).find('.glyphicon').toggleClass("glyphicon-chevron-up");
+	$(this).find('.glyphicon').toggleClass("glyphicon-chevron-down");
+});
+$('[data-toggle="tooltip"]').tooltip({});
+$('.warningtooltip').tooltip();
+
+
+	var header = 0;
+	if ($('.navbar-fixed-top').length) {
+		header = $('.navbar-fixed-top').eq(0).outerHeight();
+	}
+	$('#sticky-sidebar').hcSticky({
+		responsive: true,
+		followScroll: false,
+		top:header + pheader + 5
+	});
+
+		$('#targetLink').click(function(){
+		var rrkskMlAdrs = $('#targetLink').attr('href');
+		rrkskMlAdrs = rrkskMlAdrs.replace('(at)','@');
+		$('#targetLink').attr('href', rrkskMlAdrs);
+	});
+
+		$('.licensedescription').find('a').each(function() {
+		$(this).attr('target', '_blank');
+		$(this).attr('rel', 'noopener noreferrer');
+	});
+
+	window.setTimeout( related_articles_invoke('','10.1252/jcej.19we078','true','en'), 100 );
+	window.setTimeout( author_info_invoke('','10.1252/jcej.19we078','true','true','true','false','en'), 100 );
+
+
+});
+$(".journal-volume-dd").select2( {width: 'resolve'});
+$(".journal-issue-dd").select2();
+$('#facetsearch-header').facetsearch();
+$('.facetsearch-subheader').facetsearch();
+$(window).load(function(){
+	$('.collapseall-icon').hide();
+	$('.vol-link').click(function(e){
+		e.stopPropagation();
+	});
+	$('.expandall-icon').click(function(){
+		$(this).addClass('expand-inactive');
+		$('.collapseall-icon').removeClass('collapse-inactive')
+		$('.inner-content').slideDown();
+		$('.content').each(function(index, element) {
+			$(this).find('.expand').removeClass('collapse1');
+		});
+		$('.collapseall-icon').show();
+		$('.expandall-icon').hide();
+		$('.show_abstract').hide();
+		$('.hide_abstract').show();
+	});
+	$('.collapseall-icon').addClass('collapse-inactive');
+	$('.collapseall-icon').click(function(){
+		$(this).addClass('collapse-inactive');
+		$('.expandall-icon').removeClass('expand-inactive');
+		$('.inner-content').slideUp();
+		$('.content').each(function(index, element) {
+			$(this).find('.expand').addClass('collapse1');
+		});
+		$('.expandall-icon').show();
+		$('.collapseall-icon').hide();
+		$('.show_abstract').show();
+		$('.hide_abstract').hide();
+	});
+	$('.inner-content').hide();
+	$(".expand a").click(function (e) {
+		e.preventDefault();
+		$(this).parent().toggleClass('collapse1');
+		$(this).closest('.content').find('.inner-content').slideToggle().toggleClass('datapanel_opend');
+		if(!$(this).closest('.content').find('.inner-content').hasClass("datapanel_opend")){
+			$('div.collapseall-icon').removeClass('collapse-inactive');
+		} else {
+			$('div.collapseall-icon').addClass('collapse-inactive');
+		}
+
+		$(this).find('.show_abstract').toggle();
+		$(this).find('.hide_abstract').toggle();
+
+	});
+});
+$(".journal-volume-dd").select2();
+$(".journal-issue-dd").select2();
+$(".searchresults-noofpages-dropdown").select2({
+	minimumResultsForSearch: Infinity
+});
+$(".search-browse-volissue-tabs a").click(function(event) {
+	event.preventDefault();
+	$(this).parent().addClass("current");
+	$(this).parent().siblings().removeClass("current");
+	var tab = $(this).attr("href");
+	$(".searchbrowse-volissue-tab-content").not(tab).css("display", "none");
+	$(tab).fadeIn();
+});
+$('.inner-content .abstract').each(function(){
+	if ($(this).height() < 120) {
+		$(this).find('.full-abstract').hide();
+	}
+});
+
+if ( document.getElementById("selectedVol") != null ) {
+	var pos = $("#selectedVol").position();
+	$(".faceted-search-scrollwrap").scrollTop((pos.top - 50));
+}
+var ddd = [
+];
+$("#selectVol").bind("change", function() {
+	var selectVol = $(":selected").val();
+	if (selectVol == "") {
+		$("#selectIssue").attr("disabled", "disabled");
+	} else {
+		var disabledAttr = $("#selectIssue").attr("disabled");
+		if (typeof disabledAttr !== "undefined") {
+			$("#selectIssue").removeAttr("disabled");
+		}
+	}
+	$("#selectIssue").children().remove();
+	$('#selectIssue').append($('<option>').html("").val(""));
+	if (selectVol != "") {
+		for (var idx in ddd) {
+			var noVol = ddd[idx].noVol;
+			if (noVol == selectVol) {
+				var noIssueArry = ddd[idx].noIssue;
+				for (i = 0; i < noIssueArry.length; i++) {
+											$('#selectIssue').append($('<option>').html("" + noIssueArry[i]).val(noIssueArry[i]));
+									}
+				break;
+			}
+		}
+	}
+	$("#selectIssue").select2();
+});
+$("#mobileSelectVol").bind("change", function() {
+	var selectVol = $("#mobileSelectVol option:selected").val();
+	if (selectVol == "") {
+		$("#mobileSelectIssue").attr("disabled", "disabled");
+	} else {
+		var disabledAttr = $("#mobileSelectIssue").attr("disabled");
+		if (typeof disabledAttr !== "undefined") {
+			$("#mobileSelectIssue").removeAttr("disabled");
+		}
+	}
+	$("#mobileSelectIssue").children().remove();
+	$('#mobileSelectIssue').append($('<option>').html("").val(""));
+	if (selectVol != "") {
+		for (var idx in ddd) {
+			var noVol = ddd[idx].noVol;
+			if (noVol == selectVol) {
+				var noIssueArry = ddd[idx].noIssue;
+				for (i = 0; i < noIssueArry.length; i++) {
+											$('#mobileSelectIssue').append($('<option>').html("" + noIssueArry[i]).val(noIssueArry[i]));
+									}
+				break;
+			}
+		}
+	}
+	$("#mobileSelectIssue").select2();
+});
+$("#goBtn").bind("click", function() {
+	var noVol = $("#selectVol").val();
+	var noIssue = $("#selectIssue").val();
+	var pageInput = $('#pageInput').val();
+	if (pageInput === undefined) {
+		pageInput = null;
+	}
+	return clickGoBtn("1", noVol, noIssue, pageInput);
+});
+$("#mobileGoBtn").bind("click", function() {
+	var noVol = $("#mobileSelectVol").val();
+	var noIssue = $("#mobileSelectIssue").val();
+	var pageInput = $('#mobilePageInput').val();
+	if (pageInput === undefined) {
+		pageInput = null;
+	}
+	return clickGoBtn("2", noVol, noIssue, pageInput);
+});
+$(window).load(function(){
+	try {
+		var issueList1 = '';
+		var issueOptions = jQuery('#selectIssue').children();
+		if (issueOptions.length > 1) {
+			for ( var i=1; i<issueOptions.length; i++ ){
+				issueList1 = issueList1 + issueOptions.eq(i).val();
+			}
+		}
+		var selectVol = $("#selectVol").val();
+		var selectIssue = $("#selectIssue").val();
+		if (selectVol != "") {
+			for (var idx in ddd) {
+				var noVol = ddd[idx].noVol;
+				if (noVol == selectVol) {
+					var issueList2 = '';
+					var noIssueArry = ddd[idx].noIssue;
+					for (i = 0; i < noIssueArry.length; i++) {
+						issueList2 = issueList2 + noIssueArry[i];
+					}
+					if (issueList1 != issueList2) {
+						$("#selectVol").trigger("change");
+						$("#mobileSelectVol").trigger("change");
+					}
+				}
+			}
+		}
+	} catch (e) {console.log("Exception : " + e);}
+});
+$(window).unload(function(){});
+function pressEnter4GoBtn() {
+	if (window.event.keyCode == 13) {
+		$('#goBtn').trigger("click");
+	}
+}
+function pressEnter4MobileGoBtn() {
+	if (window.event.keyCode == 13) {
+		$('#mobileGoBtn').trigger("click");
+	}
+}
+function clickGoBtn(mode, noVol, noIssue, pageInput) {
+	if (mode == "1") {
+		$("#pageMessage01").css("display", "none");
+		$("#pageMessage02").css("display", "none");
+		$("#pageMessage03").css("display", "none");
+	} else if (mode == "2") {
+		$("#mobilePageMessage01").css("display", "none");
+		$("#mobilePageMessage02").css("display", "none");
+		$("#mobilePageMessage03").css("display", "none");
+	}
+	try {
+
+		if ((noVol == null || noVol == "") && (noIssue == null || noIssue == "")){
+							noVol = "54";
+				noIssue = "12"
+					}
+
+		if (noIssue == null || noIssue == ""){
+			noIssue = "0"
+		}
+
+		if (pageInput == null || pageInput == "") {
+			var url = getUrl(noVol, noIssue);
+			url = url.replace('repXXX', noVol);
+			url = url.replace('repYYY', noIssue);
+			document.location.href = url;
+			return;
+		}
+		if (noVol == null) {
+			if (mode == "1") {
+				$("#pageMessage01").css("display", "block");
+			} else if (mode == "2") {
+				$("#mobilePageMessage01").css("display", "block");
+			}
+			return;
+		}
+		var jsonUrl = 'https://www.jstage.jst.go.jp/pageSearch/jcej/repXXX/repYYY/repZZZ';
+		jsonUrl = jsonUrl.replace('repXXX', noVol);
+		jsonUrl = jsonUrl.replace('repYYY', noIssue);
+		jsonUrl = jsonUrl.replace('repZZZ', pageInput);
+		$.ajax({
+			cache: false,
+			type: 'GET',
+			url: jsonUrl,
+			dataType: 'json',
+			contentType:'application/json',
+			success: function(json) {
+				var errorCd = json.errorCd;
+				var redirectSryCd = json.redirectSryCd;
+				var redirectNoVol = json.redirectNoVol;
+				var redirectNoIssue = json.redirectNoIssue;
+				var redirectCdArticle = json.redirectCdArticle;
+				if (
+						"0" == errorCd
+						&& redirectSryCd != null && redirectSryCd != ''
+						&& redirectNoVol != null && redirectNoVol != ''
+						&& redirectNoIssue != null && redirectNoIssue != ''
+						&& redirectCdArticle != null && redirectCdArticle != ''
+				) {
+					var shosiUrl = 'https://www.jstage.jst.go.jp/article/jcej/repXXX/repYYY/repZZZ/_article/-char/en';
+					var urls = shosiUrl.match('(http.+/article/)([0-9a-z]+)(/repXXX.+)');
+					if(urls.length == 4){
+						shosiUrl = urls[1];
+						shosiUrl += redirectSryCd;
+						shosiUrl += urls[3];
+					}
+					shosiUrl = shosiUrl.replace('repXXX', redirectNoVol);
+					shosiUrl = shosiUrl.replace('repYYY', redirectNoIssue);
+					shosiUrl = shosiUrl.replace('repZZZ', redirectCdArticle);
+					document.location.href = shosiUrl;
+					return true;
+				} else if ("1" == errorCd) {
+					if (mode == "1") {
+						$("#pageMessage02").css("display", "block");
+					} else if (mode == "2") {
+						$("#mobilePageMessage02").css("display", "block");
+					}
+				} else if ("2" == errorCd) {
+					if (mode == "1") {
+						$("#pageMessage03").css("display", "block");
+					} else if (mode == "2") {
+						$("#mobilePageMessage03").css("display", "block");
+					}
+				}
+			}
+		});
+	} catch (e) {
+	}
+	return false;
+}
+function getUrl(noVol, noIssue) {
+	return 'https://www.jstage.jst.go.jp/browse/jcej/repXXX/repYYY/_contents/-char/en';
+}
+
+var pheader = 0;
+var header = 0;
+if ($('.navbar-fixed-top').length) {
+	header = $('.navbar-fixed-top').eq(0).outerHeight();
+}
+var adjustHeight = header + pheader - 10;
+function menueAnime(title) {
+	var position = '';
+	switch (title){
+		case 'Abstract':
+			position = $('#article-overiew-abstract-wrap').offset().top - adjustHeight;
+			break;
+		case 'Datarepo':
+			position = $('#datarepo-wrap').offset().top - adjustHeight;
+			break;
+		case 'Manuscript':
+			position = $('#manuscript-wrap').offset().top - adjustHeight;
+			break;
+		case 'References':
+			position = $('#article-overiew-references-wrap').offset().top - adjustHeight;
+			break;
+		case 'Relations':
+			position = $('#article-overiew-related-wrap').offset().top - adjustHeight;
+			break;
+		case 'Figures':
+			position = $('#figures-tables-wrap').offset().top - adjustHeight;
+			break;
+		case 'Results':
+			position = $('#resultsanddiscussion-wrap').offset().top - adjustHeight;
+			break;
+		case 'information':
+			position = $('#author-information-wrap').offset().top - adjustHeight;
+			break;
+		case 'Supplementary':
+			position = $('#supplimentary-materials-wrap').offset().top - adjustHeight;
+			break;
+		case 'Cited':
+			position = $('#citedby-wrap').offset().top - adjustHeight;
+			break;
+		case 'External':
+			position = $('#jstage-external-links').offset().top - adjustHeight;
+			break;
+	}
+	$('html, body').animate({scrollTop: position}, 1100);
+	return false;
+}
+
+function callAjax(tabId, callback, errorCallback, last) {
+	var jsonUrl = 'https://www.jstage.jst.go.jp/article/jcej/53/9/53_19we078/_article/_tab/-char/en?cdstat=&amp;amp;nologrec=';
+	var revision = '';
+	jsonUrl += '&tabId=' + tabId;
+	if(revision != null){
+		jsonUrl += '&revision=' + revision;
+	}
+	jsonUrl = jsonUrl.replace('&amp;amp;','&');
+	if (!last) {
+		$.ajax({
+			cache: false,
+			type: 'GET',
+			url: jsonUrl,
+			dataType: 'html',
+			contentType:'text/html',
+			success: callback,
+			error: errorCallback,
+			complete : function() {
+				$('.loading-view').remove();
+			}
+		});
+	} else {
+		$.ajax({
+			cache: false,
+			type: 'GET',
+			url: jsonUrl,
+			dataType: 'html',
+			contentType:'text/html',
+			success: callback,
+			error: errorCallback,
+			complete : function() {
+				$('.loading-view').remove();
+			}
+		});
+	}
+}
+
+function createCallBack(idx) {
+	if (idx >= ajaxCall.length) {
+		return null;
+	}
+	var callback = function(data) {
+		if (ajaxCall[idx].outerDivId === '') {
+			$('#' + ajaxCall[idx].innerDivId).append(data);
+		} else {
+			var spritHtml = data.split('@@@');
+			var str = '#' + ajaxCall[idx].innerDivId
+			$('#' + ajaxCall[idx].innerDivId).append(spritHtml[0]);
+			if (ajaxCall[idx].outerDivId == 'supplimentary-materials-modal') {
+				$.getScript("/web/js/jquery.jplayer.min.js");
+				dnsFlkApply();
+			}
+		}
+
+		replaceLicenseErrorBtn();
+		addReferenceModeTooltipHandler('#' + ajaxCall[idx].innerDivId);
+
+		idx++;
+		if (idx < ajaxCall.length) {
+			if (idx == ajaxCall.length - 1) {
+				callAjax(ajaxCall[idx].tabId, createCallBack(idx), createErrorCallback(idx), true);
+			} else {
+				callAjax(ajaxCall[idx].tabId, createCallBack(idx), createErrorCallback(idx), false);
+			}
+		}
+	}
+	return callback;
+}
+
+function createErrorCallback(idx) {
+	var errorCallback = function(data) {
+		var errorMsg = '<div>Data could not be acquired.</div>';
+		if (ajaxCall[idx].outerDivId === '') {
+			$('#' + ajaxCall[idx].innerDivId).after(errorMsg);
+		} else {
+			$('#' + ajaxCall[idx].innerDivId).after(errorMsg);
+			if (ajaxCall[idx].outerDivId == 'supplimentary-materials-modal') {
+				$.getScript("/web/js/jquery.jplayer.min.js");
+				dnsFlkApply();
+			}
+		}
+		idx++;
+		if (idx < ajaxCall.length) {
+			if (idx == ajaxCall.length - 1) {
+				callAjax(ajaxCall[idx].tabId, createCallBack(idx), createErrorCallback(idx), true);
+			} else {
+				callAjax(ajaxCall[idx].tabId, createCallBack(idx), createErrorCallback(idx), false);
+			}
+		}
+	}
+	return errorCallback;
+}
+
+var ajaxFlg = true;
+var zhyoLbl = '0';
+var inYuBnknLbl = '35';
+var knrnkjLbl = '0';
+var hinYuBnknLbl = '0';
+var dnsFrkLbl = '0';
+var seikLstLbl = '';
+var datarepoLbl = '0';
+var searching = '<div class = "loading-view"style="text-align: center;"><img src="/web/images/new_update/ajax-loader.gif" alt=""></div>'
+var ajaxCall = [];
+if (zhyoLbl !== null && zhyoLbl !== '' && zhyoLbl !== '0') {
+	$('#figures-tables-wrap').find('.section-title-noborder-18').css('display', 'block');
+	$('#figures-tables-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'ZHYO',
+		'innerDivId' : 'figures-tables-wrap',
+		'outerDivId' : ''
+	});
+}
+if (inYuBnknLbl !== null && inYuBnknLbl !== '' && inYuBnknLbl !== '0') {
+	$('#article-overiew-references-wrap').find('.section-title-18').css('display', 'block');
+	$('#article-overiew-references-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'INYUBNKN',
+		'innerDivId' : 'article-overiew-references-wrap',
+		'outerDivId' : ''
+	});
+}
+
+if (knrnkjLbl !== null && knrnkjLbl !== '' && knrnkjLbl !== '0') {
+	$('#article-overiew-related-wrap').find('.section-title-18').css('display', 'block');
+	$('#article-overiew-related-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'KNRNKJ',
+		'innerDivId' : 'article-overiew-related-wrap',
+		'outerDivId' : ''
+	});
+}
+
+if (hinYuBnknLbl !== null && hinYuBnknLbl !== '' && hinYuBnknLbl !== '0') {
+	$('#citedby-wrap').find('.section-title-18').css('display', 'block');
+	if(hinYuBnknLbl !== 'n/a'){
+	$('#citedby-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'HINYUBNKN',
+		'innerDivId' : 'citedby-wrap',
+		'outerDivId' : ''
+	});
+	}
+}
+
+if (dnsFrkLbl !== null && dnsFrkLbl !== '' &&  dnsFrkLbl !== '0') {
+	$('#supplimentary-materials-wrap').find('.section-title-18').css('display', 'block');
+	$('#supplimentary-materials-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'DNSFRK',
+		'innerDivId' : 'supplimentary-materials-wrap',
+		'outerDivId' : 'supplimentary-materials-modal'
+	});
+}
+
+if (seikLstLbl !== null && seikLstLbl !== '' && seikLstLbl !== '0') {
+	$('#resultsanddiscussion-wrap').find('.section-title-18').css('display', 'block');
+	$('#resultsanddiscussion-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'SEIKLST',
+		'innerDivId' : 'resultsanddiscussion-wrap',
+		'outerDivId' : ''
+	});
+}
+
+if (datarepoLbl !== null && datarepoLbl !== '' && datarepoLbl != '0') {
+	$('#datarepo-wrap').find('.section-title-18').css('display', 'block');
+	$('#datarepo-wrap').append(searching);
+	ajaxCall.push({
+		'tabId' : 'DATAREPO',
+		'innerDivId' : 'datarepo-wrap',
+		'outerDivId' : ''
+	});
+}
+
+switch (ajaxCall.length) {
+	case 0:
+		break;
+	case 1:
+		callAjax(ajaxCall[0].tabId, createCallBack(0), createErrorCallback(0), true);
+		break;
+	default:
+		callAjax(ajaxCall[0].tabId, createCallBack(0), createErrorCallback(0), false);
+		break;
+}
+
+function dnsFlkApply(){
+	$('[id^=jp_container_]').each(function () {
+		var vid= this.id;
+		var result = vid.split( '_' );
+		var no = result[result.length-1];
+
+		var target_player = '#jquery_jplayer_' + no;
+		var container = '#jp_container_' + no;
+		var source = '#jp_source_' + no;
+		if ($(target_player)) {
+			var sourcename = $(source).val();
+			$(target_player).jPlayer({
+				ready: function () {
+					$(this).jPlayer('setMedia', {
+						m4v: sourcename
+					});
+				},
+				play: function() { // To avoid both jPlayers playing together.
+					$(this).jPlayer('pauseOthers');
+				},
+				errorAlerts: false,
+				cssSelectorAncestor: container,
+				swfPath: '/pub/lib/raspberry/jplayer/swf/',
+				supplied: 'm4a,m4v,mp4'
+			});
+		}
+	});
+}
+
+$(function () {
+    $('div.altmetric-embed').on('altmetric:show', function () {
+        $('#altmetric-widget').find('a').attr({
+        	'target': '_blank',
+        	'rel': 'noopener noreferrer'
+        })
+    });
+});
+
+
+	window.setTimeout( set_jglobalApikey_authorinformation('JDEkcmFzbXVzbGUkYmhyak4xSXJxbGVKbDN1YXNXZkdYMQ=='),100);
+	window.setTimeout( set_jglobalApikey_relatedarticle('JDEkcmFzbXVzbGUkYmhyak4xSXJxbGVKbDN1YXNXZkdYMQ=='),100);
+
+
+function registerStickyClose(){
+	$("#sticky-register-to-j-stage").hide();
+	if(('localStorage' in window) && (window.localStorage !== null)) {
+		localStorage.setItem('C.regsticky', 'off');
+	}
+}
+function doChangeLang(langKind){
+
+	if (typeof changeLang == "function")  {
+				changeLang(langKind);
+		return;
+
+	} else {
+						var encStr = "";
+		if(langKind == "ja") {
+			encStr = "https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fja";
+		} else {
+			encStr = "https%3A%2F%2Fwww.jstage.jst.go.jp%2Farticle%2Fjcej%2F53%2F9%2F53_19we078%2F_article%2F-char%2Fen";
+		}
+				location.href = decodeURIComponent(encStr);
+				return;
+	}
+}
+function hBack(){
+		var ans;
+		var ref = document.referrer;
+		re = new RegExp(location.hostname,"i");
+		if(ref.match(re)){
+				ans = false;
+		}else{
+				ans = true
+		}
+		if(!ans){
+			history.back();
+		} else {
+			location.href = "https://www.jstage.jst.go.jp/browse/-char/en";
+		}
+}
+  </script>
+ </body>
+</html>

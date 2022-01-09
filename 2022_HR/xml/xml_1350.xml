@@ -1,0 +1,3951 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie7"><![endif]-->
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie8"><![endif]-->
+<!--[if IE 9]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="eng" xml:lang="eng" xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+ <!--<![endif]-->
+ <head>
+  <title>
+   High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries
+  </title>
+  <meta content="" name="google-site-verification"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries" name="citation_title"/>
+  <link href="/flowplayer/skin/minimalist.css" rel="stylesheet"/>
+  <script src="https://code.jquery.com/jquery-1.11.0.js">
+  </script>
+  <script src="/flowplayer/flowplayer.min.js">
+  </script>
+  <script src="//developers.kakao.com/sdk/js/kakao.min.js">
+  </script>
+  <link href="/image/icon/favicon.ico" rel="shortcut icon"/>
+  <link href="/css/common_v1.1.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/style.css?1641734132" rel="stylesheet" type="text/css"/>
+  <script src="/script/jquery.js" type="text/javascript">
+  </script>
+  <script src="/script/jquery.placeholder.js" type="text/javascript">
+  </script>
+  <script src="/script/user.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function showBox(obj) {
+		if(reviewLayer.style.display == "block") return;
+		reviewLayer.innerText=document.getElementById(obj.href.split("#")[1]).textContent;
+		reviewLayer.style.top = (event.pageY ? event.pageY : (document.documentElement.scrollTop + event.clientY )) + "px";
+		reviewLayer.style.left = (document.body.clientWidth <= (event.clientX + 310) ? -310 : 10)+ event.clientX + "px";
+		reviewLayer.style.display = "block";
+	}
+	//altmetric-embed 새창연결
+	function blank_action(){
+		$(".altmetric-embed").find('a').attr('target','_blank');
+	}
+  </script>
+  <meta content="doi:10.33961/jecst.2019.00661" name="dc.identifier"/>
+  <meta content="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2019.00661" name="citation_fulltext_html_url"/>
+  <meta content="The Korean Electrochemical Society" name="citation_publisher"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="J. Electrochem. Sci. Technol" name="citation_journal_abbrev"/>
+  <meta content="High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries" name="citation_title"/>
+  <meta content="Kookjin Heo" name="citation_author"/>
+  <meta content="Korea Institute of Industrial Technology (KITECH), 6, Cheomdan-gwagiro 208-gil, Buk-gu, Gwangju 61012, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jehong Im" name="citation_author"/>
+  <meta content="Korea Institute of Industrial Technology (KITECH), 6, Cheomdan-gwagiro 208-gil, Buk-gu, Gwangju 61012, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jeong-Seon Lee" name="citation_author"/>
+  <meta content="Korea Institute of Industrial Technology (KITECH), 6, Cheomdan-gwagiro 208-gil, Buk-gu, Gwangju 61012, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jeonggeon Jo" name="citation_author"/>
+  <meta content="Department of Materials Science and Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 61186, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Seokhun Kim" name="citation_author"/>
+  <meta content="Department of Materials Science and Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 61186, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jaekook Kim" name="citation_author"/>
+  <meta content="Department of Materials Science and Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 61186, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="Jinsub Lim" name="citation_author"/>
+  <meta content="Korea Institute of Industrial Technology (KITECH), 6, Cheomdan-gwagiro 208-gil, Buk-gu, Gwangju 61012, 
+Republic of Korea" name="citation_author_institution"/>
+  <meta content="jinsub@kitech.re.kr" name="citation_author_email"/>
+  <meta content="2020/5/6" name="citation_publication_date"/>
+  <meta content="11" name="citation_volume"/>
+  <meta content="3" name="citation_issue"/>
+  <meta content="282" name="citation_firstpage"/>
+  <meta content="290" name="citation_lastpage"/>
+  <meta content="10.33961/jecst.2019.00661" name="citation_doi"/>
+  <meta content="2093-8551" name="citation_issn"/>
+  <meta content="2288-9221" name="citation_issn"/>
+  <meta content="https://www.jecst.org/upload/pdf/jecst-2019-00661.pdf" name="citation_pdf_url"/>
+  <meta content="English" name="citation_language"/>
+  <meta content="Blending Effect; All Solid State Battery; LiFePO4 Cathoe Material; Li3V2(PO4)3 Cathode Material" name="citation_keywords"/>
+  <meta content="citation_title=; citation_author=K Heo; citation_author=JS Lee; citation_author=HS Kim; citation_author=J Kim; citation_author=J Lim; citation_journal_title=J Electrochem, Soc; citation_volume=164; citation_issue=164; citation_pages=A2398-2402; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=M Armand; citation_author=JM Tarascon; citation_journal_title=Nature; citation_volume=451; citation_issue=451; citation_pages=652-657; citation_date=2008;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=K Takada; citation_journal_title=Acta Mater; citation_volume=61; citation_issue=61; citation_pages=759-770; citation_date=2013;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=BL Ellis; citation_author=KT Lee; citation_author=LF Nazar; citation_journal_title=Chem Mater; citation_volume=22; citation_issue=22; citation_pages=691-714; citation_date=2010;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=W Zhanga; citation_author=J Niea; citation_author=F Lic; citation_author=ZL Wanga; citation_author=C Sun; citation_journal_title=Nano Energy; citation_volume=45; citation_issue=45; citation_pages=413-419; citation_date=2018;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=F Croce; citation_author=GB Appetecchi; citation_author=L Persi; citation_author=B Scrosati; citation_journal_title=Nature; citation_volume=394; citation_issue=394; citation_pages=456-458; citation_date=1998;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=T Stergiopoulos; citation_author=IM Arabatzis; citation_author=G Katsaros; citation_author=P Falaras; citation_journal_title=Nano Lett; citation_volume=2; citation_issue=2; citation_pages=1259-1261; citation_date=2002;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Z Jiang; citation_author=B Carroll; citation_author=KM Abraham; citation_journal_title=Electrochim Acta; citation_volume=42; citation_issue=42; citation_pages=2667-2677; citation_date=1997;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=X Ben; citation_author=W Zhang; citation_author=N Chen; citation_author=C Sun; citation_journal_title=J Phys Chem; citation_volume=122; citation_issue=122; citation_pages=9852-9858; citation_date=2018;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=P Raghavan; citation_author=J Manuel; citation_author=X Zhao; citation_author=DS Kim; citation_author=JH Ahn; citation_author=C Nah; citation_journal_title=J Power Sources; citation_volume=196; citation_issue=196; citation_pages=6742-6749; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=HS Jeong; citation_author=DW Kim; citation_author=YU Jeong; citation_author=SY Lee; citation_journal_title=J Power Sources; citation_volume=195; citation_issue=195; citation_pages=6116-6121; citation_date=2010;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=SW Choi; citation_author=SM Jo; citation_author=WS Lee; citation_author=YR Kim; citation_journal_title=Adv Mater; citation_volume=15; citation_issue=15; citation_pages=2027-2032; citation_date=2003;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Y Wang; citation_author=WH Zhong; citation_journal_title=ChemElectroChem; citation_volume=2; citation_issue=2; citation_pages=22-36; citation_date=2015;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=JH Choi; citation_author=CH Lee; citation_author=JH Yu; citation_author=CH Doh; citation_author=SM Lee; citation_journal_title=J Power Sources; citation_volume=274; citation_issue=274; citation_pages=458-463; citation_date=2015;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=D Zhang; citation_author=L Zhang; citation_author=K Yang; citation_author=H Wang; citation_author=C Yu; citation_author=D Xu; citation_author=B Xu; citation_author=LM Wang; citation_journal_title=ACS Appl Mater Interfaces; citation_volume=9; citation_issue=9; citation_pages=36886-36896; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=DH Kim; citation_author=MY Kim; citation_author=SH Yang; citation_author=M Ryu; citation_author=HY Jung; citation_author=HJ Ban; citation_author=SJ Park; citation_author=J Lim; citation_author=HS Kim; citation_journal_title=J Ind Eng Chem; citation_volume=71; citation_issue=71; citation_pages=445-451; citation_date=2019;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=K Hanai; citation_author=K Kusagawa; citation_author=M Ueno; citation_author=T Kobayashi; citation_author=N Imanishi; citation_author=A Hirano; citation_author=Y Takeda; citation_author=O Yamamoto; citation_journal_title=J Power Sources; citation_volume=195; citation_issue=195; citation_pages=2956-2960; citation_date=2010;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=F Croce; citation_author=FS Fiory; citation_author=L Persi; citation_author=B Scrosati; citation_journal_title=Electrochem Solid State Lett; citation_volume=4; citation_issue=4; citation_pages=A121-A123; citation_date=2001;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=S Kim; citation_author=J Song; citation_author=B Sambandam; citation_author=S Kim; citation_author=J Jo; citation_author=S Park; citation_author=S Baek; citation_author=J Kim; citation_journal_title=Mater Today Commun; citation_volume=10; citation_issue=10; citation_pages=105-111; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Kang; citation_author=V Mathew; citation_author=J Gim; citation_author=S Kim; citation_author=J Song; citation_author=WB Im; citation_author=J Han; citation_author=JY Lee; citation_author=J Kim; citation_journal_title=Sci Rep; citation_volume=4; citation_issue=4; citation_pages=4047; citation_date=2014;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Jo; citation_author=J Gim; citation_author=J Song; citation_author=Y Kim; citation_author=V Mathew; citation_author=S Kim; citation_author=S Kim; citation_author=S Park; citation_author=JP Baboo; citation_author=J Kim; citation_journal_title=Ceram Int; citation_volume=43; citation_issue=43; citation_pages=4288-4294; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Lim; citation_author=V Mathew; citation_author=K Kim; citation_author=J Moon; citation_author=J Kim; citation_journal_title=J Electrochem Soc; citation_volume=158; citation_issue=158; citation_pages=A736-A740; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=K-S Lee; citation_author=S-T Myung; citation_author=D-W Kim; citation_author=Y-K Sun; citation_journal_title=J Power Sources; citation_volume=196; citation_issue=196; citation_pages=6974-6977; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=A Klein; citation_author=P Axmann; citation_author=M Wohlfahrt-Mehrens; citation_journal_title=J Power Sources; citation_volume=309; citation_issue=309; citation_pages=169-177; citation_date=2016;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=KG Gallagher; citation_author=S-H Kang; citation_author=SU Park; citation_author=SY Han; citation_journal_title=J Power Sources; citation_volume=196; citation_issue=196; citation_pages=9702-9707; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=C Heubner; citation_author=T Leibmann; citation_author=M Schneider; citation_author=A Michaelis; citation_journal_title=Electrochim Acta; citation_volume=269; citation_issue=269; citation_pages=745-760; citation_date=2018;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=L Liu; citation_author=W Xiao; citation_author=M Chen; citation_author=H Chen; citation_author=Y Cui; citation_author=G Zeng; citation_author=Y Chen; citation_author=X Ke; citation_author=Z Guo; citation_author=Z Shi; citation_author=H Zahng; citation_author=S Chou; citation_journal_title=J Alloy and Compds; citation_volume=719; citation_issue=719; citation_pages=281-287; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=QX Du; citation_author=ZF Tang; citation_author=XH Ma; citation_author=Y Zang; citation_author=X Sun; citation_author=Y Shao; citation_author=ZY Wen; citation_author=CH Chen; citation_journal_title=Solid State Ionics; citation_volume=279; citation_issue=279; citation_pages=11-17; citation_date=2015;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=JS Lim; citation_author=JH Gim; citation_author=JJ Song; citation_author=DT Nguyen; citation_author=SJ Kim; citation_author=JG Jo; citation_author=V Mathew; citation_author=JK Kim; citation_journal_title=J Power Sources; citation_volume=304; citation_issue=304; citation_pages=354-359; citation_date=2016;" name="citation_reference"/>
+  <script type="text/javascript">
+   //<![CDATA[
+$(document).ready(function(){
+	$("#gnb>li").mouseover(function(){
+		$(".globalSearch").css("display", "none");
+	});
+});
+
+function journal_download(type, sid, filename) {
+	var increase_column;
+
+	if(type == "pdf") {
+		var openWindow = window.open("about:blank");
+		openWindow.location.href = '/upload/pdf/' + filename;
+
+		increase_column = "pdf_down";
+
+	} else if(type == "epub") {		
+		location.href = '/func/download.php?' + filename;		
+		increase_column = "epub_down";
+	}
+
+	$.ajax({
+		type: 'POST',
+		data: {table: 'journal_tbl', column: increase_column, count: 1, condition_column: 'sid', condition_value: sid},
+		url: '/func/count_increase.php'
+	});
+}
+
+var acIdx = -1;
+	function autoCompleteHead(v) {
+		if(event.keyCode >= 37 && event.keyCode <= 40) {
+			if(event.keyCode % 2) return;
+			var max = $(".autoKeywords").size();
+			if(event.keyCode == 38) acIdx--;
+			else if(event.keyCode == 40) acIdx++;
+			if(acIdx < 0) acIdx = max-1;
+			if(acIdx > max-1) acIdx = 0;
+			$(".autoKeywords").css("background","#ffffff");
+			$(".autoKeywords").eq(acIdx).css("background","#e9e9e9");
+			$("input[name='term_all']").val($(".autoKeywords").eq(acIdx).text());
+			return;
+		}
+		acIdx = -1;
+		$.post("/func/autoComplete.php", "value="+v, function (d, s) {
+			if(s == "success") {
+				if(d != "" && v.length > 1) {
+					$("#autoCompleteLayerHead").attr("class", "");
+					$("#autoCompleteLayerHead").html(d);
+				} else {
+					$("#autoCompleteLayerHead").attr("class", "none");
+					$("#autoCompleteLayerHead").html("");
+				}
+			}
+		});
+	}
+	var autoComplete_ck = 0;
+	function term_all_onblur(){
+		if(autoComplete_ck == 0){
+			$("#autoCompleteLayerHead").html("");
+			$("#autoCompleteLayerHead").attr("class", "none");
+		}
+	}
+	function transText(f) {
+		if(!f.term_all.value) return false;
+	}
+
+//]]>
+  </script>
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({ 
+	SVG: { 
+	  scale: 90, 
+	  linebreaks: {
+		automatic: true, 
+		width: "container" 
+	  } 
+	}, 
+	showProcessingMessages: false, 
+	messageStyle: "none"
+  }); 
+
+function article_email(num) {
+
+	$("#article_mail").show();
+
+}
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG" type="text/javascript">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137241045-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137241045-1');
+  </script>
+ </head>
+ <body>
+  <div id="article_mail" style="display:none">
+   <style>
+    .sub_bt {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.sub_bt:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.sub_bt:active {
+	position:relative;
+	top:1px;
+}
+.article_mail{
+	position:fixed; 
+}
+   </style>
+   <script src="https://www.google.com/recaptcha/api.js">
+   </script>
+   <script>
+    function checkMail(){
+	var f = document.mailform;
+	
+	if(!f.a_sender_email.value){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+	if (!f.a_recipient_email.value)	{
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	var regExp = /^[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*\.[a-zA-Z]{2,3}$/i;
+	if(!regExp.test(f.a_sender_email.value)){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+
+	if(!regExp.test(f.a_recipient_email.value)){
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	return(true);
+}
+
+function word_Counter(field, countfield, maxlimit) {
+	if(field.value.length > 500){
+			field.value = field.value.substring(0, 500);
+			return;
+		}
+
+	countfield.value = field.value.length; 
+}
+   </script>
+   <div class="article_mail">
+    <div class="author_add" style="width: 95%; margin: 0 auto; padding-top:10px;">
+     <table style="width: 100%; margin: 0 auto;">
+      <tbody>
+       <tr>
+        <td>
+         <b>
+          <font style="font-size:16px;">
+           E-mail this Article
+          </font>
+         </b>
+        </td>
+        <td align="right" height="25px;" valign="top">
+         <input onclick="closes();" style="font-size:5px;" type="button" value="X"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="height:1px;background-color:#E2E2E2;margin-top:5px;margin-bottom:10px">
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <table border="0" width="100%">
+          <tbody>
+           <tr>
+            <td style="padding-top:8px;">
+             <div style="color:#3260BA;padding-bottom:3px;">
+              <b>
+               Research Article
+              </b>
+             </div>
+             <div>
+              <a href="http://www.jecst.org/journal/view.php?number=334" style="text-decoration:none;" target="new">
+               High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries
+              </a>
+             </div>
+             <div style="padding-left:0px;font-size:9pt;font-weight:normal;">
+              Kookjin Heo, Jehong Im, Jeong-Seon Lee, Jeonggeon Jo, Seokhun Kim, Jaekook Kim, Jinsub Lim
+              <br/>
+              DOI :
+              <a href="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2019.00661" target="_blank">
+               https://doi.org/10.33961/jecst.2019.00661
+              </a>
+             </div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding-top:10px;">
+         <form action="/journal/view.php?mode=process&amp;number=334" method="post" name="mailform" onsubmit="return checkMail();">
+          <input name="a_title" type="hidden" value="High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries"/>
+          <input name="a_authors" type="hidden" value="Kookjin Heo, Jehong Im, Jeong-Seon Lee, Jeonggeon Jo, Seokhun Kim, Jaekook Kim, Jinsub Lim"/>
+          <input name="a_type" type="hidden" value="Research Article"/>
+          <input name="a_year" type="hidden" value="2020"/>
+          <input name="a_vol" type="hidden" value="11"/>
+          <input name="a_no" type="hidden" value="3"/>
+          <input name="a_url" type="hidden" value="http://www.jecst.org/journal/view.php?number=334"/>
+          <input name="a_doi" type="hidden" value="10.33961/jecst.2019.00661"/>
+          <input name="a_doi_url" type="hidden" value="https://doi.org/10.33961/jecst.2019.00661"/>
+          <table border="0" cellpadding="3" cellspacing="0" style="border:0px solid #DDDDDD;" width="100%">
+           <tbody>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your Name *
+              </b>
+              <br/>
+              <input id="a_sender_name" name="a_sender_name" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your E-mail *
+              </b>
+              <br/>
+              <input id="a_sender_email" name="a_sender_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Recipient's E-mail *
+              </b>
+              <br/>
+              <input id="a_recipient_email" name="a_recipient_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Message
+              </b>
+              <br/>
+              <textarea id="a_content" name="a_content" onblur="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeydown="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeyup="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" style="width:95%;height:150px"></textarea>
+              <br/>
+              <div align="right" style="width:95%;">
+               <input name="a_content_cbyte" readonly="" size="3" style="height:18px;text-align:right;border:0;color:ff0000" type="box" value="0"/>
+               /
+               <b>
+                500
+               </b>
+               characters
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <div class="g-recaptcha" data-sitekey="6LfZ2IgUAAAAADokvIzjcUw-A88rvR19WMNPE1ud">
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <input class="sub_bt" type="submit" value="Send"/>
+             </td>
+            </tr>
+            <tr>
+             <td align="left" style="padding-top:2px;padding-bottom:5px;color:red;">
+              <input name="a_ck_alert" readonly="" style="height:18px;width:95%;text-align:left;border:0;color:red" type="box"/>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </form>
+         <!--
+					<div id='s_div_2' style="display:none">
+						<table border=0 width="100%" cellpadding=3 cellspacing=0 style="border:0px solid #DDDDDD;">
+								<tr height=28>
+									<td style="">sent to:<br/>
+																		</td>
+								</tr>
+								<tr>
+									<td align="center">
+										<input type="button" value="Close" onclick="removelayer();" class="sub_bt">
+									</td>
+								</tr>
+
+							</table>
+					</div>
+					-->
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+   <script>
+    function closes(){
+		$("#a_sender_name").val("");
+		$("#a_sender_email").val("");
+		$("#a_recipient_email").val("");
+		$("#a_content").val("");
+		$("#recaptcha_response_field").val("");
+		$('#article_mail').hide();
+
+	}
+   </script>
+  </div>
+  <div class="wrapper" style="padding-top:137px">
+   <div class="headerWrap">
+    <div class="header">
+     <div class="header_navi">
+      <div class="util_navi" style="background-image:url('/image/top_bg_t.gif');">
+       <ul class="utilMenu">
+        <li>
+         <a href="/" title="Home">
+          Home
+         </a>
+        </li>
+        <li>
+         <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+          E-submission
+         </a>
+        </li>
+        <li>
+         <a href="/about/sitemap.php" title="Sitemap">
+          Sitemap
+         </a>
+        </li>
+        <li>
+         <a href="/about/contact.php" title="Contact Us">
+          Contact us
+         </a>
+        </li>
+        <li style="font-color: #000;">
+         <div id="google_translate_element" style="padding-top:0;height:20px;">
+         </div>
+         <script type="text/javascript">
+          function googleTranslateElementInit() {
+							  new google.translate.TranslateElement({pageLanguage: '', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+							}
+         </script>
+         <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript">
+         </script>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="header_logo">
+      <h1>
+       <a href="/" title="Home">
+        <img alt="Journal of Electrochemical Science and Technology" src="/image/top_logo.gif"/>
+       </a>
+      </h1>
+      <p class="qrCode">
+       <img alt="QR Code" class="qr" src="/image/top_img.gif"/>
+      </p>
+      <div style="clear: both;">
+      </div>
+     </div>
+     <div class="gnbWrap">
+      <div class="gnb_menu">
+       <ul id="gnb">
+        <li>
+         <a href="/" title="Home">
+          HOME
+         </a>
+        </li>
+        <li>
+         <a href="/about/" title="About">
+          ABOUT
+         </a>
+         <ul class="subMenu m1">
+          <li>
+           <a href="/about/index.php" title="Aims and scope">
+            Aims and scope
+           </a>
+          </li>
+          <li>
+           <a href="/about/about.php" title="About the journal">
+            About the journal
+           </a>
+          </li>
+          <li>
+           <a href="/about/editorial.php" title="Editorial board">
+            Editorial board
+           </a>
+          </li>
+          <li>
+           <a href="/about/open_access.php" title="Open access">
+            Open access
+           </a>
+          </li>
+          <li>
+           <a href="/about/contact.php" title="Contact us">
+            Contact us
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/articles/category.php" title="ARTICLE CATEGORY">
+          ARTICLE CATEGORY
+         </a>
+         <dl class="subMenu m2">
+          <dd>
+           <ul>
+            <li>
+             <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+              Mini review
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Communication" title="Communication">
+              Communication
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Research article" title="Research article">
+              Research article
+             </a>
+            </li>
+           </ul>
+           <p>
+            <a href="/articles/category.php" title="Browse all articles">
+             Browse all articles &gt;
+            </a>
+           </p>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/articles/archive.php" title="BROWSE ARTICLES">
+          BROWSE ARTICLES
+         </a>
+         <dl class="subMenu m3">
+          <dd>
+           <ul>
+            <li>
+             <a href="/current/" title="Current issue">
+              Current issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/forthcoming.php" title="Forthcoming issue">
+              Forthcoming issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/archive.php" title="All issues">
+              All issues
+             </a>
+            </li>
+            <li>
+             <a href="/articles/print.php" title="ASAP">
+              ASAP
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostread.php" title="Most view">
+              Most view
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostdownload.php" title="Most download">
+              Most download
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostcited.php" title="Most cited">
+              Most cited
+             </a>
+            </li>
+            <li>
+             <a href="/articles/funded.php" title="Funded articles">
+              Funded articles
+             </a>
+            </li>
+            <li>
+             <a href="/articles/search.php" title="Search">
+              Search
+             </a>
+            </li>
+            <li>
+             <a href="/articles/author_index.php" title="Author index">
+              Author index
+             </a>
+            </li>
+           </ul>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+          AUTHOR INFORMATION
+         </a>
+         <ul class="subMenu m4" style="width:180px;">
+          <li>
+           <a href="/authors/authors.php" title="Instructions to authors">
+            Instructions to authors
+           </a>
+          </li>
+          <li>
+           <a href="/authors/checklist.php" title="Author’s checklist">
+            Author’s checklist
+           </a>
+          </li>
+          <li>
+           <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+            E-submission
+           </a>
+          </li>
+          <li>
+           <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+            Copyright transfer agreement
+           </a>
+          </li>
+          <li>
+           <a href="/authors/ethics.php" title="Research publication ethics">
+            Research publication ethics
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <ul class="btn">
+        <li>
+         <a class="viewSearch" href="#" title="Search">
+          <img alt="Search" class="viewSearch" src="/image/headerBtn_search.gif" title="Search"/>
+         </a>
+        </li>
+        <li>
+         <a href="/articles/search.php" title="Advanced Search">
+          <img alt="Advanced Search" src="/image/headerBtn_search2.gif"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="globalSearch">
+     <dl>
+      <dt class="hidden">
+       Search
+      </dt>
+      <dd>
+       <form action="/articles/search_result.php" method="post" name="searformform" onsubmit="return transText(this);">
+        <fieldset>
+         <legend>
+          J. Electrochem. Sci. Technol Search
+         </legend>
+         <input autocomplete="off" class="_placeholder" name="term_all" onblur="term_all_onblur();" onfocus="autoCompleteHead(this.value);" onkeyup="autoCompleteHead(this.value);" placeholder="Keyword, Title, Author, or Citation" type="text" value=""/>
+         <span class="search">
+          <input class="opacity0" type="submit" value="Search"/>
+         </span>
+        </fieldset>
+       </form>
+       <div class="none" id="autoCompleteLayerHead">
+       </div>
+       <p class="close">
+        <a href="#">
+         CLOSE
+        </a>
+       </p>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <!-- //headerWrap -->
+   <hr/>
+   <style>
+    @media print {
+div.headerWrap,
+div.aside,
+div.siteMap,
+div.footerWrap {display:none;}
+.admin_menu,
+.crossmark {display:none;}
+div.wrapper {padding-top:0 !important;}
+div#container {background:none;}
+div.printArea {display:block;float:none;margin:0 auto;padding-top:10px;}
+}
+   </style>
+   <div id="container">
+    <div class="contents printArea">
+     <!-- 본문영역 -->
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="font-family:Lora, arial,sans-serif,'Nanum Gothic';  font-size: 14px; line-height:1.5;" valign="top" width="613px;">
+         <a href="/articles/archive.php" style="color: #0056af;">
+          J. Electrochem. Sci. Technol
+         </a>
+         &gt;
+         <a href="/current/?vol=11&amp;no=3" style="color: #0056af;">
+          Volume 11(3); 2020
+         </a>
+         &gt; Article
+        </td>
+        <td align="right" style="padding-right:10px;position: relative;" valign="top">
+         <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js">
+         </script>
+         <a data-target="crossmark">
+          <div class="crossmark" style="width:150px;">
+           <img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" style="width:100%;"/>
+          </div>
+         </a>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <!-- xml 로딩 영역 -->
+     <div id="include_journal">
+      <style>
+       <!--
+#include_journal {
+	clear:both;
+	font-family: 'Lora', georgia, "Nanum Gothic", sans-serif;
+	font-size: 1.27em;
+	font-weight: 500;
+	line-height:1.76;
+	letter-spacing:.01em;
+	color:#000000;
+	word-break:keep-all;
+}
+
+#supplementary-material:before {
+	content:"";
+	display:block;	
+	height: 180px;
+	margin : -180px 0 0;
+}
+
+/* jats start */
+
+/* article title */
+#article-front {
+	margin-top: 5px;
+	font-size: 0.85em;
+}
+
+#article-front .PubTitle {
+	clear:both;
+	font-size: 1.7em;
+	line-height: 1.3;
+	margin-top: 20px;
+}
+
+#article-front .author_layer {
+	clear:both;
+	font-size: 1.05em;
+	line-height: 1.3;
+	font-weight: 500;
+	margin-top: 15px;
+}
+
+#article-front .abstract-layer{
+	font-size: 1.0em;
+}
+
+#article-front .licens {
+	font-size: 0.8em;
+	margin-top: 10px;
+	margin-bottom: 13px;
+}
+
+#article-front .callout-title, #include_journal .main-title {
+	font-size: 1.1em;
+	font-weight: bold;
+	color:#0B3D53;
+}
+
+#article-front .section-title {
+	font-size: 1.0em;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.caption {
+	line-height: 130%;
+	font-family:georgia, sans-serif, "Nanum Gothic";
+	font-weight: normal;
+}
+
+#include_journal .main-title {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+#article-body .section-title {
+	font-weight: 600;
+	color:#1F1F1F;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#article-body .subsection-title {
+	font-weight:bold;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+#article-body > div > div, #article-body > div > div > div {
+	padding-bottom:15px;
+}
+
+#article-body .section {
+	padding-bottom:0px;
+}
+
+#include_journal table h2 {
+	font-size: 18px;
+}
+
+#include_journal table h3 {
+	font-size: 15px;
+}
+
+#include_journal table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+#include_journal h5 {
+	font-size: 15px;
+}
+
+.abstract-layer {
+	margin-top: 30px;
+}
+
+#include_journal .abstract {
+	margin-top: 10px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+#include_journal a[name$='Link'] {
+	color: #046eb8;
+}
+
+#include_journal div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+#include_journal div.panel table * {
+	font-size:12px !important;
+}
+
+#include_journal p.address-line {
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left: 2em
+}
+
+#include_journal .list {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#include_journal ul,ol {
+	margin-bottom: 1em
+}
+
+#include_journal li {
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+
+#include_journal li>p {
+	margin-top: 0.1em;
+	margin-bottom: 0em
+}
+
+#include_journal div.def-list {
+	border-spacing: 0.25em
+}
+
+#include_journal div.def-list p {
+	margin:0px; padding:0px;
+}
+
+#include_journal .ref_layer {
+	margin-bottom: 10px;
+	word-wrap: break-word;
+	word-break: keep-all;
+	width:740px;
+}
+
+#include_journal .apStyle {
+	text-indent: 10px;
+}
+
+#inThisPage { background:#fff; border:2px solid #0B3D53; }
+#include_journal .newITP { border: #0B3D53; width:200px;font-size:11pt; }
+#include_journal .newITP a{ color: #000; }
+
+.metadata-area {
+	font-size: 13px;
+	color: 3b3b3b;
+}
+
+.history-date {
+	padding-bottom:15px;
+}
+
+.author_layer {
+	margin-top: 16px;
+}
+
+.author_layer a{
+	color: #2f312f !important;
+}
+
+.author_layer img{
+	vertical-align: middle;
+}
+
+.history_date {
+	font-size: 13px;
+	font-color: #2f312f;
+}
+
+.main-title {
+	font-color: #2f312f;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0B3D53;
+}
+
+
+
+.abstract > p.metadata-entry {
+	margin-top: 23px;
+	height: auto;
+}
+
+.row {
+	line-height: 1.5;
+}
+
+.table-wrap table thead {background:#DDEEFF;}
+.table-wrap table tbody {background:#fff;}
+.table-wrap-foot {
+	margin-bottom: 10px;
+	font-size:13px;
+}
+
+.table-wrap-foot .footnote p {
+	margin: 0px;
+}
+
+.section .panel {
+	margin: 15px 0px;
+	padding: 15px 15px;
+	background:#f6f6f6;
+}
+
+.section .panel .label {
+	font-weight: bold;
+}
+
+.label {
+	font-weight: bold;
+	font-size : 15px;
+}
+
+table h2 {
+	font-size: 16px;
+}
+
+table h3 {
+	font-size: 15px;
+}
+
+table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+div.panel table * {
+	font-size:14px !important;
+}
+
+.table-wrap table {
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+.table-wrap table th {
+	border-bottom: solid 1px black;
+	font-weight: bold;
+}
+
+#after_abstract {
+	margin-top: 10px;
+}
+
+#summary_view {
+	display: none;
+}
+
+
+.corresp{
+	margin-bottom:8px;
+}
+/* jats end */
+-->
+      </style>
+      <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+      <title>
+       Heo, Im, Lee, Jo, Kim, Kim, and Lim: High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries
+      </title>
+      <div class="front" id="article-front">
+       <div class="metadata">
+        <div class="metadata-group">
+         <div class="metadata-chunk">
+          <b>
+           <p class="metadata-entry">
+            Research Article
+           </p>
+          </b>
+         </div>
+        </div>
+       </div>
+       <div class="metadata">
+        <div class="metadata-group">
+        </div>
+       </div>
+       <div class="metadata two-column table">
+        <div class="row">
+         <div class="metadata-group">
+          <p class="metadata-entry">
+           Journal of Electrochemical Science and Technology 2020;11(3):282-290.
+          </p>
+         </div>
+         <div class="metadata-group">
+          <div class="metadata-group">
+           <p class="metadata-entry">
+            <span class="generated">
+             Published online:
+            </span>
+            May 6, 2020
+           </p>
+          </div>
+          <p class="metadata-entry">
+           <span class="generated">
+            DOI:
+           </span>
+           <a href="https://doi.org/10.33961/jecst.2019.00661">
+            https://doi.org/10.33961/jecst.2019.00661
+           </a>
+          </p>
+         </div>
+         <div class="metadata centered">
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px;">
+         </div>
+         <div class="metadata-group">
+         </div>
+         <div class="metadata centered">
+          <h3 class="PubTitle">
+           High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries
+          </h3>
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px; color: #000000;">
+          <a href="/articles/search_result.php?term=author&amp;f_name=Kookjin&amp;l_name=Heo">
+           Kookjin Heo
+          </a>
+          <sup>
+           1,
+          </sup>
+          <sup>
+           2
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jehong&amp;l_name=Im">
+           Jehong Im
+          </a>
+          <sup>
+           1,
+          </sup>
+          <sup>
+           2
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jeong-Seon&amp;l_name=Lee">
+           Jeong-Seon Lee
+          </a>
+          <sup>
+           1
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jeonggeon&amp;l_name=Jo">
+           Jeonggeon Jo
+          </a>
+          <sup>
+           2
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Seokhun&amp;l_name=Kim">
+           Seokhun Kim
+          </a>
+          <sup>
+           2
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jaekook&amp;l_name=Kim">
+           Jaekook Kim
+          </a>
+          <sup>
+           2
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jinsub&amp;l_name=Lim">
+           Jinsub Lim
+          </a>
+          <sup>
+           1,
+          </sup>
+          <sup>
+           *
+          </sup>
+         </div>
+         <div class="metadata-group affiliation_layer" style="margin-bottom:10px;">
+          <p class="metadata-entry">
+           <a id="af1-jecst-2019-00661">
+            <!-- named anchor -->
+           </a>
+           <sup>
+            1
+           </sup>
+           Korea Institute of Industrial Technology (KITECH), 6, Cheomdan-gwagiro 208-gil, Buk-gu, Gwangju 61012, 
+Republic of Korea
+          </p>
+          <p class="metadata-entry">
+           <a id="af2-jecst-2019-00661">
+            <!-- named anchor -->
+           </a>
+           <sup>
+            2
+           </sup>
+           Department of Materials Science and Engineering, Chonnam National University, 300 Yongbongdong, Bukgu, Gwangju 61186, 
+Republic of Korea
+          </p>
+         </div>
+         <div class="metadata-group">
+          <p class="metadata-entry">
+          </p>
+          <div class="corresp">
+           <sup>
+            *
+           </sup>
+           E-mail address:
+           <a href="mailto:jinsub@kitech.re.kr" name="emailLink">
+            jinsub@kitech.re.kr
+           </a>
+          </div>
+          <p>
+          </p>
+          <div style="margin-top:12px;">
+           <span class="history_view">
+            Received November 20, 2019
+           </span>
+           <span class="history_view">
+            Accepted March 16, 2020
+           </span>
+          </div>
+          <div class="metadata-chunk">
+           <div class="licens" id="idm140239752087568">
+            This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (
+            <a href="http://creativecommons.org/licenses/by-nc/4.0" id="idm140239752087152" target="_blank">
+             http://creativecommons.org/licenses/by-nc/4.0
+            </a>
+            ) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div id="before_abstract">
+       </div>
+       <div class="abstract-layer">
+        <h3 class="callout-title" id="__abstract" style="margin:15px 0 0 0;">
+         Abstract
+        </h3>
+        <div class="abstract">
+         <p>
+         </p>
+         <div class="first" id="idm140239752085392">
+          In this article, we report the effect of blended cathode materials on the performance of all-solid-state lithium-ion batteries (ASLBs) with oxide-based organic/inorganic hybrid electrolytes. LiFePO
+          <sub>
+           4
+          </sub>
+          material is good candidates as cathode material in PEO-based solid electrolytes because of their low operating potential of 3.4 V; however, LiFePO
+          <sub>
+           4
+          </sub>
+          suffers from low electric conductivity and low Li ion diffusion rate across the LiFePO
+          <sub>
+           4
+          </sub>
+          /FePO
+          <sub>
+           4
+          </sub>
+          interface. Particularly, monoclinic Li
+          <sub>
+           3
+          </sub>
+          V
+          <sub>
+           2
+          </sub>
+          (PO
+          <sub>
+           4
+          </sub>
+          )
+          <sub>
+           3
+          </sub>
+          (LVP) is a well-known high-power-density cathode material due to its rapid ionic diffusion properties. Therefore, the structure, cycling stability, and rate performance of the blended LiFePO
+          <sub>
+           4
+          </sub>
+          /Li
+          <sub>
+           3
+          </sub>
+          V
+          <sub>
+           2
+          </sub>
+          (PO
+          <sub>
+           4
+          </sub>
+          )
+          <sub>
+           3
+          </sub>
+          cathode material in ASLBs with oxidebased inorganic/organic-hybrid electrolytes are investigated by using powder X-ray diffraction analysis, field-emission scanning electron microscopy, Brunauer-Emmett-Teller sorption experiments, electrochemical impedance spectroscopy, and galvanostatic measurements.
+         </div>
+         <p>
+         </p>
+         <p class="metadata-entry_k" style="margin-top:10px;">
+          <span class="generated">
+           <b>
+            Keywords
+           </b>
+           :
+          </span>
+          <a href="/articles/search_result.php?term=4&amp;key=Blending%20Effect">
+           Blending Effect
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=All%20Solid%20State%20Battery">
+           All Solid State Battery
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=LiFePO4%20Cathoe%20Material">
+           LiFePO
+           <sub>
+            4
+           </sub>
+           Cathoe Material
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=Li3V2(PO4)3%20Cathode%20Material">
+           Li
+           <sub>
+            3
+           </sub>
+           V
+           <sub>
+            2
+           </sub>
+           (PO
+           <sub>
+            4
+           </sub>
+           )
+           <sub>
+            3
+           </sub>
+           Cathode Material
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="body" id="article-body">
+       <div class="section" id="intro">
+        <a id="idm140239752072864">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         1. Introduction
+        </h3>
+        <div id="idm140239752071760">
+         Secondary lithium ion batteries (LiBs), despite their safety risks, are widely used as power sources from small devices such as smartphones or laptops to energy storage systems and large devices in electric vehicles. Nevertheless, the demand for electric vehicles is increasing recently, and the development of new lithium ion batteries with stable and reliable performance is required [
+         <a class="bibrClassb1" href="#b1-jecst-2019-00661" name="bibrLink">
+          1
+         </a>
+         –
+         <a class="bibrClassb4" href="#b4-jecst-2019-00661" name="bibrLink">
+          4
+         </a>
+         ]. However, at present, since most lithium-ion batteries are based on flammable organic liquid electrolytes, the safety issue of LiB is still an important challenge. Thus, all-solid-state lithium-ion batteries (ASLB) are considered one of the promising alternatives for next-generation batteries using non-flammable inorganic-based electrolytes that act on both electrolytes and separators.
+        </div>
+        <div id="idm140239752068368">
+         There are many ways to manufacture ASLBs, including of pellet type and wet slurry process. The wet slurry process is one of the most suitable process for bulk-type ASLBs containing composite electrode and electrolyte and have many advantages, because of similar manufacturing process of the commercialized LiBs, it is possible to manufacture high energy density and the ability to obtain thick electrode. In ASLBs, the solid electrolyte (SE) material are the most important components, because its high ionic conductivity and mechanical properties are important factors governing the appropriate choice of SE matierials [
+         <a class="bibrClassb5" href="#b5-jecst-2019-00661" name="bibrLink">
+          5
+         </a>
+         ]. In particular, solid polymer electrolytes (SPEs), in which lithium salt is dissolved have advantages over inorganic solid electrolytes in terms of flexibility, light weight, process, ability, and low cost. Lithium salts (LiClO
+         <sub>
+          4
+         </sub>
+         , LiPF
+         <sub>
+          6
+         </sub>
+         etc.) are dissociated in polymer matrices such as polyethylene oxide (PEO), polyacrylonitrile (PAN), polyvinylidene fluoride (PVDF), and polyvinylpyrrolidone (PVP) to realize lithium ion conduction [
+         <a class="bibrClassb6" href="#b6-jecst-2019-00661" name="bibrLink">
+          6
+         </a>
+         –
+         <a class="bibrClassb14" href="#b14-jecst-2019-00661" name="bibrLink">
+          14
+         </a>
+         ]. Despite these advantages, SPE is still remain the problems such as low ionic conductivity at room temperature (&lt;10
+         <sup>
+          −5
+         </sup>
+         S cm
+         <sup>
+          −1
+         </sup>
+         ), weak mechanical strength and low potential stability [
+         <a class="bibrClassb13" href="#b13-jecst-2019-00661" name="bibrLink">
+          13
+         </a>
+         ].
+        </div>
+        <div id="idm140239752060544">
+         Due to the unsuitable properties of polymer electrolytes for bulk-type ASLBs, inorganic/organichybrid electrolytes have recently been intensively investigated. PEO has been particularly studied as a polymer material that is used without any added plasticizers. It functions as a binder, and exhibits ionic conductivity, thus affording control of the interface between the electrode construction materials, such as active materials, conductive materials, and inorganic ionic conductors like garnet-type Li
+         <sub>
+          7
+         </sub>
+         La
+         <sub>
+          3
+         </sub>
+         Zr
+         <sub>
+          2
+         </sub>
+         O
+         <sub>
+          12
+         </sub>
+         (LLZO), NASICON type Li
+         <sub>
+          1−x
+         </sub>
+         Al
+         <sub>
+          x
+         </sub>
+         Ti
+         <sub>
+          2−x
+         </sub>
+         (PO
+         <sub>
+          4
+         </sub>
+         )
+         <sub>
+          3
+         </sub>
+         (LATP), and polymeric Li matrices in ASLB fabricated by wet processes [
+         <a class="bibrClassb9" href="#b9-jecst-2019-00661" name="bibrLink">
+          9
+         </a>
+         ,
+         <a class="bibrClassb14" href="#b14-jecst-2019-00661" name="bibrLink">
+          14
+         </a>
+         ,
+         <a class="bibrClassb15" href="#b15-jecst-2019-00661" name="bibrLink">
+          15
+         </a>
+         ].
+        </div>
+        <div id="idm140239752051904">
+         Inorganic nanoparticles, such as LLZO, play particularly important roles as ionic conducting fillers in PEO-based composite electrolytes, enhancing their electrochemical properties. The PEO-Li salt matrix also reduces interface resistance due to its fast Li-ion conduction pathways, resulting in improved ASLB electrochemical performance [
+         <a class="bibrClassb9" href="#b9-jecst-2019-00661" name="bibrLink">
+          9
+         </a>
+         ]. D. H. Kim et al. reported that the composited nano-sized LLZO in an inorganic-organic hybrid composite membrane displays high ionic conductivity (1.93 × 10
+         <sup>
+          −3
+         </sup>
+         S cm
+         <sup>
+          −1
+         </sup>
+         at 70°C) due to the synergy of LLZO inorganic filler in the composite membrane [
+         <a class="bibrClassb16" href="#b16-jecst-2019-00661" name="bibrLink">
+          16
+         </a>
+         ].
+        </div>
+        <div id="idm140239752047760">
+         In ASLB based on PEO for inorganic/organic hybrid composite electrolyte, selecting appropriate cathode materials are limited by the stability window which do not exceed 4V vs Li/Li
+         <sup>
+          +
+         </sup>
+         [
+         <a class="bibrClassb17" href="#b17-jecst-2019-00661" name="bibrLink">
+          17
+         </a>
+         ]. So, LiFePO
+         <sub>
+          4
+         </sub>
+         cathode material is the best candidate cathode material for ASLBs based on PEO electrolyte because of its relatively low redox potential of 3.5 V vs Li/Li
+         <sup>
+          +
+         </sup>
+         [
+         <a class="bibrClassb18" href="#b18-jecst-2019-00661" name="bibrLink">
+          18
+         </a>
+         ]. For these reason, many researchers have evaluated the performance of LiFePO
+         <sub>
+          4
+         </sub>
+         using various solid electrolyte material such as LLZO+PEO, LAGP+PEO and LLZO+PVDF-HFP inorganic/organic hybrid electrolyte [
+         <a class="bibrClassb9" href="#b9-jecst-2019-00661" name="bibrLink">
+          9
+         </a>
+         ,
+         <a class="bibrClassb14" href="#b14-jecst-2019-00661" name="bibrLink">
+          14
+         </a>
+         –
+         <a class="bibrClassb16" href="#b16-jecst-2019-00661" name="bibrLink">
+          16
+         </a>
+         ].
+        </div>
+        <div id="idm140239752039440">
+         However, LFP suffers from intrinsic limitations, such as low electronic conductivity and Li-ion diffusion rates across the LiFePO
+         <sub>
+          4
+         </sub>
+         /FePO
+         <sub>
+          4
+         </sub>
+         interface. In addition, in ASLBs with inorganic-organic hybrid electrolytes, improvement of power density is an important issue because the PEO-based solid electrolytes have low ionic conductivities (&lt; 10
+         <sup>
+          −5
+         </sup>
+         S cm
+         <sup>
+          −1
+         </sup>
+         at room temperature).
+        </div>
+        <div id="idm140239752036736">
+         In this respect, we describe a high-power-density cathode material designed by blending for improving the electrochemical performance of the cathode in all-solid-state Li-ion batteries. In the case of a blended cathode, the shortcomings of the parent material can be minimized by blending the two cathode materials, and the blending ratio can be tailored to produce stable high energy and power densities. Particularly, monoclinic Li
+         <sub>
+          3
+         </sub>
+         V
+         <sub>
+          2
+         </sub>
+         (PO
+         <sub>
+          4
+         </sub>
+         )
+         <sub>
+          3
+         </sub>
+         (LVP) material is known as a high-power-density cathode material due to its rapid ionic diffusion properties [
+         <a class="bibrClassb19" href="#b19-jecst-2019-00661" name="bibrLink">
+          19
+         </a>
+         ,
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         ]. J. Kang reported that a nano LVP cathode material of carbon-coated nanoparticles/rod-type particles shows impressive rate capabilities because nano-rods and spherical particles may enhance the electrochemical property [
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         ]. J. Jo et al. reported that nano composited LFP-LVP cathode material demonstrated impressive electrochemical performance. In particular, an LFP-LVP cathode shows a remarkable discharge capacity at current density as high as 6.4C compared to LFP, because particle LVP contributes to improve the performance by having a three-dimensional framework [
+         <a class="bibrClassb21" href="#b21-jecst-2019-00661" name="bibrLink">
+          21
+         </a>
+         ].
+        </div>
+        <div id="idm140239752028928">
+         Therefore, the structure and electrochemical performance of a blended carbon-coated nano-LiFePO
+         <sub>
+          4
+         </sub>
+         / LVP (nano-LFP/LVP) cathode material was investigated for use in ASLBs with oxide-based organic/ inorganic hybrid solid electrolytes. A schematic of the all solid-state battery using blended cathode material is illustrated in
+         <a class="figClassf1" href="#f1-jecst-2019-00661" name="figLink">
+          Fig. 1
+         </a>
+         . The blending of different cathode materials is a promising strategy to design a developed positive electrode. Mixing of more than two cathode materials, such as layeredlayered, layered-spinel, layered-olivine, spinel-olivine, and other compounds, is done to combine the most advantageous properties of individual cathode materials for improving energy or power density, cycle properties and rate capability [
+         <a class="bibrClassb23" href="#b23-jecst-2019-00661" name="bibrLink">
+          23
+         </a>
+         –
+         <a class="bibrClassb27" href="#b27-jecst-2019-00661" name="bibrLink">
+          27
+         </a>
+         ].
+         <a class="figClassf1" href="#f1-jecst-2019-00661" name="figLink">
+          Fig. 1
+         </a>
+         illustrates the blending of LFP particles composed of nanoparticles and LVP particles composed of spherical nanoparticles and rod-type morphology. The blended samples exhibited the excellent cycle characteristics of LFP and the excellent high rate characteristics of LVP. LVP cathode material for blending of LFP due to their structural stability at elevated temperature unlike layered structure material owing covalently bonded (PO4)3-units. In case of all solid state battery using PEO binder for organic/inorganic hybrid membrane, electrochemical evaluation has to be at high temperature above 70°C. Therefore, LVP cathode material having great structural stability can attribute to enhance characteristic of LFP cathode material in all solid state battery. The structure can be expected to have high capacity characteristics, making it suitable for use in electric vehicles, and high rate characteristics allowing rapid charging and discharging [
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         –
+         <a class="bibrClassb22" href="#b22-jecst-2019-00661" name="bibrLink">
+          22
+         </a>
+         ]. These materials were examined by Powder X-ray Diffraction (PXRD), Field-Emission Scanning Electron Microscopy (FE-SEM), Electrochemical Impedance Spectroscopy (EIS), and galvanostatic measurements.
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239752019616">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         2. Experimental
+        </h3>
+        <div class="section" id="materials">
+         <a id="idm140239752018512">
+          <!-- named anchor -->
+         </a>
+         <h3 class="section-title">
+          2.1 Materials
+         </h3>
+         <div class="section" id="">
+          <a id="idm140239752017408">
+           <!-- named anchor -->
+          </a>
+          <h4 class="subsection-title">
+           2.1.1 Electrode Materials
+          </h4>
+          <div class="section" id="">
+           <a id="idm140239752016592">
+            <!-- named anchor -->
+           </a>
+           <h3 class="title">
+            Synthesis of LiFePO
+            <sub>
+             4
+            </sub>
+           </h3>
+           <div id="idm140239752015472">
+            LiFePO
+            <sub>
+             4
+            </sub>
+            (LFP) cathode material was selected as the partner material and was synthesized by an advanced sol-gel method in the pilot plant (HELFP-1000) of the Energy Materials Co., Ltd., in which carbon content was 2.5 wt%.
+           </div>
+          </div>
+          <div class="section" id="">
+           <a id="idm140239752014320">
+            <!-- named anchor -->
+           </a>
+           <h3 class="title">
+            Synthesis of Li
+            <sub>
+             3
+            </sub>
+            V
+            <sub>
+             2
+            </sub>
+            (PO
+            <sub>
+             4
+            </sub>
+            )
+            <sub>
+             3
+            </sub>
+           </h3>
+           <div id="idm140239752011760">
+            The carbon-coated Li
+            <sub>
+             3
+            </sub>
+            V
+            <sub>
+             2
+            </sub>
+            (PO
+            <sub>
+             4
+            </sub>
+            )
+            <sub>
+             3
+            </sub>
+            (LVP) nanocomposite used for the blended electrode was synthesized by the polyol synthesis approach using lithium acetate (C
+            <sub>
+             2
+            </sub>
+            H
+            <sub>
+             3
+            </sub>
+            LiO
+            <sub>
+             2
+            </sub>
+            , ≥ 99%; Aldrich), vanadium acetylacetonate (C
+            <sub>
+             15
+            </sub>
+            H
+            <sub>
+             21
+            </sub>
+            O
+            <sub>
+             6
+            </sub>
+            V, 97%; Aldrich), and phosphoric acid (H
+            <sub>
+             3
+            </sub>
+            PO
+            <sub>
+             4
+            </sub>
+            , ≥ 85%; Daejung) as starting materials. Firstly, the starting precursors were dissolved in 80 mL of ethylene glycol (C
+            <sub>
+             2
+            </sub>
+            H
+            <sub>
+             6
+            </sub>
+            O
+            <sub>
+             2
+            </sub>
+            , ≥99%; Daejung) in the molar ratio 1.5:1:1.5 (Li:V:P) at room temperature. After obtaining a homogenous solution, the final solution was uniformly poured onto a hot-plate maintained at 200°C. The polyol precursor solution was ignited with a torch to induce self-extinguishable combustion. Subsequently, the as-prepared powder was annealed at 800°C for 5 h in argon atmosphere to obtain the LVP/C powders with high crystallinity.
+           </div>
+          </div>
+          <div class="section" id="">
+           <a id="idm140239752003376">
+            <!-- named anchor -->
+           </a>
+           <h3 class="title">
+            Blended Cathode Material
+           </h3>
+           <div id="idm140239752002560">
+            The LFP was mechanically blended with LVP nanocomposite in 8:2 (LFP/ LVP) weight ratio using a Thinky Mixer (ARE-310).
+           </div>
+          </div>
+         </div>
+         <div class="section" id="">
+          <a id="idm140239752001984">
+           <!-- named anchor -->
+          </a>
+          <h4 class="subsection-title">
+           2.1.2 Composite Membrane
+          </h4>
+          <div id="idm140239752001168">
+           Li
+           <sub>
+            7
+           </sub>
+           La
+           <sub>
+            3
+           </sub>
+           Zr
+           <sub>
+            2
+           </sub>
+           O
+           <sub>
+            12
+           </sub>
+           (LLZO) powder (cubic structure, 99.9%, D50: ~10 mm, Toshima in Japan) was used as the solid electrolyte. We have used PEO (Mn 1/4 200 K, Sigma-Aldrich) as a polymer binder, and it was mixed by mechanical blending using Thinky Mixer at 2000 rpm for 5 min. To prepare the composite membrane, a PEO/LiClO
+           <sub>
+            4
+           </sub>
+           mixture (molar ratio = 20:1) was used, with added LLZO (30 wt% with respect to PEO/LLZO). PEO, as the polymer binder, was first dissolved in acetonitrile (ACN, Aldrich Co. Ltd.), after which LiClO
+           <sub>
+            4
+           </sub>
+           (as a salt) was homogenously added to the PEO slurry using the abovementioned Thinky Mixer. The appropriate amount of LLZO powder was then added to the PEO/LiClO
+           <sub>
+            4
+           </sub>
+           slurry, after which it was thoroughly mixed. The slurry containing PEO, LiClO
+           <sub>
+            4
+           </sub>
+           , and LLZO in ACN was cast onto a Mylar film (SKC co. Ltd, coated SiO
+           <sub>
+            2
+           </sub>
+           ) and ACN was evaporated at room temperature to obtain the approximately 150-mm-thick composite membrane for use as the separator and electrolyte.
+          </div>
+         </div>
+        </div>
+        <div class="section" id="">
+         <a id="idm140239751995520">
+          <!-- named anchor -->
+         </a>
+         <h3 class="section-title">
+          2.2 Structural and Physical Characterization
+         </h3>
+         <div class="section" id="">
+          <a id="idm140239751994688">
+           <!-- named anchor -->
+          </a>
+          <h4 class="subsection-title">
+           Powder X-ray Diffraction
+          </h4>
+          <div id="idm140239751993872">
+           The obtained samples were analyzed by powder X-ray diffraction using an X’pert Pro X-ray diffractometer (PANalytical) with Ni-filtered Cu Ka radiation (l = 1.5406 Å), operated at 40 kV and 30 mA within a scanning angle (2
+           <i>
+            θ
+           </i>
+           ) range 10–80° using step size = 0.01°. High Score Plus software was used to determine the unit-cell parameters of the samples.
+          </div>
+         </div>
+         <div class="section" id="">
+          <a id="idm140239751992592">
+           <!-- named anchor -->
+          </a>
+          <h4 class="subsection-title">
+           Electron microscopy (FE-SEM)
+          </h4>
+          <div id="idm140239751991776">
+           Particle morphologies and sizes were determined using field emission–scanning electron microscopy (FE-SEM). SEM images were obtained using an S-4700 instrument (HITACHI) and an energy-dispersive X-ray spectrometer (EDS).
+          </div>
+         </div>
+        </div>
+        <div class="section" id="">
+         <a id="idm140239751991088">
+          <!-- named anchor -->
+         </a>
+         <h3 class="section-title">
+          2.3 Electrochemical Measurements
+         </h3>
+         <div id="idm140239751990272">
+          The electrochemical properties of the LFP and the blended sample were examined using lithium metal as reference and counter electrodes. The active material (pure LFP or blended), solid electrolyte (LLZO), conductive carbon (super P), and polyethylene oxide (PEO) binder were used in a stoichiometric ratio of 70:5:5:20 to fabricate the electrode. LLZO in the positive electrode improves the lithium ion conductivity of the electrode and provides a path through which lithium ion can move. The stoichiometrically mixed slurry was cast onto Al foil and then dried at room temperature to form the cathode. A 2032 coin-type cell, consisting of the cathode and the lithium-metal anode separated by the composite membrane sheet, prepared as described above, was fabricated in a dry room and aged for 12 h prior to the electrochemical experiment. The charge-discharge measurements of the prepared coin-type cell were performed over the potential range from 2.5 to 4.0 V due to discharging to 2.5 V in Li/LiFePO
+          <sub>
+           4
+          </sub>
+          cell vs. Li
+          <sup>
+           +
+          </sup>
+          /Li at different current densities using Wonatech WBCS 3000L.
+         </div>
+         <div id="idm140239751987792">
+          Electrochemical impedance spectroscopy (EIS) was carried out at 70°C using a Bio-Logic Science instrument (SP-150) to determine variations in resistance in the assembled coin cell. The cell was tested during the first and 50
+          <sup>
+           th
+          </sup>
+          cycles and examined at each cycle over the frequency range from 100 mHz to 1.0 MHz.
+         </div>
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239751986560">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         3. Results and Discussion
+        </h3>
+        <div id="idm140239751985440">
+         <a class="figClassf2" href="#f2-jecst-2019-00661" name="figLink">
+          Fig. 2
+         </a>
+         shows the XRD patterns of LFP, LVP and blended cathode material. The patterns shown in
+         <a class="figClassf2" href="#f2-jecst-2019-00661" name="figLink">
+          Fig. 2(a), (b)
+         </a>
+         are indexed to the single-phase orthorhombic structure (space group: Pnma) of LFP and the monoclinic structure (space group: P2
+         <sub>
+          1
+         </sub>
+         /n) of LVP, respectively. As shown in
+         <a class="figClassf2" href="#f2-jecst-2019-00661" name="figLink">
+          Fig. 2(c)
+         </a>
+         , the blended LFP/ LVP sample exhibits reflections that coincide with those of the two components, LFP and LVP materials. The intensities of the LVP signals in the blended sample are also lower than those of the LFP, due to the comparatively low proportion of LFP in the blend. These results confirm that the peaks observed for the blend are well matched with those of the crystal structures of the active materials (LVP and LFP); no peak shifts or evidence of any impurity were observed.
+        </div>
+        <div id="idm140239751980688">
+         The morphology and homogeneous distribution of the blended material was investigated by using FE-SEM (
+         <a class="figClassf3" href="#f3-jecst-2019-00661" name="figLink">
+          Fig. 3
+         </a>
+         ); the SEM images show the shapes and sizes of the LFP and LVP particles, and the particles in the blended material. LFP is composed of particles several nanometers in size; the high-magnification images also revealed the presence of agglomerated secondary particles and carbon particles (
+         <a class="figClassf3" href="#f3-jecst-2019-00661" name="figLink">
+          Fig. 3(a), (b)
+         </a>
+         ). The LVP cathode material contained several nanometer-sized well agglomerated secondary particles and rod-type particles dispersed among a majority of apparently smaller particles with spherical morphologies, as shown in
+         <a class="figClassf3" href="#f3-jecst-2019-00661" name="figLink">
+          Fig. 3(c), (d)
+         </a>
+         . The rod-type particles are observed to range from a few hundred nanometers to micrometers in size and are composed of carbon particles.
+         <a class="figClassf3" href="#f3-jecst-2019-00661" name="figLink">
+          Fig. 3(e), (f)
+         </a>
+         show low-to high-magnification images of blended cathode material, which reveal that the blended material consists of homogenously distributed LFP and LVP particles, with the nano-rod LVP covering the surface of LFP nanoparticles aggregated with each other. These nano-rod LVP particles impact on good electrochemical performance because the rod-type particles may offer better between particle connectivity [
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         ,
+         <a class="bibrClassb22" href="#b22-jecst-2019-00661" name="bibrLink">
+          22
+         </a>
+         ]. Elemental mapping using energy-dispersive X-ray spectroscopy (EDS) was performed to investigate the distribution of chemical elements in the blended cathode material (
+         <a class="figClassf4" href="#f4-jecst-2019-00661" name="figLink">
+          Fig. 4
+         </a>
+         ). Fe, V, P, C, and O were uniformly distributed in the material. The images reveal that the LVP and LFP materials were well blended without heat; carbon is well dispersed in the sample, similar to the distributions of Fe, V and P.
+        </div>
+        <div id="idm140239751971136">
+         <a class="figClassf5" href="#f5-jecst-2019-00661" name="figLink">
+          Fig. 5
+         </a>
+         presents the electrochemical performance of the LFP and blended electrode vs. Li
+         <sup>
+          0
+         </sup>
+         /Li
+         <sup>
+          +
+         </sup>
+         . The LFP and blended electrode were cycled over a potential range from 2.5 to 4.0 V at 0.1 C-rate at 70 °C temperature. To exclude the effect of the PEO binder, Li
+         <sup>
+          +
+         </sup>
+         had to be extracted from the LFP and blended electrode at below 4.0 V vs. Li
+         <sup>
+          0
+         </sup>
+         /Li
+         <sup>
+          +
+         </sup>
+         , because inorganic/organic-hybrid composite electrolytes in ASLBs are restricted to the stability window of the PEO-based electrolyte which cannot exceed 4.0 V vs. Li
+         <sup>
+          0
+         </sup>
+         /Li
+         <sup>
+          +
+         </sup>
+         [
+         <a class="bibrClassb17" href="#b17-jecst-2019-00661" name="bibrLink">
+          17
+         </a>
+         ]. The initial discharge capacities of the LFP and blended electrodes were determined to be 135.98 and 131.26 mAh g
+         <sup>
+          −1
+         </sup>
+         , respectively as shown in
+         <a class="figClassf5" href="#f5-jecst-2019-00661" name="figLink">
+          Fig. 5(a)
+         </a>
+         . The voltage profiles indicate that a plateau is formed at around 3.4 V for the LFP electrode. However, the blended electrode showed two lower plateaus at 3.63 and 3.71 V that correspond to the two-step extraction of one Li from LVP and reveal the presence of mixed V(III)/V(IV) oxidation states. On the other hand, 3.66 and 3.56 V correspond to the re-insertion of the Li ion into the monoclinic host and complete reduction from V(III) to V(IV) state in the monoclinic structure. In the first discharge curve, its initial discharge capacity is almost equivalent to the sum of the proportion values of their ratio, namely 80% of 104 mAh g
+         <sup>
+          −1
+         </sup>
+         (LFP) + 20% of 26 mAh g
+         <sup>
+          −1
+         </sup>
+         (LVP). It can be clearly seen that the mechanical blending method performed without heat treatment was effectively carried out.
+         <a class="figClassf5" href="#f5-jecst-2019-00661" name="figLink">
+          Fig. 5(b)
+         </a>
+         indicates the cycle properties of the LFP and blended electrodes, determined at a rate of 0.2 C in the 2.5–4.0 V potential window, at 70°C during 50 cycles. Scrosati’s group reported that the LFP cathode material used as the reference electrode in this study is a good candidate material for ASLBs with PEO-based electrolytes, because of its relatively low redox potential window of 3.5 V vs Li
+         <sup>
+          0
+         </sup>
+         /Li
+         <sup>
+          +
+         </sup>
+         [
+         <a class="bibrClassb18" href="#b18-jecst-2019-00661" name="bibrLink">
+          18
+         </a>
+         ]. It is seen to have excellent discharge capacity retention of 98.6% after 50 cycles, as shown in
+         <a class="figClassf5" href="#f5-jecst-2019-00661" name="figLink">
+          Fig. 5(b)
+         </a>
+         .
+        </div>
+        <div id="idm140239751956784">
+         <a class="figClassf6" href="#f6-jecst-2019-00661" name="figLink">
+          Fig. 6
+         </a>
+         displays the differential capacity (dQ/dV) as functions of cell voltage for these electrodes at the first and 50
+         <sup>
+          th
+         </sup>
+         cycles. The LFP cathode exhibits oxidation and reduction peaks at 3.49 and 3.35 V, respectively, in the first cycle. The blended cathode material, on the other hand, showed LVP peaks at 3.48, 3.63, and 3.71 V (cathodic peak) and 3.37, 3.56, and 3.66 V (anodic peak) that correspond to the two-phase transition of the V(III)/V(IV) redox couple, but LFP peaks that appeared at the same voltages as those of the pure LFP sample. After 50 cycles, the LFP and LVP redox peaks in the blended cathode material were largely unaffected. The intensities of the LFP redox peaks do not decrease after 50 cycles, because the LFP cathode material has good cycle stability characteristic as represented by
+         <a class="figClassf5" href="#f5-jecst-2019-00661" name="figLink">
+          Fig. 5(b)
+         </a>
+         .
+        </div>
+        <div id="idm140239751953040">
+         To affirm the availability of the LFP/LVP blend in improving the rate capability of the LFP and blended electrode, rate measurements were performed at various current rates, with the results shown in
+         <a class="figClassf7" href="#f7-jecst-2019-00661" name="figLink">
+          Fig. 7
+         </a>
+         .
+         <a class="figClassf7" href="#f7-jecst-2019-00661" name="figLink">
+          Fig. 7(a)
+         </a>
+         show the discharge capacity retention rate for each current of the LFP and blended cathode material, and
+         <a class="figClassf7" href="#f7-jecst-2019-00661" name="figLink">
+          Fig. 7(b), (c)
+         </a>
+         reveal the charge/discharge capacity curves of the LFP and blended cathode material, respectively. At low current rates of about 0.1 and 0.2 C, the capacity retention of the two electrodes do not differ significantly. Since LFP material has strong (PO
+         <sub>
+          4
+         </sub>
+         )
+         <sup>
+          3−
+         </sup>
+         bonding, there is almost no structural change as charging and discharging progresses, improving structural stability. Therefore, it is thought that the difference in discharge capacity retention rate does not show much in low current regions such as 0.1 and 0.2 C. However, as the current rates increase over 0.5 C, the capacity retention ratio of the two electrodes show a large difference. In the LFP sample, the discharge capacity retention rates are shown to be 40% (0.5 C) and 30% (1 C). However, in the blended samples, the discharge capacity retention was 60% (0.5 C) and 40% (1 C), which shows better discharge capacity retention as the current rate increases than LFP. These improvements are associated with the LVP cathode material. Contained carbon source LVP cathode material contributes to the enhanced lithium ion diffusion, and the presence of rod-shaped particles in addition to nanosized particles can provide better bonding between particles and contribute to improvement of electrochemical performance. Polyol combustion is a method of providing spontaneous ultra-high energy to promote nucleation and grain growth of amorphous particles; after heat treatment, amorphous LVP is converted into highly crystalline LVP nanoparticles. Carbonized structures formed as a result of polyol combustion tend to inhibit particle growth because they can act as barriers. These carbon particles penetrate between the spherical particles and the energy transfer from the additional carbon particles is faster, so that the particle growth in rod form is relatively easy, and as a result, many rod type particles are generated. In addition to nano-sized particles, rod-type particles can contribute to providing intergranular connectivity and improving electrochemical performance [
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         ,
+         <a class="bibrClassb22" href="#b22-jecst-2019-00661" name="bibrLink">
+          22
+         </a>
+         ].
+        </div>
+        <div id="idm140239751943856">
+         In order to investigate variations in resistance during cycling in an assembled coin cell, electrochemical impedance spectroscopy (EIS) was carried out at 70°C.
+         <a class="figClassf8" href="#f8-jecst-2019-00661" name="figLink">
+          Fig. 8
+         </a>
+         indicated the EIS spectra of assembled coin cell (Al/pure LFP or blended//PEO-LiClO
+         <sup>
+          +
+         </sup>
+         //Li-metal) recorded over the 100 mHz − 1 MHz range, for the first cycle and the 50
+         <sup>
+          th
+         </sup>
+         cycle. The Nyquist plots display typical semicircles at high and medium frequencies and an inclined line in the low-frequency region that corresponds to the interfacial resistance associated with lithium-ion diffusion in the bulk material. The lithium-ion diffusion through the surface (R
+         <sub>
+          s
+         </sub>
+         ) is reflected in the first semicircle. The second semicircle is associated with charge-transfer resistance (R
+         <sub>
+          ct
+         </sub>
+         ) [
+         <a class="bibrClassb28" href="#b28-jecst-2019-00661" name="bibrLink">
+          28
+         </a>
+         ,
+         <a class="bibrClassb29" href="#b29-jecst-2019-00661" name="bibrLink">
+          29
+         </a>
+         ]. The charge transfer impedance of the first charge and discharge cycles for LFP and blended electrode were found to be 147.08 and 93.94 Ω cm
+         <sup>
+          −2
+         </sup>
+         , respectively as shown in
+         <a class="figClassf8" href="#f8-jecst-2019-00661" name="figLink">
+          Fig. 8(a)
+         </a>
+         . After 50 cycles, as shown in
+         <a class="figClassf8" href="#f8-jecst-2019-00661" name="figLink">
+          Fig. 8(b)
+         </a>
+         , the charge transfer resistance values of the LFP and blended samples increased to 200.27 and 124.61 Ω cm
+         <sup>
+          −2
+         </sup>
+         , respectively. This is because the resistance inside the electrode increases due to the insertion and desorption of lithium as the cycles progress. However, even after 50 cycles, the resistance of the blended sample is significantly lower than that of the LFP electrode because nano-rod type LVP particles affect the relatively efficient particle-particle contacts leading to a decreased charge transfer resistance [
+         <a class="bibrClassb20" href="#b20-jecst-2019-00661" name="bibrLink">
+          20
+         </a>
+         ,
+         <a class="bibrClassb22" href="#b22-jecst-2019-00661" name="bibrLink">
+          22
+         </a>
+         ].
+        </div>
+       </div>
+       <div class="section" id="conclusions">
+        <a id="idm140239751931584">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         4. Conclusions
+        </h3>
+        <div id="idm140239751930480">
+         In summary, we investigated a blended cathode material composed of LFP and LVP cathode material for use in all-solid-state lithium-ion batteries with an oxide-based solid electrolyte. The XRD pattern of the blended sampled exhibited reflection that coincide with those of the two component materials of LFP and LVP without any peak shift and impurities. FE-SEM images reveal that the blended material consists of LFP and LVP particles that are homogenously distributed, with the nano-rod LVP covering the surface of LFP nanoparticles aggregated with each other. These nano-rod LVP particles impact good electrochemical performance because the rod-type particles may offer better inter-particle connectivity. The voltage profiles of blended cathode material indicate that plateaus are formed at around 3.4 V for the LFP electrode. However, the blended electrode showed two lower plateaus at 3.6 and 3.68 V that correspond to the two-step extraction of one Li from LVP and reveal the presence of mixed V(III)/V(IV) oxidation states. The rate capability results reveal that for the blended samples, the discharge capacity retention was 60% (0.5C) and 40% (1C), which shows better discharge capacity retention as the current rate increases than LFP. These improvements are associated with the LVP cathode material. Contained carbon source LVP cathode material contributes to the enhanced lithium-ion diffusion. Further, the presence of rod-shaped particles in addition to nano-sized particles can provide better bonding between particles and contribute to improvement of electrochemical performance. Therefore, blended cathode material shows a low charge transfer resistance compared to LFP cathode material after the first and 50
+         <sup>
+          th
+         </sup>
+         cycles due to nano-rod type LVP particles affecting the relatively efficient particle-particle contacts and leading to a decreased charge transfer resistance.
+        </div>
+       </div>
+       <div class="section" id="supplementary-material">
+        <a id="idm140239751927664">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         Supplementary Information
+        </h3>
+        <div class="panel">
+         <a id="s1-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <a href="/upload/media/jecst-2019-00661-suppl.pdf" id="idm140239751925616">
+          jecst-2019-00661-suppl.pdf
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="back" id="article-back">
+       <div class="back-section">
+        <a id="idm140239751924048">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         Acknowledgments
+        </h3>
+        <div id="idm140239751923248">
+         This work was supported by Korea Institute of Energy Technology Evaluation and Planning (KETEP) grant funded by the Korea government (MOTIE) (20182020109950, The Development of High Strength Lightweight Aluminum Battery Package and PCM-BTMS for High Safety and Battery Efficiency Improvement of Electrical Vehicle).
+        </div>
+       </div>
+       <div class="back-section">
+        <a id="fn1-jecst-2019-00661">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         Notes
+        </h3>
+        <p id="idm140239751921680">
+         <sup>
+         </sup>
+         <b>
+          Supporting Information
+         </b>
+        </p>
+        <p id="idm140239751921040">
+         Supporting Information is available at
+         <a href="https://doi.org/10.33961/jecst.2019.00661" id="idm140239751920704" target="_blank">
+          https://doi.org/10.33961/jecst.2019.00661
+         </a>
+        </p>
+       </div>
+       <div class="section" id="display-objects">
+        <a id="idm140239751687792">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+        </h3>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 1
+         </h5>
+         <a id="f1-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751684960">
+           Schematic diagram of blended material. Nanoparticle LFP and nano-rod type LVP cathode material are blended.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f1.jpg" src="/upload//thumbnails/jecst-2019-00661f1.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 2
+         </h5>
+         <a id="f2-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751682032">
+           Powder X-ray diffraction patterns of (a) LiFePO
+           <sub>
+            4
+           </sub>
+           cathode material, (b) Li
+           <sub>
+            3
+           </sub>
+           V
+           <sub>
+            2
+           </sub>
+           (PO
+           <sub>
+            4
+           </sub>
+           )
+           <sub>
+            3
+           </sub>
+           cathode material, and (c) blended cathode material.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f2.jpg" src="/upload//thumbnails/jecst-2019-00661f2.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 3
+         </h5>
+         <a id="f3-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751676720">
+           SEM images of (a) LiFePO
+           <sub>
+            4
+           </sub>
+           , (b) Li
+           <sub>
+            3
+           </sub>
+           V
+           <sub>
+            2
+           </sub>
+           (PO
+           <sub>
+            4
+           </sub>
+           )
+           <sub>
+            3
+           </sub>
+           , and (c) blended cathode material.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f3.jpg" src="/upload//thumbnails/jecst-2019-00661f3.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 4
+         </h5>
+         <a id="f4-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751671456">
+           EDS mapping images of the blended cathode material showing distributions of Fe, V, P, C, and O.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f4.jpg" src="/upload//thumbnails/jecst-2019-00661f4.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 5
+         </h5>
+         <a id="f5-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751668544">
+           (a) Initial charge-discharge curves for LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended cathode material over a voltage range from 2.5 V to 4.0 V at 0.1 C at 70°C. (b) Cycling performance of LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended cathode material over 50 cycles over a voltage range 2.5–4.0 V at 0.2 C at 70°C.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f5.jpg" src="/upload//thumbnails/jecst-2019-00661f5.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 6
+         </h5>
+         <a id="f6-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751664528">
+           Differential capacities of LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended cathode material as functions of voltage at (a) the first cycle and (b) the 50
+           <sup>
+            th
+           </sup>
+           cycle, in the 2.5–4.0-V potential range at 70°C.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f6.jpg" src="/upload//thumbnails/jecst-2019-00661f6.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 7
+         </h5>
+         <a id="f7-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751660608">
+           Rate capability of LiFePO
+           <sub>
+            4
+           </sub>
+           and blended cathode material was determined in a voltage range from 2.5 V to 4.0 V at various current rates between 0.1 and 10 C at 70°C. (a) Discharge capacity retention of LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended cathode material. Charge/discharge curves at various current rates of (b) LiFePO
+           <sub>
+            4
+           </sub>
+           and (c) the blended cathode material.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f7.jpg" src="/upload//thumbnails/jecst-2019-00661f7.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 8
+         </h5>
+         <a id="f8-jecst-2019-00661">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239751656064">
+           EIS spectra of assembled coin cells (Al/LiFePO
+           <sub>
+            4
+           </sub>
+           or blended/PEO-LiClO
+           <sub>
+            4
+           </sub>
+           /Li metal) recorded over the frequency range from 100 mHz to 1 MHz for (a) LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended electrode at the first cycle, and (b) LiFePO
+           <sub>
+            4
+           </sub>
+           and the blended cathode material at the 50
+           <sup>
+            th
+           </sup>
+           cycle.
+          </div>
+         </div>
+         <img alt="jecst-2019-00661f8.jpg" src="/upload//thumbnails/jecst-2019-00661f8.jpg" width="200"/>
+        </div>
+       </div>
+       <div class="back-section">
+        <a id="idm140239751919552">
+         <!-- named anchor -->
+        </a>
+        <div class="section ref-list">
+         <a id="idm140239751919552">
+          <!-- named anchor -->
+         </a>
+         <h3 class="main-title">
+          References
+         </h3>
+         <div class="ref-list table">
+          <div class="ref_layer" id="b1-jecst-2019-00661" name="jats-ref-pub">
+           [1] K. Heo, JS. Lee, HS. Kim, J. Kim and J. Lim,
+           <i>
+            J Electrochem, Soc
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            164
+           </i>
+           (
+           <i>
+            12
+           </i>
+           ), A2398–2402.
+           <br/>
+           <a href="https://doi.org/10.1149/2.0791712jes" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b2-jecst-2019-00661" name="jats-ref-pub">
+           [2] M. Armand and JM. Tarascon,
+           <i>
+            Nature
+           </i>
+           .,
+           <b>
+            2008
+           </b>
+           ,
+           <i>
+            451
+           </i>
+           (
+           <i>
+            7179
+           </i>
+           ), 652–657.
+           <br/>
+           <a href="https://doi.org/10.1038/451652a" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <a href="http://www.nature.com/articles/451652a.pdf" target="_blank">
+            <img alt="pdf" border="0" src="/image/icon/bnr_ref_pdf.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b3-jecst-2019-00661" name="jats-ref-pub">
+           [3] K. Takada,
+           <i>
+            Acta Mater
+           </i>
+           .,
+           <b>
+            2013
+           </b>
+           ,
+           <i>
+            61
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 759–770.
+           <br/>
+           <a href="https://doi.org/10.1016/j.actamat.2012.10.034" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b4-jecst-2019-00661" name="jats-ref-pub">
+           [4] BL. Ellis, KT. Lee and LF. Nazar,
+           <i>
+            Chem Mater
+           </i>
+           .,
+           <b>
+            2010
+           </b>
+           ,
+           <i>
+            22
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 691–714.
+           <br/>
+           <a href="https://doi.org/10.1021/cm902696j" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b5-jecst-2019-00661" name="jats-ref-pub">
+           [5] W. Zhanga, J. Niea, F. Lic, ZL. Wanga and C. Sun,
+           <i>
+            Nano Energy
+           </i>
+           .,
+           <b>
+            2018
+           </b>
+           ,
+           <i>
+            45
+           </i>
+           , 413–419.
+           <br/>
+           <a href="https://doi.org/10.1016/j.nanoen.2018.01.028" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b6-jecst-2019-00661" name="jats-ref-pub">
+           [6] F. Croce, GB. Appetecchi, L. Persi and B. Scrosati,
+           <i>
+            Nature
+           </i>
+           .,
+           <b>
+            1998
+           </b>
+           ,
+           <i>
+            394
+           </i>
+           (
+           <i>
+            6692
+           </i>
+           ), 456–458.
+           <br/>
+           <a href="https://doi.org/10.1038/28818" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <a href="http://www.nature.com/articles/28818.pdf" target="_blank">
+            <img alt="pdf" border="0" src="/image/icon/bnr_ref_pdf.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b7-jecst-2019-00661" name="jats-ref-pub">
+           [7] T. Stergiopoulos, IM. Arabatzis, G. Katsaros and P. Falaras,
+           <i>
+            Nano Lett
+           </i>
+           .,
+           <b>
+            2002
+           </b>
+           ,
+           <i>
+            2
+           </i>
+           (
+           <i>
+            11
+           </i>
+           ), 1259–1261.
+           <br/>
+           <a href="https://doi.org/10.1021/nl025798u" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b8-jecst-2019-00661" name="jats-ref-pub">
+           [8] Z. Jiang, B. Carroll and KM. Abraham,
+           <i>
+            Electrochim Acta
+           </i>
+           .,
+           <b>
+            1997
+           </b>
+           ,
+           <i>
+            42
+           </i>
+           (
+           <i>
+            17
+           </i>
+           ), 2667–2677.
+           <br/>
+           <a href="https://doi.org/10.1016/S0013-4686(97)00005-4" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b9-jecst-2019-00661" name="jats-ref-pub">
+           [9] X. Ben, W. Zhang, N. Chen and C. Sun,
+           <i>
+            J Phys Chem
+           </i>
+           .,
+           <b>
+            2018
+           </b>
+           ,
+           <i>
+            122
+           </i>
+           (
+           <i>
+            18
+           </i>
+           ), 9852–9858.
+           <br/>
+           <a href="https://doi.org/10.1021/acs.jpcb.8b06206" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b10-jecst-2019-00661" name="jats-ref-pub">
+           [10] P. Raghavan, J. Manuel, X. Zhao, DS. Kim, JH. Ahn and C. Nah,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            196
+           </i>
+           (
+           <i>
+            16
+           </i>
+           ), 6742–6749.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2010.10.089" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b11-jecst-2019-00661" name="jats-ref-pub">
+           [11] HS. Jeong, DW. Kim, YU. Jeong and SY. Lee,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2010
+           </b>
+           ,
+           <i>
+            195
+           </i>
+           (
+           <i>
+            18
+           </i>
+           ), 6116–6121.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2009.10.085" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b12-jecst-2019-00661" name="jats-ref-pub">
+           [12] SW. Choi, SM. Jo, WS. Lee and YR. Kim,
+           <i>
+            Adv Mater
+           </i>
+           .,
+           <b>
+            2003
+           </b>
+           ,
+           <i>
+            15
+           </i>
+           (
+           <i>
+            23
+           </i>
+           ), 2027–2032.
+           <br/>
+           <a href="https://doi.org/10.1002/adma.200304617" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b13-jecst-2019-00661" name="jats-ref-pub">
+           [13] Y. Wang and WH. Zhong,
+           <i>
+            ChemElectroChem
+           </i>
+           .,
+           <b>
+            2015
+           </b>
+           ,
+           <i>
+            2
+           </i>
+           (
+           <i>
+            1
+           </i>
+           ), 22–36.
+           <br/>
+           <a href="https://doi.org/10.1002/celc.201402277" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b14-jecst-2019-00661" name="jats-ref-pub">
+           [14] JH. Choi, CH. Lee, JH. Yu, CH. Doh and SM. Lee,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2015
+           </b>
+           ,
+           <i>
+            274
+           </i>
+           , 458–463.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2014.10.078" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b15-jecst-2019-00661" name="jats-ref-pub">
+           [15] D. Zhang, L. Zhang, K. Yang, H. Wang, C. Yu, D. Xu, B. Xu and LM. Wang,
+           <i>
+            ACS Appl Mater Interfaces
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            9
+           </i>
+           (
+           <i>
+            42
+           </i>
+           ), 36886–36896.
+           <br/>
+           <a href="https://doi.org/10.1021/acsami.7b12186" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b16-jecst-2019-00661" name="jats-ref-pub">
+           [16] DH. Kim, MY. Kim, SH. Yang, M. Ryu, HY. Jung, HJ. Ban, SJ. Park, J. Lim and HS. Kim,
+           <i>
+            J Ind Eng Chem
+           </i>
+           .,
+           <b>
+            2019
+           </b>
+           ,
+           <i>
+            71
+           </i>
+           , 445–451.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jiec.2018.12.001" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b17-jecst-2019-00661" name="jats-ref-pub">
+           [17] K. Hanai, K. Kusagawa, M. Ueno, T. Kobayashi, N. Imanishi, A. Hirano, Y. Takeda and O. Yamamoto,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2010
+           </b>
+           ,
+           <i>
+            195
+           </i>
+           (
+           <i>
+            9
+           </i>
+           ), 2956–2960.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2009.08.087" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b18-jecst-2019-00661" name="jats-ref-pub">
+           [18] F. Croce, FS. Fiory, L. Persi and B. Scrosati,
+           <i>
+            Electrochem Solid State Lett
+           </i>
+           .,
+           <b>
+            2001
+           </b>
+           ,
+           <i>
+            4
+           </i>
+           (
+           <i>
+            8
+           </i>
+           ), A121–A123.
+           <br/>
+           <a href="https://doi.org/10.1149/1.1380568" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b19-jecst-2019-00661" name="jats-ref-pub">
+           [19] S. Kim, J. Song, B. Sambandam, S. Kim, J. Jo, S. Park, S. Baek and J. Kim,
+           <i>
+            Mater Today Commun
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            10
+           </i>
+           , 105–111.
+           <br/>
+           <a href="https://doi.org/10.1016/j.mtcomm.2017.01.001" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b20-jecst-2019-00661" name="jats-ref-pub">
+           [20] J. Kang, V. Mathew, J. Gim, S. Kim, J. Song, WB. Im, J. Han, JY. Lee and J. Kim,
+           <i>
+            Sci Rep
+           </i>
+           .,
+           <b>
+            2014
+           </b>
+           ,
+           <i>
+            4
+           </i>
+           , 4047.
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b21-jecst-2019-00661" name="jats-ref-pub">
+           [21] J. Jo, J. Gim, J. Song, Y. Kim, V. Mathew, S. Kim, S. Kim, S. Park, JP. Baboo and J. Kim,
+           <i>
+            Ceram Int
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            43
+           </i>
+           (
+           <i>
+            5
+           </i>
+           ), 4288–4294.
+           <br/>
+           <a href="https://doi.org/10.1016/j.ceramint.2016.12.071" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b22-jecst-2019-00661" name="jats-ref-pub">
+           [22] J. Lim, V. Mathew, K. Kim, J. Moon and J. Kim,
+           <i>
+            J Electrochem Soc
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            158
+           </i>
+           (
+           <i>
+            6
+           </i>
+           ), A736–A740.
+           <br/>
+           <a href="https://doi.org/10.1149/1.3581029" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b23-jecst-2019-00661" name="jats-ref-pub">
+           [23] K-S. Lee, S-T. Myung, D-W. Kim and Y-K. Sun,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            196
+           </i>
+           (
+           <i>
+            16
+           </i>
+           ), 6974–6977.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2010.11.014" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b24-jecst-2019-00661" name="jats-ref-pub">
+           [24] A. Klein, P. Axmann and M. Wohlfahrt-Mehrens,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2016
+           </b>
+           ,
+           <i>
+            309
+           </i>
+           , 169–177.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2016.01.093" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b25-jecst-2019-00661" name="jats-ref-pub">
+           [25] KG. Gallagher, S-H. Kang, SU. Park and SY. Han,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            196
+           </i>
+           , 9702–9707.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2011.07.054" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b26-jecst-2019-00661" name="jats-ref-pub">
+           [26] C. Heubner, T. Leibmann, M. Schneider and A. Michaelis,
+           <i>
+            Electrochim Acta
+           </i>
+           .,
+           <b>
+            2018
+           </b>
+           ,
+           <i>
+            269
+           </i>
+           , 745–760.
+           <br/>
+           <a href="https://doi.org/10.1016/j.electacta.2018.02.165" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b27-jecst-2019-00661" name="jats-ref-pub">
+           [27] L. Liu, W. Xiao, M. Chen, H. Chen, Y. Cui, G. Zeng, Y. Chen, X. Ke, Z. Guo, Z. Shi, H. Zahng and S. Chou,
+           <i>
+            J Alloy and Compds
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            719
+           </i>
+           , 281–287.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jallcom.2017.05.189" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b28-jecst-2019-00661" name="jats-ref-pub">
+           [28] QX. Du, ZF. Tang, XH. Ma, Y. Zang, X. Sun, Y. Shao, ZY. Wen and CH. Chen,
+           <i>
+            Solid State Ionics
+           </i>
+           .,
+           <b>
+            2015
+           </b>
+           ,
+           <i>
+            279
+           </i>
+           , 11–17.
+           <br/>
+           <a href="https://doi.org/10.1016/j.ssi.2015.07.006" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b29-jecst-2019-00661" name="jats-ref-pub">
+           [29] JS. Lim, JH. Gim, JJ. Song, DT. Nguyen, SJ. Kim, JG. Jo, V. Mathew and JK. Kim,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2016
+           </b>
+           ,
+           <i>
+            304
+           </i>
+           , 354–359.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2015.11.069" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="inThisPage" style="padding-top:0px;padding-left:0px;display:none;">
+      </div>
+     </div>
+     <script type="text/javascript">
+      <!--
+function _ajax(url, data, func, sync, type) {
+	var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4) func(xmlhttp.responseText, xmlhttp.status == 200);
+	};
+	xmlhttp.open(type ? type : 'POST', url, !sync ? true : false);
+	xmlhttp.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+	xmlhttp.send(data);
+}
+var jColor = "#0B3D53";
+$(function () {
+	abs_flag = true;
+	if($("#__abstract").html()) {
+		$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__abstract' style='text-decoration:none;'>Abstract</a></div>");
+		abs_flag = false;
+	}
+	var len = $(".main-title").size();
+	for(var i  = 0; i < len; i++) {
+		if($(".main-title").eq(i).html()) {
+			$(".main-title").eq(i).attr("id", "__sec"+i+"title");
+			if(i == len-1) {
+				$("#inThisPage").append("<div style='padding:5px 0px;'><a href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			} else {
+				$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			}
+		}
+	}
+
+	// insert goto buttons
+	{ 
+		var html = "<div onclick='openITP(this, false);' style='color:"+jColor+";position:absolute;text-align:right;top:0;right:0;cursor:pointer;'>Go to : <img src='/image/button/goto.gif' alt='Goto' title='Goto' border='0' align='bottom' style='vertical-align:middle;margin-bottom:3px;'/><div class='ITPArrow' style=\"display:none;width:0;height:0;border:5px solid transparent;border-top-color:"+jColor+";border-bottom-color:"+jColor+";border-bottom-width:0;\"></div></div>";
+
+		var sc = $(".abstract-layer");
+		sc.css('position','relative');
+		sc.append(html);
+		
+		var size1 = $(".body > .section").size();
+		for(var i = 0; i < size1; i++) {
+			var sc = $(".body > .section").eq(i);
+			if($(".body > .section:eq("+i+") .main-title").html()) {
+				sc.css('position','relative');
+				sc.append(html);
+			}
+		}
+		var size2 = $(".back > .back-section").size();
+		for(var i = 0; i < size2; i++) {
+			var sc = $(".back > .back-section").eq(i);
+			sc.css('position','relative');
+			sc.append(html);
+		}
+	}
+	_ajax("/cited/getCitedBy.php", "doi=10.33961/jecst.2019.00661", function(s,f) {
+		if(!s.indexOf('OK')) {
+			s = s.split(':');
+			if(s[1] > 0) {
+				$("#cited_wrap").css("display","block");
+				$(".CitedNum a").eq(0).html(s[1]);
+			}
+		}
+	});
+});
+
+
+$("#body").click(function() {if(new_node_obj)openITP(null, true);});
+var new_node = null, new_node_see = false, new_node_obj = null;
+function openITP(o, f) {
+	if(new_node_see || f) {
+		new_node_see = false;
+		$(".newITP").css("display","none");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		if(new_node_obj != o && !f) openITP(o, false);
+	} else {
+		event.cancelBubble = true;       //for IE
+		if(event.stopPropagation) event.stopPropagation();
+		new_node_obj = o;
+		if(!new_node) {
+			new_node = inThisPage.cloneNode(true);
+			o.appendChild(new_node);
+			new_node.className='newITP';
+			$(".newITP").css("position","absolute");
+			$(".newITP").css("background","#fff");
+			$(".newITP").css("border-radius","7px");
+			$(".newITP").css("border","2px solid");
+			$(".newITP").css("padding","5px");
+			$(".newITP").css("text-align","left");
+			$(".newITP").css("white-space",""); // Box size 자동 제거 "nowrap"
+			$(".newITP").css("z-index","999");
+			$(".newITP").css("right","0");
+		}
+		$(".newITP").css("display","block");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		o.appendChild(new_node);
+		$(".newITP").prev().css("border-bottom-width", "5px");
+		$(".newITP").prev().css("border-top-width", "0");
+		new_node_see = true;
+	}
+}
+// Array에 inArray 메서드 추가
+Array.prototype.inArray = function(obj) {
+	if(this==null) return false;
+	for (var i = 0, length = this.length; i < length; i++)
+		if (this[i] == obj) return true;
+	return false;
+};
+Array.prototype.indexOf = function(obj) {
+	if(this==null) return -1;
+    for (var i = 0, length = this.length; i < length; i++)
+        if (this[i] == obj) return i;
+    return -1;
+};
+
+// 팝업 레이어 관리
+	function getPopupLayer() {
+		var POPUP = {
+			lr : null,
+			ot : 0,
+			ol : 0,
+			show : function () {
+				if(this.lr) return this. lr;
+				var w;
+				w = document.getElementById("article-body").appendChild(document.createElement("div"));
+				ot = document.getElementById("article-body").offsetTop;
+				ol = document.getElementById("article-body").offsetLeft;
+				this. lr = w;
+				with(w.style) {
+					background = "#ffffff";
+					position = "absolute";
+					cursor = "pointer";
+					borderColor = "#1381ce";
+					padding = "10px";
+					margin = "0px";
+					border = "2px solid #d0d0d0";
+					clear = "both";
+					zIndex = "99";
+				};
+				return w;
+			},
+			hide : function () {
+				if(!this.lr) return;
+				this.lr.parentNode.removeChild(this.lr);
+				this.lr = null;
+			},
+			resize : function (w, h) {
+				if(!this.lr) return;
+				this.lr.style.width = w==0?"":(w+"px");
+				this.lr.style.height = h==0?"":(h+"px");
+			},
+			moveTo : function (x, y) {
+				if(!this.lr) return;
+				this.lr.style.left = x-2+"px";
+				this.lr.style.top = y-14+"px";
+			},
+			setHTML : function (html) {
+				if(!this.lr) return;
+				this.lr.innerHTML = html;
+			}
+		};
+		return POPUP;
+	}
+
+	var popup = new getPopupLayer();
+
+// 레퍼런스 마우스오버 이벤트 추가
+	var bibrLink = document.getElementsByName("bibrLink");
+	var rLen = bibrLink.length;
+	for(var i = 0; i < rLen; i++) {
+		bibrLink[i].onmouseover = function() {
+			var referId = this.getAttribute("href").split("#")[1];
+			var referElement = document.getElementById(referId);/*.parentNode;
+			var referText = referElement.firstChild.textContent + ". ";
+			referElement = referElement.parentNode;
+			while(referElement = referElement.nextSibling) if(referElement.nodeName=="DIV") break;*/
+			referText = referElement.textContent;
+			var ll = popup.show();
+			ll.onmouseout = function () {
+				popup.hide();
+			};
+			popup.resize(400, 0);
+			var bd = document.body.firstChild;
+			do {
+				if(bd.nodeName=="DIV") {
+					bd = bd.offsetLeft;
+					break;
+				}
+			} while(bd = bd.nextSibling) 
+			var scrollLeft = document.documentElement.scrollLeft | document.body.scrollLeft;
+			var scrollTop = document.documentElement.scrollTop | document.body.scrollTop;
+			popup.moveTo(this.getBoundingClientRect().left+scrollLeft-10, this.getBoundingClientRect().top+scrollTop);
+			
+			popup.setHTML(referText);
+
+			ll.setAttribute("title", referId); 
+			
+			ll.onclick = function () {
+				//location.href = "#"+this.title;
+
+				event.preventDefault();
+				var target = $("#"+this.title);
+				var header_height = $('.headerWrap').height()+20;
+				var offset_top = target.offset().top - header_height; 
+
+				$('html, body').animate({scrollTop: offset_top}, 1);
+
+			};
+		};
+	}
+
+	window.name = "1015_334";
+
+	// 피겨를 문단 사이에 끼워넣기
+	var figureArr = new Array();
+	var figLink = document.getElementsByName("figLink");
+	var fLen = figLink.length;
+
+	for(var i = 0; i < fLen; i++) {
+		var clsName = figLink[i].className;
+		if(!figureArr.inArray(clsName)) {
+			try {
+				var fig_ck = figLink[i];
+				var ck_limit =0;
+				while($(fig_ck).attr("class") != "body"){
+					if($(fig_ck).attr("class") == "fig panel"){
+						break;
+					}
+					fig_ck = fig_ck.parentNode;
+
+					if(ck_limit == 100) break;
+					ck_limit++;
+				}
+				if($(fig_ck).attr("class") != "fig panel"){
+					figureArr.push(clsName);
+					var figureId = figLink[i].getAttribute("href").split("#")[1];
+					var figureElement = document.getElementById(figureId).parentNode;
+					figLink[i].parentNode.appendChild(figureElement);
+					var dLink = document.createElement("P");
+					dLink.setAttribute("align", "right");
+					dLink.innerHTML = "<a href=\"./Figure.php?xn=jecst-2019-00661.xml&id="+figureId+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" align=\"bottom\" alt=\"Download Figure\" title=\"Download Figure\" border=\"0\"/></a>";
+					figureElement.appendChild(dLink);
+				}
+			} catch (e) { }
+		}
+	}
+
+// 테이블을 문단 사이에 끼워넣기
+	var tableArr = new Array();
+	var tableLink = document.getElementsByName("tableLink");
+	var tLen = tableLink.length;
+	for(var i = 0; i < tLen; i++) {
+		var clsName = tableLink[i].className;
+		if(!tableArr.inArray(clsName)) {
+			try {
+			tableArr.push(clsName);
+			var tableId = tableLink[i].getAttribute("href").split("#")[1];
+			if(/^t[0-9]+a/.test(tableId)) continue;
+			var tableElement = document.getElementById(tableId).parentNode;
+			if(tableElement.getElementsByTagName('TABLE')[0]) {
+				tableElement.getElementsByTagName('TABLE')[0].onclick = function () {
+					var chd = this.parentNode.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2019-00661.xml&id="+tid+"&number=334&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+				var dLink = document.createElement("P");
+				dLink.setAttribute("align", "right");
+				dLink.innerHTML = "<a href=\"./Table.php?xn=jecst-2019-00661.xml&id="+tableId+"&mode=export\"><img style=\"margin-top: 15px;\" src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a>";
+				tableElement.appendChild(dLink);
+			} else {
+				tableElement.onclick = function () {
+					var chd = this.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2019-00661.xml&id="+tid+"&number=334&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+			}
+
+			//논문 서브 타이틀에 링크가 있을 경우 테이블이 H3 태그 안으로 들어가서 상위 노드로 이전시킴. 2016-12-28 문찬범
+				if(tableLink[i].parentNode.nodeName == "H3") {
+					tableLink[i].parentNode.parentNode.appendChild(tableElement);
+				} else {
+					tableLink[i].parentNode.appendChild(tableElement);
+				}
+			
+			} catch (e) { }
+		}
+	}
+
+	$("#supplementary-material .table-wrap > a[id^=t]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Table.php?xn=jecst-2019-00661.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a></p>");
+	});
+
+	$("#supplementary-material a[id^=s]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Figure.php?xn=jecst-2019-00661.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" border=\"0\" alt=\"Download Figure\" title=\"Download Figure\"></a></p>");
+	});
+	
+	function layoutFix() {
+		/*$(".artCat").html(" : "+$(".artCat").html());*/
+		
+		var div = document.getElementsByTagName("DIV");
+		for(var i = 0; i < div.length; i++)
+		if(div[i].className == "ref_layer") {
+			if(/^[^0-9]/.test(div[i].textContent)) {
+				div[i].style.padding = "0px 0px 0px 30px";
+				div[i].style.textIndent = "-30px";
+			}
+		} else if(div[i].className == "fig panel") {
+			var aid, img, h5, cap, dp;
+			var fc = div[i].firstChild;
+			do {
+				if(fc.nodeName == "A") aid = fc.outerHTML;
+				if(fc.nodeName == "IMG") img = fc.outerHTML;
+				if(fc.nodeName == "H5") h5 = fc.outerHTML;
+				if(fc.nodeName == "P") dp = fc.outerHTML;
+				if(fc.nodeName == "DIV" && fc.className == "caption") cap = fc.outerHTML;
+			}while(fc = fc.nextSibling);
+			var nHTML;
+			if(!h5 && !cap) {
+				nHTML = aid+"<CENTER>"+img+"</CENTER>";
+			} else {
+				nHTML = aid+"<TABLE><TR><TD width='30%'>"+img+"</TD><TD valign='top' style='padding-left:10px;'>"+h5+cap+dp+"</TD></TR></TABLE>";
+			}
+			div[i].innerHTML = nHTML;
+			div[i].getElementsByTagName('IMG')[0].onclick = function () {
+				var chd = this.parentNode;
+				while(chd.className != "fig panel") chd = chd.parentNode;
+				chd = chd.firstChild;
+				while(!chd.id) {
+					chd = chd.nextSibling;
+				}
+				var fid = chd.id;
+				window.open("/journal/Figure.php?xn=jecst-2019-00661.xml&id="+fid+"&number=334&p_name="+window.name, "figureView","width=1000,height=1000,scrollbars=yes");
+			};
+		}
+		
+		$(".panel").css("margin-bottom","25px");
+		$("a[href^='#']").click(function(event) {
+			event.preventDefault();
+			var target = $(this.hash);
+			var header_height = $('.headerWrap').height()+20;
+			var offset_top = target.offset().top - header_height; 
+
+			$('html, body').animate({scrollTop: offset_top}, 1);
+		});
+
+	}
+	var ll = $("a[target='xrefwindow']");
+	for(var i = 0; i < ll.size(); i++) {
+		ll.eq(i).attr("href",ll.eq(i).attr("href"));
+		//if(ll.eq(i).attr("href").indexOf("http://"))
+			//ll.eq(i).attr("href","http://"+ll.eq(i).attr("href"));
+	}
+	setTimeout("layoutFix()", 1);
+	
+$(document).ready(function(){
+	$("#slide_button").click(function(){
+		if($("#summary_view").css("display") == "none") {
+			$("#slide_button").attr("src", "/image/button/slide_on_btn.png");
+			$("#summary_view").css("display", "block");
+		} else {
+			$("#slide_button").attr("src", "/image/button/slide_off_btn.png");
+			$("#summary_view").css("display", "none");
+		}
+	});
+	
+	var shiftWindow = function() { scrollBy(0, -180) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+	
+});
+
+	//var shiftWindow = function() { scrollBy(0, -180) };
+    //window.addEventListener("hashchange", shiftWindow);
+    //function load() { if (window.location.hash) shiftWindow(); }
+	
+//-->
+     </script>
+    </div>
+    <!-- xml 로딩 영역 -->
+    <!-- 본문영역 종료 -->
+    <div class="aside viewArea">
+     <dl class="tool">
+      <dt>
+       TOOLS
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <a onclick='journal_download("pdf", "334", "jecst-2019-00661.pdf")' style="cursor: pointer;">
+          <img alt="PDF Links" border="0" src="/image/aside/icon_pdf.gif"/>
+          PDF Links
+         </a>
+        </li>
+        <li>
+         <a href="view.php?viewtype=pubreader&amp;number=334">
+          <img alt="PubReader" border="0" src="/image/icon/pubreader.gif"/>
+          PubReader
+         </a>
+        </li>
+        <li>
+         <a onclick='journal_download("epub", "334", "path=L2hvbWUvdmlydHVhbC9qZWNzdC9qb3VybmFsL3VwbG9hZC9wZGYvLi4vZXB1Yi9qZWNzdC0yMDE5LTAwNjYxLmVwdWI=&amp;filename=amVjc3QtMjAxOS0wMDY2MS5lcHVi")' style="cursor: pointer;">
+          <img alt="ePub Link" border="0" src="/image/aside/icon_epub.gif"/>
+          ePub Link
+         </a>
+        </li>
+        <li>
+         <a href="https://doi.org/10.33961/jecst.2019.00661">
+          <img alt="Full text via DOI" border="0" src="/image/aside/icon_doi.gif"/>
+          Full text via DOI
+         </a>
+        </li>
+        <!-- summary -->
+        <li>
+         <a onclick="window.open('/journal/CitationForm.php?number=334','CitationDownload','width=720,height=600,scrollbars=yes')" style="cursor:pointer">
+          <img alt="Download Citation" border="0" src="/image/aside/icon_citation.gif"/>
+          Download Citation
+         </a>
+        </li>
+        <li>
+         <a href="/journal/crossRefTDM.php?number=334" onclick="window.open(this.href, 'CrossRef TDM', 'width=800,height=800,scrollbars=yes');return false;" target="_blank">
+          <img alt="CrossRef TDM" border="0" src="/image/aside/icon_tdm.gif"/>
+          CrossRef TDM
+         </a>
+        </li>
+        <li>
+         <a href="/upload/media/jecst-2019-00661-suppl.pdf" target="_blank">
+          <img alt="Supplement" border="0" class="vertical_middle" src="/image/icon/material.gif"/>
+          Supplement
+         </a>
+        </li>
+        <li>
+         <a href="javascript:article_email(334);">
+          <img alt="" src="/image/aside/icon_mail.gif"/>
+          E-Mail
+         </a>
+        </li>
+       </ul>
+       <dl>
+        <dt>
+         Share :
+        </dt>
+        <dd>
+         <a href="http://www.facebook.com/sharer.php?u=%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2019.00661&amp;t=High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries" onclick="window.open(this.href, 'Facebook', 'width=800,height=500,scrollbars=yes');return false;">
+          <img alt="Facebook" src="/image/aside/icon_facebook.png"/>
+         </a>
+         <a href="http://twitter.com/home?status=High-Rate+Blended+Cathode+with+Mixed+Morphology+for+All-Solid-State+Li-ion+Batteries%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2019.00661" onclick="window.open(this.href, 'Twitter', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Twitter" src="/image/aside/icon_twitter.png"/>
+         </a>
+         <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2019.00661&amp;title=High-Rate+Blended+Cathode+with+Mixed+Morphology+for+All-Solid-State+Li-ion+Batteries" onclick="window.open(this.href, 'LinkedIn', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Linked In" src="/image/aside/icon_linkedin.png"/>
+         </a>
+         <a href="https://plus.google.com/share?url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2019.00661&amp;t=High-Rate+Blended+Cathode+with+Mixed+Morphology+for+All-Solid-State+Li-ion+Batteries" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Google+" src="/image/aside/icon_google_plus.png"/>
+         </a>
+         <a href="http://line.me/R/msg/text/?High-Rate+Blended+Cathode+with+Mixed+Morphology+for+All-Solid-State+Li-ion+Batteries 
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2019.00661" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Line it" src="/image/aside/icon_line_share-b.png"/>
+         </a>
+         <!--
+															<a href="#" onclick="alert('KakaoTalk is only accessible from mobile.');" style="padding-top:10px;"> 
+									<img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
+								</a>
+								<a href="javascript:shareStory2();" style="padding-top:10px;">
+									<img src="https://developers.kakao.com/sdk/js/resources/story/icon_small.png"/>
+								</a>
+							
+														-->
+        </dd>
+       </dl>
+      </dd>
+     </dl>
+     <!--
+<script type='text/javascript'>
+  //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    function sendLink() {
+      Kakao.Link.sendDefault({
+        objectType: 'feed',
+        content: {
+          title: 'High-Rate Blended Cathode with Mixed Morphology for All-Solid-State Li-ion Batteries',
+          //description: '#케익 #딸기 #삼평동 #카페 #분위기 #소개팅',
+          imageUrl: 'https://www.e-aps.org/image/icon/kakao_img.png',
+          link: {
+            mobileWebUrl: 'https://www.e-aps.org/journal/view.php?number=334',
+            webUrl: 'https://www.e-aps.org/journal/view.php?number=334'
+          }
+        }
+      });
+    }
+  //]]>
+
+</script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    function shareStory() {
+      Kakao.Story.open({
+        url: 'https://www.e-aps.org/journal/view.php?number=334',
+        text: '\n'
+      });
+    }
+
+    function shareStory2() {
+      Kakao.Story.share({
+        url: 'https://www.e-aps.org/journal/view.php?number=334',
+        text: ''
+      });
+    }
+
+  //]]>
+</script>
+-->
+     <dl class="metrics">
+      <dt>
+       METRICS
+       <a href="/metrics/metrics_down_ref.php?number=334" onclick="window.open(this.href, 'Metrics View', 'width=720, height=800,scrollbars=yes');return false;" style="cursor:pointer;">
+        <img alt="Graph View" src="/image/aside/btn_graphView.png"/>
+       </a>
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <span class="count">
+          <a class="viewPoint" href="/journal/CitedBy.php?number=334" onclick="window.open(this.href, 'CrossRef Citedby', 'width=720,height=800,scrollbars=yes');return false;">
+           3
+          </a>
+         </span>
+         <span>
+          Crossref
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          <a class="viewPoint" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;scp=85090191147" target="_blank" title="More information">
+           2
+          </a>
+         </span>
+         <span>
+          Scopus
+         </span>
+        </li>
+        <li>
+         <span class="count">
+          2,453
+         </span>
+         <span>
+          View
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          138
+         </span>
+         <span>
+          Download
+         </span>
+        </li>
+        <li style="width:100%;text-align:center;">
+         <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+         </script>
+         <div -data-badge-details="right" -data-badge-type="medium-donut" class="altmetric-embed" data-doi="10.33961/jecst.2019.00661" onclick="blank_action()">
+         </div>
+        </li>
+       </ul>
+      </dd>
+      <dt>
+       Related articles in
+       <i>
+        J. Electrochem. Sci. Technol
+       </i>
+      </dt>
+      <dd>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <hr/>
+   <hr/>
+   <div class="siteMap">
+    <dl class="last" style="width:230px">
+     <dt>
+      <a href="/about/" title="ABOUT">
+       ABOUT
+      </a>
+     </dt>
+     <dd>
+      <dl>
+       <dd>
+        <ul>
+         <li>
+          <a href="/about/index.php" title="Aims and scope">
+           Aims and scope
+          </a>
+         </li>
+         <li>
+          <a href="/about/about.php" title="About the journal">
+           About the journal
+          </a>
+         </li>
+         <li>
+          <a href="/about/editorial.php" title="Editorial board">
+           Editorial board
+          </a>
+         </li>
+         <li>
+          <a href="/about/open_access.php" title="Open access">
+           Open access
+          </a>
+         </li>
+         <li>
+          <a href="/about/contact.php" title="Contact us">
+           Contact us
+          </a>
+         </li>
+        </ul>
+       </dd>
+      </dl>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/category.php" title="ARTICLES">
+       ARTICLE CATEGORY
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+         Mini review
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Communication" title="Communication">
+         Communication
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Research article" title="Research article">
+         Research article
+        </a>
+       </li>
+      </ul>
+      <p>
+       <a href="/articles/category.php" title="Browse all articles">
+        Browse all articles &gt;
+       </a>
+      </p>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/archive.php" title="ISSUES">
+       BROWSE ARTICLES
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/current/" title="Current issue">
+         Current issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/forthcoming.php" title="Forthcoming issue">
+         Forthcoming issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/archive.php" title="All issues">
+         All issues
+        </a>
+       </li>
+       <li>
+        <a href="/articles/print.php" title="ASAP">
+         ASAP
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostread.php" title="Most view">
+         Most view
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostdownload.php" title="Most download">
+         Most download
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostcited.php" title="Most cited">
+         Most cited
+        </a>
+       </li>
+       <li>
+        <a href="/articles/funded.php" title="Funded articles">
+         Funded articles
+        </a>
+       </li>
+       <li>
+        <a href="/articles/search.php" title="Search">
+         Search
+        </a>
+       </li>
+       <li>
+        <a href="/articles/author_index.php" title="Author index">
+         Author index
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+    <dl style="width:220px">
+     <dt>
+      <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+       AUTHOR INFORMATION
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/authors/authors.php" title="Instructions to authors">
+         Instructions to authors
+        </a>
+       </li>
+       <li>
+        <a href="/authors/checklist.php" title="Author’s checklist">
+         Author’s checklist
+        </a>
+       </li>
+       <li>
+        <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+         E-submission
+        </a>
+       </li>
+       <li>
+        <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+         Copyright transfer agreement
+        </a>
+       </li>
+       <li>
+        <a href="/authors/ethics.php" title="Research publication ethics">
+         Research publication ethics
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+   </div>
+   <div class="footerWrap">
+    <div>
+     <dl>
+      <dt>
+       Editorial Office
+      </dt>
+      <dd>
+       <!--Room 1715, 122 Wangsan-ro, Dongdaemun-gu, Seoul 02566, Korea<br/-->
+       E-mail:
+       <a class="link" href="mailto:journal@kecs.or.kr">
+        journal@kecs.or.kr
+       </a>
+       Tel: +82-2-568-9392    Fax: +82-2-568-5931
+      </dd>
+     </dl>
+     <p>
+      Copyright ©
+      <a href="http://kecs.or.kr/main/" target="_blank">
+       2022 by The Korean Electrochemical Society.
+      </a>
+     </p>
+     <p class="posTR">
+      <a href="https://www.m2-pi.com" target="_blank">
+       <img alt="Developed in M2PI" src="https://www.m2-pi.com/images/developed_m2pi.png" style="vertical-align:middle;margin-top:2px;"/>
+      </a>
+     </p>
+    </div>
+   </div>
+   <!-- //footerWrap -->
+  </div>
+  <!-- //wrapper -->
+  <style>
+   #overlay { display: none; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999; }
+	#overlay #overlay_close { margin:25px auto 0px auto; height: 20px; text-align: right; }
+	#overlay #main_image_wrap { margin:25px auto 25px auto; height: 448px; text-align: center; }
+  </style>
+  <div id="overlay">
+   <div style="width:900px; background-color: rgba(208,208,208,0.85); border: 1px solid #a0a0a0; padding-bottom: 25px; margin: auto;">
+    <div id="overlay_close">
+     <img alt="Close layer" onclick="closePhotoView(); return false;" src="/image/b_close.png" style="cursor:pointer;margin-right:25px;"/>
+    </div>
+    <div id="main_image_wrap">
+     <table style="margin: auto;">
+      <tbody>
+       <tr>
+        <td onclick="mImage_sliding('prev')" style="cursor: pointer;" valign="middle">
+         <img alt="prev" border="0" src="/image/b_prev.png"/>
+        </td>
+        <td style="width: 800px;height:448px;" valign="middle">
+         <img height="448" id="main_image" src="" width="800"/>
+        </td>
+        <td onclick="mImage_sliding('next')" style="cursor: pointer;" valign="middle">
+         <img alt="next" border="0" src="/image/b_next.png"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+  </div>
+  <script>
+   /* Image Slide */
+	var thumb_array = new Array();
+	var thumb_index = 0;
+
+// 	$(window).scroll(function () {
+// 		var y = $(this).scrollTop();
+// 		$("#overlay").css("margin-top", y+100);
+// 	});
+	
+	function mImage_sliding(dir) {
+		 if(dir == 'next') {
+			 thumb_index++;
+			 if(thumb_index >= thumb_array.length) {
+				 thumb_index--;
+				 return false;
+			 }
+		 } else {
+			 thumb_index--;
+			 if(thumb_index < 0) {
+				 thumb_index++;
+				 return false;
+			 }
+		 }
+		 changeMainImage(thumb_array[thumb_index]);
+	}
+	
+	function openPhotoView(obj) {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$(obj).parent().parent().find('img.thumb').each(function (index) {
+			thumb_array.push($(this).attr("src"));
+			if($(obj).attr("src") == $(this).attr("src")) {
+				thumb_index = index;
+				changeMainImage($(this).attr("src"));
+			}
+		});
+	}
+	
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		
+		var src_data = $("#ss_516").html();
+		
+		console.log(src_data);
+	}
+	/*
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$("#ss_516").find('img.thumb').each(function (index) {
+			if(index != 0) {
+				thumb_array.push($("#ss_516").attr("src"));
+				if($("#ss_516").attr("src") == $(this).attr("src")) {
+					thumb_index = index;
+					changeMainImage($(this).attr("src"));
+				}
+			} 
+		});
+		
+		console.log(thumb_array);
+	}
+	*/
+
+	function closePhotoView() {
+		$('#overlay').hide();
+		thumb_array = new Array();
+	}
+
+	function changeMainImage(src) {
+		$("<img />").attr("src", src).load(function() {
+			var ratio = 800 / this.width;
+			var width = this.width * ratio;
+			var height = this.height * ratio;
+			if(height > 448) {
+				ratio = 448 / this.height;
+				width = this.width * ratio;
+				height = this.height * ratio;
+			}
+			$("#overlay #main_image_wrap #main_image").attr('src', this.src);
+			$("#overlay #main_image_wrap #main_image").attr('width', width);
+			$("#overlay #main_image_wrap #main_image").attr('height', height);
+		});
+	}
+/* Image Slide End */
+  </script>
+ </body>
+</html>

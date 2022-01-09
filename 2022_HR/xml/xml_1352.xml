@@ -1,0 +1,2685 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie7"><![endif]-->
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie8"><![endif]-->
+<!--[if IE 9]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="eng" xml:lang="eng" xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML">
+ <!--<![endif]-->
+ <head>
+  <title>
+   Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production
+  </title>
+  <meta content="" name="google-site-verification"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production" name="citation_title"/>
+  <link href="/flowplayer/skin/minimalist.css" rel="stylesheet"/>
+  <script src="https://code.jquery.com/jquery-1.11.0.js">
+  </script>
+  <script src="/flowplayer/flowplayer.min.js">
+  </script>
+  <script src="//developers.kakao.com/sdk/js/kakao.min.js">
+  </script>
+  <link href="/image/icon/favicon.ico" rel="shortcut icon"/>
+  <link href="/css/common_v1.1.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/style.css?1641734138" rel="stylesheet" type="text/css"/>
+  <script src="/script/jquery.js" type="text/javascript">
+  </script>
+  <script src="/script/jquery.placeholder.js" type="text/javascript">
+  </script>
+  <script src="/script/user.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function showBox(obj) {
+		if(reviewLayer.style.display == "block") return;
+		reviewLayer.innerText=document.getElementById(obj.href.split("#")[1]).textContent;
+		reviewLayer.style.top = (event.pageY ? event.pageY : (document.documentElement.scrollTop + event.clientY )) + "px";
+		reviewLayer.style.left = (document.body.clientWidth <= (event.clientX + 310) ? -310 : 10)+ event.clientX + "px";
+		reviewLayer.style.display = "block";
+	}
+	//altmetric-embed 새창연결
+	function blank_action(){
+		$(".altmetric-embed").find('a').attr('target','_blank');
+	}
+  </script>
+  <meta content="doi:10.33961/jecst.2021.00031" name="dc.identifier"/>
+  <meta content="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2021.00031" name="citation_fulltext_html_url"/>
+  <meta content="The Korean Electrochemical Society" name="citation_publisher"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="J. Electrochem. Sci. Technol" name="citation_journal_abbrev"/>
+  <meta content="Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production" name="citation_title"/>
+  <meta content="Baeck B. Choi" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="Jae Hyeon Jo" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="Taehee Lee" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="Sang-Yun Jeon" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="Jungsuk Kim" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="Young-Sung Yoo" name="citation_author"/>
+  <meta content="Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 Korea" name="citation_author_institution"/>
+  <meta content="b.choi@kepco.co.kr" name="citation_author_email"/>
+  <meta content="2021/06/23" name="citation_publication_date"/>
+  <meta content="12" name="citation_volume"/>
+  <meta content="3" name="citation_issue"/>
+  <meta content="302" name="citation_firstpage"/>
+  <meta content="307" name="citation_lastpage"/>
+  <meta content="10.33961/jecst.2021.00031" name="citation_doi"/>
+  <meta content="2093-8551" name="citation_issn"/>
+  <meta content="2288-9221" name="citation_issn"/>
+  <meta content="https://www.jecst.org/upload/pdf/jecst-2021-00031.pdf" name="citation_pdf_url"/>
+  <meta content="English" name="citation_language"/>
+  <meta content="Green Hydrogen; Power-To-Gas; P2G; Alkaline Electrolyzer" name="citation_keywords"/>
+  <meta content='&lt;html xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;' name="citation_reference"/>
+  <meta content="citation_title=; citation_author=SC Lee; citation_author=WY Jung; citation_journal_title=Energy Procedia; citation_volume=88; citation_issue=88; citation_pages=526-530; citation_date=2016;" name="citation_reference"/>
+  <meta content='&lt;html xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;' name="citation_reference"/>
+  <meta content="citation_title=; citation_author=S Marini; citation_author=P Salvi; citation_author=P Nelli; citation_author=R Pesenti; citation_author=M Villa; citation_author=M Berrettoni; citation_author=G Zangari; citation_author=Y Kiros; citation_journal_title=Electrochim Acta; citation_volume=82; citation_issue=82; citation_pages=384-391; citation_date=2012;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=M Bernt; citation_author=HA Gasteiger; citation_journal_title=J Electrochem Soc; citation_volume=163; citation_issue=163; citation_pages=F3179-F3189; citation_date=2016;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=K Zeng; citation_author=D Zhang; citation_journal_title=Prog Energy Combust Sci; citation_volume=36; citation_issue=36; citation_pages=307-326; citation_date=2010;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=MM Rashid; citation_author=MK Al Mesfer; citation_author=H Naseem; citation_author=M Danish; citation_journal_title=Int J Eng Adv Technol; citation_volume=4; citation_issue=4; citation_pages=2249-8958; citation_date=2015;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Rossmeisl; citation_author=A Logadottir; citation_author=JK Nørskov; citation_journal_title=Chem Phys; citation_volume=319; citation_issue=319; citation_pages=178-184; citation_date=2005;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Rossmeisl; citation_author=ZW Qu; citation_author=H Zhu; citation_author=GJ Kroes; citation_author=JK Nørskov; citation_journal_title=J Electroanal Chem; citation_volume=607; citation_issue=607; citation_pages=83-89; citation_date=2007;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=A Lim; citation_author=H juhn Kim; citation_author=D Henkensmeier; citation_author=S Jong Yoo; citation_author=J Young Kim; citation_author=S Young Lee; citation_author=YE Sung; citation_author=JH Jang; citation_author=HS Park; citation_journal_title=J Ind Eng Chem; citation_volume=76; citation_issue=76; citation_pages=410-418; citation_date=2019;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=MK Cho; citation_author=HY Park; citation_author=S Choe; citation_author=SJ Yoo; citation_author=JY Kim; citation_author=HJ Kim; citation_author=D Henkensmeier; citation_author=SY Lee; citation_author=YE Sung; citation_author=HS Park; citation_journal_title=J Power Sources; citation_volume=347; citation_issue=347; citation_pages=283-290; citation_date=2017;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=I Vincent; citation_author=D Bessarabov; citation_journal_title=Renew Sustain Energy Rev; citation_volume=81; citation_issue=81; citation_pages=1690-1704; citation_date=2018;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=M Ni; citation_author=MKH Leung; citation_author=DYC Leung; citation_journal_title=Int J Hydrog Energy; citation_volume=33; citation_issue=33; citation_pages=2337-2354; citation_date=2008;" name="citation_reference"/>
+  <meta content='&lt;html xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;' name="citation_reference"/>
+  <script type="text/javascript">
+   //<![CDATA[
+$(document).ready(function(){
+	$("#gnb>li").mouseover(function(){
+		$(".globalSearch").css("display", "none");
+	});
+});
+
+function journal_download(type, sid, filename) {
+	var increase_column;
+
+	if(type == "pdf") {
+		var openWindow = window.open("about:blank");
+		openWindow.location.href = '/upload/pdf/' + filename;
+
+		increase_column = "pdf_down";
+
+	} else if(type == "epub") {		
+		location.href = '/func/download.php?' + filename;		
+		increase_column = "epub_down";
+	}
+
+	$.ajax({
+		type: 'POST',
+		data: {table: 'journal_tbl', column: increase_column, count: 1, condition_column: 'sid', condition_value: sid},
+		url: '/func/count_increase.php'
+	});
+}
+
+var acIdx = -1;
+	function autoCompleteHead(v) {
+		if(event.keyCode >= 37 && event.keyCode <= 40) {
+			if(event.keyCode % 2) return;
+			var max = $(".autoKeywords").size();
+			if(event.keyCode == 38) acIdx--;
+			else if(event.keyCode == 40) acIdx++;
+			if(acIdx < 0) acIdx = max-1;
+			if(acIdx > max-1) acIdx = 0;
+			$(".autoKeywords").css("background","#ffffff");
+			$(".autoKeywords").eq(acIdx).css("background","#e9e9e9");
+			$("input[name='term_all']").val($(".autoKeywords").eq(acIdx).text());
+			return;
+		}
+		acIdx = -1;
+		$.post("/func/autoComplete.php", "value="+v, function (d, s) {
+			if(s == "success") {
+				if(d != "" && v.length > 1) {
+					$("#autoCompleteLayerHead").attr("class", "");
+					$("#autoCompleteLayerHead").html(d);
+				} else {
+					$("#autoCompleteLayerHead").attr("class", "none");
+					$("#autoCompleteLayerHead").html("");
+				}
+			}
+		});
+	}
+	var autoComplete_ck = 0;
+	function term_all_onblur(){
+		if(autoComplete_ck == 0){
+			$("#autoCompleteLayerHead").html("");
+			$("#autoCompleteLayerHead").attr("class", "none");
+		}
+	}
+	function transText(f) {
+		if(!f.term_all.value) return false;
+	}
+
+//]]>
+  </script>
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({ 
+	SVG: { 
+	  scale: 90, 
+	  linebreaks: {
+		automatic: true, 
+		width: "container" 
+	  } 
+	}, 
+	showProcessingMessages: false, 
+	messageStyle: "none"
+  }); 
+
+function article_email(num) {
+
+	$("#article_mail").show();
+
+}
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG" type="text/javascript">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137241045-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137241045-1');
+  </script>
+ </head>
+ <body>
+  <div id="article_mail" style="display:none">
+   <style>
+    .sub_bt {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.sub_bt:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.sub_bt:active {
+	position:relative;
+	top:1px;
+}
+.article_mail{
+	position:fixed; 
+}
+   </style>
+   <script src="https://www.google.com/recaptcha/api.js">
+   </script>
+   <script>
+    function checkMail(){
+	var f = document.mailform;
+	
+	if(!f.a_sender_email.value){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+	if (!f.a_recipient_email.value)	{
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	var regExp = /^[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*\.[a-zA-Z]{2,3}$/i;
+	if(!regExp.test(f.a_sender_email.value)){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+
+	if(!regExp.test(f.a_recipient_email.value)){
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	return(true);
+}
+
+function word_Counter(field, countfield, maxlimit) {
+	if(field.value.length > 500){
+			field.value = field.value.substring(0, 500);
+			return;
+		}
+
+	countfield.value = field.value.length; 
+}
+   </script>
+   <div class="article_mail">
+    <div class="author_add" style="width: 95%; margin: 0 auto; padding-top:10px;">
+     <table style="width: 100%; margin: 0 auto;">
+      <tbody>
+       <tr>
+        <td>
+         <b>
+          <font style="font-size:16px;">
+           E-mail this Article
+          </font>
+         </b>
+        </td>
+        <td align="right" height="25px;" valign="top">
+         <input onclick="closes();" style="font-size:5px;" type="button" value="X"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="height:1px;background-color:#E2E2E2;margin-top:5px;margin-bottom:10px">
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <table border="0" width="100%">
+          <tbody>
+           <tr>
+            <td style="padding-top:8px;">
+             <div style="color:#3260BA;padding-bottom:3px;">
+              <b>
+               Communication
+              </b>
+             </div>
+             <div>
+              <a href="http://www.jecst.org/journal/view.php?number=403" style="text-decoration:none;" target="new">
+               Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production
+              </a>
+             </div>
+             <div style="padding-left:0px;font-size:9pt;font-weight:normal;">
+              Baeck B. Choi, Jae Hyeon Jo, Taehee Lee, Sang-Yun Jeon, Jungsuk Kim, Young-Sung Yoo
+              <br/>
+              DOI :
+              <a href="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2021.00031" target="_blank">
+               https://doi.org/10.33961/jecst.2021.00031
+              </a>
+             </div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding-top:10px;">
+         <form action="/journal/view.php?mode=process&amp;number=403" method="post" name="mailform" onsubmit="return checkMail();">
+          <input name="a_title" type="hidden" value="Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production"/>
+          <input name="a_authors" type="hidden" value="Baeck B. Choi, Jae Hyeon Jo, Taehee Lee, Sang-Yun Jeon, Jungsuk Kim, Young-Sung Yoo"/>
+          <input name="a_type" type="hidden" value="Communication"/>
+          <input name="a_year" type="hidden" value="2021"/>
+          <input name="a_vol" type="hidden" value="12"/>
+          <input name="a_no" type="hidden" value="3"/>
+          <input name="a_url" type="hidden" value="http://www.jecst.org/journal/view.php?number=403"/>
+          <input name="a_doi" type="hidden" value="10.33961/jecst.2021.00031"/>
+          <input name="a_doi_url" type="hidden" value="https://doi.org/10.33961/jecst.2021.00031"/>
+          <table border="0" cellpadding="3" cellspacing="0" style="border:0px solid #DDDDDD;" width="100%">
+           <tbody>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your Name *
+              </b>
+              <br/>
+              <input id="a_sender_name" name="a_sender_name" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your E-mail *
+              </b>
+              <br/>
+              <input id="a_sender_email" name="a_sender_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Recipient's E-mail *
+              </b>
+              <br/>
+              <input id="a_recipient_email" name="a_recipient_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Message
+              </b>
+              <br/>
+              <textarea id="a_content" name="a_content" onblur="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeydown="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeyup="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" style="width:95%;height:150px"></textarea>
+              <br/>
+              <div align="right" style="width:95%;">
+               <input name="a_content_cbyte" readonly="" size="3" style="height:18px;text-align:right;border:0;color:ff0000" type="box" value="0"/>
+               /
+               <b>
+                500
+               </b>
+               characters
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <div class="g-recaptcha" data-sitekey="6LfZ2IgUAAAAADokvIzjcUw-A88rvR19WMNPE1ud">
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <input class="sub_bt" type="submit" value="Send"/>
+             </td>
+            </tr>
+            <tr>
+             <td align="left" style="padding-top:2px;padding-bottom:5px;color:red;">
+              <input name="a_ck_alert" readonly="" style="height:18px;width:95%;text-align:left;border:0;color:red" type="box"/>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </form>
+         <!--
+					<div id='s_div_2' style="display:none">
+						<table border=0 width="100%" cellpadding=3 cellspacing=0 style="border:0px solid #DDDDDD;">
+								<tr height=28>
+									<td style="">sent to:<br/>
+																		</td>
+								</tr>
+								<tr>
+									<td align="center">
+										<input type="button" value="Close" onclick="removelayer();" class="sub_bt">
+									</td>
+								</tr>
+
+							</table>
+					</div>
+					-->
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+   <script>
+    function closes(){
+		$("#a_sender_name").val("");
+		$("#a_sender_email").val("");
+		$("#a_recipient_email").val("");
+		$("#a_content").val("");
+		$("#recaptcha_response_field").val("");
+		$('#article_mail').hide();
+
+	}
+   </script>
+  </div>
+  <div class="wrapper" style="padding-top:137px">
+   <div class="headerWrap">
+    <div class="header">
+     <div class="header_navi">
+      <div class="util_navi" style="background-image:url('/image/top_bg_t.gif');">
+       <ul class="utilMenu">
+        <li>
+         <a href="/" title="Home">
+          Home
+         </a>
+        </li>
+        <li>
+         <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+          E-submission
+         </a>
+        </li>
+        <li>
+         <a href="/about/sitemap.php" title="Sitemap">
+          Sitemap
+         </a>
+        </li>
+        <li>
+         <a href="/about/contact.php" title="Contact Us">
+          Contact us
+         </a>
+        </li>
+        <li style="font-color: #000;">
+         <div id="google_translate_element" style="padding-top:0;height:20px;">
+         </div>
+         <script type="text/javascript">
+          function googleTranslateElementInit() {
+							  new google.translate.TranslateElement({pageLanguage: '', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+							}
+         </script>
+         <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript">
+         </script>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="header_logo">
+      <h1>
+       <a href="/" title="Home">
+        <img alt="Journal of Electrochemical Science and Technology" src="/image/top_logo.gif"/>
+       </a>
+      </h1>
+      <p class="qrCode">
+       <img alt="QR Code" class="qr" src="/image/top_img.gif"/>
+      </p>
+      <div style="clear: both;">
+      </div>
+     </div>
+     <div class="gnbWrap">
+      <div class="gnb_menu">
+       <ul id="gnb">
+        <li>
+         <a href="/" title="Home">
+          HOME
+         </a>
+        </li>
+        <li>
+         <a href="/about/" title="About">
+          ABOUT
+         </a>
+         <ul class="subMenu m1">
+          <li>
+           <a href="/about/index.php" title="Aims and scope">
+            Aims and scope
+           </a>
+          </li>
+          <li>
+           <a href="/about/about.php" title="About the journal">
+            About the journal
+           </a>
+          </li>
+          <li>
+           <a href="/about/editorial.php" title="Editorial board">
+            Editorial board
+           </a>
+          </li>
+          <li>
+           <a href="/about/open_access.php" title="Open access">
+            Open access
+           </a>
+          </li>
+          <li>
+           <a href="/about/contact.php" title="Contact us">
+            Contact us
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/articles/category.php" title="ARTICLE CATEGORY">
+          ARTICLE CATEGORY
+         </a>
+         <dl class="subMenu m2">
+          <dd>
+           <ul>
+            <li>
+             <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+              Mini review
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Communication" title="Communication">
+              Communication
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Research article" title="Research article">
+              Research article
+             </a>
+            </li>
+           </ul>
+           <p>
+            <a href="/articles/category.php" title="Browse all articles">
+             Browse all articles &gt;
+            </a>
+           </p>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/articles/archive.php" title="BROWSE ARTICLES">
+          BROWSE ARTICLES
+         </a>
+         <dl class="subMenu m3">
+          <dd>
+           <ul>
+            <li>
+             <a href="/current/" title="Current issue">
+              Current issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/forthcoming.php" title="Forthcoming issue">
+              Forthcoming issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/archive.php" title="All issues">
+              All issues
+             </a>
+            </li>
+            <li>
+             <a href="/articles/print.php" title="ASAP">
+              ASAP
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostread.php" title="Most view">
+              Most view
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostdownload.php" title="Most download">
+              Most download
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostcited.php" title="Most cited">
+              Most cited
+             </a>
+            </li>
+            <li>
+             <a href="/articles/funded.php" title="Funded articles">
+              Funded articles
+             </a>
+            </li>
+            <li>
+             <a href="/articles/search.php" title="Search">
+              Search
+             </a>
+            </li>
+            <li>
+             <a href="/articles/author_index.php" title="Author index">
+              Author index
+             </a>
+            </li>
+           </ul>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+          AUTHOR INFORMATION
+         </a>
+         <ul class="subMenu m4" style="width:180px;">
+          <li>
+           <a href="/authors/authors.php" title="Instructions to authors">
+            Instructions to authors
+           </a>
+          </li>
+          <li>
+           <a href="/authors/checklist.php" title="Author’s checklist">
+            Author’s checklist
+           </a>
+          </li>
+          <li>
+           <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+            E-submission
+           </a>
+          </li>
+          <li>
+           <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+            Copyright transfer agreement
+           </a>
+          </li>
+          <li>
+           <a href="/authors/ethics.php" title="Research publication ethics">
+            Research publication ethics
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <ul class="btn">
+        <li>
+         <a class="viewSearch" href="#" title="Search">
+          <img alt="Search" class="viewSearch" src="/image/headerBtn_search.gif" title="Search"/>
+         </a>
+        </li>
+        <li>
+         <a href="/articles/search.php" title="Advanced Search">
+          <img alt="Advanced Search" src="/image/headerBtn_search2.gif"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="globalSearch">
+     <dl>
+      <dt class="hidden">
+       Search
+      </dt>
+      <dd>
+       <form action="/articles/search_result.php" method="post" name="searformform" onsubmit="return transText(this);">
+        <fieldset>
+         <legend>
+          J. Electrochem. Sci. Technol Search
+         </legend>
+         <input autocomplete="off" class="_placeholder" name="term_all" onblur="term_all_onblur();" onfocus="autoCompleteHead(this.value);" onkeyup="autoCompleteHead(this.value);" placeholder="Keyword, Title, Author, or Citation" type="text" value=""/>
+         <span class="search">
+          <input class="opacity0" type="submit" value="Search"/>
+         </span>
+        </fieldset>
+       </form>
+       <div class="none" id="autoCompleteLayerHead">
+       </div>
+       <p class="close">
+        <a href="#">
+         CLOSE
+        </a>
+       </p>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <!-- //headerWrap -->
+   <hr/>
+   <style>
+    @media print {
+div.headerWrap,
+div.aside,
+div.siteMap,
+div.footerWrap {display:none;}
+.admin_menu,
+.crossmark {display:none;}
+div.wrapper {padding-top:0 !important;}
+div#container {background:none;}
+div.printArea {display:block;float:none;margin:0 auto;padding-top:10px;}
+}
+   </style>
+   <div id="container">
+    <div class="contents printArea">
+     <!-- 본문영역 -->
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="font-family:Lora, arial,sans-serif,'Nanum Gothic';  font-size: 14px; line-height:1.5;" valign="top" width="613px;">
+         <a href="/articles/archive.php" style="color: #0056af;">
+          J. Electrochem. Sci. Technol
+         </a>
+         &gt;
+         <a href="/current/?vol=12&amp;no=3" style="color: #0056af;">
+          Volume 12(3); 2021
+         </a>
+         &gt; Article
+        </td>
+        <td align="right" style="padding-right:10px;position: relative;" valign="top">
+         <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js">
+         </script>
+         <a data-target="crossmark">
+          <div class="crossmark" style="width:150px;">
+           <img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" style="width:100%;"/>
+          </div>
+         </a>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <!-- xml 로딩 영역 -->
+     <div id="include_journal">
+      <style>
+       <!--
+#include_journal {
+	clear:both;
+	font-family: 'Lora', georgia, "Nanum Gothic", sans-serif;
+	font-size: 1.27em;
+	font-weight: 500;
+	line-height:1.76;
+	letter-spacing:.01em;
+	color:#000000;
+	word-break:keep-all;
+}
+
+#supplementary-material:before {
+	content:"";
+	display:block;	
+	height: 180px;
+	margin : -180px 0 0;
+}
+
+/* jats start */
+
+/* article title */
+#article-front {
+	margin-top: 5px;
+	font-size: 0.85em;
+}
+
+#article-front .PubTitle {
+	clear:both;
+	font-size: 1.7em;
+	line-height: 1.3;
+	margin-top: 20px;
+}
+
+#article-front .author_layer {
+	clear:both;
+	font-size: 1.05em;
+	line-height: 1.3;
+	font-weight: 500;
+	margin-top: 15px;
+}
+
+#article-front .abstract-layer{
+	font-size: 1.0em;
+}
+
+#article-front .licens {
+	font-size: 0.8em;
+	margin-top: 10px;
+	margin-bottom: 13px;
+}
+
+#article-front .callout-title, #include_journal .main-title {
+	font-size: 1.1em;
+	font-weight: bold;
+	color:#0B3D53;
+}
+
+#article-front .section-title {
+	font-size: 1.0em;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.caption {
+	line-height: 130%;
+	font-family:georgia, sans-serif, "Nanum Gothic";
+	font-weight: normal;
+}
+
+#include_journal .main-title {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+#article-body .section-title {
+	font-weight: 600;
+	color:#1F1F1F;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#article-body .subsection-title {
+	font-weight:bold;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+#article-body > div > div, #article-body > div > div > div {
+	padding-bottom:15px;
+}
+
+#article-body .section {
+	padding-bottom:0px;
+}
+
+#include_journal table h2 {
+	font-size: 18px;
+}
+
+#include_journal table h3 {
+	font-size: 15px;
+}
+
+#include_journal table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+#include_journal h5 {
+	font-size: 15px;
+}
+
+.abstract-layer {
+	margin-top: 30px;
+}
+
+#include_journal .abstract {
+	margin-top: 10px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+#include_journal a[name$='Link'] {
+	color: #046eb8;
+}
+
+#include_journal div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+#include_journal div.panel table * {
+	font-size:12px !important;
+}
+
+#include_journal p.address-line {
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left: 2em
+}
+
+#include_journal .list {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#include_journal ul,ol {
+	margin-bottom: 1em
+}
+
+#include_journal li {
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+
+#include_journal li>p {
+	margin-top: 0.1em;
+	margin-bottom: 0em
+}
+
+#include_journal div.def-list {
+	border-spacing: 0.25em
+}
+
+#include_journal div.def-list p {
+	margin:0px; padding:0px;
+}
+
+#include_journal .ref_layer {
+	margin-bottom: 10px;
+	word-wrap: break-word;
+	word-break: keep-all;
+	width:740px;
+}
+
+#include_journal .apStyle {
+	text-indent: 10px;
+}
+
+#inThisPage { background:#fff; border:2px solid #0B3D53; }
+#include_journal .newITP { border: #0B3D53; width:200px;font-size:11pt; }
+#include_journal .newITP a{ color: #000; }
+
+.metadata-area {
+	font-size: 13px;
+	color: 3b3b3b;
+}
+
+.history-date {
+	padding-bottom:15px;
+}
+
+.author_layer {
+	margin-top: 16px;
+}
+
+.author_layer a{
+	color: #2f312f !important;
+}
+
+.author_layer img{
+	vertical-align: middle;
+}
+
+.history_date {
+	font-size: 13px;
+	font-color: #2f312f;
+}
+
+.main-title {
+	font-color: #2f312f;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0B3D53;
+}
+
+
+
+.abstract > p.metadata-entry {
+	margin-top: 23px;
+	height: auto;
+}
+
+.row {
+	line-height: 1.5;
+}
+
+.table-wrap table thead {background:#DDEEFF;}
+.table-wrap table tbody {background:#fff;}
+.table-wrap-foot {
+	margin-bottom: 10px;
+	font-size:13px;
+}
+
+.table-wrap-foot .footnote p {
+	margin: 0px;
+}
+
+.section .panel {
+	margin: 15px 0px;
+	padding: 15px 15px;
+	background:#f6f6f6;
+}
+
+.section .panel .label {
+	font-weight: bold;
+}
+
+.label {
+	font-weight: bold;
+	font-size : 15px;
+}
+
+table h2 {
+	font-size: 16px;
+}
+
+table h3 {
+	font-size: 15px;
+}
+
+table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+div.panel table * {
+	font-size:14px !important;
+}
+
+.table-wrap table {
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+.table-wrap table th {
+	border-bottom: solid 1px black;
+	font-weight: bold;
+}
+
+#after_abstract {
+	margin-top: 10px;
+}
+
+#summary_view {
+	display: none;
+}
+
+
+.corresp{
+	margin-bottom:8px;
+}
+/* jats end */
+-->
+      </style>
+      <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+      <title>
+       Choi, Jo, Lee, Jeon, Kim, and Yoo: Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production
+      </title>
+      <div class="front" id="article-front">
+       <div class="metadata">
+        <div class="metadata-group">
+         <div class="metadata-chunk">
+          <b>
+           <p class="metadata-entry">
+            Communication
+           </p>
+          </b>
+         </div>
+        </div>
+       </div>
+       <div class="metadata">
+        <div class="metadata-group">
+        </div>
+       </div>
+       <div class="metadata two-column table">
+        <div class="row">
+         <div class="metadata-group">
+          <p class="metadata-entry">
+           Journal of Electrochemical Science and Technology 2021;12(3):302-307.
+          </p>
+         </div>
+         <div class="metadata-group">
+          <div class="metadata-group">
+           <p class="metadata-entry">
+            <span class="generated">
+             Published online:
+            </span>
+            June 23, 2021
+           </p>
+          </div>
+          <p class="metadata-entry">
+           <span class="generated">
+            DOI:
+           </span>
+           <a href="https://doi.org/10.33961/jecst.2021.00031">
+            https://doi.org/10.33961/jecst.2021.00031
+           </a>
+          </p>
+         </div>
+         <div class="metadata centered">
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px;">
+         </div>
+         <div class="metadata-group">
+         </div>
+         <div class="metadata centered">
+          <h3 class="PubTitle">
+           Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production
+          </h3>
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px; color: #000000;">
+          <a href="/articles/search_result.php?term=author&amp;f_name=Baeck%20B.&amp;l_name=Choi">
+           Baeck B. Choi
+          </a>
+          <sup>
+           *
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jae%20Hyeon&amp;l_name=Jo">
+           Jae Hyeon Jo
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Taehee&amp;l_name=Lee">
+           Taehee Lee
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Sang-Yun&amp;l_name=Jeon">
+           Sang-Yun Jeon
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Jungsuk&amp;l_name=Kim">
+           Jungsuk Kim
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Young-Sung&amp;l_name=Yoo">
+           Young-Sung Yoo
+          </a>
+         </div>
+         <div class="metadata-group affiliation_layer" style="margin-bottom:10px;">
+          <p class="metadata-entry">
+           <a id="af1-jecst-2021-00031">
+            <!-- named anchor -->
+           </a>
+           Energy and Environment Laboratory, Korea Electric Power Corp Research Institute, Daejeon, 34056 
+Korea
+          </p>
+         </div>
+         <div class="metadata-group">
+          <p class="metadata-entry">
+          </p>
+          <div class="corresp">
+           <sup>
+            *
+           </sup>
+           E-mail address:
+           <a href="mailto:b.choi@kepco.co.kr" name="emailLink">
+            b.choi@kepco.co.kr
+           </a>
+          </div>
+          <p>
+          </p>
+          <div style="margin-top:12px;">
+           <span class="history_view">
+            Received January 14, 2021
+           </span>
+           <span class="history_view">
+            Accepted May 31, 2021
+           </span>
+          </div>
+          <div class="metadata-chunk">
+           <div class="licens" id="idm140239755815440">
+            This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (
+            <a href="http://creativecommons.org/licenses/by-nc/4.0" id="idm140239755814048" target="_blank">
+             http://creativecommons.org/licenses/by-nc/4.0
+            </a>
+            ) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div id="before_abstract">
+       </div>
+       <div class="abstract-layer">
+        <h3 class="callout-title" id="__abstract" style="margin:15px 0 0 0;">
+         Abstract
+        </h3>
+        <div class="abstract">
+         <p>
+         </p>
+         <div class="first" id="idm140239755803152">
+          Polymer electrolyte membrane (PEM) electrolyzer or alkaline electrolyzer is required to produce green hydrogen using renewable energy such as wind and/or solar power. PEM and alkaline electrolyzer differ in many ways, instantly basic materials, system configuration, and operation characteristics are different. Building an optimal water hydrolysis system by closely grasping the characteristics of each type of electrolyzer is of great help in building a safe hydrogen ecosystem as well as the efficiency of green hydrogen production. In this study, the basic operation characteristics of a kW class alkaline water electrolyzer we developed, and water electrolysis efficiency are described. Finally, a brief overview of the characteristics of PEM and alkaline electrolyzer for large-capacity green hydrogen production system will be outlined.
+         </div>
+         <p>
+         </p>
+         <p class="metadata-entry_k" style="margin-top:10px;">
+          <span class="generated">
+           <b>
+            Keywords
+           </b>
+           :
+          </span>
+          <a href="/articles/search_result.php?term=4&amp;key=Green%20Hydrogen">
+           Green Hydrogen
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=Power-To-Gas">
+           Power-To-Gas
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=P2G">
+           P2G
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=Alkaline%20Electrolyzer">
+           Alkaline Electrolyzer
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="body" id="article-body">
+       <div class="section" id="intro">
+        <a id="idm140239754679680">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         1. Introduction
+        </h3>
+        <div id="idm140239754670320">
+         The construction of large-scale power generation facilities inevitably comes with the cost issues of construction and maintenance [
+         <a class="bibrClassb1" href="#b1-jecst-2021-00031" name="bibrLink">
+          1
+         </a>
+         ]. It is especially for transmission and distribution lines and substation facilities when the locations of electricity source and demand are different. In addition, considering 40% power generation efficiency and 6% transmission loss, Republic of Korea, which has a high proportion of primary energy imports, needs to diversify energy sources, and efforts to increase the proportion of renewable energy generation are continuing to keep pace. However, since renewable energy such as wind or solar power generation has the fluctuation problems depending on weather and climate, it causes electric power system instability when renewable energy connection is increased. Therefore, it is very important to utilize an appropriate Energy Storage System (ESS) when considering output fluctuations and frequency adjustment due to the intermittentness of renewable energy generation. The energy density and power density characteristics of the applicable energy conversion devices, which can be checked in a Ragone plot, must be carefully examined to use it practically as an ESS [
+         <a class="bibrClassb2" href="#b2-jecst-2021-00031" name="bibrLink">
+          2
+         </a>
+         ]. Supercapacitors have sufficient output power density that can be used as an ESS for both alternating current (AC) frequency regulation and electric power system stability, but it is difficult to achieve high capacity, so when applying large capacity, there is a serious cost problem. ESS based on lithium-ion secondary batteries (LIB) must solve both cost and safety problems at the same time. Unfortunately, current LIB R&amp;D is mostly focused on the realization of high capacity only. Although some of the so-called low tortuosity cell (LTC) research is being conducted for the development of high-output LIB capable of rapid charging and discharging, but the industrial manufacturers are hesitant to apply these technologies into mass production due to problems of manufacturing cost and selling price.
+        </div>
+        <div id="idm140239755642080">
+         Producing hydrogen through water electrolysis using expensive renewable energy power and using it again for fuel cell power generation is low in efficiency. So, economic feasibility of green hydrogen is clearly low at the current level. Therefore, tremendous efforts are required to secure the price competitiveness of both water electrolyzer and fuel cell. These are along with the hydrogen production efficiency of the water electrolyzer and the simultaneous utilization of electricity and heat energy of the fuel cell [
+         <a class="bibrClassb3" href="#b3-jecst-2021-00031" name="bibrLink">
+          3
+         </a>
+         ].
+        </div>
+        <div id="idm140239757587984">
+         The alkaline electrolyzer utilizes cost-competitive Ni or stainless steel, not a noble metal (Platinum group metals, PGMs) electro-catalyst which is commonly required for polymer electrolyte membrane (PEM) water electrolysis [
+         <a class="bibrClassb4" href="#b4-jecst-2021-00031" name="bibrLink">
+          4
+         </a>
+         ,
+         <a class="bibrClassb5" href="#b5-jecst-2021-00031" name="bibrLink">
+          5
+         </a>
+         ]. However, it has a drawback that the operating current density (~0.4 A/cm
+         <sup>
+          2
+         </sup>
+         ) is lower than that of PEM electrolyzer (~2.0 A/cm
+         <sup>
+          2
+         </sup>
+         ), which increases the device volume, and is unfavorable for slow start/stop response, high pressure, and differential pressure operation [
+         <a class="bibrClassb6" href="#b6-jecst-2021-00031" name="bibrLink">
+          6
+         </a>
+         ,
+         <a class="bibrClassb7" href="#b7-jecst-2021-00031" name="bibrLink">
+          7
+         </a>
+         ]. In addition, operational characteristics of alkaline electrolyzer may not be suitable with the connection to the renewable energy power. It may cause unexpected problems such as durability and efficiency degradation in alkaline water electrolysis devices developed in the existing rated output operation mode.
+        </div>
+        <div id="idm140239755647392">
+         In this study, basic operational studies are conducted for the development of high-performance kW class alkaline electrolyzer and we would like to consider how to utilize an alkaline electrolyzer for the green hydrogen production further.
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239757593040">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         2. Experimental
+        </h3>
+        <div id="idm140239752522528">
+         Fabrication and Performance Tests of kW-class Alkaline Electrolyzer. The kW-class alkaline electrolyzer stack consists of a total 5-unit cells. The unit cell is a circular cell with a diameter of 16 cm. The electrode is made of a Ni-based alloy foam and a commercial porous separator (Zirfon Perl UTP 500, AGFA), and it is designed to have a current density of 300~500 mA/cm
+         <sup>
+          2
+         </sup>
+         at 1.8V. A 30 wt% KOH aqueous solution is used as the electrolyte solution. The evaluation is performed by using CNL Energy’s dedicated alkaline electrolyzer evaluation station which has a power supply of 20 V, 76 A.
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239752521136">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         3. Results and Discussion
+        </h3>
+        <div id="idm140239752520256">
+         Basically, the production of green hydrogen using water electrolysis is to produce hydrogen and oxygen by electrolyzing water through the reverse reaction of the fuel cells [
+         <a class="bibrClassb8" href="#b8-jecst-2021-00031" name="bibrLink">
+          8
+         </a>
+         ,
+         <a class="bibrClassb9" href="#b9-jecst-2021-00031" name="bibrLink">
+          9
+         </a>
+         ]. The water electrolyzers capable of producing hydrogen include polymer electrolyte membrane (PEM), alkaline anion exchange membrane (AEM), and alkaline electrolyzer [
+         <a class="bibrClassb10" href="#b10-jecst-2021-00031" name="bibrLink">
+          10
+         </a>
+         –
+         <a class="bibrClassb12" href="#b12-jecst-2021-00031" name="bibrLink">
+          12
+         </a>
+         ]. In addition, there is a solid oxide electrolytic cell (SOEC) through the reverse reaction of a solid oxide fuel cell (SOFC) that can operate at 600 to 800°C [
+         <a class="bibrClassb13" href="#b13-jecst-2021-00031" name="bibrLink">
+          13
+         </a>
+         ]. In particular, the PEM electrolyzer is environmentally friendly and can produce high purity hydrogen. Since a huge gas-liquid separator is not required for a dry cathode way of hydrogen production, a simple system design is possible through a simple balance of plant (BOP). Simple design, high current density, and fast response are advantages of a PEM electrolyzer, but the use of both expensive noble Platinum group metals (PGMs) electro-catalyst and fluorine-based perfluorosulfuric acid (PFSA) membranes is a distinct disadvantage. Therefore, for the practical development of PEM electrolyzer, there is a need for research and development related to durability to reduce cost and maintain electrolyzer efficiency. In case of an alkaline electrolyzer, a direct current (DC) power source is applied to the electrode to generate oxygen through an oxidation reaction at the anode and hydrogen through a reduction reaction at the cathode in the reaction of alkaline water electrolysis. At this time, hydroxide ions (OH
+         <sup>
+          −
+         </sup>
+         ) are transferred pass through an aqueous potassium hydroxide (KOH) electrolyte solution to complete the entire electrolysis circuit. It is an advantage that the alkaline electrolyzer uses a low-cost electrode such as Ni compared to the PEM electrolyzer. However, it is still necessary to solve the problem of mixing hydrogen and oxygen due to the high-pressure operation, and pressure difference between negative and positive electrode. In addition, since the generated hydrogen or oxygen is inevitably mixed with the KOH solution and discharged, the role of a gas-liquid separator for separating them is quite important at an alkaline water electrolysis system. Accordingly, the alkaline electrolyzer has a low current density (~0.4 A/cm
+         <sup>
+          2
+         </sup>
+         ), so it is difficult to design a simple system compared to a PEM electrolyzer because the size of the stack must be large to meet the production of hydrogen, and the role of a BOP such as a gas-liquid separator is also important.
+        </div>
+        <div id="idm140239752511200">
+         First, if we are looking at the activation process for maximizing the initial performance of an alkaline electrolyzer, this is very simple compared to a PEM electrolyzer, PEMFC, or LIB. Looking at the difference between the alkaline electrolyzer and other electrochemical energy conversion storage devices, the general alkaline electrolyzer does not follow the slurry-based electrode manufacturing process and uses a porous separator. In the case of LIB, the cell is completed using a polyolefin-based porous separator (polyethylene (PE) or polypropylene (PP)), a slurry-based negative/positive electrode and the mostly carbonate-based organic electrolytes (ethylene carbonate (EC), propylene carbonate (PP), propyl propionate (PP), and so on). LIB takes a long time in the primary charging/discharging process called activation process after assembling the stack cell and impregnating the electrolyte, which is a heavy burden on the industrial manufacturer. PEMFC or PEMEC is easier than LIB, but requires a more difficult cell activation step than alkaline electrolyzer. When a thick electrolyte membrane is used or when the electrode density is high and porosity is low, consideration should be given to the selection of an activation process that can optimize the initial performance of the electrolyzer. Anyway, the alkaline electrolyzer has a macro-level pore structure in both electrode and separator, and since OH
+         <sup>
+          −
+         </sup>
+         ions are directly transferred through the electrolyte solution, it does not seem necessary to consider the formation of a so-called three-phase boundary interface. However, it is necessary to examine the wettability of KOH electrolyte solution at the pore structure in the electrodes and separator. If the compatibility such as solubility parameter (cal
+         <sup>
+          1/2
+         </sup>
+         cm
+         <sup>
+          −3/2
+         </sup>
+         , J
+         <sup>
+          1/2
+         </sup>
+         m
+         <sup>
+          −3/2
+         </sup>
+         ) between the electrolyte solutions, the electrode, and the separator is not appropriate, there is a possibility that the performance of the electrolyzer is deteriorated due to air condensation in the pores under operating conditions such as KOH flow rate (cc per minute) and high pressure back pressure (bar).
+        </div>
+        <div id="idm140239752506288">
+         <a class="figClassf1" href="#f1-jecst-2021-00031" name="figLink">
+          Fig. 1
+         </a>
+         shows an example of an electrochemical protocol during the activation process of a PEM electrolyzer and an alkaline electrolyzer. In the case of an alkaline electrolyzer, you can check the performance of the electrolyzer after repeating voltage cycling from 2.0 to −2.0V. It can be seen that the electrolyzer performance has reached its peak even after repeating this voltage cycling approximately 10 to 20 times. The PEM electrolyzer can repeat the process of applying about 10 seconds per voltage with an increment voltage of 0.1 V from a low voltage near the onset voltage of the oxygen generation reaction to 2.0 or 2.1 V using a voltage step. At this time, as described above, when a thin electrolyte membrane and an electrode with high porosity are used, the number of repetitions of the process may be low. However, when Nafion 115 or more thick electrolyte membranes, thick electrodes, high loading electrodes, and low porosity electrodes are used, a new strategy is needed to increase the number of repetitions of the process or shorten the activation.
+        </div>
+        <div id="idm140239752503824">
+         <a class="figClassf2" href="#f2-jecst-2021-00031" name="figLink">
+          Fig. 2
+         </a>
+         shows the i-V performance of kW class alkaline electrolyzer stack. Unfortunately, the current limit of the power supply of the stack test station that we have is only 76 A, so the maximum stack power is measured to be about 700 W. However, if the current limit is over 100 A, it is expected that at least 1 kW or more of stack power will be measured. A current density close to 0.4 A/cm2 is confirmed at about 2.0 V based on the unit cell voltage. At this time, the power density is approximately 700 to 800 mW/cm
+         <sup>
+          2
+         </sup>
+         . In order to accurately measure the efficiency of the stack, instantly, the amount of hydrogen produced per unit time must be accurately measured. However, in this experiment, both hydrogen and oxygen produced through the electrolyzer are discharged into the atmosphere due to the safety issue of evaluating the safe electrolyzer and where to use the produced hydrogen. In order to check the deviation between cells, each cell voltage was checked after applying a stack voltage of a constant voltage. Since bipolar cells such as fuel cells, electrolyzers, and all-solid-state battery are connected in series with each other, the current is the same for each cell, but the voltage may be different. The difference in cell voltage was not significant until the stack voltage as low as 8.5 V. The number of cells in the alkaline electrolyzer stack used in this study is 5, which does not have a significant parameter in statistical analysis such as Six Sigma. However, when the stack voltage is 9.0 V (1.8 V cell voltage), it can be seen that the size of the box plot is large compared to the low voltage in
+         <a class="figClassf2" href="#f2-jecst-2021-00031" name="figLink">
+          Fig. 2(c)
+         </a>
+         . It is expected that the generation of hydrogen and oxygen increased at high voltage and the dispersion of the voltage distribution increased. In order to check not only the durability of the electrolyzer, but also the safety of renewable energy-linked hydrogen production, it is necessary to utilize the accelerated stability test (AST) protocol based on the characteristics of wind power or solar power generation. In the long-term performance evaluation where the intermittent of renewable energy is applied in a short period of time using the AST protocol, there is a need for additional studies on the performance deviation of each stack and cell, the flow and concentration of hydrogen and oxygen, and the stack efficiency. Anyway, after applying 1.4, 1.5, 1.6, 1.7, 1.8 V based on the unit cell voltage (7.0, 7.5, 8.0, 8.5, 9.0 V based on the stack cell voltage) for 30 minutes for each voltage, production rate of hydrogen is measured, and it is applied to evaluate the stack efficiency (%) in
+         <a class="figClassf3" href="#f3-jecst-2021-00031" name="figLink">
+          Fig. 3
+         </a>
+         . The water electrolysis efficiency of the alkaline electrolyzer was calculated as the ratio of the amount of hydrogen generated to the total amount of power input. As a result, the stack efficiency of about 75 to 80% can be obtained at 1.7 V of the single cell voltage. Converting the hydrogen production rate of 510~600 ccm is approximately 0.03~0.035 Nm
+         <sup>
+          3
+         </sup>
+         /hr, and it translates to 0.11~0.12 kW. At this time, through the applied stack voltage of 8.5 V and a current of 17.3 A, the amount of power applied to the electrolyzer stack can be calculated as about 0.15 kW. Accordingly, the water electrolysis efficiency is approximately 78~84%.
+        </div>
+        <div id="idm140239752496096">
+         One of the main factors affecting the output power characteristics of the electrochemical energy conversion storage device is the mobility of ions, which act as a mediator for charge transfer. Examples include H
+         <sup>
+          +
+         </sup>
+         of PEMFC and PEMEC, O
+         <sub>
+          2
+         </sub>
+         <sup>
+          −
+         </sup>
+         of SOFC, OH
+         <sup>
+          −
+         </sup>
+         of alkaline fuel cells and electrolyzers, and Li
+         <sup>
+          +
+         </sup>
+         of lithium-ion batteries. For lithium-ion secondary batteries, which have been undergoing research and development of energy density improvement mostly, new research and development on output power characteristics is attracting attention to improve user convenience and safety. Numerous attempts being made for this are how the battery conducts electricity well and ions flow well. From this perspective, the issue of alkaline water electrolyzer is confirmed. First of all, in order to match the same hydrogen production, an electrolytic cell stack having the same size of 5 times or more is required by simple arithmetic calculation compared to a PEM electrolyzer. This can be expected that the length of the path through which electricity and ions must be conducted is much longer in the alkaline electrolyzer compared to the PEM electrolyzer. One way to improve the output characteristics of an alkaline electrolyzer is to make the cell structure zero-gap. It is known that this greatly improves the load tracking ability of an alkaline electrolyzer, but it is still inferior when compared to a PEM electrolyzer. Combining the above results, it can be expected that the characteristics of a PEM electrolyzer and alkaline electrolyzer are complementary to each other when the system is configured in a hybrid form. PEM electrolysis technology, which has a fast response characteristic and a wide operating range, is suitable for linking the power system with a high occupancy rate for the output variability and intermittent renewable energy [
+         <a class="bibrClassb14" href="#b14-jecst-2021-00031" name="bibrLink">
+          14
+         </a>
+         ]. In order to respond to the discrepancy between the supply and demand of the power system due to the connection of renewable energy for a long time, the alkaline water electrolysis technology, which has high technology maturity and capable of producing large amounts of hydrogen, will be more suitable. Through the technology development of a hybrid electrolysis integrated system linking a PEM and an alkaline electrolyzer, a wide range of renewable energy can be used, as well as a long-term response to the inconsistency between the supply and demand of the power system. By developing MW-class PEM and alkaline electrolysis stacks and systems, and configuring them as hybrid systems, it will be possible to convert and produce unused power from renewable energy into hydrogen.
+        </div>
+       </div>
+       <div class="section" id="conclusions">
+        <a id="idm140239752489760">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         4. Conclusions
+        </h3>
+        <div id="idm140239752488656">
+         A circular cell having a diameter of 16 cm is prepared using a Ni-based electrode and a commercial porous separator, and a kW-class alkaline electrolyzer composed of 5 cells is prepared to evaluate its performance characteristics. A current density of 0.4 A/cm
+         <sup>
+          2
+         </sup>
+         is confirmed at about 2.0 V based on a single cell voltage, and the stack efficiency of hydrogen production found at 1.7 V is about 78~84% level. It is possible to check the delay time of about 2~3 seconds when applying the step voltage. Through this, it can be concluded that the alkaline water electrolysis technology, which has high technology maturity and capable of producing large-capacity hydrogen, is suitable for a long-term response to the inconsistency between supply and demand of the power system due to the connection of renewable energy. However, it is still necessary to take close look against the possibility of mixing hydrogen and oxygen gas due to the high-pressure operation and the pressure imbalance between the hydrogen and oxygen electrode because of the use of the porous membrane.
+        </div>
+       </div>
+      </div>
+      <div class="back" id="article-back">
+       <div class="back-section">
+        <a id="idm140239752486336">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         Acknowledgments
+        </h3>
+        <div id="idm140239752485536">
+         This research was supported by the Korea Institute of Energy Technology Evaluation and Planning funded by the Korea government MOTIE (2019281010007A)
+        </div>
+       </div>
+       <div class="section" id="display-objects">
+        <a id="idm140239752323072">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+        </h3>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 1
+         </h5>
+         <a id="f1-jecst-2021-00031">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752320240">
+           Electrochemical cell break-in or activation protocol for (a) alkaline electrolyzer and (b) PEM electrolyzer.
+          </div>
+         </div>
+         <img alt="jecst-2021-00031f1.jpg" src="/upload//thumbnails/jecst-2021-00031f1.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 2
+         </h5>
+         <a id="f2-jecst-2021-00031">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752317312">
+           (a) Raw and (b) normalized i-V and power performance of kW-class alkaline electrolyzer. (c) Box plot of the cell voltage for each cell constituting an alkaline electrolyzer stack.
+          </div>
+         </div>
+         <img alt="jecst-2021-00031f2.jpg" src="/upload//thumbnails/jecst-2021-00031f2.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 3
+         </h5>
+         <a id="f3-jecst-2021-00031">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752314320">
+           (a) Measured current and (b) flow rate of produced hydrogen and oxygen gas after applying voltage step.
+          </div>
+         </div>
+         <img alt="jecst-2021-00031f3.jpg" src="/upload//thumbnails/jecst-2021-00031f3.jpg" width="200"/>
+        </div>
+       </div>
+       <div class="back-section">
+        <a id="idm140239752484928">
+         <!-- named anchor -->
+        </a>
+        <div class="section ref-list">
+         <a id="idm140239752484928">
+          <!-- named anchor -->
+         </a>
+         <h3 class="main-title">
+          References
+         </h3>
+         <div class="ref-list table">
+          <div class="ref_layer" id="b1-jecst-2021-00031" name="jats-ref-pub">
+           [1] H. Ammermann, P. Hoff, M. Atanasiu, J. Aylor, M. Kaufmann and O. Tisler, Advancing Europe’s energy systems: stationary fuel cells in distributed generation. FCHJU, Publications Office of the European Union, Luxembourg,
+           <b>
+            2015
+           </b>
+           .
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b2-jecst-2021-00031" name="jats-ref-pub">
+           [2] SC. Lee and WY. Jung,
+           <i>
+            Energy Procedia
+           </i>
+           .,
+           <b>
+            2016
+           </b>
+           ,
+           <i>
+            88
+           </i>
+           , 526–530.
+           <br/>
+           <a href="https://doi.org/10.1016/j.egypro.2016.06.073" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b3-jecst-2021-00031" name="jats-ref-pub">
+           [3] B. James, Fuel Cell Systems Analysis; Annual Merit Review DOE Hydrogen and Fuel Cells and Vehicle Technologies Programs. Washington DC,
+           <b>
+            2019
+           </b>
+           .
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b4-jecst-2021-00031" name="jats-ref-pub">
+           [4] S. Marini, P. Salvi, P. Nelli, R. Pesenti, M. Villa, M. Berrettoni, G. Zangari and Y. Kiros,
+           <i>
+            Electrochim Acta
+           </i>
+           .,
+           <b>
+            2012
+           </b>
+           ,
+           <i>
+            82
+           </i>
+           , 384–391.
+           <br/>
+           <a href="https://doi.org/10.1016/j.electacta.2012.05.011" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b5-jecst-2021-00031" name="jats-ref-pub">
+           [5] M. Bernt and HA. Gasteiger,
+           <i>
+            J Electrochem Soc
+           </i>
+           .,
+           <b>
+            2016
+           </b>
+           ,
+           <i>
+            163
+           </i>
+           (
+           <i>
+            11
+           </i>
+           ), F3179–F3189.
+           <br/>
+           <a href="https://doi.org/10.1149/2.0231611jes" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b6-jecst-2021-00031" name="jats-ref-pub">
+           [6] K. Zeng and D. Zhang,
+           <i>
+            Prog Energy Combust Sci
+           </i>
+           .,
+           <b>
+            2010
+           </b>
+           ,
+           <i>
+            36
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 307–326.
+           <br/>
+           <a href="https://doi.org/10.1016/j.pecs.2009.11.002" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b7-jecst-2021-00031" name="jats-ref-pub">
+           [7] MM. Rashid, MK. Al Mesfer, H. Naseem and M. Danish,
+           <i>
+            Int J Eng Adv Technol
+           </i>
+           .,
+           <b>
+            2015
+           </b>
+           ,
+           <i>
+            4
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 2249–8958.
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b8-jecst-2021-00031" name="jats-ref-pub">
+           [8] J. Rossmeisl, A. Logadottir and JK. Nørskov,
+           <i>
+            Chem Phys
+           </i>
+           .,
+           <b>
+            2005
+           </b>
+           ,
+           <i>
+            319
+           </i>
+           (
+           <i>
+            1–3
+           </i>
+           ), 178–184.
+           <br/>
+           <a href="https://doi.org/10.1016/j.chemphys.2005.05.038" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b9-jecst-2021-00031" name="jats-ref-pub">
+           [9] J. Rossmeisl, ZW. Qu, H. Zhu, GJ. Kroes and JK. Nørskov,
+           <i>
+            J Electroanal Chem
+           </i>
+           .,
+           <b>
+            2007
+           </b>
+           ,
+           <i>
+            607
+           </i>
+           (
+           <i>
+            1–2
+           </i>
+           ), 83–89.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jelechem.2006.11.008" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b10-jecst-2021-00031" name="jats-ref-pub">
+           [10] A. Lim, H. juhn Kim, D. Henkensmeier, S. Jong Yoo, J. Young Kim, S. Young Lee, YE. Sung, JH. Jang and HS. Park,
+           <i>
+            J Ind Eng Chem
+           </i>
+           .,
+           <b>
+            2019
+           </b>
+           ,
+           <i>
+            76
+           </i>
+           , 410–418.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jiec.2019.04.007" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b11-jecst-2021-00031" name="jats-ref-pub">
+           [11] MK. Cho, HY. Park, S. Choe, SJ. Yoo, JY. Kim, HJ. Kim, D. Henkensmeier, SY. Lee, YE. Sung and HS. Park,
+           <i>
+            J Power Sources
+           </i>
+           .,
+           <b>
+            2017
+           </b>
+           ,
+           <i>
+            347
+           </i>
+           , 283–290.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jpowsour.2017.02.058" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b12-jecst-2021-00031" name="jats-ref-pub">
+           [12] I. Vincent and D. Bessarabov,
+           <i>
+            Renew Sustain Energy Rev
+           </i>
+           .,
+           <b>
+            2018
+           </b>
+           ,
+           <i>
+            81
+           </i>
+           , 1690–1704.
+           <br/>
+           <a href="https://doi.org/10.1016/j.rser.2017.05.258" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b13-jecst-2021-00031" name="jats-ref-pub">
+           [13] M. Ni, MKH. Leung and DYC. Leung,
+           <i>
+            Int J Hydrog Energy
+           </i>
+           .,
+           <b>
+            2008
+           </b>
+           ,
+           <i>
+            33
+           </i>
+           (
+           <i>
+            15
+           </i>
+           ), 2337–2354.
+           <br/>
+           <a href="https://doi.org/10.1016/j.ijhydene.2008.02.048" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b14-jecst-2021-00031" name="jats-ref-pub">
+           [14] J. Eichman, K. Harrison and M. Peters, Novel electrolyzer applications: providing more than just hydrogen. USA, National Renewable Energy Laboratory NREL,
+           <b>
+            2014
+           </b>
+           .
+           <br/>
+           <br/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="inThisPage" style="padding-top:0px;padding-left:0px;display:none;">
+      </div>
+     </div>
+     <script type="text/javascript">
+      <!--
+function _ajax(url, data, func, sync, type) {
+	var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4) func(xmlhttp.responseText, xmlhttp.status == 200);
+	};
+	xmlhttp.open(type ? type : 'POST', url, !sync ? true : false);
+	xmlhttp.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+	xmlhttp.send(data);
+}
+var jColor = "#0B3D53";
+$(function () {
+	abs_flag = true;
+	if($("#__abstract").html()) {
+		$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__abstract' style='text-decoration:none;'>Abstract</a></div>");
+		abs_flag = false;
+	}
+	var len = $(".main-title").size();
+	for(var i  = 0; i < len; i++) {
+		if($(".main-title").eq(i).html()) {
+			$(".main-title").eq(i).attr("id", "__sec"+i+"title");
+			if(i == len-1) {
+				$("#inThisPage").append("<div style='padding:5px 0px;'><a href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			} else {
+				$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			}
+		}
+	}
+
+	// insert goto buttons
+	{ 
+		var html = "<div onclick='openITP(this, false);' style='color:"+jColor+";position:absolute;text-align:right;top:0;right:0;cursor:pointer;'>Go to : <img src='/image/button/goto.gif' alt='Goto' title='Goto' border='0' align='bottom' style='vertical-align:middle;margin-bottom:3px;'/><div class='ITPArrow' style=\"display:none;width:0;height:0;border:5px solid transparent;border-top-color:"+jColor+";border-bottom-color:"+jColor+";border-bottom-width:0;\"></div></div>";
+
+		var sc = $(".abstract-layer");
+		sc.css('position','relative');
+		sc.append(html);
+		
+		var size1 = $(".body > .section").size();
+		for(var i = 0; i < size1; i++) {
+			var sc = $(".body > .section").eq(i);
+			if($(".body > .section:eq("+i+") .main-title").html()) {
+				sc.css('position','relative');
+				sc.append(html);
+			}
+		}
+		var size2 = $(".back > .back-section").size();
+		for(var i = 0; i < size2; i++) {
+			var sc = $(".back > .back-section").eq(i);
+			sc.css('position','relative');
+			sc.append(html);
+		}
+	}
+	_ajax("/cited/getCitedBy.php", "doi=10.33961/jecst.2021.00031", function(s,f) {
+		if(!s.indexOf('OK')) {
+			s = s.split(':');
+			if(s[1] > 0) {
+				$("#cited_wrap").css("display","block");
+				$(".CitedNum a").eq(0).html(s[1]);
+			}
+		}
+	});
+});
+
+
+$("#body").click(function() {if(new_node_obj)openITP(null, true);});
+var new_node = null, new_node_see = false, new_node_obj = null;
+function openITP(o, f) {
+	if(new_node_see || f) {
+		new_node_see = false;
+		$(".newITP").css("display","none");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		if(new_node_obj != o && !f) openITP(o, false);
+	} else {
+		event.cancelBubble = true;       //for IE
+		if(event.stopPropagation) event.stopPropagation();
+		new_node_obj = o;
+		if(!new_node) {
+			new_node = inThisPage.cloneNode(true);
+			o.appendChild(new_node);
+			new_node.className='newITP';
+			$(".newITP").css("position","absolute");
+			$(".newITP").css("background","#fff");
+			$(".newITP").css("border-radius","7px");
+			$(".newITP").css("border","2px solid");
+			$(".newITP").css("padding","5px");
+			$(".newITP").css("text-align","left");
+			$(".newITP").css("white-space",""); // Box size 자동 제거 "nowrap"
+			$(".newITP").css("z-index","999");
+			$(".newITP").css("right","0");
+		}
+		$(".newITP").css("display","block");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		o.appendChild(new_node);
+		$(".newITP").prev().css("border-bottom-width", "5px");
+		$(".newITP").prev().css("border-top-width", "0");
+		new_node_see = true;
+	}
+}
+// Array에 inArray 메서드 추가
+Array.prototype.inArray = function(obj) {
+	if(this==null) return false;
+	for (var i = 0, length = this.length; i < length; i++)
+		if (this[i] == obj) return true;
+	return false;
+};
+Array.prototype.indexOf = function(obj) {
+	if(this==null) return -1;
+    for (var i = 0, length = this.length; i < length; i++)
+        if (this[i] == obj) return i;
+    return -1;
+};
+
+// 팝업 레이어 관리
+	function getPopupLayer() {
+		var POPUP = {
+			lr : null,
+			ot : 0,
+			ol : 0,
+			show : function () {
+				if(this.lr) return this. lr;
+				var w;
+				w = document.getElementById("article-body").appendChild(document.createElement("div"));
+				ot = document.getElementById("article-body").offsetTop;
+				ol = document.getElementById("article-body").offsetLeft;
+				this. lr = w;
+				with(w.style) {
+					background = "#ffffff";
+					position = "absolute";
+					cursor = "pointer";
+					borderColor = "#1381ce";
+					padding = "10px";
+					margin = "0px";
+					border = "2px solid #d0d0d0";
+					clear = "both";
+					zIndex = "99";
+				};
+				return w;
+			},
+			hide : function () {
+				if(!this.lr) return;
+				this.lr.parentNode.removeChild(this.lr);
+				this.lr = null;
+			},
+			resize : function (w, h) {
+				if(!this.lr) return;
+				this.lr.style.width = w==0?"":(w+"px");
+				this.lr.style.height = h==0?"":(h+"px");
+			},
+			moveTo : function (x, y) {
+				if(!this.lr) return;
+				this.lr.style.left = x-2+"px";
+				this.lr.style.top = y-14+"px";
+			},
+			setHTML : function (html) {
+				if(!this.lr) return;
+				this.lr.innerHTML = html;
+			}
+		};
+		return POPUP;
+	}
+
+	var popup = new getPopupLayer();
+
+// 레퍼런스 마우스오버 이벤트 추가
+	var bibrLink = document.getElementsByName("bibrLink");
+	var rLen = bibrLink.length;
+	for(var i = 0; i < rLen; i++) {
+		bibrLink[i].onmouseover = function() {
+			var referId = this.getAttribute("href").split("#")[1];
+			var referElement = document.getElementById(referId);/*.parentNode;
+			var referText = referElement.firstChild.textContent + ". ";
+			referElement = referElement.parentNode;
+			while(referElement = referElement.nextSibling) if(referElement.nodeName=="DIV") break;*/
+			referText = referElement.textContent;
+			var ll = popup.show();
+			ll.onmouseout = function () {
+				popup.hide();
+			};
+			popup.resize(400, 0);
+			var bd = document.body.firstChild;
+			do {
+				if(bd.nodeName=="DIV") {
+					bd = bd.offsetLeft;
+					break;
+				}
+			} while(bd = bd.nextSibling) 
+			var scrollLeft = document.documentElement.scrollLeft | document.body.scrollLeft;
+			var scrollTop = document.documentElement.scrollTop | document.body.scrollTop;
+			popup.moveTo(this.getBoundingClientRect().left+scrollLeft-10, this.getBoundingClientRect().top+scrollTop);
+			
+			popup.setHTML(referText);
+
+			ll.setAttribute("title", referId); 
+			
+			ll.onclick = function () {
+				//location.href = "#"+this.title;
+
+				event.preventDefault();
+				var target = $("#"+this.title);
+				var header_height = $('.headerWrap').height()+20;
+				var offset_top = target.offset().top - header_height; 
+
+				$('html, body').animate({scrollTop: offset_top}, 1);
+
+			};
+		};
+	}
+
+	window.name = "1015_403";
+
+	// 피겨를 문단 사이에 끼워넣기
+	var figureArr = new Array();
+	var figLink = document.getElementsByName("figLink");
+	var fLen = figLink.length;
+
+	for(var i = 0; i < fLen; i++) {
+		var clsName = figLink[i].className;
+		if(!figureArr.inArray(clsName)) {
+			try {
+				var fig_ck = figLink[i];
+				var ck_limit =0;
+				while($(fig_ck).attr("class") != "body"){
+					if($(fig_ck).attr("class") == "fig panel"){
+						break;
+					}
+					fig_ck = fig_ck.parentNode;
+
+					if(ck_limit == 100) break;
+					ck_limit++;
+				}
+				if($(fig_ck).attr("class") != "fig panel"){
+					figureArr.push(clsName);
+					var figureId = figLink[i].getAttribute("href").split("#")[1];
+					var figureElement = document.getElementById(figureId).parentNode;
+					figLink[i].parentNode.appendChild(figureElement);
+					var dLink = document.createElement("P");
+					dLink.setAttribute("align", "right");
+					dLink.innerHTML = "<a href=\"./Figure.php?xn=jecst-2021-00031.xml&id="+figureId+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" align=\"bottom\" alt=\"Download Figure\" title=\"Download Figure\" border=\"0\"/></a>";
+					figureElement.appendChild(dLink);
+				}
+			} catch (e) { }
+		}
+	}
+
+// 테이블을 문단 사이에 끼워넣기
+	var tableArr = new Array();
+	var tableLink = document.getElementsByName("tableLink");
+	var tLen = tableLink.length;
+	for(var i = 0; i < tLen; i++) {
+		var clsName = tableLink[i].className;
+		if(!tableArr.inArray(clsName)) {
+			try {
+			tableArr.push(clsName);
+			var tableId = tableLink[i].getAttribute("href").split("#")[1];
+			if(/^t[0-9]+a/.test(tableId)) continue;
+			var tableElement = document.getElementById(tableId).parentNode;
+			if(tableElement.getElementsByTagName('TABLE')[0]) {
+				tableElement.getElementsByTagName('TABLE')[0].onclick = function () {
+					var chd = this.parentNode.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2021-00031.xml&id="+tid+"&number=403&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+				var dLink = document.createElement("P");
+				dLink.setAttribute("align", "right");
+				dLink.innerHTML = "<a href=\"./Table.php?xn=jecst-2021-00031.xml&id="+tableId+"&mode=export\"><img style=\"margin-top: 15px;\" src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a>";
+				tableElement.appendChild(dLink);
+			} else {
+				tableElement.onclick = function () {
+					var chd = this.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2021-00031.xml&id="+tid+"&number=403&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+			}
+
+			//논문 서브 타이틀에 링크가 있을 경우 테이블이 H3 태그 안으로 들어가서 상위 노드로 이전시킴. 2016-12-28 문찬범
+				if(tableLink[i].parentNode.nodeName == "H3") {
+					tableLink[i].parentNode.parentNode.appendChild(tableElement);
+				} else {
+					tableLink[i].parentNode.appendChild(tableElement);
+				}
+			
+			} catch (e) { }
+		}
+	}
+
+	$("#supplementary-material .table-wrap > a[id^=t]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Table.php?xn=jecst-2021-00031.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a></p>");
+	});
+
+	$("#supplementary-material a[id^=s]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Figure.php?xn=jecst-2021-00031.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" border=\"0\" alt=\"Download Figure\" title=\"Download Figure\"></a></p>");
+	});
+	
+	function layoutFix() {
+		/*$(".artCat").html(" : "+$(".artCat").html());*/
+		
+		var div = document.getElementsByTagName("DIV");
+		for(var i = 0; i < div.length; i++)
+		if(div[i].className == "ref_layer") {
+			if(/^[^0-9]/.test(div[i].textContent)) {
+				div[i].style.padding = "0px 0px 0px 30px";
+				div[i].style.textIndent = "-30px";
+			}
+		} else if(div[i].className == "fig panel") {
+			var aid, img, h5, cap, dp;
+			var fc = div[i].firstChild;
+			do {
+				if(fc.nodeName == "A") aid = fc.outerHTML;
+				if(fc.nodeName == "IMG") img = fc.outerHTML;
+				if(fc.nodeName == "H5") h5 = fc.outerHTML;
+				if(fc.nodeName == "P") dp = fc.outerHTML;
+				if(fc.nodeName == "DIV" && fc.className == "caption") cap = fc.outerHTML;
+			}while(fc = fc.nextSibling);
+			var nHTML;
+			if(!h5 && !cap) {
+				nHTML = aid+"<CENTER>"+img+"</CENTER>";
+			} else {
+				nHTML = aid+"<TABLE><TR><TD width='30%'>"+img+"</TD><TD valign='top' style='padding-left:10px;'>"+h5+cap+dp+"</TD></TR></TABLE>";
+			}
+			div[i].innerHTML = nHTML;
+			div[i].getElementsByTagName('IMG')[0].onclick = function () {
+				var chd = this.parentNode;
+				while(chd.className != "fig panel") chd = chd.parentNode;
+				chd = chd.firstChild;
+				while(!chd.id) {
+					chd = chd.nextSibling;
+				}
+				var fid = chd.id;
+				window.open("/journal/Figure.php?xn=jecst-2021-00031.xml&id="+fid+"&number=403&p_name="+window.name, "figureView","width=1000,height=1000,scrollbars=yes");
+			};
+		}
+		
+		$(".panel").css("margin-bottom","25px");
+		$("a[href^='#']").click(function(event) {
+			event.preventDefault();
+			var target = $(this.hash);
+			var header_height = $('.headerWrap').height()+20;
+			var offset_top = target.offset().top - header_height; 
+
+			$('html, body').animate({scrollTop: offset_top}, 1);
+		});
+
+	}
+	var ll = $("a[target='xrefwindow']");
+	for(var i = 0; i < ll.size(); i++) {
+		ll.eq(i).attr("href",ll.eq(i).attr("href"));
+		//if(ll.eq(i).attr("href").indexOf("http://"))
+			//ll.eq(i).attr("href","http://"+ll.eq(i).attr("href"));
+	}
+	setTimeout("layoutFix()", 1);
+	
+$(document).ready(function(){
+	$("#slide_button").click(function(){
+		if($("#summary_view").css("display") == "none") {
+			$("#slide_button").attr("src", "/image/button/slide_on_btn.png");
+			$("#summary_view").css("display", "block");
+		} else {
+			$("#slide_button").attr("src", "/image/button/slide_off_btn.png");
+			$("#summary_view").css("display", "none");
+		}
+	});
+	
+	var shiftWindow = function() { scrollBy(0, -180) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+	
+});
+
+	//var shiftWindow = function() { scrollBy(0, -180) };
+    //window.addEventListener("hashchange", shiftWindow);
+    //function load() { if (window.location.hash) shiftWindow(); }
+	
+//-->
+     </script>
+    </div>
+    <!-- xml 로딩 영역 -->
+    <!-- 본문영역 종료 -->
+    <div class="aside viewArea">
+     <dl class="tool">
+      <dt>
+       TOOLS
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <a onclick='journal_download("pdf", "403", "jecst-2021-00031.pdf")' style="cursor: pointer;">
+          <img alt="PDF Links" border="0" src="/image/aside/icon_pdf.gif"/>
+          PDF Links
+         </a>
+        </li>
+        <li>
+         <a href="view.php?viewtype=pubreader&amp;number=403">
+          <img alt="PubReader" border="0" src="/image/icon/pubreader.gif"/>
+          PubReader
+         </a>
+        </li>
+        <li>
+         <a onclick='journal_download("epub", "403", "path=L2hvbWUvdmlydHVhbC9qZWNzdC9qb3VybmFsL3VwbG9hZC9wZGYvLi4vZXB1Yi9qZWNzdC0yMDIxLTAwMDMxLmVwdWI=&amp;filename=amVjc3QtMjAyMS0wMDAzMS5lcHVi")' style="cursor: pointer;">
+          <img alt="ePub Link" border="0" src="/image/aside/icon_epub.gif"/>
+          ePub Link
+         </a>
+        </li>
+        <li>
+         <a href="https://doi.org/10.33961/jecst.2021.00031">
+          <img alt="Full text via DOI" border="0" src="/image/aside/icon_doi.gif"/>
+          Full text via DOI
+         </a>
+        </li>
+        <!-- summary -->
+        <li>
+         <a onclick="window.open('/journal/CitationForm.php?number=403','CitationDownload','width=720,height=600,scrollbars=yes')" style="cursor:pointer">
+          <img alt="Download Citation" border="0" src="/image/aside/icon_citation.gif"/>
+          Download Citation
+         </a>
+        </li>
+        <li>
+         <a href="/journal/crossRefTDM.php?number=403" onclick="window.open(this.href, 'CrossRef TDM', 'width=800,height=800,scrollbars=yes');return false;" target="_blank">
+          <img alt="CrossRef TDM" border="0" src="/image/aside/icon_tdm.gif"/>
+          CrossRef TDM
+         </a>
+        </li>
+        <li>
+         <a href="javascript:article_email(403);">
+          <img alt="" src="/image/aside/icon_mail.gif"/>
+          E-Mail
+         </a>
+        </li>
+       </ul>
+       <dl>
+        <dt>
+         Share :
+        </dt>
+        <dd>
+         <a href="http://www.facebook.com/sharer.php?u=%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2021.00031&amp;t=Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production" onclick="window.open(this.href, 'Facebook', 'width=800,height=500,scrollbars=yes');return false;">
+          <img alt="Facebook" src="/image/aside/icon_facebook.png"/>
+         </a>
+         <a href="http://twitter.com/home?status=Operational+Characteristics+of+High-Performance+kW+class+Alkaline+Electrolyzer+Stack+for+Green+Hydrogen+Production%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2021.00031" onclick="window.open(this.href, 'Twitter', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Twitter" src="/image/aside/icon_twitter.png"/>
+         </a>
+         <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2021.00031&amp;title=Operational+Characteristics+of+High-Performance+kW+class+Alkaline+Electrolyzer+Stack+for+Green+Hydrogen+Production" onclick="window.open(this.href, 'LinkedIn', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Linked In" src="/image/aside/icon_linkedin.png"/>
+         </a>
+         <a href="https://plus.google.com/share?url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2021.00031&amp;t=Operational+Characteristics+of+High-Performance+kW+class+Alkaline+Electrolyzer+Stack+for+Green+Hydrogen+Production" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Google+" src="/image/aside/icon_google_plus.png"/>
+         </a>
+         <a href="http://line.me/R/msg/text/?Operational+Characteristics+of+High-Performance+kW+class+Alkaline+Electrolyzer+Stack+for+Green+Hydrogen+Production 
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2021.00031" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Line it" src="/image/aside/icon_line_share-b.png"/>
+         </a>
+         <!--
+															<a href="#" onclick="alert('KakaoTalk is only accessible from mobile.');" style="padding-top:10px;"> 
+									<img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
+								</a>
+								<a href="javascript:shareStory2();" style="padding-top:10px;">
+									<img src="https://developers.kakao.com/sdk/js/resources/story/icon_small.png"/>
+								</a>
+							
+														-->
+        </dd>
+       </dl>
+      </dd>
+     </dl>
+     <!--
+<script type='text/javascript'>
+  //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    function sendLink() {
+      Kakao.Link.sendDefault({
+        objectType: 'feed',
+        content: {
+          title: 'Operational Characteristics of High-Performance kW class Alkaline Electrolyzer Stack for Green Hydrogen Production',
+          //description: '#케익 #딸기 #삼평동 #카페 #분위기 #소개팅',
+          imageUrl: 'https://www.e-aps.org/image/icon/kakao_img.png',
+          link: {
+            mobileWebUrl: 'https://www.e-aps.org/journal/view.php?number=403',
+            webUrl: 'https://www.e-aps.org/journal/view.php?number=403'
+          }
+        }
+      });
+    }
+  //]]>
+
+</script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    function shareStory() {
+      Kakao.Story.open({
+        url: 'https://www.e-aps.org/journal/view.php?number=403',
+        text: '\n'
+      });
+    }
+
+    function shareStory2() {
+      Kakao.Story.share({
+        url: 'https://www.e-aps.org/journal/view.php?number=403',
+        text: ''
+      });
+    }
+
+  //]]>
+</script>
+-->
+     <dl class="metrics">
+      <dt>
+       METRICS
+       <a href="/metrics/metrics_down_ref.php?number=403" onclick="window.open(this.href, 'Metrics View', 'width=720, height=800,scrollbars=yes');return false;" style="cursor:pointer;">
+        <img alt="Graph View" src="/image/aside/btn_graphView.png"/>
+       </a>
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <span class="count">
+          <a class="viewPoint" href="/journal/CitedBy.php?number=403" onclick="window.open(this.href, 'CrossRef Citedby', 'width=720,height=800,scrollbars=yes');return false;">
+           1
+          </a>
+         </span>
+         <span>
+          Crossref
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          <a class="viewPoint" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;scp=85116358361" target="_blank" title="More information">
+           1
+          </a>
+         </span>
+         <span>
+          Scopus
+         </span>
+        </li>
+        <li>
+         <span class="count">
+          1,083
+         </span>
+         <span>
+          View
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          96
+         </span>
+         <span>
+          Download
+         </span>
+        </li>
+        <li style="width:100%;text-align:center;">
+         <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+         </script>
+         <div -data-badge-details="right" -data-badge-type="medium-donut" class="altmetric-embed" data-doi="10.33961/jecst.2021.00031" onclick="blank_action()">
+         </div>
+        </li>
+       </ul>
+      </dd>
+      <dt>
+       Related articles in
+       <i>
+        J. Electrochem. Sci. Technol
+       </i>
+      </dt>
+      <dd>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <hr/>
+   <hr/>
+   <div class="siteMap">
+    <dl class="last" style="width:230px">
+     <dt>
+      <a href="/about/" title="ABOUT">
+       ABOUT
+      </a>
+     </dt>
+     <dd>
+      <dl>
+       <dd>
+        <ul>
+         <li>
+          <a href="/about/index.php" title="Aims and scope">
+           Aims and scope
+          </a>
+         </li>
+         <li>
+          <a href="/about/about.php" title="About the journal">
+           About the journal
+          </a>
+         </li>
+         <li>
+          <a href="/about/editorial.php" title="Editorial board">
+           Editorial board
+          </a>
+         </li>
+         <li>
+          <a href="/about/open_access.php" title="Open access">
+           Open access
+          </a>
+         </li>
+         <li>
+          <a href="/about/contact.php" title="Contact us">
+           Contact us
+          </a>
+         </li>
+        </ul>
+       </dd>
+      </dl>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/category.php" title="ARTICLES">
+       ARTICLE CATEGORY
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+         Mini review
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Communication" title="Communication">
+         Communication
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Research article" title="Research article">
+         Research article
+        </a>
+       </li>
+      </ul>
+      <p>
+       <a href="/articles/category.php" title="Browse all articles">
+        Browse all articles &gt;
+       </a>
+      </p>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/archive.php" title="ISSUES">
+       BROWSE ARTICLES
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/current/" title="Current issue">
+         Current issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/forthcoming.php" title="Forthcoming issue">
+         Forthcoming issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/archive.php" title="All issues">
+         All issues
+        </a>
+       </li>
+       <li>
+        <a href="/articles/print.php" title="ASAP">
+         ASAP
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostread.php" title="Most view">
+         Most view
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostdownload.php" title="Most download">
+         Most download
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostcited.php" title="Most cited">
+         Most cited
+        </a>
+       </li>
+       <li>
+        <a href="/articles/funded.php" title="Funded articles">
+         Funded articles
+        </a>
+       </li>
+       <li>
+        <a href="/articles/search.php" title="Search">
+         Search
+        </a>
+       </li>
+       <li>
+        <a href="/articles/author_index.php" title="Author index">
+         Author index
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+    <dl style="width:220px">
+     <dt>
+      <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+       AUTHOR INFORMATION
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/authors/authors.php" title="Instructions to authors">
+         Instructions to authors
+        </a>
+       </li>
+       <li>
+        <a href="/authors/checklist.php" title="Author’s checklist">
+         Author’s checklist
+        </a>
+       </li>
+       <li>
+        <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+         E-submission
+        </a>
+       </li>
+       <li>
+        <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+         Copyright transfer agreement
+        </a>
+       </li>
+       <li>
+        <a href="/authors/ethics.php" title="Research publication ethics">
+         Research publication ethics
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+   </div>
+   <div class="footerWrap">
+    <div>
+     <dl>
+      <dt>
+       Editorial Office
+      </dt>
+      <dd>
+       <!--Room 1715, 122 Wangsan-ro, Dongdaemun-gu, Seoul 02566, Korea<br/-->
+       E-mail:
+       <a class="link" href="mailto:journal@kecs.or.kr">
+        journal@kecs.or.kr
+       </a>
+       Tel: +82-2-568-9392    Fax: +82-2-568-5931
+      </dd>
+     </dl>
+     <p>
+      Copyright ©
+      <a href="http://kecs.or.kr/main/" target="_blank">
+       2022 by The Korean Electrochemical Society.
+      </a>
+     </p>
+     <p class="posTR">
+      <a href="https://www.m2-pi.com" target="_blank">
+       <img alt="Developed in M2PI" src="https://www.m2-pi.com/images/developed_m2pi.png" style="vertical-align:middle;margin-top:2px;"/>
+      </a>
+     </p>
+    </div>
+   </div>
+   <!-- //footerWrap -->
+  </div>
+  <!-- //wrapper -->
+  <style>
+   #overlay { display: none; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999; }
+	#overlay #overlay_close { margin:25px auto 0px auto; height: 20px; text-align: right; }
+	#overlay #main_image_wrap { margin:25px auto 25px auto; height: 448px; text-align: center; }
+  </style>
+  <div id="overlay">
+   <div style="width:900px; background-color: rgba(208,208,208,0.85); border: 1px solid #a0a0a0; padding-bottom: 25px; margin: auto;">
+    <div id="overlay_close">
+     <img alt="Close layer" onclick="closePhotoView(); return false;" src="/image/b_close.png" style="cursor:pointer;margin-right:25px;"/>
+    </div>
+    <div id="main_image_wrap">
+     <table style="margin: auto;">
+      <tbody>
+       <tr>
+        <td onclick="mImage_sliding('prev')" style="cursor: pointer;" valign="middle">
+         <img alt="prev" border="0" src="/image/b_prev.png"/>
+        </td>
+        <td style="width: 800px;height:448px;" valign="middle">
+         <img height="448" id="main_image" src="" width="800"/>
+        </td>
+        <td onclick="mImage_sliding('next')" style="cursor: pointer;" valign="middle">
+         <img alt="next" border="0" src="/image/b_next.png"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
+   </div>
+  </div>
+  <script>
+   /* Image Slide */
+	var thumb_array = new Array();
+	var thumb_index = 0;
+
+// 	$(window).scroll(function () {
+// 		var y = $(this).scrollTop();
+// 		$("#overlay").css("margin-top", y+100);
+// 	});
+	
+	function mImage_sliding(dir) {
+		 if(dir == 'next') {
+			 thumb_index++;
+			 if(thumb_index >= thumb_array.length) {
+				 thumb_index--;
+				 return false;
+			 }
+		 } else {
+			 thumb_index--;
+			 if(thumb_index < 0) {
+				 thumb_index++;
+				 return false;
+			 }
+		 }
+		 changeMainImage(thumb_array[thumb_index]);
+	}
+	
+	function openPhotoView(obj) {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$(obj).parent().parent().find('img.thumb').each(function (index) {
+			thumb_array.push($(this).attr("src"));
+			if($(obj).attr("src") == $(this).attr("src")) {
+				thumb_index = index;
+				changeMainImage($(this).attr("src"));
+			}
+		});
+	}
+	
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		
+		var src_data = $("#ss_516").html();
+		
+		console.log(src_data);
+	}
+	/*
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$("#ss_516").find('img.thumb').each(function (index) {
+			if(index != 0) {
+				thumb_array.push($("#ss_516").attr("src"));
+				if($("#ss_516").attr("src") == $(this).attr("src")) {
+					thumb_index = index;
+					changeMainImage($(this).attr("src"));
+				}
+			} 
+		});
+		
+		console.log(thumb_array);
+	}
+	*/
+
+	function closePhotoView() {
+		$('#overlay').hide();
+		thumb_array = new Array();
+	}
+
+	function changeMainImage(src) {
+		$("<img />").attr("src", src).load(function() {
+			var ratio = 800 / this.width;
+			var width = this.width * ratio;
+			var height = this.height * ratio;
+			if(height > 448) {
+				ratio = 448 / this.height;
+				width = this.width * ratio;
+				height = this.height * ratio;
+			}
+			$("#overlay #main_image_wrap #main_image").attr('src', this.src);
+			$("#overlay #main_image_wrap #main_image").attr('width', width);
+			$("#overlay #main_image_wrap #main_image").attr('height', height);
+		});
+	}
+/* Image Slide End */
+  </script>
+ </body>
+</html>

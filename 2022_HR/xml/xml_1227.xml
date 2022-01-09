@@ -1,0 +1,2203 @@
+<!DOCTYPE html>
+<html class="pb-page" data-request-id="bf435e2b-9dac-4d51-bf94-02b654ca708e" lang="en">
+ <head data-pb-dropzone="head">
+  <meta content=";website:website:wspc-site;requestedJournal:journal:mplb;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;wgroup:string:WSPC website Group;article:article:10.1142/S0217984920400436;issue:issue:10.1142/mplb.34.issue-07n09;journal:journal:mplb;pageGroup:string:Publication Pages" name="pbContext"/>
+  <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
+  <meta content="Modern Physics Letters B" name="citation_journal_title"/>
+  <meta content="Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel" name="dc.Title"/>
+  <meta content="Sung-Min  Yoon" name="dc.Creator"/>
+  <meta content="Sung-Youl  Bae" name="dc.Creator"/>
+  <meta content="Yun-Hae  Kim" name="dc.Creator"/>
+  <meta content="Hybrid panel; material peeling; adhesion strength; FE simulation" name="dc.Subject"/>
+  <meta content="The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum ..." name="dc.Description"/>
+  <meta content="The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum ..." name="Description"/>
+  <meta content=" World Scientific Publishing Company " name="dc.Publisher"/>
+  <meta content="2020-03-19" name="dc.Date" scheme="WTN8601"/>
+  <meta content="research-article" name="dc.Type"/>
+  <meta content="text/HTML" name="dc.Format"/>
+  <meta content="10.1142/S0217984920400436" name="dc.Identifier" scheme="doi"/>
+  <meta content="https://doi.org/10.1142/S0217984920400436" name="dc.Source"/>
+  <meta content="en" name="dc.Language"/>
+  <meta content="world" name="dc.Coverage"/>
+  <meta content="Hybrid panel,material peeling,adhesion strength,FE simulation" name="keywords"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/atom+xml"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/rdf+json"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/unixref+xml"/>
+  <title>
+   Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel | Modern Physics Letters B
+  </title>
+  <meta charset="utf-8"/>
+  <meta content="noarchive" name="robots"/>
+  <meta content="https://www.worldscientific.com/action/showOpenGraphCoverImage?doi=10.1142%2FS0217984920400436" property="og:image"/>
+  <meta content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0" name="viewport"/>
+  <link href="/wro/kup4~product.css" rel="stylesheet" type="text/css"/>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet"/>
+  <link href="/products/wspc/releasedAssets/css/build-895b7c7b3307d018fbb0.css" rel="stylesheet"/>
+  <link href="/products/wspc/releasedAssets/css/print-895b7c7b3307d018fbb0.css" media="print" rel="stylesheet"/>
+  <script src="/templates/jsp/js/jquery-3.1.1.min.js" type="text/javascript">
+  </script>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <script id="mcjs">
+   !function(c,h,i,m,p){m=c.createElement(h),p=c.getElementsByTagName(h)[0],m.async=1,m.src=i,p.parentNode.insertBefore(m,p)}(document,"script","https://chimpstatic.com/mcjs-connected/js/users/5a49d15f21f692f9e1dbd7609/a628eda248f5b854779d5e8ea.js");
+  </script>
+  <script type="text/javascript">
+   (function (i, s, o, g, r, a, m) {
+                    i['GoogleAnalyticsObject'] = r;
+                    i[r] = i[r] || function () {
+                        (i[r].q = i[r].q || []).push(arguments)
+                    }, i[r].l = 1 * new Date();
+                    a = s.createElement(o), m = s.getElementsByTagName(o)[0];
+                    a.async = 1;
+                    a.src = g;
+                    m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-498241-2'
+                    
+                    , 'auto'
+                    );
+                
+                ga('send', 'pageview');
+  </script>
+  <script async="" src="//scholar.google.com/scholar_js/casa.js">
+  </script>
+ </head>
+ <body class="pb-ui">
+  <script type="text/javascript">
+   if(false) {
+        document.getElementById("skipNavigationLink").onclick =function skipElement () {
+            var element = document.getElementById('');
+            if(element == null || element == undefined) {
+                element = document.getElementsByClassName('').item(0);
+            }
+            element.setAttribute('tabindex','0');
+            element.focus();
+
+        }
+
+    }
+  </script>
+  <div data-ng-non-bindable="" id="pb-page-content">
+   <div data-pb-dropzone="main" data-pb-dropzone-name="Main">
+    <div class="header base fixed" data-db-parent-of="sb1">
+     <header>
+      <!-- Google Tag Manager -->
+      <script>
+       (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-NVG6FP');
+      </script>
+      <!-- End Google Tag Manager -->
+      <div class="popup login-popup hidden">
+       <div class="content">
+        <a class="close" href="#">
+         <i class="icon-close_thin">
+         </i>
+        </a>
+        <h2>
+         Login to your account
+        </h2>
+        <div class="login-form">
+         <div class="social-icons">
+          <a href="/action/oauth/linkedin?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436" id="linkedInLogin" title="Use your LinkedIn credentials to sign in on this site">
+           <span aria-label="login with LinkedIn" class="icon icon-linkedin2">
+           </span>
+          </a>
+          <a href="/action/oauth/facebook?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436" id="facebookLogin" title="Use your Facebook credentials to sign in on this site">
+           <span aria-label="login with Facebook" class="icon icon-facebook2">
+           </span>
+          </a>
+          <hr class="socialHr"/>
+         </div>
+         <form action="/action/doLogin" method="post">
+          <input name="id" type="hidden" value="119162c4-9551-4055-99fe-48538e2570bc"/>
+          <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
+          <input name="loginUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
+          <input name="popup" type="hidden" value="true"/>
+          <div class="input-group">
+           <div class="label">
+            <label for="login">
+             Email
+            </label>
+           </div>
+           <input class="login" id="login" name="login" placeholder="" size="15" type="text" value=""/>
+           <div class="actions">
+           </div>
+          </div>
+          <div class="input-group">
+           <div class="label">
+            <label for="password">
+             Password
+            </label>
+           </div>
+           <input autocomplete="off" class="password" id="password" name="password" placeholder="" type="password" value=""/>
+           <span class="password-eye-icon icon-eye hidden">
+           </span>
+           <div class="actions">
+            <a class="link show-request-reset-password" href="/action/requestResetPassword">
+             Forgot password?
+            </a>
+           </div>
+          </div>
+          <div class="remember">
+           <div class="keepMeLogin">
+            <span class="label">
+             Keep me logged in
+            </span>
+           </div>
+           <div class="switch small-switch">
+            <input checked="checked" class="cmn-toggle cmn-toggle-round-flat" id="119162c4-9551-4055-99fe-48538e2570bc-remember" name="remember" type="checkbox" value="true"/>
+            <label class="tgl-btn" for="119162c4-9551-4055-99fe-48538e2570bc-remember">
+            </label>
+           </div>
+          </div>
+          <div class="submit">
+           <input class="button submit primary" name="loginSubmit" type="submit" value="Login"/>
+          </div>
+         </form>
+        </div>
+        <div class="login-container">
+         <a href="/action/registration">
+          <div class="center">
+           New User
+          </div>
+         </a>
+         <a class="float-right" href="/action/ssostart?redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436">
+          <div class="institution-login">
+           Institutional Login
+          </div>
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="popup change-password-drawer hidden">
+       <div class="content">
+        <a class="close cancel" href="#">
+         <i class="icon-close_thin">
+         </i>
+        </a>
+        <div class="form">
+         <h2>
+          Change Password
+         </h2>
+         <form action="/action/changePassword" method="post">
+          <div class="message error">
+          </div>
+          <input name="submit" type="hidden" value="submit"/>
+          <div class="input-group">
+           <div class="label">
+            <label for="32ca9cb2-7bcf-451c-a718-7dacb5e529b9-old">
+             Old Password
+            </label>
+           </div>
+           <input autocomplete="off" class="old" id="32ca9cb2-7bcf-451c-a718-7dacb5e529b9-old" name="old" type="password" value=""/>
+           <span class="password-eye-icon icon-eye hidden">
+           </span>
+          </div>
+          <div class="input-group">
+           <div class="label">
+            <label for="32ca9cb2-7bcf-451c-a718-7dacb5e529b9-new">
+             New Password
+            </label>
+           </div>
+           <input autocomplete="off" class="pass-hint new" id="32ca9cb2-7bcf-451c-a718-7dacb5e529b9-new" name="new" type="password" value=""/>
+           <span class="password-eye-icon icon-eye hidden">
+           </span>
+           <div class="password-strength-indicator" data-max="20" data-min="8" data-strength="3">
+            <span class="text too-short">
+             Too Short
+            </span>
+            <span class="text weak">
+             Weak
+            </span>
+            <span class="text medium">
+             Medium
+            </span>
+            <span class="text strong">
+             Strong
+            </span>
+            <span class="text very-strong">
+             Very Strong
+            </span>
+            <span class="text too-long">
+             Too Long
+            </span>
+           </div>
+          </div>
+          <input class="button primary submit" disabled="disabled" type="submit" value="Submit"/>
+         </form>
+        </div>
+        <div class="success-template hidden">
+         <h2>
+          Password Changed Successfully
+         </h2>
+         <p>
+          Your password has been changed
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="popup registration-popup hidden">
+       <div class="content">
+        <a class="close" href="#">
+         <i class="icon-close_thin">
+         </i>
+        </a>
+        <h2>
+         Create a new account
+        </h2>
+        <form action="/action/registration" class="registration-form" method="post">
+         <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
+         <div class="input-group">
+          <div class="label">
+           <label for="4e824763-0b45-4b53-bcb3-79723a798efa.email">
+            Email
+           </label>
+          </div>
+          <input class="email" id="4e824763-0b45-4b53-bcb3-79723a798efa.email" name="email" type="email" value=""/>
+         </div>
+         <div class="submit">
+          <input class="button submit primary" type="submit" value="Register"/>
+         </div>
+        </form>
+        <div class="center">
+         <a class="show-login" href="/action/showLogin">
+          Returning user
+         </a>
+        </div>
+       </div>
+      </div>
+      <div class="popup top-drawer request-reset-password-drawer hidden">
+       <div class="content">
+        <div class="form">
+         <p>
+          Can't sign in? Forgot your password?
+         </p>
+         <p class="sub">
+          Enter your email address below and we will send you the reset instructions
+         </p>
+         <div class="message error">
+         </div>
+         <form action="/action/requestResetPassword" class="request-reset-password-form" method="post">
+          <input name="requestResetPassword" type="hidden" value="true"/>
+          <div class="input-group">
+           <div class="label">
+            <label for="d08ba088-273c-4e80-a5d6-e71647cef18b.email">
+             Email
+            </label>
+           </div>
+           <input class="email" id="d08ba088-273c-4e80-a5d6-e71647cef18b.email" name="email" size="15" type="text" value=""/>
+          </div>
+          <div class="password-recaptcha-ajax">
+          </div>
+          <div class="password-reset__check-email">
+           Please check your inbox for the reset password link that is only valid for 24 hours.
+          </div>
+          <input class="button primary submit" disabled="disabled" name="submit" type="submit" value="Submit"/>
+         </form>
+         <div class="center">
+          <a class="cancel" href="#">
+           Cancel
+          </a>
+         </div>
+        </div>
+        <div class="success-template hidden">
+         <p>
+          If the address matches an existing account you will receive an email with instructions to reset your password
+         </p>
+         <div class="center">
+          <a class="cancel" href="#">
+           Close
+          </a>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div class="popup top-drawer request-username-drawer username-popup hidden">
+       <div class="content">
+        <a class="close" href="#">
+         <i class="icon-close_thin">
+         </i>
+        </a>
+        <h2>
+         Request Username
+        </h2>
+        <div class="form">
+         <p>
+          Can't sign in? Forgot your username?
+         </p>
+         <p class="sub">
+          Enter your email address below and we will send you your username
+         </p>
+         <div class="message error">
+         </div>
+         <form action="/action/requestUsername" method="post">
+          <input name="requestUsername" type="hidden" value="requestUsername"/>
+          <div class="input-group">
+           <div class="label">
+            <label for="2b3925a2-1b57-45ab-a1cc-e6eb17123bf9.email">
+             Email
+            </label>
+           </div>
+           <input class="email" id="2b3925a2-1b57-45ab-a1cc-e6eb17123bf9.email" name="email" size="15" type="text" value=""/>
+          </div>
+          <div class="username-recaptcha-ajax">
+          </div>
+          <input class="button primary submit" disabled="disabled" name="submit" type="submit" value="Submit"/>
+          <div class="center">
+           <a class="cancel" href="#">
+            Close
+           </a>
+          </div>
+         </form>
+        </div>
+        <div class="success-template hidden note">
+         <p>
+          If the address matches an existing account you will receive an email with instructions to retrieve your username
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="container header--first-row" data-widget-def="ux3-layout-widget" data-widget-id="f3992bda-f515-41a7-a6c2-85c77bd2ff4b">
+       <div class="pull-left">
+        <a href="/" title="World Scientific">
+         <img alt="World Scientific" id="" src="/pb-assets/releasedAssets/images/WSPC-LOGO-250-1541381839657.png"/>
+        </a>
+       </div>
+       <div class="pull-right">
+        <div class="header__quick-menu">
+         <ul class="rlist--inline">
+          <li>
+           <a class="quick-menu__item" data-db-target-for="sb1" href="#" title="search">
+            <i aria-hidden="true" class="block-icon icon-search">
+            </i>
+            <span>
+             Search
+            </span>
+           </a>
+           <div class="dropBlock__holder quick-search__dropBlock quickSearchFormContainer" data-db-target-of="sb1">
+            <div class="container">
+             <div class="quick-search">
+              <div class="tab row clearfix">
+               <div class="col-md-2">
+                <ul class="rlist tab__nav dropblock--tab" role="tablist">
+                 <li class="tab__nav__item" role="presentation">
+                  <a aria-controls="#pane-0" aria-expanded="false" class="tab__nav__item__link" data-toggle="tab" href="#pane-374c2551-8302-4bf6-989c-6e4d27b968c20" id="pane-374c2551-8302-4bf6-989c-6e4d27b968c20-con" role="tab" title="This Journal">
+                   This Journal
+                  </a>
+                 </li>
+                 <li class="tab__nav__item" role="presentation">
+                  <a aria-controls="#pane-1" aria-expanded="false" class="tab__nav__item__link" data-toggle="tab" href="#pane-374c2551-8302-4bf6-989c-6e4d27b968c21" id="pane-374c2551-8302-4bf6-989c-6e4d27b968c21-con" role="tab" title="Anywhere">
+                   Anywhere
+                  </a>
+                 </li>
+                </ul>
+               </div>
+               <div class="col-md-8 gutterless">
+                <div class="tab__content">
+                 <div aria-labelledby="pane-374c2551-8302-4bf6-989c-6e4d27b968c20-con" class="tab__pane quick-search-pane__anywhere" id="pane-374c2551-8302-4bf6-989c-6e4d27b968c20" role="tabpanel">
+                  <form action="/action/doSearch" method="get" name="thisJournalQuickSearch">
+                   <fieldset>
+                    <legend class="sr-only">
+                     Quick Search in Journals
+                    </legend>
+                    <div class="input-group option-0 option-journal">
+                     <label class="sr-only" for="AllField374c2551-8302-4bf6-989c-6e4d27b968c20">
+                      Enter words / phrases / DOI / ISBN / keywords / authors / etc
+                     </label>
+                     <input class="autocomplete" data-auto-complete-max-chars="32" data-auto-complete-max-words="7" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" id="AllField374c2551-8302-4bf6-989c-6e4d27b968c20" name="AllField" placeholder="Enter words / phrases / DOI / ISBN / keywords / authors / etc" type="search" value=""/>
+                     <input name="SeriesKey" type="hidden" value="mplb"/>
+                    </div>
+                    <button class="btn quick-search__button icon-search" title="Search" type="submit">
+                     <span class="sr-only">
+                      Search
+                     </span>
+                     <span>
+                      Search
+                     </span>
+                    </button>
+                   </fieldset>
+                  </form>
+                 </div>
+                 <div aria-labelledby="pane-374c2551-8302-4bf6-989c-6e4d27b968c21-con" class="tab__pane quick-search-pane__anywhere" id="pane-374c2551-8302-4bf6-989c-6e4d27b968c21" role="tabpanel">
+                  <form action="/action/doSearch" method="get" name="defaultQuickSearch">
+                   <fieldset>
+                    <legend class="sr-only">
+                     Quick Search anywhere
+                    </legend>
+                    <div class="input-group option-1">
+                     <label class="sr-only" for="AllField374c2551-8302-4bf6-989c-6e4d27b968c21">
+                      Enter words / phrases / DOI / ISBN / keywords / authors / etc
+                     </label>
+                     <input class="autocomplete" data-auto-complete-max-chars="32" data-auto-complete-max-words="7" data-contributors-conf="3" data-history-items-conf="3" data-publication-titles-conf="3" data-topics-conf="3" id="AllField374c2551-8302-4bf6-989c-6e4d27b968c21" name="AllField" placeholder="Enter words / phrases / DOI / ISBN / keywords / authors / etc" type="search" value=""/>
+                    </div>
+                    <button class="btn quick-search__button icon-search" title="Search" type="submit">
+                     <span class="sr-only">
+                      Search
+                     </span>
+                     <span>
+                      Search
+                     </span>
+                    </button>
+                   </fieldset>
+                  </form>
+                 </div>
+                </div>
+               </div>
+               <div class="col-md-2">
+                <a class="pull-right quick-search-advanced-link" href="/search/advanced">
+                 Advanced Search
+                </a>
+                <!--a.pull-right.quick-search-advanced-link(href="#" title="Advanced Search") Advanced Search-->
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li>
+           <div class="eCommerceCartIndicatorWidget" data-widget-def="eCommerceCartIndicatorWidget" data-widget-id="919a768a-3ccb-4a54-a5fb-9ec266ca3a9c">
+            <div class="eCommerceCartIndicatorWidget">
+             <a href="/action/showCart?FlowID=1" id="cartLabel" title="Show shopping cart">
+              <div class="cartLabel">
+               <span class="icon-shoppingcart">
+               </span>
+               <span class="filter-count filter-count-bubble shopping-cart hidden" data-id="cart-size">
+                0
+               </span>
+               <span class="cartText">
+                My Cart
+               </span>
+              </div>
+             </a>
+            </div>
+           </div>
+          </li>
+          <li>
+           <div class="right-side" data-widget-def="literatumNavigationLoginBar" data-widget-id="afb30c65-16c7-48c2-a29d-0490ff094f7a">
+            <div class="loginBar login-open">
+             <a class="show-login show-login-customization" href="/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436">
+              <span class="icon-profile_empty" title="Register/Sign In">
+              </span>
+              <span class="sign-in-label">
+               Sign in
+              </span>
+             </a>
+            </div>
+           </div>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <a class="sr-only-focusable" href="#afterNav-kx5">
+       Skip main navigation
+      </a>
+      <div class="main-nav">
+       <a class="main-nav__toggle__controller" data-target="main-menu" data-toggle="nav" href="#main-menu">
+        <i class="icon-menu2">
+         <span class="sr-only">
+          Close Drawer Menu
+         </span>
+        </i>
+        <i class="icon-close_thin">
+         <span class="sr-only">
+          Open Drawer Menu
+         </span>
+        </i>
+       </a>
+       <nav class="drawer__nav container gutterless hidden-sm hidden-xs" data-ctrl-res="screen-sm" id="main-menu" role="navigation">
+        <a class="menu-header hidden-md hidden-lg" data-redirect-to="/" href="#">
+         Home
+        </a>
+        <ul class="menubar rlist--inline" id="menubar" role="menubar">
+         <li aria-haspopup="true" aria-label="Subject" class="dropdown menu-parent" id="menu-item-main-menu-0" role="menuitem">
+          <a class="dropdown__toggle" data-toggle="dropdown" href="/action/showPublications?PubType=all" id="main-menu-1">
+           <span>
+            Subject
+           </span>
+           <i aria-hidden="true" class="icon-arrow_r pull-right hidden-md hidden-lg">
+           </i>
+           <i aria-hidden="true" class="icon-section_arrow_d pull-right hidden-sm hidden-xs">
+           </i>
+          </a>
+          <ul aria-labelledby="main-menu-1" class="rlist dropdown__menu" role="menu">
+           <li aria-label="All Subjects" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/action/showPublications" target="_blank">
+             <span>
+              All Subjects
+             </span>
+             <i aria-hidden="true" class="icon-download-sitation">
+             </i>
+            </a>
+           </li>
+           <li aria-label="Asian Studies" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/asianstudies">
+             <span>
+              Asian Studies
+             </span>
+            </a>
+           </li>
+           <li aria-label="Business &amp; Management" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/business">
+             <span>
+              Business &amp; Management
+             </span>
+            </a>
+           </li>
+           <li aria-label="Chemistry" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/chemistry">
+             <span>
+              Chemistry
+             </span>
+            </a>
+           </li>
+           <li aria-label="Computer Science" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/compsci">
+             <span>
+              Computer Science
+             </span>
+            </a>
+           </li>
+           <li aria-label="Economics &amp; Finance" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/economics">
+             <span>
+              Economics &amp; Finance
+             </span>
+            </a>
+           </li>
+           <li aria-label="Education" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="https://worldscientificedu.com">
+             <span>
+              Education
+             </span>
+            </a>
+           </li>
+           <li aria-label="Engineering / Acoustics" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/engineering">
+             <span>
+              Engineering / Acoustics
+             </span>
+            </a>
+           </li>
+           <li aria-label="Environmental Science" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/environsci">
+             <span>
+              Environmental Science
+             </span>
+            </a>
+           </li>
+           <li aria-label="Life Sciences / Biology" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/lifesci">
+             <span>
+              Life Sciences / Biology
+             </span>
+            </a>
+           </li>
+           <li aria-label="Materials Science" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/materialsci">
+             <span>
+              Materials Science
+             </span>
+            </a>
+           </li>
+           <li aria-label="Mathematics" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/mathematics">
+             <span>
+              Mathematics
+             </span>
+            </a>
+           </li>
+           <li aria-label="Medicine" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/medsci">
+             <span>
+              Medicine
+             </span>
+            </a>
+           </li>
+           <li aria-label="Nanotechnology &amp; Nanoscience" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/nanosci">
+             <span>
+              Nanotechnology &amp; Nanoscience
+             </span>
+            </a>
+           </li>
+           <li aria-label="Nonlinear Science, Chaos &amp; Dynamical Systems" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/nonlinearsci">
+             <span>
+              Nonlinear Science, Chaos &amp; Dynamical Systems
+             </span>
+            </a>
+           </li>
+           <li aria-label="Physics &amp; Astronomy" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/physics">
+             <span>
+              Physics &amp; Astronomy
+             </span>
+            </a>
+           </li>
+           <li aria-label="Popular &amp; General Science" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/generalinterest">
+             <span>
+              Popular &amp; General Science
+             </span>
+            </a>
+           </li>
+           <li aria-label="Social Sciences" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/socialsci">
+             <span>
+              Social Sciences
+             </span>
+            </a>
+           </li>
+           <li aria-label="华文书籍 (Chinese Titles)" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/topic/mktcode-gc000?startPage=&amp;target=bookTitleSearch&amp;content=bookTitle&amp;sortBy=Earliest">
+             <span>
+              华文书籍 (Chinese Titles)
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li aria-label="Journals" class="menu-item" id="menu-item-main-menu-1" role="menuitem">
+          <a href="/page/wsjournals">
+           <span>
+            Journals
+           </span>
+          </a>
+         </li>
+         <li aria-label="Books" class="menu-item" id="menu-item-main-menu-2" role="menuitem">
+          <a href="/page/worldscibooks">
+           <span>
+            Books
+           </span>
+          </a>
+         </li>
+         <li aria-label="Major Reference Works" class="menu-item" id="menu-item-main-menu-3" role="menuitem">
+          <a href="/page/major-reference-works">
+           <span>
+            Major Reference Works
+           </span>
+          </a>
+         </li>
+         <li aria-haspopup="true" aria-label="Partner with us" class="dropdown menu-parent" id="menu-item-main-menu-4" role="menuitem">
+          <a class="dropdown__toggle" data-toggle="dropdown" href="#" id="main-menu-2">
+           <span>
+            Partner with us
+           </span>
+           <i aria-hidden="true" class="icon-arrow_r pull-right hidden-md hidden-lg">
+           </i>
+           <i aria-hidden="true" class="icon-section_arrow_d pull-right hidden-sm hidden-xs">
+           </i>
+          </a>
+          <ul aria-labelledby="main-menu-2" class="rlist dropdown__menu" role="menu">
+           <li aria-label="Publish with us" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/publish-with-us">
+             <span>
+              Publish with us
+             </span>
+            </a>
+           </li>
+           <li aria-label="Authors" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/authors/index">
+             <span>
+              Authors
+             </span>
+            </a>
+           </li>
+           <li aria-label="Booksellers" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/booksellers">
+             <span>
+              Booksellers
+             </span>
+            </a>
+           </li>
+           <li aria-label="Librarians" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/librarians">
+             <span>
+              Librarians
+             </span>
+            </a>
+           </li>
+           <li aria-label="Individual Customers" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/help/how-to-order">
+             <span>
+              Individual Customers
+             </span>
+            </a>
+           </li>
+           <li aria-label="Copyright &amp; Permissions" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/permissions">
+             <span>
+              Copyright &amp; Permissions
+             </span>
+            </a>
+           </li>
+           <li aria-label="Translation Rights" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/translation-rights">
+             <span>
+              Translation Rights
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+         <li aria-label="Open Access" class="menu-item" id="menu-item-main-menu-5" role="menuitem">
+          <a href="/page/open">
+           <span>
+            Open Access
+           </span>
+          </a>
+         </li>
+         <li aria-haspopup="true" aria-label="About Us" class="dropdown menu-parent" id="menu-item-main-menu-6" role="menuitem">
+          <a class="dropdown__toggle" data-toggle="dropdown" href="#" id="main-menu-3">
+           <span>
+            About Us
+           </span>
+           <i aria-hidden="true" class="icon-arrow_r pull-right hidden-md hidden-lg">
+           </i>
+           <i aria-hidden="true" class="icon-section_arrow_d pull-right hidden-sm hidden-xs">
+           </i>
+          </a>
+          <ul aria-labelledby="main-menu-3" class="rlist dropdown__menu" role="menu">
+           <li aria-label="About Us" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/about/corporate-profile">
+             <span>
+              About Us
+             </span>
+            </a>
+           </li>
+           <li aria-label="News" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/pressroom">
+             <span>
+              News
+             </span>
+            </a>
+           </li>
+           <li aria-label="Help" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/help">
+             <span>
+              Help
+             </span>
+            </a>
+           </li>
+           <li aria-label="How to Order" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/help/how-to-order">
+             <span>
+              How to Order
+             </span>
+            </a>
+           </li>
+           <li aria-label="Contact Us" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/contactus">
+             <span>
+              Contact Us
+             </span>
+            </a>
+           </li>
+           <li aria-label="Privacy Policy" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/help/privacy-policy">
+             <span>
+              Privacy Policy
+             </span>
+            </a>
+           </li>
+           <li aria-label="Sitemap" class="menu-item" role="menuitem" tabindex="-1">
+            <a href="/page/sitemap">
+             <span>
+              Sitemap
+             </span>
+            </a>
+           </li>
+          </ul>
+         </li>
+        </ul>
+       </nav>
+       <span id="afterNav-kx5" tabindex="-1">
+       </span>
+      </div>
+      <div class="header__dropzone">
+       <div class="cookiePolicy-popup">
+        <div class="container">
+         <span class="cookiePolicy-popup__content">
+          <div class="cookieBanner" id="cookieBanner">
+           <h4 class="b-header">
+            Cookies Notification
+           </h4>
+           <div class="b-body" style="padding-bottom: 5px;">
+            We use cookies on this site to enhance your user experience. By continuing to browse the site, you consent to the use of our cookies.
+            <u>
+             <a href="/page/help/privacy-policy">
+              Learn More
+             </a>
+            </u>
+            <input id="accept-cookie-policy" type="button" value="I Agree"/>
+           </div>
+          </div>
+         </span>
+         <a aria-label="Agree to cookie policy and close message" class="cookiePolicy-popup__close close" href="#">
+          ×
+         </a>
+        </div>
+       </div>
+       <style>
+        #checkadblockernow {
+display: none;
+padding: 20px 10px;
+background: #2f4f4f;
+text-align: center;
+font-weight: bold;
+color: #ffffff;
+border-bottom: 1px solid #b8b8b8;
+}
+       </style>
+       <div id="checkadblockernow">
+        Our website is made possible by displaying certain online content using javascript.
+        <br/>
+        In order to view the full content, please
+        <a href="/help/adblocker-whitelist" style="color:#ffffff;">
+         <u>
+          disable
+         </u>
+        </a>
+        your ad blocker or
+        <a href="/help/adblocker-whitelist" style="color:#ffffff;">
+         <u>
+          whitelist
+         </u>
+        </a>
+        our website www.worldscientific.com.
+       </div>
+       <script src="/pb-assets/wspc-site/js/ads-1534400228793.js" type="text/javascript">
+       </script>
+       <script type="text/javascript">
+        if(!document.getElementById('checkadblockernowjs')){
+  document.getElementById('checkadblockernow').style.display='block';
+}
+       </script>
+       <div class="article-adv grid-sm-2 home-sections bottom-margin" data-widget-def="literatumAd" data-widget-id="972df656-2d8b-480a-80df-1f295fbc07d1">
+       </div>
+      </div>
+     </header>
+     <style>
+      #maintenancemsg {
+padding: 10px 10px;
+background: #d6ecf9;
+text-align: center;
+color: #000000;
+display: none;
+border-top: 1px solid #b8b8b8;
+border-bottom: 1px solid #b8b8b8;
+}
+     </style>
+     <div id="maintenancemsg">
+      <h3>
+       <font color="red">
+        System Upgrade on Mon, Jun 21st, 2021 at 1am (EDT)
+       </font>
+      </h3>
+      During this period, the E-commerce and registration of new users may not be available for up to 6 hours.
+      <br/>
+      For online purchase, please visit us again. Contact us at
+      <a href="/cdn-cgi/l/email-protection#bad9cfc9ced5d7dfc8d9dbc8dffacdc9cad994d9d5d7">
+       <span class="__cf_email__" data-cfemail="5d3e282e293230382f3e3c2f381d2a2e2d3e733e3230">
+        [email protected]
+       </span>
+      </a>
+      for any enquiries.
+     </div>
+    </div>
+    <main class="content">
+     <article class="container" data-enable-mathjax="true" data-figures="https://www.worldscientific.com/action/ajaxShowFigures?doi=10.1142%2FS0217984920400436&amp;ajax=true" data-references="https://www.worldscientific.com/action/ajaxShowEnhancedAbstract?doi=10.1142%2FS0217984920400436&amp;ajax=true">
+      <div class="row">
+       <div class="col-lg-9 col-sm-7 col-md-8 article__content">
+        <div class="citation">
+         <div class="citation__top">
+          <span class="article__breadcrumbs">
+           <nav class="article__breadcrumbs separator">
+            <a class="article__tocHeading" href="/worldscinet/mplb">
+             Modern Physics Letters B
+            </a>
+            <a class="article__tocHeading" href="/toc/mplb/34/07n09">
+             Vol. 34, No. 07n09, 2040043 (2020)
+            </a>
+           </nav>
+          </span>
+          <span class="citation__top__item article__access">
+           <span class="article__access__type" title="You do not have access to the full text of this content">
+            <i class="citation__acess__icon icon-Icon_Permissions-Locked no-access">
+            </i>
+            <span class="citation__access__type no-access">
+             No Access
+            </span>
+           </span>
+          </span>
+         </div>
+         <h1 class="citation__title">
+          Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel
+         </h1>
+         <ul class="rlist--inline article__corrections corrections-articles">
+         </ul>
+         <ul class="rlist--inline loa mobile-authors visible-xs" title="list of authors">
+          <li>
+           <a class="w-slide__btn" data-slide-target="#sb-1" href="#" title="">
+            <span>
+             Sung-Min Yoon
+            </span>
+           </a>
+          </li>
+          ,
+          <li>
+           <a class="w-slide__btn" data-slide-target="#sb-1" href="#" title="">
+            <span>
+             Sung-Youl Bae
+            </span>
+           </a>
+          </li>
+          and
+          <li>
+           <a class="w-slide__btn" data-slide-target="#sb-1" href="#" title="">
+            <span>
+             Yun-Hae Kim
+            </span>
+            <i aria-hidden="true" class="icon-Email">
+            </i>
+           </a>
+          </li>
+         </ul>
+         <div class="loa-wrapper hidden-xs">
+          <div class="accordion" id="sb-1">
+           <div class="accordion-tabbed loa-accordion">
+            <div class="accordion-tabbed__tab-mobile accordion__closed">
+             <a class="author-name accordion-tabbed__control visible-x" data-db-target-for="a1" data-id="a1" href="#" title="Sung-Min Yoon">
+              <span>
+               Sung-Min Yoon
+              </span>
+              <i aria-hidden="true" class="icon-arrow_d_n">
+              </i>
+             </a>
+             <span>
+             </span>
+             <div class="author-info accordion-tabbed__content" data-db-target-of="a1">
+              <p class="author-type">
+              </p>
+              <p>
+              </p>
+              <p>
+               Department of Micro-Nano Mechanical Science and Engineering, Nagoya University, Japan
+              </p>
+              <p>
+               <a href="/cdn-cgi/l/email-protection#166f79797838656378717b7f785671387b74796e38787771796f773b63387775387c66">
+                E-mail Address:
+                <span class="__cf_email__" data-cfemail="4831272726663b3d262f252126082f66252a27306626292f273129653d66292b662238">
+                 [email protected]
+                </span>
+               </a>
+              </p>
+              <div class="bottom-info">
+               <p>
+                <a href="/author/Yoon%2C+Sung-Min">
+                 Search for more papers by this author
+                </a>
+               </p>
+              </div>
+             </div>
+            </div>
+            ,
+            <div class="accordion-tabbed__tab-mobile">
+             <a class="author-name accordion-tabbed__control visible-x" data-db-target-for="a2" data-id="a2" href="#" title="Sung-Youl Bae">
+              <span>
+               Sung-Youl Bae
+              </span>
+              <i aria-hidden="true" class="icon-arrow_d_n">
+              </i>
+             </a>
+             <span>
+             </span>
+             <div class="author-info accordion-tabbed__content" data-db-target-of="a2">
+              <p class="author-type">
+              </p>
+              <p>
+              </p>
+              <p>
+               Composites Team, Korea Textile Machinery Convergence Research Institute, Republic of Korea
+              </p>
+              <p>
+               <a href="/cdn-cgi/l/email-protection#95e6ecf7f4f0d5fefae1f8fcbbe7f0bbfee7">
+                E-mail Address:
+                <span class="__cf_email__" data-cfemail="0d7e746f6c684d6662796064237f6823667f">
+                 [email protected]
+                </span>
+               </a>
+              </p>
+              <div class="bottom-info">
+               <p>
+                <a href="/author/Bae%2C+Sung-Youl">
+                 Search for more papers by this author
+                </a>
+               </p>
+              </div>
+             </div>
+            </div>
+            and
+            <div class="accordion-tabbed__tab-mobile">
+             <a class="author-name accordion-tabbed__control visible-x" data-db-target-for="a3" data-id="a3" href="#" title="Yun-Hae Kim">
+              <span>
+               Yun-Hae Kim
+              </span>
+              <i aria-hidden="true" class="icon-Email">
+              </i>
+              <i aria-hidden="true" class="icon-arrow_d_n">
+              </i>
+             </a>
+             <span>
+             </span>
+             <div class="author-info accordion-tabbed__content" data-db-target-of="a3">
+              <p class="author-type">
+              </p>
+              <p>
+               Corresponding author.
+              </p>
+              <p>
+               Department of Ocean Advanced Materials Convergence Engineering, Korea Maritime and Ocean University, Republic of Korea
+              </p>
+              <p>
+               <a href="/cdn-cgi/l/email-protection#334a465d5b56525873585e5c461d52501d5841">
+                E-mail Address:
+                <span class="__cf_email__" data-cfemail="c8b1bda6a0ada9a388a3a5a7bde6a9abe6a3ba">
+                 [email protected]
+                </span>
+               </a>
+              </p>
+              <div class="bottom-info">
+               <p>
+                <a href="/author/Kim%2C+Yun-Hae">
+                 Search for more papers by this author
+                </a>
+               </p>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class="epub-section">
+         <span class="epub-section__item">
+          <a class="epub-section__doi__text" href="https://doi.org/10.1142/S0217984920400436">
+           https://doi.org/10.1142/S0217984920400436
+          </a>
+         </span>
+         <span class="epub-section__item epub-section__citedBy">
+          <span class="epub-section__citedBy__label">
+           Cited by:
+          </span>
+          <span class="epub-section__citedBy__value">
+           0
+          </span>
+         </span>
+        </div>
+        <div class="article-adv" data-widget-def="literatumAd" data-widget-id="01820ee4-9fc3-49b5-b2b3-1aa1fae1400b">
+        </div>
+        <div class="content-navigation clearfix">
+         <a class="content-navigation__btn--pre" href="/doi/10.1142/S0217984920400424" title="Previous">
+          <i class="icon-arrow_l">
+          </i>
+          <span>
+           Previous
+          </span>
+         </a>
+         <div class="content-navigation__extra">
+          <div class="pb-dropzone" data-pb-dropzone="navigation-dropzone" title="navigation-dropzone">
+          </div>
+         </div>
+         <a class="content-navigation__btn--next" href="/doi/10.1142/S0217984920400448" title="Next">
+          <span>
+           Next
+          </span>
+          <i class="icon-arrow_r">
+          </i>
+         </a>
+        </div>
+        <div class="scroll-to-target fixed-element">
+         <nav class="trans coolBar stickybar">
+          <div class="stickybar__wrapper coolBar__wrapper clearfix">
+           <div class="rlist coolBar__zone">
+            <a class="coolBar__ctrl hidden-md hidden-lg w-slide__btn" data-db-switch="icon-close_thin" data-db-target-for="article" data-slide-target="#articleMenu" href="#">
+             <i aria-hidden="true" class="icon-sort">
+             </i>
+             <span>
+              About
+             </span>
+            </a>
+            <div class="coolBar__drop fixed rlist" data-db-target-of="article" id="articleMenu">
+             <div class="transplant showit" data-direction="from" data-remove="false" data-target="article .tab .tab__nav, .coolBar__single" data-target-class="hidden-xs hidden-sm" data-toggle="transplant" data-transplant="self">
+             </div>
+            </div>
+           </div>
+           <ul class="rlist coolBar__first" data-cb-group="Article" data-cb-group-icon="icon-toc">
+            <li class="coolBar__section coolBar--sections hidden">
+             <a class="coolBar__ctrl w-slide__btn" data-db-switch="icon-close_thin" data-db-target-for="sections" data-slide-target="#sectionMenu" href="#" title="Sections">
+              <i aria-hidden="true" class="icon-Icon_Section-menu">
+              </i>
+              <span>
+               Sections
+              </span>
+             </a>
+             <div class="coolBar__drop rlist" data-db-target-of="sections" id="sectionMenu">
+             </div>
+            </li>
+            <li class="coolBar__section coolBar--download">
+             <div class="single__download">
+              <a class="coolBar__ctrl" href="/doi/reader/10.1142/S0217984920400436">
+               <i aria-hidden="true" class="icon-document">
+               </i>
+               <span>
+                PDF/EPUB
+               </span>
+              </a>
+             </div>
+            </li>
+           </ul>
+           <ul class="coolBar__second rlist">
+            <li class="coolBar__section coolBar-tools">
+             <a aria-controls="b83a9112-ff13-4233-be12-8a37252f58fb_Pop" aria-haspopup="true" class="article-tools__ctrl w-slide__btn" data-db-switch="icon-close_thin" data-db-target-for="b83a9112-ff13-4233-be12-8a37252f58fb" data-slide-target="#b83a9112-ff13-4233-be12-8a37252f58fb_Pop" href="#" id="b83a9112-ff13-4233-be12-8a37252f58fb_Ctrl" role="button">
+              <i aria-hidden="true" class="icon-Icon_Tools">
+              </i>
+              <span>
+               Tools
+              </span>
+             </a>
+             <div aria-labelledby="b83a9112-ff13-4233-be12-8a37252f58fb_Ctrl" class="article-tools__block fixed dropBlock__holder" data-db-target-of="b83a9112-ff13-4233-be12-8a37252f58fb" id="b83a9112-ff13-4233-be12-8a37252f58fb_Pop" role="menu">
+              <ul class="rlist w-slide--list">
+               <li class="article-tool" role="presentation">
+                <a href="/personalize/addFavoritePublication?doi=10.1142%2FS0217984920400436" role="menuitem">
+                 <i aria-hidden="true" class="icon-Icon_Star-26">
+                 </i>
+                 <span>
+                  Add to favorites
+                 </span>
+                </a>
+               </li>
+               <li class="article-tool" role="presentation">
+                <a href="/action/showCitFormats?doi=10.1142%2FS0217984920400436" role="menuitem">
+                 <i aria-hidden="true" class="icon-Icon_Download">
+                 </i>
+                 <span>
+                  Download Citations
+                 </span>
+                </a>
+               </li>
+               <li class="article-tool" role="presentation">
+                <a href="/action/addCitationAlert?doi=10.1142%2FS0217984920400436" role="menuitem">
+                 <i aria-hidden="true" class="icon-Icon_Track-citations">
+                 </i>
+                 <span>
+                  Track Citations
+                 </span>
+                </a>
+               </li>
+               <li class="article-tool" role="presentation">
+                <a href="/action/recommendation?doi=10.1142%2FS0217984920400436" role="menuitem">
+                 <i aria-hidden="true" class="icon-Icon_mail">
+                 </i>
+                 <span>
+                  Recommend to Library
+                 </span>
+                </a>
+               </li>
+              </ul>
+             </div>
+            </li>
+            <li class="coolBar__section coolBar-share">
+             <!-- Go to www.addthis.com/dashboard to customize your tools -->
+             <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js">
+             </script>
+             <script async="async" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-4faab26f2cff13a7" type="text/javascript">
+             </script>
+             <a class="share__ctrl w-slide__btn" data-db-switch="icon-close_thin" data-db-target-for="71500e5c-1965-4c18-8cef-c8bed45ee2ba" data-slide-target="#71500e5c-1965-4c18-8cef-c8bed45ee2ba_Pop" href="#">
+              <i aria-hidden="true" class="icon-Icon_Share">
+              </i>
+              <span>
+               Share
+              </span>
+             </a>
+             <div class="share__block dropBlock__holder fixed" data-db-target-of="71500e5c-1965-4c18-8cef-c8bed45ee2ba" id="71500e5c-1965-4c18-8cef-c8bed45ee2ba_Pop">
+              <div class="pb-dropzone" data-pb-dropzone="shareBlock" title="shareBlock">
+              </div>
+              <span class="sr-only">
+               Share on
+              </span>
+              <ul class="rlist w-slide--list addthis addthis_toolbox addthis_default_style addthis_32x32_style">
+               <li>
+                <a class="addthis_button_facebook" role="link">
+                 <i aria-hidden="true" class="at-icon-wrapper icon-facebook">
+                 </i>
+                 Facebook
+                </a>
+               </li>
+               <li>
+                <a class="addthis_button_twitter" role="link">
+                 <i aria-hidden="true" class="at-icon-wrapper icon-twitter">
+                 </i>
+                 Twitter
+                </a>
+               </li>
+               <li>
+                <a class="addthis_button_linkedin" role="link">
+                 <i aria-hidden="true" class="at-icon-wrapper icon-linkedin">
+                 </i>
+                 Linked In
+                </a>
+               </li>
+               <li>
+                <a class="addthis_button_reddit" role="link">
+                 <i aria-hidden="true" class="at-icon-wrapper icon-reddit">
+                 </i>
+                 Reddit
+                </a>
+               </li>
+               <li>
+                <a class="addthis_button_email" role="link">
+                 <i aria-hidden="true" class="at-icon-wrapper icon-Email">
+                 </i>
+                 Email
+                </a>
+               </li>
+              </ul>
+             </div>
+            </li>
+           </ul>
+          </div>
+         </nav>
+        </div>
+        <div class="article__body">
+         <!-- abstract content -->
+         <div class="hlFld-Abstract">
+          <a class="scroll-offset" name="abstract">
+          </a>
+          <div class="sectionInfo abstractSectionHeading">
+           <h2 class="article-section__title section__title" id="d62594811e1">
+            Abstract
+           </h2>
+          </div>
+          <div class="abstractSection abstractInFull">
+           <p>
+            The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum skins is located to design a hybrid panel. The system of hybrid panel is normally used for mechanical parts, which need to dampen mechanical vibration. In this structure, a thin core plays an especially important role to dampen vibration. However, this structure has a disadvantage of delaminating and peeling with perpendicular loading from the adhesive core. At a given level of adhesion, one calculates deflection and stress state as a function of loading. To confirm that this model is directly applicable to the quantity of deflection, the geometry of three layers is designed with actual product thickness. A total of five cases of loading condition are simulated to deduce the stress distribution. The interfacial area is the main interest for this simulation which can be related with critical peeling condition. As a result, the comparison with the practical values of adhesion shows a possibility of estimation for the peeling limit of this hybrid panel system.
+           </p>
+          </div>
+         </div>
+         <!-- /abstract content -->
+         <div class="fn-group">
+         </div>
+         <div class="hlFld-keywords" id="keywords">
+          <strong>
+           Keywords:
+          </strong>
+          <ul>
+           <li>
+            <a href="/keyword/Hybrid+Panel">
+             Hybrid panel
+            </a>
+           </li>
+           <li>
+            <a href="/keyword/Material+Peeling">
+             material peeling
+            </a>
+           </li>
+           <li>
+            <a href="/keyword/Adhesion+Strength">
+             adhesion strength
+            </a>
+           </li>
+           <li>
+            <a href="/keyword/FE+Simulation">
+             FE simulation
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="article__references">
+          <p class="explanation__text">
+          </p>
+          <h2>
+           References
+          </h2>
+          <ul class="rlist separator">
+           <li class="references__item" id="S0217984920400436BIB001">
+            <span class="references__note">
+             <span class="label">
+              1.
+             </span>
+             <span class="references__authors">
+              K. Guido
+             </span>
+             <span class="references__source">
+              <em>
+               Hybrid Materials: Synthesis, Characterization, and Applications
+              </em>
+             </span>
+             (John Wiley &amp; Sons,
+             <span class="references__year">
+              2007
+             </span>
+             ).
+             <span class="references__suffix">
+              <a class="google-scholar" href="http://scholar.google.com/scholar_lookup?hl=en&amp;publication_year=2007&amp;author=K.+Guido&amp;title=Hybrid+Materials%3A+Synthesis%2C+Characterization%2C+and+Applications" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB002">
+            <span class="references__note">
+             <span class="label">
+              2.
+             </span>
+             <span class="references__authors">
+              J. M. Biggerstaff and  J. B. Kosmatka
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               J. Compos. Mater.
+              </em>
+             </span>
+             <strong>
+              33–15
+             </strong>
+             (
+             <span class="references__year">
+              1999
+             </span>
+             )  1457.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB002&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1177%2F002199839903301505" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB002&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=000082380100005" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+M.+Biggerstaff+and+J.+B.+Kosmatka%2C+J.+Compos.+Mater.+33%E2%80%9315+%281999%29+1457.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB003">
+            <span class="references__note">
+             <span class="label">
+              3.
+             </span>
+             F. Federico, Ph.D. Thesis, University of Windsor, Canada (2017).
+             <span class="references__suffix">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=F.+Federico%2C+Ph.D.+Thesis%2C+University+of+Windsor%2C+Canada+%282017%29." target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB004">
+            <span class="references__note">
+             <span class="label">
+              4.
+             </span>
+             <span class="references__authors">
+              C. Engelmann,  D. Meier,  A. Olowinsky and  M. Kielwasser
+             </span>
+             ,
+             <span class="references__article-title">
+              Metal meets composite — Hybrid joining for automotive applications
+             </span>
+             , in
+             <span class="references__source">
+              <em>
+               Lasers in Manufacturing Conf.
+              </em>
+             </span>
+             ,
+             <conf-date>
+              June 2015
+             </conf-date>
+             ,
+             <conf-loc>
+              Munchen, Germany
+             </conf-loc>
+             ,  p. 81.
+             <span class="references__suffix">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+C.+Engelmann%2C+D.+Meier%2C+A.+Olowinsky+and+M.+Kielwasser%2C+Metal+meets+composite+%E2%80%94+Hybrid+joining+for+automotive+applications%2C+in+Lasers+in+Manufacturing+Conf.%2C+June+2015%2C+Munchen%2C+Germany%2C+p.%C2%A081.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB005">
+            <span class="references__note">
+             <span class="label">
+              5.
+             </span>
+             <span class="references__authors">
+              J. Zhang,  K. Chaisombat,  S. He and  C. Wang
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Mater. Design
+              </em>
+             </span>
+             <strong>
+              36
+             </strong>
+             (
+             <span class="references__year">
+              2012
+             </span>
+             )  75.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB005&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2Fj.matdes.2011.11.006" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB005&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=000301580500011" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Zhang%2C+K.+Chaisombat%2C+S.+He+and+C.+Wang%2C+Mater.+Design+36+%282012%29+75.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB006">
+            <span class="references__note">
+             <span class="label">
+              6.
+             </span>
+             <span class="references__authors">
+              K. Brahma,  P. Dash and  B. Dattaguru
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Int. J. Fat.
+              </em>
+             </span>
+             <strong>
+              11
+             </strong>
+             (
+             <span class="references__year">
+              1989
+             </span>
+             )  37.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB006&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0142-1123%2889%2990045-5" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB006&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1989T059100005" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+K.+Brahma%2C+P.+Dash+and+B.+Dattaguru%2C+Int.+J.+Fat.+11+%281989%29+37.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB007">
+            <span class="references__note">
+             <span class="label">
+              7.
+             </span>
+             <span class="references__authors">
+              N. Walker and  C. Beevers
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Fat. Eng. Mater. Struct.
+              </em>
+             </span>
+             <strong>
+              1
+             </strong>
+             (
+             <span class="references__year">
+              1979
+             </span>
+             )  135.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB007&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1111%2Fj.1460-2695.1979.tb00372.x" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+N.+Walker+and+C.+Beevers%2C+Fat.+Eng.+Mater.+Struct.+1+%281979%29+135.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB008">
+            <span class="references__note">
+             <span class="label">
+              8.
+             </span>
+             <span class="references__authors">
+              E. Wang and  M. Omiya
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Fat. Eng. Mater. Struct.
+              </em>
+             </span>
+             <strong>
+              38
+             </strong>
+             (
+             <span class="references__year">
+              2015
+             </span>
+             )  315.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB008&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1111%2Fffe.12233" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+E.+Wang+and+M.+Omiya%2C+Fat.+Eng.+Mater.+Struct.+38+%282015%29+315.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB009">
+            <span class="references__note">
+             <span class="label">
+              9.
+             </span>
+             <span class="references__authors">
+              J. Newman and  I. Raju
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Eng. Fract. Mech.
+              </em>
+             </span>
+             <strong>
+              15
+             </strong>
+             (
+             <span class="references__year">
+              1981
+             </span>
+             )  185.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB009&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0013-7944%2881%2990116-8" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB009&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1981MH85300016" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Newman+and+I.+Raju%2C+Eng.+Fract.+Mech.+15+%281981%29+185.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB010">
+            <span class="references__note">
+             <span class="label">
+              10.
+             </span>
+             <span class="references__authors">
+              J. Newman
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Int. J. Fat.
+              </em>
+             </span>
+             <strong>
+              24
+             </strong>
+             (
+             <span class="references__year">
+              1984
+             </span>
+             )  131.
+             <span class="references__suffix">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Newman%2C+Int.+J.+Fat.+24+%281984%29+131.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB011">
+            <span class="references__note">
+             <span class="label">
+              11.
+             </span>
+             <span class="references__authors">
+              C. Shih
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               J. Mech. Phys. Solids
+              </em>
+             </span>
+             <strong>
+              29
+             </strong>
+             (
+             <span class="references__year">
+              1981
+             </span>
+             )  305.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0022-5096%2881%2990003-X" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1981MP34100003" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=64&amp;doi=10.1142%2FS0217984920400436&amp;key=1981JMPSo..29..305S" onclick="newWindow(this.href);return false" target="_blank">
+              ADS
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+C.+Shih%2C+J.+Mech.+Phys.+Solids+29+%281981%29+305.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+          </ul>
+         </div>
+         <div class="articleHistroy">
+          <span class="string-date">
+           Published: 19 March 2020
+          </span>
+         </div>
+         <div class="response">
+          <div class="sub-article-title">
+          </div>
+         </div>
+        </div>
+        <div class="article-adv" data-widget-def="literatumAd" data-widget-id="1066c8e6-b9ba-470a-be30-8e06dee8d1a5">
+         <div class="pb-ad">
+          <table style="width:100%; border: 1px solid black; text-align:center;">
+           <thead>
+            <tr>
+             <th style="background-color:#95B9C7; padding:4px; text-align:center;">
+              Remember to check out the
+              <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Faction%2FshowMostCitedArticles%3FjournalCode%3Dmplb&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436&amp;pubId=42236328&amp;placeholderId=1062&amp;productId=1897">
+               Most Cited Articles!
+              </a>
+             </th>
+            </tr>
+           </thead>
+           <tbody>
+            <tr>
+             <td style="padding:2px; border:3px; border-style:solid; border-color:blue; text-align:center;">
+              <p>
+               Boost your collection with these
+               <strong>
+                <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Fpage%2Fcondensed-matter-physics-2020&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436&amp;pubId=42236328&amp;placeholderId=1062&amp;productId=1897">
+                 New Books in Condensed Matter Physics
+                </a>
+               </strong>
+               today!
+              </p>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </div>
+        </div>
+        <div class="article-adv" data-widget-def="UX3HTMLWidget" data-widget-id="8470b170-cba9-4a11-887f-b9f76fb990ec">
+         <div id="trendmd-suggestions">
+         </div>
+         <script data-trendmdconfig='{"element":"#trendmd-suggestions"}' defer="" src="//js.trendmd.com/trendmd.min.js">
+         </script>
+        </div>
+       </div>
+       <div class="col-sm-5 col-md-4 col-lg-3 hidden-xs hidden-sm sticko__parent fixed-element">
+        <div class="tab tab--slide tab--flex sticko__md dynamic-sticko article__tab tab--flex tabs--xs">
+         <ul class="rlist tab__nav w-slide--list" data-mobile-toggle="slide" role="tablist">
+          <li class="tab__nav__item" role="presentation">
+           <a aria-controls="pane-pcw-figures" class="tab__nav__item__link figures-tab" data-slide-target="#pane-pcw-figures" data-toggle="tab" href="#pane-pcw-figures" id="pane-pcw-figurescon" role="tab">
+            <i aria-hidden="true" class="icon-Icon_Images">
+            </i>
+            <span>
+             Figures
+            </span>
+           </a>
+          </li>
+          <li class="tab__nav__item" role="presentation">
+           <a aria-controls="pane-pcw-references" class="tab__nav__item__link references-tab" data-slide-target="#pane-pcw-references" data-toggle="tab" href="#pane-pcw-references" id="pane-pcw-referencescon" role="tab">
+            <i aria-hidden="true" class="icon-Icon_Links-References">
+            </i>
+            <span>
+             References
+            </span>
+           </a>
+          </li>
+          <li class="tab__nav__item" role="presentation">
+           <a aria-controls="pane-pcw-related" class="tab__nav__item__link related-tab" data-slide-target="#pane-pcw-related" data-toggle="tab" href="#pane-pcw-related" id="pane-pcw-relatedcon" role="tab">
+            <i aria-hidden="true" class="icon-related2">
+            </i>
+            <span>
+             Related
+            </span>
+           </a>
+          </li>
+          <li class="tab__nav__item active" role="presentation">
+           <a aria-controls="pane-pcw-details" class="tab__nav__item__link details-tab" data-slide-target="#pane-pcw-details" data-toggle="tab" href="#pane-pcw-details" id="pane-pcw-detailscon" role="tab">
+            <i aria-hidden="true" class="icon-Icon_Information">
+            </i>
+            <span>
+             Details
+            </span>
+           </a>
+          </li>
+         </ul>
+         <div class="tab__content sticko__child">
+          <div aria-labelledby="pane-pcw-figurescon" class="tab__pane" id="pane-pcw-figures" role="tabpanel">
+          </div>
+          <div aria-labelledby="pane-pcw-referencescon" class="tab__pane" id="pane-pcw-references" role="tabpanel">
+          </div>
+          <div aria-labelledby="pane-pcw-relatedcon" class="accordion-with-arrow tab__pane tab__pane--clear" id="pane-pcw-related" role="tabpanel">
+           <div class="accordion">
+            <ul class="accordion-tabbed rlist">
+             <li class="accordion-tabbed__tab">
+              <h2 class="hidden">
+               Recommended
+              </h2>
+              <div class="show-recommended-placeholder" data-ajaxurl="/pb/widgets/ux3/ux3-showRecommend?widgetId=4b4a0a05-3395-4502-be59-ee2e57f8caf4&amp;doi=10.1142%2FS0217984920400436&amp;pbContext=%3Bwebsite%3Awebsite%3Awspc-site%3BrequestedJournal%3Ajournal%3Amplb%3Bpage%3Astring%3AArticle%2FChapter+View%3Bctype%3Astring%3AJournal+Content%3BsubPage%3Astring%3AAbstract%3Bwgroup%3Astring%3AWSPC+website+Group%3Barticle%3Aarticle%3A10.1142%2FS0217984920400436%3Bissue%3Aissue%3A10.1142%2Fmplb.34.issue-07n09%3Bjournal%3Ajournal%3Amplb%3BpageGroup%3Astring%3APublication+Pages">
+              </div>
+             </li>
+            </ul>
+           </div>
+          </div>
+          <div aria-labelledby="pane-pcw-detailscon" class="tab__pane active" id="pane-pcw-details" role="tabpanel">
+           <div class="details-tab">
+            <div class="cover-meta-wrap">
+             <div class="cover-image">
+              <a href="/worldscinet/mplb">
+               <img src="/na101/home/literatum/publisher/wspc/journals/covergifs/mplb/cover.jpg"/>
+              </a>
+             </div>
+             <div class="meta">
+              <strong>
+               <a href="/toc/mplb/34/07n09">
+                Vol. 34, No. 07n09
+               </a>
+              </strong>
+             </div>
+            </div>
+            <hr class="section__separator"/>
+            <section class="article__metrics">
+             <strong class="section__title">
+              Metrics
+             </strong>
+             <div class="section__body">
+              <p>
+               Downloaded 10 times
+               <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+               </script>
+              </p>
+              <div class="altmetric-embed" data-badge-popover="left" data-badge-type="1" data-doi="10.1142/S0217984920400436" data-hide-no-mentions="true">
+              </div>
+              <p>
+              </p>
+             </div>
+            </section>
+            <hr class="section__separator"/>
+            <section class="article__history">
+             <strong class="section__title">
+              History
+             </strong>
+             <div class="section__body">
+              <p>
+              </p>
+              <div>
+               Received 11 August 2019
+              </div>
+              <div>
+               Accepted 26 December 2019
+              </div>
+              <p>
+              </p>
+             </div>
+            </section>
+            <hr class="section__separator"/>
+           </div>
+           <section class="article__keyword">
+            <strong class="section__title">
+             Keywords
+            </strong>
+            <div class="section__body">
+             <ul class="rlist rlist--inline">
+              <li>
+               <a class="badge-type" href="/keyword/Hybrid+Panel">
+                Hybrid panel
+               </a>
+              </li>
+              <li>
+               <a class="badge-type" href="/keyword/Material+Peeling">
+                material peeling
+               </a>
+              </li>
+              <li>
+               <a class="badge-type" href="/keyword/Adhesion+Strength">
+                adhesion strength
+               </a>
+              </li>
+              <li>
+               <a class="badge-type" href="/keyword/FE+Simulation">
+                FE simulation
+               </a>
+              </li>
+             </ul>
+            </div>
+           </section>
+           <hr class="section__separator"/>
+           <section class="section">
+            <div class="section__body">
+             <a href="/doi/pdf/10.1142/S0217984920400436?download=true">
+              PDF download
+             </a>
+             <hr class="section__separator"/>
+            </div>
+           </section>
+           <script src="//api.growkudos.com/widgets/article/10.1142/S0217984920400436?omit_icons=true">
+           </script>
+          </div>
+          <div aria-busy="true" class="tab__spinner spinner-container" role="alert">
+           <img alt="Loading" id="spinner" src="/specs/ux3/releasedAssets/images/spinner.gif"/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </main>
+    <script>
+     var articleRef = document.querySelector('.article__body:not(.show-references) .article__references');
+if (articleRef) { articleRef.style.display = "none"; }
+    </script>
+    <div class="figure-viewer" data-ux3-role="parent" data-ux3-transformed-by="figureInit" data-ux3-wrapper="figure-viewer" id="figure-viewer" role="dialog">
+     <div class="figure-viewer__reg__top clearfix">
+      <div class="figure-viewer__top__right">
+       <a class="figure-viewer__ctrl__close" data-ux3-role="controller" href="#" role="button">
+        <span class="icon-close_thin">
+         <span class="sr-only">
+          Close Figure Viewer
+         </span>
+        </span>
+       </a>
+      </div>
+      <div class="figure-viewer__top__left">
+       <a class="figure-viewer__ctrl__browse" href="#" role="button">
+        <span class="icon-allfigures">
+         <span class="sr-only">
+          Browse All Figures
+         </span>
+        </span>
+       </a>
+       <a class="figure-viewer__ctrl__return is-hidden" href="#" role="button">
+        <span class="icon-arrow-left">
+         <span class="sr-only">
+          Return to Figure
+         </span>
+        </span>
+       </a>
+       <span class="zoomSlider js__zoom-slider ui-slider">
+        <label class="sr-only" for="figure-viewer__zoom-range">
+         Change zoom level
+        </label>
+        <input class="zoom-range" id="figure-viewer__zoom-range" type="range"/>
+       </span>
+       <button class="figure-viewer__label__zoom icon-zoom zoom-in" id="zoom-in">
+        <span class="sr-only">
+         Zoom in
+        </span>
+       </button>
+       <button class="figure-viewer__label__zoom icon-zoom-out zoom-out hidden" id="zoom-out">
+        <span class="sr-only">
+         Zoom out
+        </span>
+       </button>
+      </div>
+     </div>
+     <div class="figure-viewer__reg__center">
+      <div class="figure-viewer__cent__left">
+       <div class="figure-viewer__hold__fig">
+        <figure class="holder">
+        </figure>
+       </div>
+       <a class="figure-viewer__ctrl__prev" href="#" role="button">
+        <span class="icon-arrow_l">
+         <span class="sr-only">
+          Previous Figure
+         </span>
+        </span>
+       </a>
+       <a class="figure-viewer__ctrl__next" href="#" role="button">
+        <span class="icon-arrow_r">
+         <span class="sr-only">
+          Next Figure
+         </span>
+        </span>
+       </a>
+       <div class="figure-viewer__hold__list clearfix container">
+       </div>
+      </div>
+      <div class="figure-viewer__cent__right">
+       <div class="figure-viewer__title">
+        <a class="figure-viewer__ctrl__caption" href="#" title="Open/Close Caption">
+         <span class="icon-doublearrow">
+         </span>
+         <span class="figure-viewer__caption__label">
+          Caption
+         </span>
+        </a>
+        <span class="figure-viewer__title__text">
+        </span>
+       </div>
+       <div class="figure-viewer__hold__figcap">
+       </div>
+      </div>
+     </div>
+    </div>
+    <footer>
+     <div class="footer-top clearfix" data-widget-def="ux3-layout-widget" data-widget-id="81a18a14-d709-41fd-9bb6-25a7fc1e13df">
+      <div class="container">
+       <div class="row">
+        <div class="col-sm-3">
+         <a href="/" title="World Sientific Logo">
+          <img alt="World Sientific Logo" id="" src="/pb-assets/releasedAssets/images/WSPClogo-white-1528946545683.png"/>
+         </a>
+         <center>
+          <p>
+          </p>
+          <div style="display: inline-block;">
+           <a href="https://www.facebook.com/worldscientific" target="blank">
+            <img src="/pb-assets/wspc-site/icons/facebookicon-1533103772177.png"/>
+           </a>
+          </div>
+          <div style="display: inline-block;">
+           <a href="https://twitter.com/worldscientific" target="blank">
+            <img src="/pb-assets/wspc-site/icons/twittericon-1533103772437.png"/>
+           </a>
+          </div>
+          <div style="display: inline-block;">
+           <a href="https://www.linkedin.com/company/world-scientific-publishing/" target="blank">
+            <img src="/pb-assets/wspc-site/icons/linkedinicon-1533103772177.png"/>
+           </a>
+          </div>
+          <div style="display: inline-block;">
+           <a href="https://www.youtube.com/channel/UCDw6b_X0ccpwcc78iMjsI_Q" target="blank">
+            <img src="/pb-assets/wspc-site/icons/youtubeicon-1533103772463.png"/>
+           </a>
+          </div>
+          <div style="display: inline-block;">
+           <a href="https://www.worldscientific.com/page/newsletter/subscribe" target="blank">
+            <img src="/pb-assets/wspc-site/icons/emailicon-1533103772177.png"/>
+           </a>
+          </div>
+          <div style="display: inline-block;">
+           <a href="https://china.worldscientific.com/wechat-qr-code/" target="blank">
+            <img src="/pb-assets/wspc-site/icons/wechaticon-1533103772450.png"/>
+           </a>
+          </div>
+         </center>
+        </div>
+        <div class="col-lg-7 col-lg-offset-2 sitemap hidden-xs hidden-sm col-sm-9">
+         <div class="col-sm-4">
+          <h5 class="border-top">
+           Resources
+          </h5>
+          <ul class="rlist">
+           <li class="mikefooterlist">
+            <a href="/page/authors/index">
+             For Authors
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/booksellers">
+             For Booksellers
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/librarians">
+             For Librarians
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/permissions">
+             Copyright &amp; Permissions
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/translation-rights">
+             Translation Rights
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/help/how-to-order">
+             How to Order
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/contactus">
+             Contact Us
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/sitemap">
+             Sitemap
+            </a>
+           </li>
+          </ul>
+          <br/>
+         </div>
+         <div class="col-sm-4">
+          <h5 class="border-top">
+           About Us &amp; Help
+          </h5>
+          <ul class="rlist">
+           <li class="mikefooterlist">
+            <a href="/page/about/corporate-profile">
+             About Us
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/pressroom">
+             News
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="/page/help/registration">
+             Help
+            </a>
+           </li>
+          </ul>
+         </div>
+         <div class="col-sm-4">
+          <style>
+           .mikefooterlist:hover{color: #ADD8E6;}
+          </style>
+          <h5 class="border-top">
+           Links
+          </h5>
+          <ul class="rlist">
+           <li class="mikefooterlist">
+            <a href="https://europe.worldscientific.com/" target="blank">
+             World Scientific Europe
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="https://china.worldscientific.com/" target="blank">
+             World Scientific China 世界科技
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="https://worldscientificedu.com/" target="blank">
+             WS Education
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="https://www.globalpublishing.com.sg/" target="blank">
+             Global Publishing 八方文化
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="https://www.asiabiotech.com/" target="blank">
+             Asia-Pacific Biotech News
+            </a>
+           </li>
+           <li class="mikefooterlist">
+            <a href="https://www.worldcenturypublishing.com/" target="blank">
+             World Century
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+     <div class="footer-bottom text-onDark clearfix" data-widget-def="ux3-layout-widget" data-widget-id="6e6da9b7-371e-4ea0-827e-8de5915b8cd5">
+      <div class="container">
+       <div class="row">
+        <div class="col-md-6">
+         <ul class="rlist--inline separator">
+          <!--<li>
+        <a href="/terms">Terms and conditions</a>
+    </li>-->
+          <li>
+           <a href="/page/help/privacy-policy">
+            Privacy policy
+           </a>
+          </li>
+         </ul>
+        </div>
+        <div class="col-md-6">
+         <div class="copyright">
+          © 2022 World Scientific Publishing Co Pte Ltd
+          <div>
+           Powered by Atypon® Literatum
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </footer>
+    <!-- Bot analytics test -->
+    <script async="" data-cfasync="false" src="https://api.b2c.com/api/init-260u9k3l7hxtcferh76.js">
+    </script>
+    <noscript>
+     <img src="https://api.b2c.com/api/noscript-260u9k3l7hxtcferh76.gif"/>
+    </noscript>
+    <script>
+     !function(g,s,q,r,d){r=g[r]=g[r]||function(){(r.q=r.q||[]).push(
+  arguments)};d=s.createElement(q);q=s.getElementsByTagName(q)[0];
+  d.src='//d1l6p2sc9645hc.cloudfront.net/tracker.js';q.parentNode.
+  insertBefore(d,q)}(window,document,'script','_gs');
+
+  _gs('GSN-226025-N');
+    </script>
+    <!-- Google Tag Manager (noscript) -->
+    <noscript>
+     <iframe height="0" src="https://www.googletagmanager.com/ns.html?id=GTM-NVG6FP" style="display:none;visibility:hidden" width="0">
+     </iframe>
+    </noscript>
+    <!-- End Google Tag Manager (noscript) -->
+   </div>
+  </div>
+  <script type="text/javascript">
+   var lastChar = document.URL.charAt( document.URL.length - 1 )
+    if(window.history.pushState && lastChar == "#" || lastChar == "_") {
+        window.history.pushState('', '/', window.location.pathname)
+    }
+  </script>
+  <script src="/products/wspc/releasedAssets/js/build.lazyload.bundle-651e009f0051020cd265.js">
+  </script>
+  <script src="/products/wspc/releasedAssets/js/main.bundle-4149300c290db983e13c.js">
+  </script>
+  <script src="/wro/kup4~product.js" type="text/javascript">
+  </script>
+ </body>
+</html>
