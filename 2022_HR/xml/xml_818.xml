@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="c00eed68-9e91-4976-838d-f9936e175661" lang="en">
+<html class="pb-page" data-request-id="b9fedd18-2425-4cb9-83c6-649166f0934e" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;article:article:10.1021/acsami.9b09344;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;website:website:acspubs;journal:journal:aamick;pageGroup:string:Publication Pages;subPage:string:Full Text;issue:issue:10.1021/aamick.2019.11.issue-37" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -212,7 +212,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: '76cfc76a-6656-4248-ab63-06e2c77a9792'
+                            eventGroupKey: 'a79f713b-826a-4785-aa7b-0ec949db2a79'
                         }
 
                     }).done(function (status) {
@@ -1902,8 +1902,8 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#adc7d4c6c4c083c0dec8eddec3d883ccce83c6df">
-                  <span class="__cf_email__" data-cfemail="315b485a585c1f5c425471425f441f50521f5a43">
+                 <a href="/cdn-cgi/l/email-protection#d4beadbfbdb9fab9a7b194a7baa1fab5b7fabfa6">
+                  <span class="__cf_email__" data-cfemail="761c0f1d1f1b581b051336051803581715581d04">
                    [email protected]
                   </span>
                  </a>
@@ -1955,8 +1955,8 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#6a021d000b040d2a19041f440b09440118">
-                  <span class="__cf_email__" data-cfemail="b7dfc0ddd6d9d0f7c4d9c299d6d499dcc5">
+                 <a href="/cdn-cgi/l/email-protection#bfd7c8d5ded1d8ffccd1ca91dedc91d4cd">
+                  <span class="__cf_email__" data-cfemail="5f3728353e31381f2c312a713e3c71342d">
                    [email protected]
                   </span>
                  </a>
@@ -2649,14 +2649,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_28574" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_36877" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_28574">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_36877">
                   </div>
                  </div>
                 </div>
@@ -2756,14 +2756,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_26350" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_82230" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_26350">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_82230">
                   </div>
                  </div>
                 </div>
@@ -2868,14 +2868,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_20500" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_88165" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_20500">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_88165">
                   </div>
                  </div>
                 </div>
@@ -3092,14 +3092,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_22202" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_20235" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_22202">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_20235">
                   </div>
                  </div>
                 </div>
@@ -3363,14 +3363,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_11065" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_66005" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_11065">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_66005">
                   </div>
                  </div>
                 </div>
@@ -3579,14 +3579,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_27200" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_23344" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_27200">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_23344">
                   </div>
                  </div>
                 </div>
@@ -4063,14 +4063,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_44423" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_63426" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_44423">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_63426">
                   </div>
                  </div>
                 </div>
@@ -4098,14 +4098,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_73611" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_22713" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_73611">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_22713">
                   </div>
                  </div>
                 </div>
@@ -4263,14 +4263,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_24274" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_88733" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_24274">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_88733">
                    </div>
                   </div>
                  </div>
@@ -4360,14 +4360,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_41248" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_20488" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_41248">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_20488">
                    </div>
                   </div>
                  </div>
@@ -4403,8 +4403,8 @@ Materials (RIAM), 
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#38524153515516554b5d784b564d16595b16534a">
-                      <span class="__cf_email__" data-cfemail="f69c8f9d9f9bd89b8593b6859883d89795d89d84">
+                     <a href="/cdn-cgi/l/email-protection#8de7f4e6e4e0a3e0fee8cdfee3f8a3eceea3e6ff">
+                      <span class="__cf_email__" data-cfemail="c6acbfadafabe8abb5a386b5a8b3e8a7a5e8adb4">
                        [email protected]
                       </span>
                      </a>
@@ -4434,8 +4434,8 @@ Materials (RIAM), 
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#bad2cdd0dbd4ddfac9d4cf94dbd994d1c8">
-                      <span class="__cf_email__" data-cfemail="b6dec1dcd7d8d1f6c5d8c398d7d598ddc4">
+                     <a href="/cdn-cgi/l/email-protection#ea829d808b848daa99849fc48b89c48198">
+                      <span class="__cf_email__" data-cfemail="e9819e8388878ea99a879cc7888ac7829b">
                        [email protected]
                       </span>
                      </a>
@@ -4716,14 +4716,14 @@ of Chemical Engineering and Materials Science, Chung-Ang University, 84 Heukseok
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_60018" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_83360" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_60018">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_83360">
                    </div>
                   </div>
                  </div>
@@ -4747,14 +4747,14 @@ of Chemical Engineering and Materials Science, Chung-Ang University, 84 Heukseok
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_28632" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_06233" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_28632">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_06233">
                    </div>
                   </div>
                  </div>
@@ -4898,7 +4898,7 @@ of Chemical Engineering and Materials Science, Chung-Ang University, 84 Heukseok
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrarwqKugus_LVg90H21EOLACvtfcHk0ljOOyTQ6Uw3vA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrarwqKugus_LVg90H21EOLACvtfcHk0lgj6k10Y653zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5040,7 +5040,7 @@ of Chemical Engineering and Materials Science, Chung-Ang University, 84 Heukseok
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0LqWT7jFLTrVg90H21EOLACvtfcHk0ljOOyTQ6Uw3vA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0LqWT7jFLTrVg90H21EOLACvtfcHk0lgj6k10Y653zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5215,7 +5215,7 @@ of Chemical Engineering and Materials Science, Chung-Ang University, 84 Heukseok
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpMfdTm_zjfLVg90H21EOLACvtfcHk0ljOOyTQ6Uw3vA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpMfdTm_zjfLVg90H21EOLACvtfcHk0lgj6k10Y653zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5518,7 +5518,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZvqR2go9iQLVg90H21EOLACvtfcHk0liWVNsnK0QVkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZvqR2go9iQLVg90H21EOLACvtfcHk0lhvFhss4wPDsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5728,7 +5728,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrt8ViFY_2zQbVg90H21EOLACvtfcHk0liWVNsnK0QVkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrt8ViFY_2zQbVg90H21EOLACvtfcHk0lhvFhss4wPDsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5870,7 +5870,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3CXzqcnqtqbVg90H21EOLACvtfcHk0liWVNsnK0QVkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3CXzqcnqtqbVg90H21EOLACvtfcHk0ljm2C7HwzDyuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6027,7 +6027,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoc0HffgJTGKrVg90H21EOLACvtfcHk0ljbPcjLWa2DAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoc0HffgJTGKrVg90H21EOLACvtfcHk0ljm2C7HwzDyuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6165,7 +6165,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_HK0CAiE077Vg90H21EOLACvtfcHk0ljbPcjLWa2DAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_HK0CAiE077Vg90H21EOLACvtfcHk0ljm2C7HwzDyuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6309,7 +6309,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkWisjg8Q21bVg90H21EOLACvtfcHk0ljbPcjLWa2DAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkWisjg8Q21bVg90H21EOLACvtfcHk0lj9KFc8pBdOXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6459,7 +6459,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpr37OqNeSjv7Vg90H21EOLACvtfcHk0ljQ_F227oHZzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpr37OqNeSjv7Vg90H21EOLACvtfcHk0lj9KFc8pBdOXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6615,7 +6615,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoNLpjO-6K8TrVg90H21EOLACvtfcHk0ljQ_F227oHZzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoNLpjO-6K8TrVg90H21EOLACvtfcHk0lj9KFc8pBdOXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6808,7 +6808,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWmI99BF7b-rVg90H21EOLACvtfcHk0ljQ_F227oHZzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWmI99BF7b-rVg90H21EOLACvtfcHk0ljtYDPyN9Qs2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6947,7 +6947,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpE8LkgchT-1LVg90H21EOLACvtfcHk0ljbS0ZUDPFHBw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpE8LkgchT-1LVg90H21EOLACvtfcHk0ljtYDPyN9Qs2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7122,7 +7122,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFwkEEFH550rVg90H21EOLACvtfcHk0ljbS0ZUDPFHBw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFwkEEFH550rVg90H21EOLACvtfcHk0ljtYDPyN9Qs2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7279,7 +7279,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpWussTu0dGZbVg90H21EOLACvtfcHk0ljbS0ZUDPFHBw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpWussTu0dGZbVg90H21EOLACvtfcHk0lj2bVrGevoxVA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7429,7 +7429,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrJXY7ycA40YrVg90H21EOLACvtfcHk0ljugaHDHZ5KnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrJXY7ycA40YrVg90H21EOLACvtfcHk0lj2bVrGevoxVA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7592,7 +7592,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqPc_Kz2ow1ILVg90H21EOLACvtfcHk0ljugaHDHZ5KnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqPc_Kz2ow1ILVg90H21EOLACvtfcHk0lj2bVrGevoxVA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7748,7 +7748,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_QTLGTpIA5rVg90H21EOLACvtfcHk0ljugaHDHZ5KnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_QTLGTpIA5rVg90H21EOLACvtfcHk0lj2bVrGevoxVA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7917,7 +7917,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBgOUDXHbHQLVg90H21EOLACvtfcHk0lj2Re9BVPBjUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBgOUDXHbHQLVg90H21EOLACvtfcHk0liairVxSiztlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8104,7 +8104,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7-mE8GVqycrVg90H21EOLACvtfcHk0lj2Re9BVPBjUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7-mE8GVqycrVg90H21EOLACvtfcHk0liairVxSiztlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8288,7 +8288,7 @@ Kwon, K.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyisi1TE_Ls7Vg90H21EOLACvtfcHk0lj2Re9BVPBjUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyisi1TE_Ls7Vg90H21EOLACvtfcHk0liairVxSiztlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8445,7 +8445,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoyrTSDGnGnabVg90H21EOLACvtfcHk0lgwUSLQMecWWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoyrTSDGnGnabVg90H21EOLACvtfcHk0lh7Or46e3kbYA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8619,7 +8619,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNdRD63-OWjLVg90H21EOLACvtfcHk0lgwUSLQMecWWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNdRD63-OWjLVg90H21EOLACvtfcHk0lh7Or46e3kbYA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8787,7 +8787,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVbrtRnMHznbVg90H21EOLACvtfcHk0lgwUSLQMecWWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVbrtRnMHznbVg90H21EOLACvtfcHk0lh7Or46e3kbYA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8947,7 +8947,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpb8zuzWYpwzrVg90H21EOLACvtfcHk0lgwUSLQMecWWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpb8zuzWYpwzrVg90H21EOLACvtfcHk0lhnwuoAorSk5g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9085,7 +9085,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHg9HfyMX457Vg90H21EOLACvtfcHk0lj6VL4-q4iOQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHg9HfyMX457Vg90H21EOLACvtfcHk0lhnwuoAorSk5g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9236,7 +9236,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN9S99nDjqTbVg90H21EOLACvtfcHk0lj6VL4-q4iOQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN9S99nDjqTbVg90H21EOLACvtfcHk0lhnwuoAorSk5g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9387,7 +9387,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUFIBI0E4Gv7Vg90H21EOLACvtfcHk0lj6VL4-q4iOQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUFIBI0E4Gv7Vg90H21EOLACvtfcHk0lgucjM8F_bZlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9526,7 +9526,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmFQ6l67c2NrVg90H21EOLACvtfcHk0lgTdWKfYdZ1nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmFQ6l67c2NrVg90H21EOLACvtfcHk0lgucjM8F_bZlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9743,7 +9743,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGohAH-1Iz2KFbVg90H21EOLACvtfcHk0lgTdWKfYdZ1nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGohAH-1Iz2KFbVg90H21EOLACvtfcHk0lgucjM8F_bZlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9927,7 +9927,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr77x7MQuwb77Vg90H21EOLACvtfcHk0lgTdWKfYdZ1nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr77x7MQuwb77Vg90H21EOLACvtfcHk0lgucjM8F_bZlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10089,7 +10089,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZ_ctPjsKEMbVg90H21EOLACvtfcHk0lgWU0PTBbW01w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZ_ctPjsKEMbVg90H21EOLACvtfcHk0lj1nD33oUh-tA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10267,7 +10267,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq-dI0cLRF21bVg90H21EOLACvtfcHk0lgWU0PTBbW01w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq-dI0cLRF21bVg90H21EOLACvtfcHk0lj1nD33oUh-tA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10417,7 +10417,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpFzKe5NodarbVg90H21EOLACvtfcHk0lgWU0PTBbW01w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpFzKe5NodarbVg90H21EOLACvtfcHk0lhNGrIjinhH0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10557,22 +10557,22 @@ M.
                      </div>
                      <div class="casAbstract">
                       Water splitting, an efficient approach for hydrogen prodn., is often hindered by unfavorable kinetics of oxygen evolution reaction (OER).  In order to reduce the overpotential, noble metal oxides-based electrocatalysts like RuO2 and IrO2 are usually utilized.  However, due to their scarcity, the development of cost-effective non-precious OER electrocatalysts with high efficiency and good stability is urgently required.  Herein, we report a facile one-step annealing of metal-org. frameworks (MOFs) strategy to synthesize N-doped graphene layers encapsulated NiFe alloy nanoparticles (
-                      <a class="__cf_email__" data-cfemail="9cd2f5daf9dcdf" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="80cee9c6e5c0c3" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       ).  Through tuning the nanoparticle size and calcination temp.,
-                      <a class="__cf_email__" data-cfemail="ace2c5eac9ecef" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="b6f8dff0d3f6f5" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       with an av. size of around 16 nm obtained at 700 °C exhibits superior OER performance with an overpotential of only 281 mV at 10 mA cm-2 and high durability.  The facile synthesis method and excellent electrochem. performance show great potential of
-                      <a class="__cf_email__" data-cfemail="8dc3e4cbe8cdce" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="ffb196b99abfbc" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       in replacing the precious metal-based electrocatalysts in the OER.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogIwAtCBm8FrVg90H21EOLACvtfcHk0liwaml3DLm-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogIwAtCBm8FrVg90H21EOLACvtfcHk0lhNGrIjinhH0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10734,7 +10734,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5aA7c8yWr3LVg90H21EOLACvtfcHk0liwaml3DLm-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5aA7c8yWr3LVg90H21EOLACvtfcHk0lhNGrIjinhH0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10931,7 +10931,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoh1SQL8hcD6rVg90H21EOLACvtfcHk0liwaml3DLm-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoh1SQL8hcD6rVg90H21EOLACvtfcHk0lhWL3cW4aHzIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11126,7 +11126,7 @@ M.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1BxU-wzmXFrVg90H21EOLACvtfcHk0ligzS7lqui4Rw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1BxU-wzmXFrVg90H21EOLACvtfcHk0lhWL3cW4aHzIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11320,7 +11320,7 @@ Casalongue, H. G.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq0vW9ksLuvqrVg90H21EOLACvtfcHk0ligzS7lqui4Rw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq0vW9ksLuvqrVg90H21EOLACvtfcHk0lhWL3cW4aHzIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11486,7 +11486,7 @@ Casalongue, H. G.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrnAflHU8Fg_LVg90H21EOLACvtfcHk0ligzS7lqui4Rw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrnAflHU8Fg_LVg90H21EOLACvtfcHk0lihF4mJNe_Ogg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11798,7 +11798,7 @@ Casalongue, H. G.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrcmCn9-SmTHbVg90H21EOLACvtfcHk0ljCe0PLT29gTw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrcmCn9-SmTHbVg90H21EOLACvtfcHk0lihF4mJNe_Ogg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11954,7 +11954,7 @@ Casalongue, H. G.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEeeg7dglaBbVg90H21EOLACvtfcHk0ljCe0PLT29gTw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEeeg7dglaBbVg90H21EOLACvtfcHk0lihF4mJNe_Ogg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12138,18 +12138,18 @@ Casalongue, H. G.
                      </div>
                      <div class="casAbstract">
                       The solar-driven water splitting process is highly attractive for alternative energy utilization, while developing efficient, earth-abundant, bifunctional catalysts for both oxygen evolution reaction and hydrogen evolution reaction has remained as a major challenge.  Herein, we develop an ordered
-                      <a class="__cf_email__" data-cfemail="f0b39fbd9ebfb0b3be" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="25664a684b6a65666b" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       superlattice structure as an efficient bifunctional water-splitting electrocatalyst, in which uniform Co-Mn oxide (CoMnO) nanoparticles are coated with a thin, continuous nitrogen-doped carbon (CN) framework.  The CoMnO nanoparticles enable optimized OER activity with effective electronic structure configuration, and the CN framework serves as an excellent HER catalyst.  Importantly, the ordered superlattice structure is beneficial for enhanced reactive sites, efficient charge transfer, and structural stability.  This bifunctional superlattice catalyst manifests optimized current densities and electrochem. stability in overall water splitting, outperforming most of the previously reported single- or bifunctional electrocatalysts.  Combining with a silicon photovoltaic cell, this
-                      <a class="__cf_email__" data-cfemail="84c7ebc9eacbc4c7ca" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="30735f7d5e7f70737e" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       superlattice bifunctional catalyst enables unassisted solar water splitting continuously for ∼5 days with a solar-to-hydrogen conversion efficiency of ∼8.0%.  Our discovery suggests that these transition metal oxide-based superlattices may serve as a unique structure modality for efficient bifunctional water splitting electrocatalysts with scale-up potentials.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqusHL6nwtOBLVg90H21EOLACvtfcHk0lgKlHIhElleQw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqusHL6nwtOBLVg90H21EOLACvtfcHk0lh557dyVij_ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12311,7 +12311,7 @@ Casalongue, H. G.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPlp5aSq4lGrVg90H21EOLACvtfcHk0lgKlHIhElleQw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPlp5aSq4lGrVg90H21EOLACvtfcHk0lh557dyVij_ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13019,45 +13019,6 @@ Casalongue, H. G.
                   <li>
                    <span class="cited-content_cbyCitation_article-contributors">
                     <span class="hlFld-ContribAuthor">
-                     Jin Wook  Yang
-                    </span>
-                    ,
-                    <span class="hlFld-ContribAuthor">
-                     Sang Hyun  Ahn
-                    </span>
-                    ,
-                    <span class="hlFld-ContribAuthor">
-                     Ho Won  Jang
-                    </span>
-                    .
-                   </span>
-                   <span class="cited-content_cbyCitation_article-title">
-                    Crucial role of heterostructures in highly advanced water splitting photoelectrodes.
-                   </span>
-                   <span class="cited-content_cbyCitation_journal-name">
-                    Current Opinion in Green and Sustainable Chemistry
-                   </span>
-                   <span>
-                    <strong>
-                     2021,
-                    </strong>
-                    <em>
-                     29
-                    </em>
-                    , 100454.
-                    <a href="https://doi.org/10.1016/j.cogsc.2021.100454" title="DOI URL">
-                     https://doi.org/10.1016/j.cogsc.2021.100454
-                    </a>
-                   </span>
-                   <span class="deliverFormatsLinks">
-                    <a class="issue-item_open-url sfxLink" href="/servlet/linkout?suffix=&amp;dbid=16384&amp;doi=10.1016/j.cogsc.2021.100454&amp;type=refOpenUrl&amp;url=http%3A%2F%2Flink2.kesli.or.kr%3A3210%2Fkier%3Fgenre%3Dcitedby%26id%3Ddoi%3A10.1016%2Fj.cogsc.2021.100454%26sid%3Dliteratum%253Aachs%26jtitle%3DCurrent%2520Opinion%2520in%2520Green%2520and%2520Sustainable%2520Chemistry%26atitle%3DCrucial%252Brole%252Bof%252Bheterostructures%252Bin%252Bhighly%252Badvanced%252Bwater%252Bsplitting%252Bphotoelectrodes%26aulast%3DYang%26aufirst%3DJin%2BWook%26date%3D2021%26volume%3D29%26spage%3D100454" onclick="newWindow(this.href);return false" title="OpenURL KOREA INST ENERGY &amp; RESEARCH">
-                     <img alt="OpenURL KOREA INST ENERGY &amp; RESEARCH" src="/userimages/4484544/sfxbutton"/>
-                    </a>
-                   </span>
-                  </li>
-                  <li>
-                   <span class="cited-content_cbyCitation_article-contributors">
-                    <span class="hlFld-ContribAuthor">
                      Cheng-Yu  Chi
                     </span>
                     ,
@@ -13117,6 +13078,45 @@ Casalongue, H. G.
                   <li>
                    <span class="cited-content_cbyCitation_article-contributors">
                     <span class="hlFld-ContribAuthor">
+                     Jin Wook  Yang
+                    </span>
+                    ,
+                    <span class="hlFld-ContribAuthor">
+                     Sang Hyun  Ahn
+                    </span>
+                    ,
+                    <span class="hlFld-ContribAuthor">
+                     Ho Won  Jang
+                    </span>
+                    .
+                   </span>
+                   <span class="cited-content_cbyCitation_article-title">
+                    Crucial role of heterostructures in highly advanced water splitting photoelectrodes.
+                   </span>
+                   <span class="cited-content_cbyCitation_journal-name">
+                    Current Opinion in Green and Sustainable Chemistry
+                   </span>
+                   <span>
+                    <strong>
+                     2021,
+                    </strong>
+                    <em>
+                     29
+                    </em>
+                    , 100454.
+                    <a href="https://doi.org/10.1016/j.cogsc.2021.100454" title="DOI URL">
+                     https://doi.org/10.1016/j.cogsc.2021.100454
+                    </a>
+                   </span>
+                   <span class="deliverFormatsLinks">
+                    <a class="issue-item_open-url sfxLink" href="/servlet/linkout?suffix=&amp;dbid=16384&amp;doi=10.1016/j.cogsc.2021.100454&amp;type=refOpenUrl&amp;url=http%3A%2F%2Flink2.kesli.or.kr%3A3210%2Fkier%3Fgenre%3Dcitedby%26id%3Ddoi%3A10.1016%2Fj.cogsc.2021.100454%26sid%3Dliteratum%253Aachs%26jtitle%3DCurrent%2520Opinion%2520in%2520Green%2520and%2520Sustainable%2520Chemistry%26atitle%3DCrucial%252Brole%252Bof%252Bheterostructures%252Bin%252Bhighly%252Badvanced%252Bwater%252Bsplitting%252Bphotoelectrodes%26aulast%3DYang%26aufirst%3DJin%2BWook%26date%3D2021%26volume%3D29%26spage%3D100454" onclick="newWindow(this.href);return false" title="OpenURL KOREA INST ENERGY &amp; RESEARCH">
+                     <img alt="OpenURL KOREA INST ENERGY &amp; RESEARCH" src="/userimages/4484544/sfxbutton"/>
+                    </a>
+                   </span>
+                  </li>
+                  <li>
+                   <span class="cited-content_cbyCitation_article-contributors">
+                    <span class="hlFld-ContribAuthor">
                      Ya  Liu
                     </span>
                     ,
@@ -13151,7 +13151,7 @@ Casalongue, H. G.
                    </span>
                    <span class="cited-content_cbyCitation_article-title">
                     A 3D binder-free
-                    <a class="__cf_email__" data-cfemail="4504220b1236050b2c082a" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="6e2f0920391d2e20072301" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     /PU electrode for efficient hydrogen evolution reaction.
@@ -14217,14 +14217,14 @@ Casalongue, H. G.
                       ARTICLE SECTIONS
                      </span>
                      <div class="article_sections-dropBlock">
-                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_12015" href="#">
+                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_88864" href="#">
                        <span>
                         Jump To
                        </span>
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_12015">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_88864">
                       </div>
                      </div>
                     </div>
@@ -14368,7 +14368,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrarwqKugus_LVg90H21EOLACvtfcHk0lg7ZjfRoTW8BQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrarwqKugus_LVg90H21EOLACvtfcHk0liJyDLusvzU0g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14510,7 +14510,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0LqWT7jFLTrVg90H21EOLACvtfcHk0lg7ZjfRoTW8BQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0LqWT7jFLTrVg90H21EOLACvtfcHk0ljLGly3cUCtlA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14685,7 +14685,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpMfdTm_zjfLVg90H21EOLACvtfcHk0lg7ZjfRoTW8BQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpMfdTm_zjfLVg90H21EOLACvtfcHk0ljLGly3cUCtlA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14988,7 +14988,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZvqR2go9iQLVg90H21EOLACvtfcHk0lhuxZUeMBMtGQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZvqR2go9iQLVg90H21EOLACvtfcHk0ljAocBal5tQbw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15198,7 +15198,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrt8ViFY_2zQbVg90H21EOLACvtfcHk0lhKqUx5geBWCQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrt8ViFY_2zQbVg90H21EOLACvtfcHk0ljAocBal5tQbw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15340,7 +15340,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3CXzqcnqtqbVg90H21EOLACvtfcHk0lhKqUx5geBWCQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3CXzqcnqtqbVg90H21EOLACvtfcHk0ljAocBal5tQbw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15497,7 +15497,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoc0HffgJTGKrVg90H21EOLACvtfcHk0lhKqUx5geBWCQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoc0HffgJTGKrVg90H21EOLACvtfcHk0lgoPzMz38eXZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15635,7 +15635,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_HK0CAiE077Vg90H21EOLACvtfcHk0lh5ixOFLfhKeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_HK0CAiE077Vg90H21EOLACvtfcHk0lgoPzMz38eXZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15779,7 +15779,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkWisjg8Q21bVg90H21EOLACvtfcHk0lh5ixOFLfhKeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkWisjg8Q21bVg90H21EOLACvtfcHk0lgoPzMz38eXZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15929,7 +15929,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpr37OqNeSjv7Vg90H21EOLACvtfcHk0lh5ixOFLfhKeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpr37OqNeSjv7Vg90H21EOLACvtfcHk0lgoPzMz38eXZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16085,7 +16085,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoNLpjO-6K8TrVg90H21EOLACvtfcHk0ljdef81pmQZFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoNLpjO-6K8TrVg90H21EOLACvtfcHk0ljMY1qYrF1j6g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16278,7 +16278,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWmI99BF7b-rVg90H21EOLACvtfcHk0ljdef81pmQZFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWmI99BF7b-rVg90H21EOLACvtfcHk0ljMY1qYrF1j6g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16417,7 +16417,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpE8LkgchT-1LVg90H21EOLACvtfcHk0ljdef81pmQZFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpE8LkgchT-1LVg90H21EOLACvtfcHk0ljMY1qYrF1j6g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16592,7 +16592,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFwkEEFH550rVg90H21EOLACvtfcHk0lhxi-qDkTPzSg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFwkEEFH550rVg90H21EOLACvtfcHk0liS6GjjiNRD_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16749,7 +16749,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpWussTu0dGZbVg90H21EOLACvtfcHk0lhxi-qDkTPzSg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpWussTu0dGZbVg90H21EOLACvtfcHk0liS6GjjiNRD_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16899,7 +16899,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrJXY7ycA40YrVg90H21EOLACvtfcHk0lhbXpieJrO6Ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrJXY7ycA40YrVg90H21EOLACvtfcHk0liS6GjjiNRD_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17062,7 +17062,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqPc_Kz2ow1ILVg90H21EOLACvtfcHk0lhbXpieJrO6Ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqPc_Kz2ow1ILVg90H21EOLACvtfcHk0lhg2qgAeSGIjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17218,7 +17218,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_QTLGTpIA5rVg90H21EOLACvtfcHk0lhbXpieJrO6Ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_QTLGTpIA5rVg90H21EOLACvtfcHk0lhg2qgAeSGIjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17387,7 +17387,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBgOUDXHbHQLVg90H21EOLACvtfcHk0lgQoFP35j6kSw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBgOUDXHbHQLVg90H21EOLACvtfcHk0lhg2qgAeSGIjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17574,7 +17574,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7-mE8GVqycrVg90H21EOLACvtfcHk0lgQoFP35j6kSw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7-mE8GVqycrVg90H21EOLACvtfcHk0lhd-fHSp7AvmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17758,7 +17758,7 @@ Kwon, K.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyisi1TE_Ls7Vg90H21EOLACvtfcHk0ljwcEcb4YbH1w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyisi1TE_Ls7Vg90H21EOLACvtfcHk0lhd-fHSp7AvmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17915,7 +17915,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoyrTSDGnGnabVg90H21EOLACvtfcHk0ljwcEcb4YbH1w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoyrTSDGnGnabVg90H21EOLACvtfcHk0lhd-fHSp7AvmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18089,7 +18089,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNdRD63-OWjLVg90H21EOLACvtfcHk0ljwcEcb4YbH1w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNdRD63-OWjLVg90H21EOLACvtfcHk0ljj-vSaCnlYLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18257,7 +18257,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVbrtRnMHznbVg90H21EOLACvtfcHk0ljkc2Wuun8WPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVbrtRnMHznbVg90H21EOLACvtfcHk0ljj-vSaCnlYLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18417,7 +18417,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpb8zuzWYpwzrVg90H21EOLACvtfcHk0lgCRQpgfr11Yw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpb8zuzWYpwzrVg90H21EOLACvtfcHk0ljOZ94fqbn-Rw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18555,7 +18555,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHg9HfyMX457Vg90H21EOLACvtfcHk0lgCRQpgfr11Yw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHg9HfyMX457Vg90H21EOLACvtfcHk0ljOZ94fqbn-Rw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18706,7 +18706,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN9S99nDjqTbVg90H21EOLACvtfcHk0lgCRQpgfr11Yw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN9S99nDjqTbVg90H21EOLACvtfcHk0ljhPoNc7Frl8A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18857,7 +18857,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUFIBI0E4Gv7Vg90H21EOLACvtfcHk0lg0WT9bF718Mg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUFIBI0E4Gv7Vg90H21EOLACvtfcHk0ljhPoNc7Frl8A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18996,7 +18996,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmFQ6l67c2NrVg90H21EOLACvtfcHk0lg0WT9bF718Mg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmFQ6l67c2NrVg90H21EOLACvtfcHk0ljhPoNc7Frl8A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19213,7 +19213,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGohAH-1Iz2KFbVg90H21EOLACvtfcHk0lg0WT9bF718Mg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGohAH-1Iz2KFbVg90H21EOLACvtfcHk0liaPSe3t5CjtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19397,7 +19397,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr77x7MQuwb77Vg90H21EOLACvtfcHk0ljIXiRuQ5ufeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr77x7MQuwb77Vg90H21EOLACvtfcHk0liaPSe3t5CjtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19559,7 +19559,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZ_ctPjsKEMbVg90H21EOLACvtfcHk0ljIXiRuQ5ufeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZ_ctPjsKEMbVg90H21EOLACvtfcHk0liaPSe3t5CjtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19737,7 +19737,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq-dI0cLRF21bVg90H21EOLACvtfcHk0ljIXiRuQ5ufeA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq-dI0cLRF21bVg90H21EOLACvtfcHk0lhzyWeJzv8pjw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19887,7 +19887,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpFzKe5NodarbVg90H21EOLACvtfcHk0liiSeNrKymmlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpFzKe5NodarbVg90H21EOLACvtfcHk0lhzyWeJzv8pjw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20027,22 +20027,22 @@ M.
                         </div>
                         <div class="casAbstract">
                          Water splitting, an efficient approach for hydrogen prodn., is often hindered by unfavorable kinetics of oxygen evolution reaction (OER).  In order to reduce the overpotential, noble metal oxides-based electrocatalysts like RuO2 and IrO2 are usually utilized.  However, due to their scarcity, the development of cost-effective non-precious OER electrocatalysts with high efficiency and good stability is urgently required.  Herein, we report a facile one-step annealing of metal-org. frameworks (MOFs) strategy to synthesize N-doped graphene layers encapsulated NiFe alloy nanoparticles (
-                         <a class="__cf_email__" data-cfemail="521c3b14371211" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="f1bf98b794b1b2" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          ).  Through tuning the nanoparticle size and calcination temp.,
-                         <a class="__cf_email__" data-cfemail="450b2c03200506" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="f0be99b695b0b3" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          with an av. size of around 16 nm obtained at 700 °C exhibits superior OER performance with an overpotential of only 281 mV at 10 mA cm-2 and high durability.  The facile synthesis method and excellent electrochem. performance show great potential of
-                         <a class="__cf_email__" data-cfemail="cd83a48ba88d8e" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="410f2807240102" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          in replacing the precious metal-based electrocatalysts in the OER.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogIwAtCBm8FrVg90H21EOLACvtfcHk0liiSeNrKymmlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogIwAtCBm8FrVg90H21EOLACvtfcHk0lhzyWeJzv8pjw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20204,7 +20204,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5aA7c8yWr3LVg90H21EOLACvtfcHk0liiSeNrKymmlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5aA7c8yWr3LVg90H21EOLACvtfcHk0lgXd9fPwps-Gg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20401,7 +20401,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoh1SQL8hcD6rVg90H21EOLACvtfcHk0liiSeNrKymmlg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoh1SQL8hcD6rVg90H21EOLACvtfcHk0lgXd9fPwps-Gg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20596,7 +20596,7 @@ M.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1BxU-wzmXFrVg90H21EOLACvtfcHk0lj3tLY5UQz20w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1BxU-wzmXFrVg90H21EOLACvtfcHk0lgXd9fPwps-Gg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20790,7 +20790,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq0vW9ksLuvqrVg90H21EOLACvtfcHk0lj3tLY5UQz20w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq0vW9ksLuvqrVg90H21EOLACvtfcHk0lib2NhRm32X5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20956,7 +20956,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrnAflHU8Fg_LVg90H21EOLACvtfcHk0lj3tLY5UQz20w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrnAflHU8Fg_LVg90H21EOLACvtfcHk0lib2NhRm32X5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21268,7 +21268,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrcmCn9-SmTHbVg90H21EOLACvtfcHk0ljp1Y_0Cv0rJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrcmCn9-SmTHbVg90H21EOLACvtfcHk0lib2NhRm32X5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21424,7 +21424,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEeeg7dglaBbVg90H21EOLACvtfcHk0ljp1Y_0Cv0rJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEeeg7dglaBbVg90H21EOLACvtfcHk0ljIZy0w6I60sA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21608,18 +21608,18 @@ Casalongue, H. G.
                         </div>
                         <div class="casAbstract">
                          The solar-driven water splitting process is highly attractive for alternative energy utilization, while developing efficient, earth-abundant, bifunctional catalysts for both oxygen evolution reaction and hydrogen evolution reaction has remained as a major challenge.  Herein, we develop an ordered
-                         <a class="__cf_email__" data-cfemail="793a16341736393a37" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="33705c7e5d7c73707d" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          superlattice structure as an efficient bifunctional water-splitting electrocatalyst, in which uniform Co-Mn oxide (CoMnO) nanoparticles are coated with a thin, continuous nitrogen-doped carbon (CN) framework.  The CoMnO nanoparticles enable optimized OER activity with effective electronic structure configuration, and the CN framework serves as an excellent HER catalyst.  Importantly, the ordered superlattice structure is beneficial for enhanced reactive sites, efficient charge transfer, and structural stability.  This bifunctional superlattice catalyst manifests optimized current densities and electrochem. stability in overall water splitting, outperforming most of the previously reported single- or bifunctional electrocatalysts.  Combining with a silicon photovoltaic cell, this
-                         <a class="__cf_email__" data-cfemail="a1e2ceeccfeee1e2ef" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="d89bb795b697989b96" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          superlattice bifunctional catalyst enables unassisted solar water splitting continuously for ∼5 days with a solar-to-hydrogen conversion efficiency of ∼8.0%.  Our discovery suggests that these transition metal oxide-based superlattices may serve as a unique structure modality for efficient bifunctional water splitting electrocatalysts with scale-up potentials.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqusHL6nwtOBLVg90H21EOLACvtfcHk0lhZWn5Uy1D2Xg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqusHL6nwtOBLVg90H21EOLACvtfcHk0ljIZy0w6I60sA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21781,7 +21781,7 @@ Casalongue, H. G.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPlp5aSq4lGrVg90H21EOLACvtfcHk0lhZWn5Uy1D2Xg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPlp5aSq4lGrVg90H21EOLACvtfcHk0ljIZy0w6I60sA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21825,7 +21825,7 @@ Casalongue, H. G.
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_20463">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_45217">
                       </div>
                      </div>
                     </div>
@@ -22893,7 +22893,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad776e083312f2","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb1923b6f6e00c7","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

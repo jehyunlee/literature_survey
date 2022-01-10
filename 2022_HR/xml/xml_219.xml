@@ -626,137 +626,137 @@
          <div class="c-article-section__content" id="Sec1-content">
           <p>
            Fuel cells have great potential as energy systems due to their high energy conversion efficiency and eco-friendliness [
-           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR1" id="ref-link-section-d239083055e444" title="J. Larminie, A. Dicks, Fuel Cell System Explained, 2nd edn. (Wiley, England, 2000)">
+           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR1" id="ref-link-section-d204344465e444" title="J. Larminie, A. Dicks, Fuel Cell System Explained, 2nd edn. (Wiley, England, 2000)">
             1
            </a>
            ]. Fuel cells are classified according to the fuels and electrolytes used. The proton exchange membrane fuel cells (PEMFCs), which utilize a polymer membrane that permeates protons, have attracted considerable attention as a power system for vehicles. A PEMFC possesses a high energy density which allows a long operating life and compact design. A low operating temperature and quick startup are added advantages. However, PEMFCs are not yet viable as compared to other power system technologies, like internal combustion engines and advanced batteries. For PEMFCs to be commercially viable, they must meet performance and durability requirements that are comparable to existing power systems along with being cost-effective. One of the hurdles to achieving cost-effectiveness is the use of an expensive Pt catalyst as a cathode material. The oxygen reduction reaction (ORR) is a sluggish cathode reaction occurring in a PEMFC, and Pt is the most effective catalyst for this reaction [
-           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR2" id="ref-link-section-d239083055e447" title="H.A. Gasteiger, S.S. Kocha, B. Sompalli, F.T. Wagner, Activity benchmarks and requirements for Pt, Pt-alloy, and non-Pt oxygen reduction catalysts for PEMFCs. Appl. Catal. B-Environ. 56, 9–35 (2005).">
+           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR2" id="ref-link-section-d204344465e447" title="H.A. Gasteiger, S.S. Kocha, B. Sompalli, F.T. Wagner, Activity benchmarks and requirements for Pt, Pt-alloy, and non-Pt oxygen reduction catalysts for PEMFCs. Appl. Catal. B-Environ. 56, 9–35 (2005).">
             2
            </a>
            ,
-           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR3" id="ref-link-section-d239083055e450" title="M. Shao, Q. Chang, J.-P. Dodelet, R. Chenitz, Recent advances in electrocatalysts for oxygen reduction reaction. Chem. Rev. 116, 3594–3657 (2016).">
+           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR3" id="ref-link-section-d204344465e450" title="M. Shao, Q. Chang, J.-P. Dodelet, R. Chenitz, Recent advances in electrocatalysts for oxygen reduction reaction. Chem. Rev. 116, 3594–3657 (2016).">
             3
            </a>
            ]. However, its limited availability and high cost have encouraged extensive research on alternatives to Pt-based catalysts [
-           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR4" id="ref-link-section-d239083055e453" title="H. Tsuchiya, O. Kobayashi, Mass production of PEM fuel cell by learning curve. Int. J. Hydrog. Energy 29, 985–990 (2004).">
+           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR4" id="ref-link-section-d204344465e453" title="H. Tsuchiya, O. Kobayashi, Mass production of PEM fuel cell by learning curve. Int. J. Hydrog. Energy 29, 985–990 (2004).">
             4
            </a>
            ]. The ultimate goal is the development of nonprecious catalytic materials like doped carbon and transition metal-based catalysts that show comparable catalytic activity and stability to Pt [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d239083055e456" title="D. Banham, S. Ye, K. Pei, J. Ozaki, T. Kishimoto, Y. Imashiro, A review of the stability and durability of non-precious metal catalysts for the oxygen reduction reaction in proton exchange membrane fuel cells. J. Power Sources 285, 334–348 (2015).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d204344465e456" title="D. Banham, S. Ye, K. Pei, J. Ozaki, T. Kishimoto, Y. Imashiro, A review of the stability and durability of non-precious metal catalysts for the oxygen reduction reaction in proton exchange membrane fuel cells. J. Power Sources 285, 334–348 (2015).">
             5
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d239083055e456_1" title="R. Othman, A.L. Dicks, Z. Zhu, Non precious metal catalysts for the PEM fuel cell cathode. Int. J. Hydrog. Energy 37, 357–372 (2012).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d204344465e456_1" title="R. Othman, A.L. Dicks, Z. Zhu, Non precious metal catalysts for the PEM fuel cell cathode. Int. J. Hydrog. Energy 37, 357–372 (2012).">
             6
            </a>
            ,
-           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR7" id="ref-link-section-d239083055e460" title="H. Lee, M.J. Kim, T. Lim, Y.-E. Sung, H.-J. Kim, H.-N. Lee, O.J. Kwon, Y.-H. Cho, A facile synthetic strategy for iron, aniline-based non-precious metal catalysts for polymer electrolyte membrane fuel cells. Sci. Rep. 7, 5396 (2017).">
+           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR7" id="ref-link-section-d204344465e460" title="H. Lee, M.J. Kim, T. Lim, Y.-E. Sung, H.-J. Kim, H.-N. Lee, O.J. Kwon, Y.-H. Cho, A facile synthetic strategy for iron, aniline-based non-precious metal catalysts for polymer electrolyte membrane fuel cells. Sci. Rep. 7, 5396 (2017).">
             7
            </a>
            ]. However, the catalytic activities toward ORR of the reported nonprecious catalysts are still low, and their stability has not yet been verified.
           </p>
           <p>
            A relatively abundant and less expensive Pd has also been extensively studied as an alternative to Pt due to its similarity to Pt in electronic configuration and chemical properties, in addition to its robustness against poisoning [
-           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR8" id="ref-link-section-d239083055e466" title="E. Antolini, Palladium in fuel cell catalysis. Energy Environ. Sci. 2, 915–931 (2009).">
+           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR8" id="ref-link-section-d204344465e466" title="E. Antolini, Palladium in fuel cell catalysis. Energy Environ. Sci. 2, 915–931 (2009).">
             8
            </a>
            ,
-           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR9" id="ref-link-section-d239083055e469" title="D.C. Papageorgopoulos, M. Keijzer, J.B.J. Veldhuis, F.A. de Bruijn, CO tolerance of Pd-rich platinum palladium carbon-supported electrocatalysts. J. Electrochem. Soc. 149, A1400–A1404 (2002).">
+           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR9" id="ref-link-section-d204344465e469" title="D.C. Papageorgopoulos, M. Keijzer, J.B.J. Veldhuis, F.A. de Bruijn, CO tolerance of Pd-rich platinum palladium carbon-supported electrocatalysts. J. Electrochem. Soc. 149, A1400–A1404 (2002).">
             9
            </a>
            ]. Despite the fact that Pd is expected to exhibit high ORR activity in density functional theory (DFT) calculations, its actual activity is significantly lower than Pt since Pd is oxidized at lesser positive potentials [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d239083055e472" title="J.K. Nørskov, J. Rossmeisl, A. Logadottir, L. Lindqvist, J.R. Kitchin, T. Bligaard, H. Jónsson, Origin of the overpotential for oxygen reduction reaction at a fuel-cell cathode. J. Phys. Chem. B 108, 17886–17892 (2004).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d204344465e472" title="J.K. Nørskov, J. Rossmeisl, A. Logadottir, L. Lindqvist, J.R. Kitchin, T. Bligaard, H. Jónsson, Origin of the overpotential for oxygen reduction reaction at a fuel-cell cathode. J. Phys. Chem. B 108, 17886–17892 (2004).">
             10
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d239083055e472_1" title="E. Pizzutilo, S. Geiger, S.J. Freakley, A. Mingers, S. Cherevko, G.J. Hutchings, K.J.J. Mayrhofer, Palladium electrodissolution from model surfaces and nanoparticles. Electrochim. Acta 229, 467–477 (2017).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d204344465e472_1" title="E. Pizzutilo, S. Geiger, S.J. Freakley, A. Mingers, S. Cherevko, G.J. Hutchings, K.J.J. Mayrhofer, Palladium electrodissolution from model surfaces and nanoparticles. Electrochim. Acta 229, 467–477 (2017).">
             11
            </a>
            ,
-           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR12" id="ref-link-section-d239083055e475" title="J.J. Salvador-Pascual, S. Citalán-Cigarroa, O. Solorza-Feria, Kinetics of oxygen reduction reaction on nanosized Pd electrocatalyst in acid media. J. Power Sources 172, 229–234 (2007).">
+           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR12" id="ref-link-section-d204344465e475" title="J.J. Salvador-Pascual, S. Citalán-Cigarroa, O. Solorza-Feria, Kinetics of oxygen reduction reaction on nanosized Pd electrocatalyst in acid media. J. Power Sources 172, 229–234 (2007).">
             12
            </a>
            ]. In addition, nanoparticulate Pd, which is the most common form of the Pd catalyst, is vulnerable to coarsening and dissolution in acidic media, which lead to electrochemical activity loss in PEMFC operations [
-           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR13" id="ref-link-section-d239083055e478" title="J. Wu, X.Z. Yuan, J.J. Martin, H. Wang, J. Zhang, J. Shen, S. Wu, W. Merida, A review of PEM fuel cell durability: degradation mechanisms and mitigation strategies. J. Power Sources 184, 104–119 (2008).">
+           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR13" id="ref-link-section-d204344465e478" title="J. Wu, X.Z. Yuan, J.J. Martin, H. Wang, J. Zhang, J. Shen, S. Wu, W. Merida, A review of PEM fuel cell durability: degradation mechanisms and mitigation strategies. J. Power Sources 184, 104–119 (2008).">
             13
            </a>
            ]. Hence, a majority of the studies focus on the use of Pd as a co-material to other metals, including Pt, to improve electrocatalytic activity and stability as well as reduce costs [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d239083055e482" title="E. Antolini, S.C. Zignani, S.F. Santos, E.R. Gonzalez, Palladium-based electrodes: a way to reduce platinum content in polymer electrolyte membrane fuel cells. Electrochim. Acta 56, 2299–2305 (2011).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d204344465e482" title="E. Antolini, S.C. Zignani, S.F. Santos, E.R. Gonzalez, Palladium-based electrodes: a way to reduce platinum content in polymer electrolyte membrane fuel cells. Electrochim. Acta 56, 2299–2305 (2011).">
             14
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d239083055e482_1" title="E. Antolini, Alloy vs. intermetallic compounds: effect of the ordering on the electrocatalytic activity for oxygen reduction and the stability of low temperature fuel cell catalysts. Appl. Catal. B-Environ. 217, 201–213 (2017).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d204344465e482_1" title="E. Antolini, Alloy vs. intermetallic compounds: effect of the ordering on the electrocatalytic activity for oxygen reduction and the stability of low temperature fuel cell catalysts. Appl. Catal. B-Environ. 217, 201–213 (2017).">
             15
            </a>
            ,
-           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR16" id="ref-link-section-d239083055e485" title="J.N. Tiwari, W.G. Lee, S. Sultan, M. Yousuf, A.M. Harzandi, V. Vij, K.S. Kim, High-affinity-assisted nanoscale alloys as remarkable bifunctional catalyst for alcohol oxidation and oxygen reduction reactions. ACS Nano 11, 7729–7735 (2017).">
+           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR16" id="ref-link-section-d204344465e485" title="J.N. Tiwari, W.G. Lee, S. Sultan, M. Yousuf, A.M. Harzandi, V. Vij, K.S. Kim, High-affinity-assisted nanoscale alloys as remarkable bifunctional catalyst for alcohol oxidation and oxygen reduction reactions. ACS Nano 11, 7729–7735 (2017).">
             16
            </a>
            ]. Efforts to improve the ORR activity and stability of Pd catalysts, however, are still under way. Xiao et al. demonstrated that Pd nanorods can exhibit ORR activity that is comparable to bulk Pt activity by controlling the surface crystalline structure of Pd [
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR17" id="ref-link-section-d239083055e488" title="L. Xiao, L. Zhuang, Y. Liu, J. Lu, H.D. Abruña, Activating Pd by morphology tailoring for oxygen reduction. J. Am. Chem. Soc. 131, 602–608 (2009).">
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR17" id="ref-link-section-d204344465e488" title="L. Xiao, L. Zhuang, Y. Liu, J. Lu, H.D. Abruña, Activating Pd by morphology tailoring for oxygen reduction. J. Am. Chem. Soc. 131, 602–608 (2009).">
             17
            </a>
            ]. Yang et al. synthesized a Pd/nanoporous carbon support and achieved higher ORR activity and stability levels [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR18" id="ref-link-section-d239083055e491" title="Z. Yang, Y. Ling, Y. Zhang, G. Xu, High performance palladium supported on nanoporous carbon under anhydrous condition. Sci. Rep. 6, 36521 (2016).">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR18" id="ref-link-section-d204344465e491" title="Z. Yang, Y. Ling, Y. Zhang, G. Xu, High performance palladium supported on nanoporous carbon under anhydrous condition. Sci. Rep. 6, 36521 (2016).">
             18
            </a>
            ]. The Pd particle size effect on the stability of Pd/C toward voltage cycling was investigated by Mittermeier et al. to show that larger Pd particles are more tolerant to coarsening and dissolution than smaller ones [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR19" id="ref-link-section-d239083055e494" title="T. Mittermeier, A. Weiß, H.A. Gasteiger, F. Hasché, Monometallic palladium for oxygen reduction in PEM fuel cells: particle-size effect, reaction mechanism, and voltage cycling stability. J. Electrochem. Soc. 164, F1081–F1089 (2017).">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR19" id="ref-link-section-d204344465e494" title="T. Mittermeier, A. Weiß, H.A. Gasteiger, F. Hasché, Monometallic palladium for oxygen reduction in PEM fuel cells: particle-size effect, reaction mechanism, and voltage cycling stability. J. Electrochem. Soc. 164, F1081–F1089 (2017).">
             19
            </a>
            ]. It was also reported by Cai and co-workers that incorporating a light metalloid element like B to the interstices of the Pd lattice improves ORR activity by downshifting the Pd d-band center [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR20" id="ref-link-section-d239083055e497" title="M. Wang, X. Qin, K. Jiang, Y. Dong, M. Shao, W.-B. Cai, Electrocatalytic activities of oxygen reduction reaction on Pd/C and Pd-B/C catalysts. J. Phys. Chem. C 121, 3416–3423 (2017).">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR20" id="ref-link-section-d204344465e497" title="M. Wang, X. Qin, K. Jiang, Y. Dong, M. Shao, W.-B. Cai, Electrocatalytic activities of oxygen reduction reaction on Pd/C and Pd-B/C catalysts. J. Phys. Chem. C 121, 3416–3423 (2017).">
             20
            </a>
            ].
           </p>
           <p>
            Recently, the encapsulation of individual nanoparticle catalysts with porous materials has been focused for achieving high electrochemical activity as well as stability in PEMFCs. Porous materials like carbon and silica, which are electrochemically stable, protect nanocatalysts from coarsening and dissolution but allow oxygen transport, maintaining the ORR activity of the catalyst [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR21" id="ref-link-section-d239083055e503" title="S. Takenaka, H. Miyamoto, Y. Utsunomiya, H. Matsune, M. Kishida, Catalytic activity of highly durable Pt/CNT catalysts covered with hydrophobic silica layers for the oxygen reduction reaction in PEFCs. J. Phys. Chem. C 118, 774–783 (2014).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR21" id="ref-link-section-d204344465e503" title="S. Takenaka, H. Miyamoto, Y. Utsunomiya, H. Matsune, M. Kishida, Catalytic activity of highly durable Pt/CNT catalysts covered with hydrophobic silica layers for the oxygen reduction reaction in PEFCs. J. Phys. Chem. C 118, 774–783 (2014).">
             21
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR22" id="ref-link-section-d239083055e503_1" title="Y. Nie, S. Chen, W. Ding, X. Xie, Y. Zhang, Z. Wei, Pt/C trapped in activated graphitic carbon layers as a highly durable electrocatalyst for the oxygen reduction reaction. Chem. Commun. 50, 15431–15434 (2014).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR22" id="ref-link-section-d204344465e503_1" title="Y. Nie, S. Chen, W. Ding, X. Xie, Y. Zhang, Z. Wei, Pt/C trapped in activated graphitic carbon layers as a highly durable electrocatalyst for the oxygen reduction reaction. Chem. Commun. 50, 15431–15434 (2014).">
             22
            </a>
            ,
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d239083055e506" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d204344465e506" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
             23
            </a>
            ]. Among these, carbon materials have been extensively studied due to their tunability by doping with N, P, and other nonprecious metals [
-           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR7" id="ref-link-section-d239083055e509" title="H. Lee, M.J. Kim, T. Lim, Y.-E. Sung, H.-J. Kim, H.-N. Lee, O.J. Kwon, Y.-H. Cho, A facile synthetic strategy for iron, aniline-based non-precious metal catalysts for polymer electrolyte membrane fuel cells. Sci. Rep. 7, 5396 (2017).">
+           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR7" id="ref-link-section-d204344465e509" title="H. Lee, M.J. Kim, T. Lim, Y.-E. Sung, H.-J. Kim, H.-N. Lee, O.J. Kwon, Y.-H. Cho, A facile synthetic strategy for iron, aniline-based non-precious metal catalysts for polymer electrolyte membrane fuel cells. Sci. Rep. 7, 5396 (2017).">
             7
            </a>
            ,
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d239083055e512" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d204344465e512" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
             23
            </a>
            ,
-           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR24" id="ref-link-section-d239083055e515" title="J. Tang, J. Liu, N.L. Torad, T. Kimura, Y. Yamauchi, Tailored design of functional nanoporous carbon materials toward fuel cell applications. Nano Today 9, 305–323 (2014).">
+           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR24" id="ref-link-section-d204344465e515" title="J. Tang, J. Liu, N.L. Torad, T. Kimura, Y. Yamauchi, Tailored design of functional nanoporous carbon materials toward fuel cell applications. Nano Today 9, 305–323 (2014).">
             24
            </a>
            ]. Doping significantly changes the electronic structure of carbon materials so that the doped carbon itself can have ORR activity. It has been reported that the encapsulation of the Pt nanoparticle catalyst with N-doped carbon exhibits a synergetic effect in achieving both higher electrochemical activity and stability [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR25" id="ref-link-section-d239083055e519" title="L. Guo, W.-J. Jiang, Y. Zhang, J.-S. Hu, Z.-D. Wei, L.-J. Wan, Embedding Pt nanocrystals in N-doped porous carbon/carbon nanotubes towards highly stable electrocatalysts for the oxygen reduction reaction. ACS Catal. 5, 2903–2909 (2015).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR25" id="ref-link-section-d204344465e519" title="L. Guo, W.-J. Jiang, Y. Zhang, J.-S. Hu, Z.-D. Wei, L.-J. Wan, Embedding Pt nanocrystals in N-doped porous carbon/carbon nanotubes towards highly stable electrocatalysts for the oxygen reduction reaction. ACS Catal. 5, 2903–2909 (2015).">
             25
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR26" id="ref-link-section-d239083055e519_1" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR26" id="ref-link-section-d204344465e519_1" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
             26
            </a>
            ,
-           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR27" id="ref-link-section-d239083055e522" title="Q. Zhang, X. Yu, Y. Ling, W. Cai, Z. Yang, Ultrathin nitrogen doped carbon layer stabilized Pt electrocatalyst supported on N-doped carbon nanotubes. Int. J. Hydrog. Energy 42, 10354–10362 (2017).">
+           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR27" id="ref-link-section-d204344465e522" title="Q. Zhang, X. Yu, Y. Ling, W. Cai, Z. Yang, Ultrathin nitrogen doped carbon layer stabilized Pt electrocatalyst supported on N-doped carbon nanotubes. Int. J. Hydrog. Energy 42, 10354–10362 (2017).">
             27
            </a>
            ]. In these studies, the N-doped carbon layer was generally formed on the pre-synthesized Pt nanoparticles via N-containing polymer deposition (e.g., polyaniline) and the subsequent carbonization process. However, few studies looked at the Pd catalyst, even though a protecting layer seems to be more essential for the less noble Pd. Herein, a facile synthesis method of the Pd catalyst encapsulated with N-containing carbon for ORR is demonstrated. We synthesized the catalyst using a one-step procedure where the chemical reduction of Pd precursors is accompanied by the oxidative polymerization of aniline [
-           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR28" id="ref-link-section-d239083055e525" title="A. Drelinkiewicz, M. Hasik, M. Kloc, Pd-PANI: preparation and catalytic properties. Synth. Met. 102, 1307–1308 (1999).">
+           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR28" id="ref-link-section-d204344465e525" title="A. Drelinkiewicz, M. Hasik, M. Kloc, Pd-PANI: preparation and catalytic properties. Synth. Met. 102, 1307–1308 (1999).">
             28
            </a>
            ,
-           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d239083055e528" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
+           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d204344465e528" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
             29
            </a>
            ]. We previously reported on a one-step method to synthesize the Pt catalyst encapsulated in N-containing carbon layer using Pt-aniline complexes, achieving higher ORR activity and stability than commercial Pt/C [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d239083055e531" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d204344465e531" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
             26
            </a>
            ]. A similar strategy was applied to Pd in this study.
@@ -863,11 +863,11 @@
             6
            </sub>
            -aniline mixture after ultrasound irradiation. No carbon black was added to the mixture in this case. As shown in the figures, the rod-shaped Pd-PANI is surrounded by a 5-nm-thick polyaniline with Pd nanoparticles approximately 2 nm in size embedded in the structure. During ultrasound irradiation, the aniline monomer released an electron in each polymerization step, reducing Pd ions to Pd atoms simultaneously. The reduced Pd atoms were subsequently aggregated and stabilized in a polyaniline matrix [
-           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR28" id="ref-link-section-d239083055e605" title="A. Drelinkiewicz, M. Hasik, M. Kloc, Pd-PANI: preparation and catalytic properties. Synth. Met. 102, 1307–1308 (1999).">
+           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR28" id="ref-link-section-d204344465e605" title="A. Drelinkiewicz, M. Hasik, M. Kloc, Pd-PANI: preparation and catalytic properties. Synth. Met. 102, 1307–1308 (1999).">
             28
            </a>
            ,
-           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d239083055e608" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
+           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d204344465e608" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
             29
            </a>
            ]. EDS mapping images (Fig.
@@ -887,7 +887,7 @@
             o
            </i>
            -methoxyaniline mixture was reported by Mallick et al. [
-           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d239083055e622" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
+           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR29" id="ref-link-section-d204344465e622" title="K. Mallick, M.J. Witcomb, M.S. Scurrell, Formation of palladium nanoparticles in poly (o-methoxyaniline) macromolecule fibers: An in-situ chemical synthesis method. Eur. Phys. J. E 19, 149–154 (2006).">
             29
            </a>
            ]. The formation of Pd-PANI was also confirmed from the ultraviolet-visible absorption spectrum which shows the absorption peaks associated with π-π
@@ -899,15 +899,15 @@
             *
            </sup>
            transition peak from its original position (320 nm) indicates the interaction between Pd nanoparticles and N atoms of polyaniline [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR30" id="ref-link-section-d239083055e630" title="K. Mallick, M. Witcomb, M. Scurrell, Palladium-polyaniline and palladium-polyaniline derivative composite materials. Platin. Met. Rev. 51, 3–15 (2007)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR30" id="ref-link-section-d204344465e630" title="K. Mallick, M. Witcomb, M. Scurrell, Palladium-polyaniline and palladium-polyaniline derivative composite materials. Platin. Met. Rev. 51, 3–15 (2007)">
             30
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR31" id="ref-link-section-d239083055e630_1" title="S. Dutt, R. Kumar, P.F. Siril, Green synthesis of a palladium-polyaniline nanocomposite for green Suzuki-Miyaura coupling reactions. RSC Adv. 5, 33786–33791 (2015).">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR31" id="ref-link-section-d204344465e630_1" title="S. Dutt, R. Kumar, P.F. Siril, Green synthesis of a palladium-polyaniline nanocomposite for green Suzuki-Miyaura coupling reactions. RSC Adv. 5, 33786–33791 (2015).">
             31
            </a>
            ,
-           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d239083055e633" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
+           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d204344465e633" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
             32
            </a>
            ].
@@ -957,7 +957,7 @@
             2
            </a>
            shows the TGA profiles of Pd-PANI, aniline monomer (aniline hydrochloride), and commercial polyaniline (average molecular weight &gt; 15,000, Sigma-Aldrich, St. Louis, Missouri, USA). The aniline monomer decomposed at 170 °C, demonstrating a sharp decrease in weight. In the case of polyaniline, three weight loss steps were observed: water removal (40 °C), low-molecular-weight polyaniline decomposition (270 °C), and high-molecular-weight polyaniline decomposition (600 °C). The weight loss in a wide temperature range in the third step was due to the variation in the molecular weight of polyaniline. Pd-PANI also showed three weight loss steps. The first weight loss (260 °C) can be attributed to low-molecular-weight polyaniline decomposition. The second weight loss, starting at 270 °C, can be attributed to the removal of Cl from the polyaniline matrix, which was also observed in our previous study [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d239083055e652" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d204344465e652" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
             26
            </a>
            ]. After the removal of Cl, no further weight loss occurred up to 700 °C, where the third weight loss step was initiated. The origin of the third weight loss step is not clear. However, it was assumed that the decomposition of high-molecular-weight polyaniline causes the third weight loss step, although the temperature range does not exactly match that of commercial polyaniline. The decomposition mechanism of Pd-PANI has not yet been fully understood.
@@ -1011,7 +1011,7 @@
             2
            </a>
            . However, regardless of the heat treatment temperature, each Pd nanoparticle was encapsulated in a carbon shell of 1–2 nm thickness corresponding to 2 or 3 layers of carbon. The carbon layer originates from the polyaniline decomposition, as reported previously [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d239083055e674" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d204344465e674" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
             26
            </a>
            ]. The carbon-coated Pd nanoparticles were uniformly distributed over carbon black after the heat treatment, except for Pd-PANI-K@900 °C. Pd nanoparticles showed a strong aggregation at such a high temperature, leading to a large deviation (± 22 nm) in their size (Fig.
@@ -1065,15 +1065,15 @@
             4
            </a>
            shows XRD spectra of heat-treated Pd-PANI-Ks. The diffraction peaks of crystalline polyaniline were usually observed between 20° and 30°, which originated from the highly pronounced oscillation structure of polyaniline [
-           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d239083055e697" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
+           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d204344465e697" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
             32
            </a>
            ]. However, various kinds of diffraction peaks were detected in the wide range of 2 theta from the as-prepared Pd-PANI-K. This indicates that the synthesized Pd-PANI-K is highly crystalline. Although assigning all the diffraction peaks was not possible due to the lack of information, high crystallinity might have resulted from the ultrasound irradiation and the specific coordination between Pd and aniline [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d239083055e700" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR26" id="ref-link-section-d204344465e700" title="H. Lee, Y.-E. Sung, I. Choi, T. Lim, O.J. Kwon, Novel synthesis of highly durable and active Pt catalyst encapsulated in nitrogen containing carbon for polymer electrolyte membrane fuel cell. J. Power Sources 362, 228–235 (2017).">
             26
            </a>
            ,
-           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d239083055e703" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
+           <a aria-label="Reference 32" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR32" id="ref-link-section-d204344465e703" title="H. Liu, X.B. Hu, J.Y. Wang, R.I. Boughton, Structure, conductivity, and thermopower of crystalline polyaniline synthesized by the ultrasonic irradiation polymerization method. Macromolecules 35, 9414–9419 (2002).">
             32
            </a>
            ]. The characteristic peaks of Pd were rarely observed before heat treatment, even though reduced Pd was observed from the TEM images (Fig.
@@ -1081,7 +1081,7 @@
             1b
            </a>
            inset). This indicates that the Pd nanoparticles in the as-prepared Pd-PANI-K are close to amorphous, rather than crystalline. After heat treatment at 300 °C, most diffraction peaks observed from the as-prepared Pd-PANI-K were found to be significantly diminished due to the decomposition of polyaniline, while two new peaks appeared at 39.4° and 45.8°. These two peaks then shifted to high angles with the heat treatment temperature to reach the bulk Pd(111) and Pd(200) positions at 40.1° and 46.6°, respectively. The Pd in the as-prepared Pd-PANI-K, which is nearly amorphous due to the incorporation of excess N atoms, started to agglomerate and form crystalline Pd nitrides under heat treatment, exhibiting new diffraction peaks that appeared at lower angles than those of the pure bulk Pd. The incorporation of N into the Pd lattice increased lattice spacing, thereby shifting the diffraction peaks of Pd to lower angles [
-           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d239083055e710" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
+           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d204344465e710" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
             33
            </a>
            ]. As the heat treatment temperature increased, the agglomeration severity also increased, causing the simultaneous release of N atoms from Pd nitrides. The release of N atoms from the Pd matrix shifted the diffraction peaks to higher angles. At the highest temperature (900 °C), therefore, the characteristic diffraction peaks of Pd(111) and Pd(200) were clearly observed since most N atoms were released from the Pd matrix. The sizes of the Pd nanoparticles calculated by the Scherrer equation were 2.7 nm, 4.3 nm, 17.3 nm, and 18.6 nm for 300 °C, 500 °C, 700 °C, and 900 °C, respectively, which is similar to the values shown in Fig.
@@ -1147,7 +1147,7 @@
             6.7
            </sub>
            ) as reported by Veith et al. [
-           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d239083055e739" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
+           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d204344465e739" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
             33
            </a>
            ]. Pd
@@ -1191,7 +1191,7 @@
             0
            </sup>
            . Unfortunately, there is a lack of clarity on the dominant factor. Either way, the positive shift of the Pd core-level binding energy is known to be beneficial to ORR as it accompanies a down shift of the d-band center of Pd [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR20" id="ref-link-section-d239083055e764" title="M. Wang, X. Qin, K. Jiang, Y. Dong, M. Shao, W.-B. Cai, Electrocatalytic activities of oxygen reduction reaction on Pd/C and Pd-B/C catalysts. J. Phys. Chem. C 121, 3416–3423 (2017).">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR20" id="ref-link-section-d204344465e764" title="M. Wang, X. Qin, K. Jiang, Y. Dong, M. Shao, W.-B. Cai, Electrocatalytic activities of oxygen reduction reaction on Pd/C and Pd-B/C catalysts. J. Phys. Chem. C 121, 3416–3423 (2017).">
             20
            </a>
            ]. At heat treatment temperatures higher than 300 °C, Pd
@@ -1207,11 +1207,11 @@
             5b
            </a>
            . The two N 1 s peaks might be attributed to the presence of pyrrolic N and pyridinic N in a carbon shell. N atoms in Pd-rich and N-rich Pd also showed core-level binding energies around 398 eV and 399 eV–402 eV, respectively [
-           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d239083055e776" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
+           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d204344465e776" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
             33
            </a>
            ]. Unfortunately, these peaks had high overlap which made it difficult to deconvolute the N 1 s spectra. However, it was assumed that the N atoms in the carbon layer surrounding the Pd nanoparticles will have a larger effect on the N 1 s spectra than those in the Pd matrix. Therefore, the N 1 s spectra was deconvoluted into two peaks, corresponding to pyrrolic N and pyridinic N. The peak intensity of pyridinic N decreased with an increase in the heat treatment temperature. Pyridinic N is also known as an additional active site for ORR, whereas pyrrolic N is inactive for the same [
-           <a aria-label="Reference 34" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR34" id="ref-link-section-d239083055e779" title="O.-H. Kim, Y.-H. Cho, D.Y. Chung, M.J. Kim, J.M. Yoo, J.E. Park, H. Choe, Y.-E. Sung, Facile and gram-scale synthesis of metal-free catalysts: toward realistic applications for fuel cells. Sci. Rep. 5, 8376 (2015).">
+           <a aria-label="Reference 34" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR34" id="ref-link-section-d204344465e779" title="O.-H. Kim, Y.-H. Cho, D.Y. Chung, M.J. Kim, J.M. Yoo, J.E. Park, H. Choe, Y.-E. Sung, Facile and gram-scale synthesis of metal-free catalysts: toward realistic applications for fuel cells. Sci. Rep. 5, 8376 (2015).">
             34
            </a>
            ].
@@ -1276,7 +1276,7 @@
             4
            </a>
            ). A carbon layer enhances the stability of the Pd catalyst by protecting Pd from dissolution. However, it also blocks ORR active sites of Pd if the thickness is very high. The consecutive potential cycling leads to slight carbon corrosion, exposing more active sites of Pd [
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d239083055e808" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR23" id="ref-link-section-d204344465e808" title="X. Tong, J. Zhang, G. Zhang, Q. Wei, R. Chenitz, J.P. Claverie, S. Sun, Ultrathin carbon-coated Pt/carbon nanotubes: a highly durable electrocatalyst for oxygen reduction. Chem. Mater. 29, 9579–9587 (2017).">
             23
            </a>
            ]. In the case of Pd/C, the
@@ -1367,15 +1367,15 @@
             1/2
            </sub>
            and ECSA of the catalysts before and after potential cycling. The ECSA values were obtained from the hydrogen adsorption/desorption charge in the potential region between 0.10 V and 0.40 V to minimize contributions from hydrogen absorption by Pd [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR19" id="ref-link-section-d239083055e854" title="T. Mittermeier, A. Weiß, H.A. Gasteiger, F. Hasché, Monometallic palladium for oxygen reduction in PEM fuel cells: particle-size effect, reaction mechanism, and voltage cycling stability. J. Electrochem. Soc. 164, F1081–F1089 (2017).">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR19" id="ref-link-section-d204344465e854" title="T. Mittermeier, A. Weiß, H.A. Gasteiger, F. Hasché, Monometallic palladium for oxygen reduction in PEM fuel cells: particle-size effect, reaction mechanism, and voltage cycling stability. J. Electrochem. Soc. 164, F1081–F1089 (2017).">
             19
            </a>
            ,
-           <a aria-label="Reference 35" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR35" id="ref-link-section-d239083055e857" title="A. Zalineeva, S. Baranton, C. Coutanceau, G. Jerkiewicz, Electrochemical behavior of unsupported shaped palladium nanoparticles. Langmuir 31, 1605–1609 (2015).">
+           <a aria-label="Reference 35" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR35" id="ref-link-section-d204344465e857" title="A. Zalineeva, S. Baranton, C. Coutanceau, G. Jerkiewicz, Electrochemical behavior of unsupported shaped palladium nanoparticles. Langmuir 31, 1605–1609 (2015).">
             35
            </a>
            ,
-           <a aria-label="Reference 36" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR36" id="ref-link-section-d239083055e860" title="A. Zalineeva, S. Baranton, C. Coutanceau, G. Jerkiewicz, Octahedral palladium nanoparticles as excellent hosts for electrochemically adsorbed and absorbed hydrogen. Sci. Adv. 3, e1600542 (2017).">
+           <a aria-label="Reference 36" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR36" id="ref-link-section-d204344465e860" title="A. Zalineeva, S. Baranton, C. Coutanceau, G. Jerkiewicz, Octahedral palladium nanoparticles as excellent hosts for electrochemically adsorbed and absorbed hydrogen. Sci. Adv. 3, e1600542 (2017).">
             36
            </a>
            ]. The
@@ -1394,7 +1394,7 @@
             6.7
            </sub>
            ) was less active than metallic Pd in the catalytic oxidation of benzyl alcohol due to lack of active sites [
-           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d239083055e873" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
+           <a aria-label="Reference 33" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s12678-019-00567-w#ref-CR33" id="ref-link-section-d204344465e873" title="G.M. Veith, A.R. Lupini, L. Baggetto, J.F. Browning, J.K. Keum, A. Villa, L. Prati, A.B. Papandrew, G.A. Goenaga, D.R. Mullins, S.E. Bullock, N.J. Dudney, Evidence for the formation of nitrogen-rich platinum and palladium nitride nanoparticles. Chem. Mater. 25, 4936–4945 (2013).">
             33
            </a>
            ]. Nonetheless, the high stability of the two catalysts clearly indicates that the use of aniline as a source of a carbon layer covering Pd nanoparticles was effective in protecting Pd from dissolution. The CV and ORR curves for all heat-treated Pd-PANI-Ks are shown in Fig.

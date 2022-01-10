@@ -1,237 +1,3364 @@
-<!DOCTYPE html>
-<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
-<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
-<!--[if gt IE 8]><!-->
-<html class="no-js" lang="en-US">
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<!--[if IE 7]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie7"><![endif]-->
+<!--[if IE 8]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie8"><![endif]-->
+<!--[if IE 9]><html xmlns="http://www.w3.org/1999/xhtml" lang="eng" xml:lang="eng" class="ie9"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="eng" xml:lang="eng" xmlns="http://www.w3.org/1999/xhtml" xmlns:mml="http://www.w3.org/1998/Math/MathML">
  <!--<![endif]-->
  <head>
   <title>
-   Please Wait... | Cloudflare
+   Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction
   </title>
-  <meta id="captcha-bypass" name="captcha-bypass"/>
-  <meta charset="utf-8"/>
+  <meta content="" name="google-site-verification"/>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
-  <meta content="noindex, nofollow" name="robots"/>
-  <meta content="width=device-width,initial-scale=1" name="viewport"/>
-  <link href="/cdn-cgi/styles/cf.errors.css" id="cf_styles-css" media="screen,projection" rel="stylesheet" type="text/css"/>
-  <!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
-  <style type="text/css">
-   body{margin:0;padding:0}
-  </style>
-  <!--[if gte IE 10]><!-->
-  <script>
-   if (!navigator.cookieEnabled) {
-    window.addEventListener('DOMContentLoaded', function () {
-      var cookieEl = document.getElementById('cookie-alert');
-      cookieEl.style.display = 'block';
-    })
-  }
+  <meta content="telephone=no" name="format-detection"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction" name="citation_title"/>
+  <link href="/flowplayer/skin/minimalist.css" rel="stylesheet"/>
+  <script src="https://code.jquery.com/jquery-1.11.0.js">
   </script>
-  <!--<![endif]-->
+  <script src="/flowplayer/flowplayer.min.js">
+  </script>
+  <script src="//developers.kakao.com/sdk/js/kakao.min.js">
+  </script>
+  <link href="/image/icon/favicon.ico" rel="shortcut icon"/>
+  <link href="/css/common_v1.1.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/style.css?1641774711" rel="stylesheet" type="text/css"/>
+  <script src="/script/jquery.js" type="text/javascript">
+  </script>
+  <script src="/script/jquery.placeholder.js" type="text/javascript">
+  </script>
+  <script src="/script/user.js" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   function showBox(obj) {
+		if(reviewLayer.style.display == "block") return;
+		reviewLayer.innerText=document.getElementById(obj.href.split("#")[1]).textContent;
+		reviewLayer.style.top = (event.pageY ? event.pageY : (document.documentElement.scrollTop + event.clientY )) + "px";
+		reviewLayer.style.left = (document.body.clientWidth <= (event.clientX + 310) ? -310 : 10)+ event.clientX + "px";
+		reviewLayer.style.display = "block";
+	}
+	//altmetric-embed 새창연결
+	function blank_action(){
+		$(".altmetric-embed").find('a').attr('target','_blank');
+	}
+  </script>
+  <meta content="doi:10.33961/jecst.2020.01767" name="dc.identifier"/>
+  <meta content="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2020.01767" name="citation_fulltext_html_url"/>
+  <meta content="The Korean Electrochemical Society" name="citation_publisher"/>
+  <meta content="Journal of Electrochemical Science and Technology" name="citation_journal_title"/>
+  <meta content="J. Electrochem. Sci. Technol" name="citation_journal_abbrev"/>
+  <meta content="Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction" name="citation_title"/>
+  <meta content="Baeck B. Choi" name="citation_author"/>
+  <meta content="Department of Chemical Engineering, University of Florida, Gainesville, FL 32611 USA" name="citation_author_institution"/>
+  <meta content="Bethy Kim" name="citation_author"/>
+  <meta content="Department of Chemistry, University of Florida, Gainesville, FL 32611 USA" name="citation_author_institution"/>
+  <meta content="Yiqi Chen" name="citation_author"/>
+  <meta content="Department of Chemical Engineering, University of Florida, Gainesville, FL 32611 USA" name="citation_author_institution"/>
+  <meta content="Peng Jiang" name="citation_author"/>
+  <meta content="Department of Chemical Engineering, University of Florida, Gainesville, FL 32611 USA" name="citation_author_institution"/>
+  <meta content="b.choi@kepco.co.kr" name="citation_author_email"/>
+  <meta content="2021/2/19" name="citation_publication_date"/>
+  <meta content="12" name="citation_volume"/>
+  <meta content="2" name="citation_issue"/>
+  <meta content="167" name="citation_firstpage"/>
+  <meta content="172" name="citation_lastpage"/>
+  <meta content="10.33961/jecst.2020.01767" name="citation_doi"/>
+  <meta content="2093-8551" name="citation_issn"/>
+  <meta content="2288-9221" name="citation_issn"/>
+  <meta content="https://www.jecst.org/upload/pdf/jecst-2020-01767.pdf" name="citation_pdf_url"/>
+  <meta content="English" name="citation_language"/>
+  <meta content="Surface Plasmon Resonance; SPR; Au Reconstruction; Sensitivity" name="citation_keywords"/>
+  <meta content="citation_title=; citation_author=J Homola; citation_journal_title=Chem Rev; citation_volume=108; citation_issue=108; citation_pages=462-493; citation_date=2008;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=JN Anker; citation_author=WP Hall; citation_author=O Lyandres; citation_author=NC Shah; citation_author=J Zhao; citation_author=RP Van Duyne; citation_journal_title=Nanosci Technol A Collect Rev from Nat Journals; citation_volume=; citation_issue=; citation_pages=308-319; citation_date=2009;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=KA Willets; citation_author=RP Van Duyne; citation_journal_title=Annu Rev Phys Chem; citation_volume=58; citation_issue=58; citation_pages=267-297; citation_date=2007;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=HC Jeon; citation_author=CJ Heo; citation_author=SY Lee; citation_author=SG Park; citation_author=SM Yang; citation_journal_title=J Mater Chem; citation_volume=22; citation_issue=22; citation_pages=4603-4606; citation_date=2012;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=SY Lee; citation_author=HC Jeon; citation_author=SM Yang; citation_journal_title=J Mater Chem; citation_volume=22; citation_issue=22; citation_pages=5900-5913; citation_date=2012;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=X Dou; citation_author=PY Chung; citation_author=P Jiang; citation_author=J Dai; citation_journal_title=Appl Phys Lett; citation_volume=100; citation_issue=100; citation_pages=041116-041119; citation_date=2012;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Yu; citation_author=H Tao; citation_author=B Cheng; citation_journal_title=ChemPhysChem; citation_volume=11; citation_issue=11; citation_pages=1617-1618; citation_date=2010;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=EM Larsson; citation_author=C Langhammer; citation_author=I Zorić; citation_author=B Kasemo; citation_journal_title=Science (80-); citation_volume=326; citation_issue=326; citation_pages=1091-1094; citation_date=2009;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=B Choi; citation_author=X Dou; citation_author=Y Fang; citation_author=BM Phillips; citation_author=P Jiang; citation_journal_title=Phys Chem Chem Phys; citation_volume=18; citation_issue=18; citation_pages=26078-26087; citation_date=2016;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=T Kondo; citation_author=J Morita; citation_author=K Hanaoka; citation_author=S Takakusagi; citation_author=K Tamura; citation_author=M Takahasi; citation_author=JNI Mizuki; citation_author=K Uosaki; citation_journal_title=J Phys Chem C; citation_volume=111; citation_issue=111; citation_pages=13197-13204; citation_date=2007;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=OA Hazzazi; citation_author=GA Attard; citation_author=PB Wells; citation_author=FJ Vidal-Iglesias; citation_author=M Casadesus; citation_journal_title=J Electroanal Chem; citation_volume=625; citation_issue=625; citation_pages=123-130; citation_date=2009;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Wang; citation_author=AJ Davenport; citation_author=HS Isaacs; citation_author=BM Ocko; citation_journal_title=Science (80-); citation_volume=255; citation_issue=255; citation_pages=1416-1418; citation_date=1991;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Wang; citation_author=BM Ocko; citation_author=AJ Davenport; citation_author=HS Issacs; citation_journal_title=Phys Rev B; citation_volume=46; citation_issue=46; citation_pages=10321-10338; citation_date=1992;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=T Kondo; citation_author=J Zegenhagen; citation_author=S Takakusagi; citation_author=K Uosaki; citation_journal_title=Surf Sci; citation_volume=631; citation_issue=631; citation_pages=96-104; citation_date=2015;" name="citation_reference"/>
+  <meta content='&lt;html xmlns:mml="http://www.w3.org/1998/Math/MathML"&gt;' name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Schneider; citation_author=DM Kolb; citation_journal_title=Surf Sci; citation_volume=193; citation_issue=193; citation_pages=579-592; citation_date=1988;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=DM Kolb; citation_author=J Schneider; citation_journal_title=Surf Sci; citation_volume=162; citation_issue=162; citation_pages=764-775; citation_date=1985;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=RR Abbas; citation_author=TH Richardson; citation_author=A Hobson; citation_author=A Hassan; citation_author=TR Abbas; citation_journal_title=Colloids Surfaces A Physicochem Eng Asp; citation_volume=444; citation_issue=444; citation_pages=95-103; citation_date=2014;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=C Yan; citation_author=Y Chen; citation_author=A Jin; citation_author=M Wang; citation_author=X Kong; citation_author=X Zhang; citation_author=Y Ju; citation_author=L Han; citation_journal_title=Appl Surf Sci; citation_volume=258; citation_issue=258; citation_pages=377-381; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=V Švorčík; citation_author=O Kvítek; citation_author=O Lyutakov; citation_author=J Siegel; citation_author=Z Kolská; citation_journal_title=Appl Phys A Mater Sci Process; citation_volume=102; citation_issue=102; citation_pages=747-751; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=M Shao; citation_author=A Peles; citation_author=K Shoemaker; citation_journal_title=Nano Lett; citation_volume=11; citation_issue=11; citation_pages=3714-3719; citation_date=2011;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=KJJ Mayrhofer; citation_author=BB Blizanac; citation_author=M Arenz; citation_author=VR Stamenkovic; citation_author=PN Ross; citation_author=NM Markovic; citation_journal_title=J Phys Chem B; citation_volume=109; citation_issue=109; citation_pages=14433-14440; citation_date=2005;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=BE Hayden; citation_author=D Pletcher; citation_author=JP Suchsland; citation_author=LJ Williams; citation_journal_title=Phys Chem Chem Phys; citation_volume=11; citation_issue=11; citation_pages=9141-9148; citation_date=2009;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Y Xia; citation_author=NJ Halas; citation_journal_title=MRS Bull; citation_volume=30; citation_issue=30; citation_pages=338-348; citation_date=2005;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=C Noguez; citation_journal_title=J Phys Chem C; citation_volume=111; citation_issue=111; citation_pages=3606-3619; citation_date=2007;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Y Shen; citation_author=J Zhou; citation_author=T Liu; citation_author=Y Tao; citation_author=R Jiang; citation_author=M Liu; citation_author=G Xiao; citation_author=J Zhu; citation_author=ZK Zhou; citation_author=X Wang; citation_journal_title=Nat Commun; citation_volume=4; citation_issue=4; citation_pages=1-9; citation_date=2013;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Y Gao; citation_author=Q Gan; citation_author=FJ Bartoli; citation_journal_title=IEEE J Sel Top Quantum Electron; citation_volume=20; citation_issue=20; citation_pages=; citation_date=2014;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=Y Xiong; citation_author=J Chen; citation_author=B Wiley; citation_author=Y Xia; citation_author=Y Yin; citation_author=ZY Li; citation_journal_title=Nano Lett; citation_volume=5; citation_issue=5; citation_pages=1237-1242; citation_date=2005;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=J Henzie; citation_author=MH Lee; citation_author=TW Odom; citation_journal_title=Nat Nanotechnol; citation_volume=2; citation_issue=2; citation_pages=549-554; citation_date=2007;" name="citation_reference"/>
+  <meta content="citation_title=; citation_author=KM Mayer; citation_author=JH Hafner; citation_journal_title=Chem Rev; citation_volume=111; citation_issue=111; citation_pages=3828-3857; citation_date=2011;" name="citation_reference"/>
   <script type="text/javascript">
    //<![CDATA[
-    (function(){
-      window._cf_chl_opt={
-        cvId: "2",
-        cType: "managed",
-        cNounce: "11524",
-        cRay: "6cadef4fc831a1d1",
-        cHash: "57e3799ede4108c",
-        cPMDTk: "",
-        cFPWv: "g",
-        cTTimeMs: "1000",
-        cLt: "n",
-        cRq: {
-          ru: "aHR0cHM6Ly93d3cubWRwaS5jb20vMjA3MS0xMDUwLzEzLzE3Lzk1NDI=",
-          ra: "cHl0aG9uLXJlcXVlc3RzLzIuMjMuMA==",
-          rm: "R0VU",
-          d: "L/gcUgqUol6omzr6kMe+kKXVn25m1jbb/CYmUyYhSGKhBWrawzkleLqKDt1adVYlZrsy//UxKAj42h5uf3mJdV5lwBPOFbGl9zUWB1RMS3HJ0aH10jsKs/zN1S+uYDYnJh6ivD1P/t1oQ6JQolGITH4z0QeqJBe6zcZqSAoEknc24HHZthc4zf88ggxq/S8nFtTF+jGXZKLhBRXhnuu+bQeD1Dp+h15CdLITdeudnp1CEG+zlbiB2c1djoZj6xyjNcAu+jfmYU8UZrbcUbZz9vVG3dHhNn5b9Ceqfy8oc88zTcwG8xWQ5/2yI0UDh+zPThu2rqfMCCyVPhvzVTaLjW/yy68Dwr9tukIIJkdTuo+V9rYKzioxq0nZqrDtgC5bPAqcgUfi6iBgF0hFHP4BxpA1KwvbvildNY1VS6ZSEiJr7v+5BjMcEICJeLeJhCiKx+9bEam/CdTtRd2VA24gE/PSNd7oJ0D61r+IQ0hrcFJxw8Y7ZTUk/iRChwygr1VcFWIQGJMqElqmtwRLUk9M0IECo3wq/vc2wpT75vklgIdnotvy4SZ6cvRRHOfUgmW+EcAA0fnGqck5z8PfY6HSDJI3+BEkz9b/zFJcc6M937Z7rgZHKUmTRnYKtp3v/L+E",
-          t: "MTY0MTczNDEzMS4xNzcwMDA=",
-          m: "W1O1tINKVKUaMW643lxUmIs9PuK/o0CoWn8c50Op4KQ=",
-          i1: "tXKxeCXLXAaLcK318lCIMg==",
-          i2: "pXFWGNp09FGtgxyv7nUV1w==",
-          zh: "9NUliRXLiE3ATs1lAb5y+wcvyNCp5HovqhXA07ahqik=",
-          uh: "7miS0Xxj9JuMfUL1dJ1m1OOYUPnyhcctTsOqdlLYMgc=",
-          hh: "KINTABW3ayXfTbzNHKRumlz5b1ii0/RqC6b09G86K5Q=",
-        }
-      };
-    }());
-    //]]>
+$(document).ready(function(){
+	$("#gnb>li").mouseover(function(){
+		$(".globalSearch").css("display", "none");
+	});
+});
+
+function journal_download(type, sid, filename) {
+	var increase_column;
+
+	if(type == "pdf") {
+		var openWindow = window.open("about:blank");
+		openWindow.location.href = '/upload/pdf/' + filename;
+
+		increase_column = "pdf_down";
+
+	} else if(type == "epub") {		
+		location.href = '/func/download.php?' + filename;		
+		increase_column = "epub_down";
+	}
+
+	$.ajax({
+		type: 'POST',
+		data: {table: 'journal_tbl', column: increase_column, count: 1, condition_column: 'sid', condition_value: sid},
+		url: '/func/count_increase.php'
+	});
+}
+
+var acIdx = -1;
+	function autoCompleteHead(v) {
+		if(event.keyCode >= 37 && event.keyCode <= 40) {
+			if(event.keyCode % 2) return;
+			var max = $(".autoKeywords").size();
+			if(event.keyCode == 38) acIdx--;
+			else if(event.keyCode == 40) acIdx++;
+			if(acIdx < 0) acIdx = max-1;
+			if(acIdx > max-1) acIdx = 0;
+			$(".autoKeywords").css("background","#ffffff");
+			$(".autoKeywords").eq(acIdx).css("background","#e9e9e9");
+			$("input[name='term_all']").val($(".autoKeywords").eq(acIdx).text());
+			return;
+		}
+		acIdx = -1;
+		$.post("/func/autoComplete.php", "value="+v, function (d, s) {
+			if(s == "success") {
+				if(d != "" && v.length > 1) {
+					$("#autoCompleteLayerHead").attr("class", "");
+					$("#autoCompleteLayerHead").html(d);
+				} else {
+					$("#autoCompleteLayerHead").attr("class", "none");
+					$("#autoCompleteLayerHead").html("");
+				}
+			}
+		});
+	}
+	var autoComplete_ck = 0;
+	function term_all_onblur(){
+		if(autoComplete_ck == 0){
+			$("#autoCompleteLayerHead").html("");
+			$("#autoCompleteLayerHead").attr("class", "none");
+		}
+	}
+	function transText(f) {
+		if(!f.term_all.value) return false;
+	}
+
+//]]>
   </script>
-  <style type="text/css">
-   #cf-wrapper #spinner {width:69px; margin:  auto;}
-  #cf-wrapper #cf-please-wait{text-align:center}
-  .attribution {margin-top: 32px;}
-  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
-  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
-  #cf-hcaptcha-container { text-align:center;}
-  #cf-hcaptcha-container iframe { display: inline-block;}
-  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-  #cf-wrapper #cf-bubbles { width:69px; }
-  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
-  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
-  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
-  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
-  </style>
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({ 
+	SVG: { 
+	  scale: 90, 
+	  linebreaks: {
+		automatic: true, 
+		width: "container" 
+	  } 
+	}, 
+	showProcessingMessages: false, 
+	messageStyle: "none"
+  }); 
+
+function article_email(num) {
+
+	$("#article_mail").show();
+
+}
+  </script>
+  <script src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_SVG" type="text/javascript">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-137241045-1">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-137241045-1');
+  </script>
  </head>
  <body>
-  <div id="cf-wrapper">
-   <div class="cf-alert cf-alert-error cf-cookie-error" data-translate="enable_cookies" id="cookie-alert">
-    Please enable cookies.
-   </div>
-   <div class="cf-error-details-wrapper" id="cf-error-details">
-    <div class="cf-wrapper cf-header cf-error-overview">
-     <h1 data-translate="managed_challenge_headline">
-      Please wait...
-     </h1>
-     <h2 class="cf-subheadline">
-      <span data-translate="managed_checking_msg">
-       We are checking your browser...
-      </span>
-      www.mdpi.com
-     </h2>
+  <div id="article_mail" style="display:none">
+   <style>
+    .sub_bt {
+	-moz-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	-webkit-box-shadow:inset 0px 1px 0px 0px #ffffff;
+	box-shadow:inset 0px 1px 0px 0px #ffffff;
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #ffffff), color-stop(1, #f6f6f6));
+	background:-moz-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-webkit-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-o-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:-ms-linear-gradient(top, #ffffff 5%, #f6f6f6 100%);
+	background:linear-gradient(to bottom, #ffffff 5%, #f6f6f6 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#ffffff', endColorstr='#f6f6f6',GradientType=0);
+	background-color:#ffffff;
+	-moz-border-radius:6px;
+	-webkit-border-radius:6px;
+	border-radius:6px;
+	border:1px solid #dcdcdc;
+	display:inline-block;
+	cursor:pointer;
+	color:#666666;
+	font-family:Arial;
+	font-size:15px;
+	font-weight:bold;
+	padding:6px 24px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #ffffff;
+}
+.sub_bt:hover {
+	background:-webkit-gradient(linear, left top, left bottom, color-stop(0.05, #f6f6f6), color-stop(1, #ffffff));
+	background:-moz-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-webkit-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-o-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:-ms-linear-gradient(top, #f6f6f6 5%, #ffffff 100%);
+	background:linear-gradient(to bottom, #f6f6f6 5%, #ffffff 100%);
+	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#f6f6f6', endColorstr='#ffffff',GradientType=0);
+	background-color:#f6f6f6;
+}
+.sub_bt:active {
+	position:relative;
+	top:1px;
+}
+.article_mail{
+	position:fixed; 
+}
+   </style>
+   <script src="https://www.google.com/recaptcha/api.js">
+   </script>
+   <script>
+    function checkMail(){
+	var f = document.mailform;
+	
+	if(!f.a_sender_email.value){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+	if (!f.a_recipient_email.value)	{
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	var regExp = /^[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*@[0-9a-zA-Z]([-_\.]?[0-9a-zA-Z])*\.[a-zA-Z]{2,3}$/i;
+	if(!regExp.test(f.a_sender_email.value)){
+		f.a_sender_email.focus();
+		f.a_ck_alert.value = "Please Your E-mail";
+		return(false);
+	}
+
+	if(!regExp.test(f.a_recipient_email.value)){
+		f.a_recipient_email.focus();
+		f.a_ck_alert.value = "Please Recipient's E-mail";
+		return(false);
+	}
+
+	return(true);
+}
+
+function word_Counter(field, countfield, maxlimit) {
+	if(field.value.length > 500){
+			field.value = field.value.substring(0, 500);
+			return;
+		}
+
+	countfield.value = field.value.length; 
+}
+   </script>
+   <div class="article_mail">
+    <div class="author_add" style="width: 95%; margin: 0 auto; padding-top:10px;">
+     <table style="width: 100%; margin: 0 auto;">
+      <tbody>
+       <tr>
+        <td>
+         <b>
+          <font style="font-size:16px;">
+           E-mail this Article
+          </font>
+         </b>
+        </td>
+        <td align="right" height="25px;" valign="top">
+         <input onclick="closes();" style="font-size:5px;" type="button" value="X"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <table align="center" border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="height:1px;background-color:#E2E2E2;margin-top:5px;margin-bottom:10px">
+        </td>
+       </tr>
+       <tr>
+        <td>
+         <table border="0" width="100%">
+          <tbody>
+           <tr>
+            <td style="padding-top:8px;">
+             <div style="color:#3260BA;padding-bottom:3px;">
+              <b>
+               Communication
+              </b>
+             </div>
+             <div>
+              <a href="http://www.jecst.org/journal/view.php?number=379" style="text-decoration:none;" target="new">
+               Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction
+              </a>
+             </div>
+             <div style="padding-left:0px;font-size:9pt;font-weight:normal;">
+              Baeck B. Choi, Bethy Kim, Yiqi Chen, Peng Jiang
+              <br/>
+              DOI :
+              <a href="http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2020.01767" target="_blank">
+               https://doi.org/10.33961/jecst.2020.01767
+              </a>
+             </div>
+            </td>
+           </tr>
+          </tbody>
+         </table>
+        </td>
+       </tr>
+       <tr>
+        <td style="padding-top:10px;">
+         <form action="/journal/view.php?mode=process&amp;number=379" method="post" name="mailform" onsubmit="return checkMail();">
+          <input name="a_title" type="hidden" value="Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction"/>
+          <input name="a_authors" type="hidden" value="Baeck B. Choi, Bethy Kim, Yiqi Chen, Peng Jiang"/>
+          <input name="a_type" type="hidden" value="Communication"/>
+          <input name="a_year" type="hidden" value="2021"/>
+          <input name="a_vol" type="hidden" value="12"/>
+          <input name="a_no" type="hidden" value="2"/>
+          <input name="a_url" type="hidden" value="http://www.jecst.org/journal/view.php?number=379"/>
+          <input name="a_doi" type="hidden" value="10.33961/jecst.2020.01767"/>
+          <input name="a_doi_url" type="hidden" value="https://doi.org/10.33961/jecst.2020.01767"/>
+          <table border="0" cellpadding="3" cellspacing="0" style="border:0px solid #DDDDDD;" width="100%">
+           <tbody>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your Name *
+              </b>
+              <br/>
+              <input id="a_sender_name" name="a_sender_name" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Your E-mail *
+              </b>
+              <br/>
+              <input id="a_sender_email" name="a_sender_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Recipient's E-mail *
+              </b>
+              <br/>
+              <input id="a_recipient_email" name="a_recipient_email" style="width:95%;" type="text"/>
+             </td>
+            </tr>
+            <tr height="28">
+             <td style="">
+              <b>
+               Message
+              </b>
+              <br/>
+              <textarea id="a_content" name="a_content" onblur="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeydown="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" onkeyup="word_Counter(this.form.a_content,this.form.a_content_cbyte,500);" style="width:95%;height:150px"></textarea>
+              <br/>
+              <div align="right" style="width:95%;">
+               <input name="a_content_cbyte" readonly="" size="3" style="height:18px;text-align:right;border:0;color:ff0000" type="box" value="0"/>
+               /
+               <b>
+                500
+               </b>
+               characters
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <div class="g-recaptcha" data-sitekey="6LfZ2IgUAAAAADokvIzjcUw-A88rvR19WMNPE1ud">
+              </div>
+             </td>
+            </tr>
+            <tr>
+             <td align="center">
+              <input class="sub_bt" type="submit" value="Send"/>
+             </td>
+            </tr>
+            <tr>
+             <td align="left" style="padding-top:2px;padding-bottom:5px;color:red;">
+              <input name="a_ck_alert" readonly="" style="height:18px;width:95%;text-align:left;border:0;color:red" type="box"/>
+             </td>
+            </tr>
+           </tbody>
+          </table>
+         </form>
+         <!--
+					<div id='s_div_2' style="display:none">
+						<table border=0 width="100%" cellpadding=3 cellspacing=0 style="border:0px solid #DDDDDD;">
+								<tr height=28>
+									<td style="">sent to:<br/>
+																		</td>
+								</tr>
+								<tr>
+									<td align="center">
+										<input type="button" value="Close" onclick="removelayer();" class="sub_bt">
+									</td>
+								</tr>
+
+							</table>
+					</div>
+					-->
+        </td>
+       </tr>
+      </tbody>
+     </table>
     </div>
-    <div class="cf-section cf-highlight cf-captcha-container">
-     <div class="cf-wrapper">
-      <div class="cf-columns two">
-       <div class="cf-column">
-        <div class="cf-highlight-inverse cf-form-stacked">
-         <form action="/2071-1050/13/17/9542?__cf_chl_managed_tk__=FSE.XPhTxfvBRCeSSlFMspZxPcIzxfFM2NmiqhoRLfs-1641734131-0-gaNycGzNBxE" class="challenge-form managed-form" enctype="application/x-www-form-urlencoded" id="challenge-form" method="POST">
-          <div id="cf-please-wait">
-           <div id="spinner">
-            <div id="cf-bubbles">
-             <div class="bubbles">
-             </div>
-             <div class="bubbles">
-             </div>
-             <div class="bubbles">
-             </div>
-            </div>
+   </div>
+   <script>
+    function closes(){
+		$("#a_sender_name").val("");
+		$("#a_sender_email").val("");
+		$("#a_recipient_email").val("");
+		$("#a_content").val("");
+		$("#recaptcha_response_field").val("");
+		$('#article_mail').hide();
+
+	}
+   </script>
+  </div>
+  <div class="wrapper" style="padding-top:137px">
+   <div class="headerWrap">
+    <div class="header">
+     <div class="header_navi">
+      <div class="util_navi" style="background-image:url('/image/top_bg_t.gif');">
+       <ul class="utilMenu">
+        <li>
+         <a href="/" title="Home">
+          Home
+         </a>
+        </li>
+        <li>
+         <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+          E-submission
+         </a>
+        </li>
+        <li>
+         <a href="/about/sitemap.php" title="Sitemap">
+          Sitemap
+         </a>
+        </li>
+        <li>
+         <a href="/about/contact.php" title="Contact Us">
+          Contact us
+         </a>
+        </li>
+        <li style="font-color: #000;">
+         <div id="google_translate_element" style="padding-top:0;height:20px;">
+         </div>
+         <script type="text/javascript">
+          function googleTranslateElementInit() {
+							  new google.translate.TranslateElement({pageLanguage: '', layout: google.translate.TranslateElement.InlineLayout.SIMPLE}, 'google_translate_element');
+							}
+         </script>
+         <script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit" type="text/javascript">
+         </script>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="header_logo">
+      <h1>
+       <a href="/" title="Home">
+        <img alt="Journal of Electrochemical Science and Technology" src="/image/top_logo.gif"/>
+       </a>
+      </h1>
+      <p class="qrCode">
+       <img alt="QR Code" class="qr" src="/image/top_img.gif"/>
+      </p>
+      <div style="clear: both;">
+      </div>
+     </div>
+     <div class="gnbWrap">
+      <div class="gnb_menu">
+       <ul id="gnb">
+        <li>
+         <a href="/" title="Home">
+          HOME
+         </a>
+        </li>
+        <li>
+         <a href="/about/" title="About">
+          ABOUT
+         </a>
+         <ul class="subMenu m1">
+          <li>
+           <a href="/about/index.php" title="Aims and scope">
+            Aims and scope
+           </a>
+          </li>
+          <li>
+           <a href="/about/about.php" title="About the journal">
+            About the journal
+           </a>
+          </li>
+          <li>
+           <a href="/about/editorial.php" title="Editorial board">
+            Editorial board
+           </a>
+          </li>
+          <li>
+           <a href="/about/open_access.php" title="Open access">
+            Open access
+           </a>
+          </li>
+          <li>
+           <a href="/about/contact.php" title="Contact us">
+            Contact us
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li>
+         <a href="/articles/category.php" title="ARTICLE CATEGORY">
+          ARTICLE CATEGORY
+         </a>
+         <dl class="subMenu m2">
+          <dd>
+           <ul>
+            <li>
+             <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+              Mini review
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Communication" title="Communication">
+              Communication
+             </a>
+            </li>
+            <li>
+             <a href="/articles/category.php?article_category=Research article" title="Research article">
+              Research article
+             </a>
+            </li>
+           </ul>
+           <p>
+            <a href="/articles/category.php" title="Browse all articles">
+             Browse all articles &gt;
+            </a>
+           </p>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/articles/archive.php" title="BROWSE ARTICLES">
+          BROWSE ARTICLES
+         </a>
+         <dl class="subMenu m3">
+          <dd>
+           <ul>
+            <li>
+             <a href="/current/" title="Current issue">
+              Current issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/forthcoming.php" title="Forthcoming issue">
+              Forthcoming issue
+             </a>
+            </li>
+            <li>
+             <a href="/articles/archive.php" title="All issues">
+              All issues
+             </a>
+            </li>
+            <li>
+             <a href="/articles/print.php" title="ASAP">
+              ASAP
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostread.php" title="Most view">
+              Most view
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostdownload.php" title="Most download">
+              Most download
+             </a>
+            </li>
+            <li>
+             <a href="/articles/mostcited.php" title="Most cited">
+              Most cited
+             </a>
+            </li>
+            <li>
+             <a href="/articles/funded.php" title="Funded articles">
+              Funded articles
+             </a>
+            </li>
+            <li>
+             <a href="/articles/search.php" title="Search">
+              Search
+             </a>
+            </li>
+            <li>
+             <a href="/articles/author_index.php" title="Author index">
+              Author index
+             </a>
+            </li>
+           </ul>
+          </dd>
+         </dl>
+        </li>
+        <li>
+         <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+          AUTHOR INFORMATION
+         </a>
+         <ul class="subMenu m4" style="width:180px;">
+          <li>
+           <a href="/authors/authors.php" title="Instructions to authors">
+            Instructions to authors
+           </a>
+          </li>
+          <li>
+           <a href="/authors/checklist.php" title="Author’s checklist">
+            Author’s checklist
+           </a>
+          </li>
+          <li>
+           <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+            E-submission
+           </a>
+          </li>
+          <li>
+           <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+            Copyright transfer agreement
+           </a>
+          </li>
+          <li>
+           <a href="/authors/ethics.php" title="Research publication ethics">
+            Research publication ethics
+           </a>
+          </li>
+         </ul>
+        </li>
+       </ul>
+       <ul class="btn">
+        <li>
+         <a class="viewSearch" href="#" title="Search">
+          <img alt="Search" class="viewSearch" src="/image/headerBtn_search.gif" title="Search"/>
+         </a>
+        </li>
+        <li>
+         <a href="/articles/search.php" title="Advanced Search">
+          <img alt="Advanced Search" src="/image/headerBtn_search2.gif"/>
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+    </div>
+    <div class="globalSearch">
+     <dl>
+      <dt class="hidden">
+       Search
+      </dt>
+      <dd>
+       <form action="/articles/search_result.php" method="post" name="searformform" onsubmit="return transText(this);">
+        <fieldset>
+         <legend>
+          J. Electrochem. Sci. Technol Search
+         </legend>
+         <input autocomplete="off" class="_placeholder" name="term_all" onblur="term_all_onblur();" onfocus="autoCompleteHead(this.value);" onkeyup="autoCompleteHead(this.value);" placeholder="Keyword, Title, Author, or Citation" type="text" value=""/>
+         <span class="search">
+          <input class="opacity0" type="submit" value="Search"/>
+         </span>
+        </fieldset>
+       </form>
+       <div class="none" id="autoCompleteLayerHead">
+       </div>
+       <p class="close">
+        <a href="#">
+         CLOSE
+        </a>
+       </p>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <!-- //headerWrap -->
+   <hr/>
+   <style>
+    @media print {
+div.headerWrap,
+div.aside,
+div.siteMap,
+div.footerWrap {display:none;}
+.admin_menu,
+.crossmark {display:none;}
+div.wrapper {padding-top:0 !important;}
+div#container {background:none;}
+div.printArea {display:block;float:none;margin:0 auto;padding-top:10px;}
+}
+   </style>
+   <div id="container">
+    <div class="contents printArea">
+     <!-- 본문영역 -->
+     <table border="0" cellpadding="0" cellspacing="0" width="100%">
+      <tbody>
+       <tr>
+        <td style="font-family:Lora, arial,sans-serif,'Nanum Gothic';  font-size: 14px; line-height:1.5;" valign="top" width="613px;">
+         <a href="/articles/archive.php" style="color: #0056af;">
+          J. Electrochem. Sci. Technol
+         </a>
+         &gt;
+         <a href="/current/?vol=12&amp;no=2" style="color: #0056af;">
+          Volume 12(2); 2021
+         </a>
+         &gt; Article
+        </td>
+        <td align="right" style="padding-right:10px;position: relative;" valign="top">
+         <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js">
+         </script>
+         <a data-target="crossmark">
+          <div class="crossmark" style="width:150px;">
+           <img src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_Color_horizontal.svg" style="width:100%;"/>
+          </div>
+         </a>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+     <!-- xml 로딩 영역 -->
+     <div id="include_journal">
+      <style>
+       <!--
+#include_journal {
+	clear:both;
+	font-family: 'Lora', georgia, "Nanum Gothic", sans-serif;
+	font-size: 1.27em;
+	font-weight: 500;
+	line-height:1.76;
+	letter-spacing:.01em;
+	color:#000000;
+	word-break:keep-all;
+}
+
+#supplementary-material:before {
+	content:"";
+	display:block;	
+	height: 180px;
+	margin : -180px 0 0;
+}
+
+/* jats start */
+
+/* article title */
+#article-front {
+	margin-top: 5px;
+	font-size: 0.85em;
+}
+
+#article-front .PubTitle {
+	clear:both;
+	font-size: 1.7em;
+	line-height: 1.3;
+	margin-top: 20px;
+}
+
+#article-front .author_layer {
+	clear:both;
+	font-size: 1.05em;
+	line-height: 1.3;
+	font-weight: 500;
+	margin-top: 15px;
+}
+
+#article-front .abstract-layer{
+	font-size: 1.0em;
+}
+
+#article-front .licens {
+	font-size: 0.8em;
+	margin-top: 10px;
+	margin-bottom: 13px;
+}
+
+#article-front .callout-title, #include_journal .main-title {
+	font-size: 1.1em;
+	font-weight: bold;
+	color:#0B3D53;
+}
+
+#article-front .section-title {
+	font-size: 1.0em;
+	font-weight: bold;
+	margin-top: 20px;
+	margin-bottom: 5px;
+}
+
+.caption {
+	line-height: 130%;
+	font-family:georgia, sans-serif, "Nanum Gothic";
+	font-weight: normal;
+}
+
+#include_journal .main-title {
+	margin-top: 30px;
+	margin-bottom: 15px;
+}
+
+#article-body .section-title {
+	font-weight: 600;
+	color:#1F1F1F;
+	margin-top: 20px;
+	margin-bottom: 10px;
+}
+
+#article-body .subsection-title {
+	font-weight:bold;
+	margin-top: 15px;
+	margin-bottom: 5px;
+}
+
+#article-body > div > div, #article-body > div > div > div {
+	padding-bottom:15px;
+}
+
+#article-body .section {
+	padding-bottom:0px;
+}
+
+#include_journal table h2 {
+	font-size: 18px;
+}
+
+#include_journal table h3 {
+	font-size: 15px;
+}
+
+#include_journal table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+#include_journal h5 {
+	font-size: 15px;
+}
+
+.abstract-layer {
+	margin-top: 30px;
+}
+
+#include_journal .abstract {
+	margin-top: 10px;
+	border-top: 1px solid #000000;
+	border-bottom: 1px solid #000000;
+}
+
+#include_journal a[name$='Link'] {
+	color: #046eb8;
+}
+
+#include_journal div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+#include_journal div.panel table * {
+	font-size:12px !important;
+}
+
+#include_journal p.address-line {
+	margin-top: 0em;
+	margin-bottom: 0em;
+	margin-left: 2em
+}
+
+#include_journal .list {
+	margin-top: 1.5em;
+	margin-bottom: 0.5em;
+}
+
+#include_journal ul,ol {
+	margin-bottom: 1em
+}
+
+#include_journal li {
+	margin-top: 0.2em;
+	margin-bottom: 0em;
+}
+
+#include_journal li>p {
+	margin-top: 0.1em;
+	margin-bottom: 0em
+}
+
+#include_journal div.def-list {
+	border-spacing: 0.25em
+}
+
+#include_journal div.def-list p {
+	margin:0px; padding:0px;
+}
+
+#include_journal .ref_layer {
+	margin-bottom: 10px;
+	word-wrap: break-word;
+	word-break: keep-all;
+	width:740px;
+}
+
+#include_journal .apStyle {
+	text-indent: 10px;
+}
+
+#inThisPage { background:#fff; border:2px solid #0B3D53; }
+#include_journal .newITP { border: #0B3D53; width:200px;font-size:11pt; }
+#include_journal .newITP a{ color: #000; }
+
+.metadata-area {
+	font-size: 13px;
+	color: 3b3b3b;
+}
+
+.history-date {
+	padding-bottom:15px;
+}
+
+.author_layer {
+	margin-top: 16px;
+}
+
+.author_layer a{
+	color: #2f312f !important;
+}
+
+.author_layer img{
+	vertical-align: middle;
+}
+
+.history_date {
+	font-size: 13px;
+	font-color: #2f312f;
+}
+
+.main-title {
+	font-color: #2f312f;
+	font-weight: bold;
+	font-size: 18px;
+	color: #0B3D53;
+}
+
+
+
+.abstract > p.metadata-entry {
+	margin-top: 23px;
+	height: auto;
+}
+
+.row {
+	line-height: 1.5;
+}
+
+.table-wrap table thead {background:#DDEEFF;}
+.table-wrap table tbody {background:#fff;}
+.table-wrap-foot {
+	margin-bottom: 10px;
+	font-size:13px;
+}
+
+.table-wrap-foot .footnote p {
+	margin: 0px;
+}
+
+.section .panel {
+	margin: 15px 0px;
+	padding: 15px 15px;
+	background:#f6f6f6;
+}
+
+.section .panel .label {
+	font-weight: bold;
+}
+
+.label {
+	font-weight: bold;
+	font-size : 15px;
+}
+
+table h2 {
+	font-size: 16px;
+}
+
+table h3 {
+	font-size: 15px;
+}
+
+table h3.title {
+	font-size: 10pt;
+	font-weight: lighter;
+	margin: 0;
+}
+
+div.panel {
+	cursor: pointer;
+	background:#f5f5f5;
+	padding:25px;
+}
+div.panel table * {
+	font-size:14px !important;
+}
+
+.table-wrap table {
+	border-top: solid 1px black;
+	border-bottom: solid 1px black;
+}
+
+.table-wrap table th {
+	border-bottom: solid 1px black;
+	font-weight: bold;
+}
+
+#after_abstract {
+	margin-top: 10px;
+}
+
+#summary_view {
+	display: none;
+}
+
+
+.corresp{
+	margin-bottom:8px;
+}
+/* jats end */
+-->
+      </style>
+      <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+      <title>
+       Choi, Kim, Chen, and Jiang: Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction
+      </title>
+      <div class="front" id="article-front">
+       <div class="metadata">
+        <div class="metadata-group">
+         <div class="metadata-chunk">
+          <b>
+           <p class="metadata-entry">
+            Communication
+           </p>
+          </b>
+         </div>
+        </div>
+       </div>
+       <div class="metadata">
+        <div class="metadata-group">
+        </div>
+       </div>
+       <div class="metadata two-column table">
+        <div class="row">
+         <div class="metadata-group">
+          <p class="metadata-entry">
+           Journal of Electrochemical Science and Technology 2021;12(2):167-172.
+          </p>
+         </div>
+         <div class="metadata-group">
+          <div class="metadata-group">
+           <p class="metadata-entry">
+            <span class="generated">
+             Published online:
+            </span>
+            February 19, 2021
+           </p>
+          </div>
+          <p class="metadata-entry">
+           <span class="generated">
+            DOI:
+           </span>
+           <a href="https://doi.org/10.33961/jecst.2020.01767">
+            https://doi.org/10.33961/jecst.2020.01767
+           </a>
+          </p>
+         </div>
+         <div class="metadata centered">
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px;">
+         </div>
+         <div class="metadata-group">
+         </div>
+         <div class="metadata centered">
+          <h3 class="PubTitle">
+           Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction
+          </h3>
+         </div>
+         <div class="metadata-group author_layer" style="margin-bottom:10px; color: #000000;">
+          <a href="/articles/search_result.php?term=author&amp;f_name=Baeck%20B.&amp;l_name=Choi">
+           Baeck B. Choi
+          </a>
+          <sup>
+           1,
+          </sup>
+          <sup>
+           2,
+          </sup>
+          <sup>
+           *
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Bethy&amp;l_name=Kim">
+           Bethy Kim
+          </a>
+          <sup>
+           3
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Yiqi&amp;l_name=Chen">
+           Yiqi Chen
+          </a>
+          <sup>
+           1
+          </sup>
+          ,
+          <a href="/articles/search_result.php?term=author&amp;f_name=Peng&amp;l_name=Jiang">
+           Peng Jiang
+          </a>
+          <sup>
+           1,
+          </sup>
+          <sup>
+           *
+          </sup>
+         </div>
+         <div class="metadata-group affiliation_layer" style="margin-bottom:10px;">
+          <p class="metadata-entry">
+           <a id="af1-jecst-2020-01767">
+            <!-- named anchor -->
+           </a>
+           <sup>
+            1
+           </sup>
+           Department of Chemical Engineering, University of Florida, Gainesville, FL 32611 USA
+          </p>
+          <p class="metadata-entry">
+           <a id="af2-jecst-2020-01767">
+            <!-- named anchor -->
+           </a>
+           <sup>
+            2
+           </sup>
+           Energy and Environment Laboratory, Korea Electric Power Corp. Research Institute, Daejeon, 34056 Korea
+          </p>
+          <p class="metadata-entry">
+           <a id="af3-jecst-2020-01767">
+            <!-- named anchor -->
+           </a>
+           <sup>
+            3
+           </sup>
+           Department of Chemistry, University of Florida, Gainesville, FL 32611 USA
+          </p>
+         </div>
+         <div class="metadata-group">
+          <p class="metadata-entry">
+          </p>
+          <div class="corresp">
+           <sup>
+            *
+           </sup>
+           E-mail address:
+           <a href="mailto:b.choi@kepco.co.kr" name="emailLink">
+            b.choi@kepco.co.kr
+           </a>
+           ,
+           <a href="mailto:pjiang@che.ufl.edu" name="emailLink">
+            pjiang@che.ufl.edu
+           </a>
+          </div>
+          <p>
+          </p>
+          <div style="margin-top:12px;">
+           <span class="history_view">
+            Received December 23, 2020
+           </span>
+           <span class="history_view">
+            Accepted January 20, 2021
+           </span>
+          </div>
+          <div class="metadata-chunk">
+           <div class="licens" id="idm140239752701904">
+            This is an open-access article distributed under the terms of the Creative Commons Attribution Non-Commercial License (
+            <a href="http://creativecommons.org/licenses/by-nc/4.0" id="idm140239752701488" target="_blank">
+             http://creativecommons.org/licenses/by-nc/4.0
+            </a>
+            ) which permits unrestricted non-commercial use, distribution, and reproduction in any medium, provided the original work is properly cited.
            </div>
-           <p data-translate="please_wait" id="cf-spinner-please-wait">
-            Please stand by, while we are checking your browser...
-           </p>
-           <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">
-            Redirecting...
-           </p>
           </div>
-          <input name="md" type="hidden" value="RxyzsYYf2DZIshhwTHWbbwJZXAybkYdYpFjJ.M986js-1641734131-0-AS3_tgHXYQ3yJtufinimJRVnzlauD8Z35JfivoJ6tHwV3qo_3iB-4mo6nJQwjxhRGuXSyx80sPsnOaR8wF6hzgKA2zwZFyaRMYGErHYWSF7NyQCHz1ULoJG1zV4mcrRA-39Cuc-OHoC5_Ck9eJACuA1BaT-Cy-rb5UAqPM4k-RcW6ckL_uTsQz6b3oV7pasQEAmBZA7XUiZa6uw-SmPew8_mfzeLS1yivNuPnWGLC5Gb1suA6RfZOozWkUwSd_RmvhB1DJv_P3z5eMIBigFo8hor3P0EjLFGEEJrfQgrpGnkyPDIH259YUnveCBK11TiV1Z7hz4-QB9Ve-yCwWLUPPgEpNJnqrFCBp9Zkzuwk99fK5dQV9wD1-UHZttRcuyWZ6ihyiZcBqDPenKIuGvxmuVFx_wUA1n1q1YpucFrm4B4by2iEfhYhUHi7a-KWA5GzKljj0Z-7TfB_Pm7qwpb5tvVxMCxEs8GjQCow1oRgruduM8ofWY5te4r0JkcrsRyeFSMnsgeeBiKUNtzUfAhu9MfgJQI9tSrIbc826o5UMzzh07sbYYmZCwVOp6AZTktfhYFMm6hFa3FMATWWFyBMD1FIi3POLKsYBlxMW2tjVVawq9Xt6zaM5onIgrFCViqIuvmjtTJD07XSwihiTefppiAz5dJFE1y_nIk1_nGnAg8uVc3JGijxOJxA3-9J90kkN3C-T7TaDxrLg99W7FKXE5FXLjgOwbrEBjpYPo3JzygoK0zEfAsJ3SvqN_bIW3OR25-QRG-5xHmtssn52pehupkZTuMrWXjMbpXoD37Fmu4Eg-8cbSCmwCF8niPr-MopuXlcLDn7y3tNIVEJ2f4g3a6uM4gmISFvoZpDFdue9eC39fJEKPB6mWJyYoNvZjB8w"/>
-          <input name="r" type="hidden" value="vFQkcy6QLSW0ZTJGW3axnNhgCF1VukfE2zkmJr.rfWQ-1641734131-0-AeTLI0W0rPTvGhe/9DpEoiliVfG5jUb1kjWWaG88ieQc0TpKbgsXVNGcmpXpNUAeGqcz+/X0GYCCiVSxSvsY998bQVgVFnfEYszPpF4zL7g9A59QZFH2RDKG9LVZB9bhfZ7WxpZW0eXsnoDZjSWzxyFRxCW4sVRvV0N8i5IS3EJ8lRZWaD9SszotDOl53mPUSJCGDZD3EAk8amsNNNfUoLd+4Tuiuf2Y2baupd/WxeucG/dbT4SThcgvCAkr+LBNccnY/r1VtAhnyzvf4aC+YpwN60rNVP8OCc6iwkDlVva8qw2S51qLc+6QEmHy07KrYeE6HBlwDM1Vg1z72KJC6GWET3/nvN0E4I4bkKOnRkojnwI74bcEGf2YEuGHEH/AdZO4H7Fd/rCeEpN2uTZ69yyMzKAZMxSqj+DfBLi8MW/x4fJrSN5rkM4WSEM6sU8yf2MIv78TXSwl2QqM5HXC6s070E1Wc357NyWmgqBL+LQSJyqeEPRoyZUIqOC4mevkkjbqURVRiA4tOSgVh29EowlHBjJzGmO3EITzZoCtaz3h2XSx2aFsi8nC6z0TZUXB9p9jDZfgYqKR1KZ48ej1JJYMthRAVK6xaNfKXEG44RBv+2dHF3dug3ZZSBTlqQddOA7udU6xCFL0SuaAI9JrVdZnXKUvXhuGijKdfkMhQ3+c/1xdd0eHlbUUEdj0wd+wqa7cfr6zhk9gIeGRAf04457rCz2amT3o5aTK557xNbe9bSBRqbAZgYgbjjDzqP4XpiECAXPXh+Pd/bmpjdAFITyNDxUpuGaASQmmAi/Aw7jwKTFKzlxMz7MigpZB//ZO+tjsiK+86lD7vnFLs4ZqYC+n4t40YEhmQd162QgZ0JJSvoXY9JoXZwyUwOaUZ0KrfG4QIXFvCXlXyPP6VJcl3f3431BUaUAlRzzVzPNn9WT2qf0dPqni6q8t5JimLCeoDxiCnZ5x8KhKbne1RXqSajEewU604MK6RclV9IUUWQ6Cifmt9HTDjY6TMWpmVu0iCrecOiP08ZCeegjicxKszLWsgTp/3G9Avuur/+1boPqQ5UIXwbQsECCnBtJMzF1OnIjN0/5DWc5VUi7hgN7FdmHrbb7OAqezOmnGNg6K80mxXguB9Zya69qj9PkhehArZJgQAEttvLspMgxnmtqPk2qgBVbEE5W4iYfVDrDrkqTxN5/CqQMKxWq+R9mWImbVtql/ptW/7mYNhWaMia6TZzx5jORzUDSTmGg6iXSqtzAXwBFRlWcABA0aPEBVaqoYQY8ff57WMzl61+2qxSiykt4uWv5fR69fVkaoADo7SGN2aQTnt/JmYqiyvAoLlGbTcBflZeOE65pxmnsK0P6nmriybIVksnCEaqIGXE8edG71EWmdLKRSXKLKKMxpVJnbQIIuFeMkTbggC7zQjTvLzMWITEnMfYA5Q1aYwNlJz4NBqB52Im4x0WE+smvBLf75TVTkMygqeJ0nPlynYXkxQwjol3835+yG8ffJcLjf5aa22yc/j1SuX2ezS+m7lsEIO1DoG44FuEW/f/blGz3qPUmvJcQb/EJKMvk6INJ2jgejdsACh02MTgXxZ44MejXilLvaeQzM4e9Kou0yT0G32yHLrW/nt3zacl3lt9WJAatTGp8WX8WgQqgqINOqebBTA57km+/2k+Pciij/VXiwKSeO3izNrIaN367Vm+WrGqgkxIxlmxkEpCM+ltjgNBzngftDwj9xuR59hKtyttu69s8="/>
-          <input name="cf_captcha_kind" type="hidden" value="h"/>
-          <input name="vc" type="hidden" value="069cc0bd076be8d0ccdd92a4e18a4bbb"/>
-          <noscript class="cf-captcha-info" id="cf-captcha-bookmark">
-           <h1 data-translate="turn_on_js" style="color:#bd2426;">
-            Please turn JavaScript on and reload the page.
-           </h1>
-          </noscript>
-          <div class="cookie-warning" data-translate="turn_on_cookies" id="no-cookie-warning" style="display:none">
-           <p data-translate="turn_on_cookies" style="color:#bd2426;">
-            Please enable Cookies and reload the page.
-           </p>
+         </div>
+        </div>
+       </div>
+       <div id="before_abstract">
+       </div>
+       <div class="abstract-layer">
+        <h3 class="callout-title" id="__abstract" style="margin:15px 0 0 0;">
+         Abstract
+        </h3>
+        <div class="abstract">
+         <p>
+         </p>
+         <div class="first" id="idm140239752699728">
+          The progressively improved sensing sensitivity (Δλ
+          <sub>
+           SPR
+          </sub>
+          /Δn, nm/RIU) to detect the refractive index is observed on the SPR platform of an Au-covered epoxy gratings in an increase in potential cycling in a typical three-electrode cell. Here, a DVD-R optical disc was used as a structure template to prepare an Au-covered epoxy gratings, and the newly formed reverse track pitch structure on the epoxy substrate was used as a working electrode directly in aqueous sulfuric acid solution. It is expected that Au reconstruction by potential cycling in sulfuric acid electrolyte increases the packing density of Au atoms in the grain boundary and improves the propagation of electromagnetic waves.
+         </div>
+         <p>
+         </p>
+         <p class="metadata-entry_k" style="margin-top:10px;">
+          <span class="generated">
+           <b>
+            Keywords
+           </b>
+           :
+          </span>
+          <a href="/articles/search_result.php?term=4&amp;key=Surface%20Plasmon%20Resonance">
+           Surface Plasmon Resonance
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=SPR">
+           SPR
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=Au%20Reconstruction">
+           Au Reconstruction
+          </a>
+          ,
+          <a href="/articles/search_result.php?term=4&amp;key=Sensitivity">
+           Sensitivity
+          </a>
+         </p>
+        </div>
+       </div>
+      </div>
+      <div class="body" id="article-body">
+       <div class="section" id="intro">
+        <a id="idm140239752695536">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         1. Introduction
+        </h3>
+        <div id="idm140239752694432">
+         Being highlighted label-free surface plasmon resonance (SPR) optical sensor uses modulation of the light output spectrum caused by locally modulated refractive index (localized surface plasmon resonance (LSPR)) [
+         <a class="bibrClassb1" href="#b1-jecst-2020-01767" name="bibrLink">
+          1
+         </a>
+         –
+         <a class="bibrClassb3" href="#b3-jecst-2020-01767" name="bibrLink">
+          3
+         </a>
+         ]. For example, there is wavelength, angular distribution, intensity, phase, or polarization of the light output. Using a nanostructured grating coupler instead of using a large and complex prism-based platform (e.g., Kretschmann or Otto configurations) has the advantage of being simple and capable of scaling up. Nanostructured grating coupler is also being able to successively compensate the different wave-number between surface plasmon polaritons (SPPs) and external light. SPP is generated at an interface between metal and dielectric [
+         <a class="bibrClassb4" href="#b4-jecst-2020-01767" name="bibrLink">
+          4
+         </a>
+         ,
+         <a class="bibrClassb5" href="#b5-jecst-2020-01767" name="bibrLink">
+          5
+         </a>
+         ]. As a result, nanostructure-based grating couplers can successfully expand the practicality of plasmon sensors in a wide range of biosensors, photocatalytic, and heterogeneous catalytic researches [
+         <a class="bibrClassb6" href="#b6-jecst-2020-01767" name="bibrLink">
+          6
+         </a>
+         –
+         <a class="bibrClassb8" href="#b8-jecst-2020-01767" name="bibrLink">
+          8
+         </a>
+         ].
+        </div>
+        <div id="idm140239752686512">
+         In recent years, efforts have been made to develop nanostructure-based SPR platforms with high sensitivity (Δλ
+         <sub>
+          SPR
+         </sub>
+         /Δn, nm/RIU) and figure of merits (FOM, (Δλ
+         <sub>
+          SPR
+         </sub>
+         /Δn)/Δλ, 1/RIU) in particular, in terms of easy scalability, feasible implementation, and low cost [
+         <a class="bibrClassb4" href="#b4-jecst-2020-01767" name="bibrLink">
+          4
+         </a>
+         ]. Due to the narrow bandwidth of the wavelength consumed by the excitation of the surface plasmons, a high FOM with a narrow full width half maximum (FWHM, nm) in the optical spectrum allows the resonance to be observed more clearly through an effective and accurate sensing process. For SPR to expand its application to various environmental conditions, the physical and chemical resistance of each component of the SPR platform as well as the SPR detection parameters with high SPR sensing sensitivity is important. Various bottom-up and top-down approaches have been taken for this strategy, and our research group has previously reported a highly sensitive SPR detection platform based on the track pitch structure of commercial optical discs such as CD, DVD and Blu-ray [
+         <a class="bibrClassb6" href="#b6-jecst-2020-01767" name="bibrLink">
+          6
+         </a>
+         ,
+         <a class="bibrClassb9" href="#b9-jecst-2020-01767" name="bibrLink">
+          9
+         </a>
+         ]. By applying a commercial optical disc as an SPR platform, it is possible to easily produce a large, scalable area with a simple and economically beneficial preparation method.
+        </div>
+        <div id="idm140239752680672">
+         The sum of the binding energies of the surface atoms is defined as the surface energy. Therefore, the hexagonal close-packed structure of (111) facet with the highest packing density has the lowest surface energy [
+         <a class="bibrClassb10" href="#b10-jecst-2020-01767" name="bibrLink">
+          10
+         </a>
+         ]. There are three major ways to lower the surface energy. The first is the relaxation where the position of the atom changes but the unit cell remains unchanged. The second is reconstruction in which the periodicity of the unit cell and the surface changes, and the third is the formation of a surface oxide layer by ad-atoms or ad-molecules. In particular, surface relaxation or reconstruction is usually observed through thermal heat-treatment (or annealing, firing) or electrochemical treatment [
+         <a class="bibrClassb11" href="#b11-jecst-2020-01767" name="bibrLink">
+          11
+         </a>
+         ]. Finally, it causes accumulative energy density at a surface by smoothing effect and redistribution by missing neighbor. Severe heat treatment can lead to structural deformation, so we led Au reconstruction through electrochemical potential cycling, not heat treatment. Anyway, Au reconstruction by potential cycling in sulfuric acid electrolyte solution is a well-known phenomenon through many reports [
+         <a class="bibrClassb10" href="#b10-jecst-2020-01767" name="bibrLink">
+          10
+         </a>
+         ,
+         <a class="bibrClassb12" href="#b12-jecst-2020-01767" name="bibrLink">
+          12
+         </a>
+         –
+         <a class="bibrClassb14" href="#b14-jecst-2020-01767" name="bibrLink">
+          14
+         </a>
+         ]. In short, the sequential and repetitive adsorption and desorption of sulfate anion and oxygen species on the Au electrode surface results in the rearrangement of Au atoms. In this report, we state that how this could affect the properties of surface plasmon as the optical sensors.
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239752673424">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         2. Experimental
+        </h3>
+        <div id="idm140239752672320">
+         Reconstruction of Au Gratings. A detailed fabrication method of Au-covered epoxy gratings was stated previously. Cyclic voltammetry (CV) was applied to a typical three-electrode cell in an aqueous sulfuric acid electrolyte solution (50 mmol/liter H
+         <sub>
+          2
+         </sub>
+         SO
+         <sub>
+          4
+         </sub>
+         ). Using a potentiostat/galvanostat instrument (263A, Princeton Applied Research), the electrode of 0.05 V to 1.60 V (vs. normal hydrogen electrode, NHE) was applied at a rate of 100 mV/s. 1.0 M KCl of Ag/AgCl (CH instruments) and Pt mesh (Sigma-Aldrich) were equipped as a reference and counter electrode, respectively.
+        </div>
+        <div class="section" id="">
+         <a id="idm140239752670336">
+          <!-- named anchor -->
+         </a>
+         <h3 class="section-title">
+          2.1 Physical Characteriaztions
+         </h3>
+         <div id="idm140239752669520">
+          Scanning electron microscopy (SEM) images were taken on JEOL SEM-6400 (Major Analytical &amp; Particle Analysis Instrumentation Center (MAIC), University of Florida).
+         </div>
+        </div>
+        <div class="section" id="">
+         <a id="idm140239752668896">
+          <!-- named anchor -->
+         </a>
+         <h3 class="section-title">
+          2.2 Normal-incidence Specular Optical Reflection Spectra and FDTD Simulation
+         </h3>
+         <div id="idm140239752668032">
+          Incident normal reflection was measured by UV-Vis Spectrometer (HR4000, Ocean Optics) with halogen light source (DH-2000, Mikropack). SPR sensing tests were performed as a reference medium for standard refractive index in a home-made sandwich cell using de-ionized water (R.I., 1.332) and aqueous glycerol (Sigma Aldrich) solution (R.I., 1.343, 1.352, 1.363, 1.372).
+         </div>
+        </div>
+       </div>
+       <div class="section" id="other">
+        <a id="idm140239752667200">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         3. Results and Discussion
+        </h3>
+        <div id="idm140239752666080">
+         We have also previously observed a feasible manufacturing process for Au-covered epoxy gratings with inverse track-pitch (DVD-R) structure and those high SPR sensing sensitivity (~875 nm/RIU) and FOM (~110) [
+         <a class="bibrClassb6" href="#b6-jecst-2020-01767" name="bibrLink">
+          6
+         </a>
+         ,
+         <a class="bibrClassb15" href="#b15-jecst-2020-01767" name="bibrLink">
+          15
+         </a>
+         ]. Au-covered epoxy grating was prepared by mixing epoxy resin (5 Minute Epoxy
+         <sup>
+          ™
+         </sup>
+         , Devcon, bisphenol A diglycidyl ether (BADGE or DBEBA)) with a hardener (10–30%, 2,4,6-tris[(dimethylamino) methyl]phenol) at room temperature firstly and well-mixed epoxy resin was poured into a Au layer (80 nm of thickness) surface which was sputtered onto the original polycarbonate (PC) substrate of DVD-R disc (Memorex
+         <sup>
+          ™
+         </sup>
+         , 16X4.7GB, 120 min). There is no adhesive thin metal layer (e.g., Cr or Ti) between Au layer and the PC board. Before injecting the mixed epoxy resin, removing a protective PC cover of DVD-R disc, washing organic dye with isopropyl alcohol (Sigma-Aldrich) and dissolving Al recording layer out in nitric acid (98%, Sigma-Aldrich) was done. After pouring the epoxy resin onto the sputtered Au layer of the PC board, it was placed in a dry oven at 100°C for 30 minutes. Next, it was peeled off the cured epoxy PC board. Cured epoxy was then peeled off from PC substrate. Through this simple cloning process of curing the epoxy resin, the sputtered Au layer of the PC board was continuously transferred to the epoxy board.
+         <a class="figClassf1" href="#f1-jecst-2020-01767" name="figLink">
+          Fig. 1
+         </a>
+         , a scanning electron microscopy (SEM) image shows a very smooth Au surface on an epoxy substrate. In these easily prepared gratings, the inverse track-pitch structure of the DVD-R is successively formed with periodic narrow gorge geometry. Feasible delaminating cured epoxy from a PC substrate is enabled by strong adhesion between epoxy resin (surface tension, 43–47 dynes/cm) and the Au layer while here is a relatively weaker adhesion between Au layer and original PC substrate. During a tape test, no significant drop-out of Au layer was observed in the prepared Au-covered epoxy gratings and the Au layer of the PC substrate which is before Au layer transfer onto epoxy resin is easily delaminated. Compared to the Au layer of the original PC board, stronger physical properties can be obtained with a solid Au layer that is firmly attached and fixed to the epoxy substrate. Additionally, the FOM of SPR detection is dramatically improved from 52 to 110 by transferring the Au layer from PC to the epoxy substrate.
+        </div>
+        <div id="idm140239752659104">
+         In addition, we try to induce electrochemically potential-induced Au reconstruction by applying potential cycling to an Au-covered epoxy gratings [
+         <a class="bibrClassb16" href="#b16-jecst-2020-01767" name="bibrLink">
+          16
+         </a>
+         ,
+         <a class="bibrClassb17" href="#b17-jecst-2020-01767" name="bibrLink">
+          17
+         </a>
+         ]. The applied electrochemical potential (V) can act as a driving force for metal nucleation as well as further possible decomposition mechanisms. The so-called “potential-induced reconstruction” for single crystal Au electrodes with low Miller index (e.g., (100), (110) and (111)) is well known for the increase and stabilization of the electron density among surface Au atoms. In this process, the (100) and (110) facets as well as the already dense (111) facets can be reconstructed by sequential adsorption of SO
+         <sub>
+          3
+         </sub>
+         <sup>
+          −
+         </sup>
+         and hydroxyl radical, OH
+         <sup>
+          −
+         </sup>
+         like other oxygen species in an aqueous sulfuric acid solution [
+         <a class="bibrClassb10" href="#b10-jecst-2020-01767" name="bibrLink">
+          10
+         </a>
+         ,
+         <a class="bibrClassb11" href="#b11-jecst-2020-01767" name="bibrLink">
+          11
+         </a>
+         ]. It is already well known that continuous Au reconstruction is owned by thermal or flame annealing process. These annealing processes for Au reconstruction are typically operated at 450 to 550°C and Unfortunately, these temperature ranges can cause severe structural modifications to widely be used substrates for nanostructured lattice couplers, such as glass, silica, polystyrene (PS), and polymers. It has also been reported that metal layers annealed with a high temperature (~300°C) thermal annealing process showed dramatically grown Au islands and collapsed SPR signals (e.g., low intensity and wide SPR dips) [
+         <a class="bibrClassb18" href="#b18-jecst-2020-01767" name="bibrLink">
+          18
+         </a>
+         –
+         <a class="bibrClassb20" href="#b20-jecst-2020-01767" name="bibrLink">
+          20
+         </a>
+         ]. In the case of electrochemical Au reconstruction, a reconstructed structure of the Au surface could be obtained without a dramatic change in the Au crystal structure even without introducing a thermal annealing process at high temperature.
+        </div>
+        <div id="idm140239752649280">
+         CV was applied in an aqueous sulfuric acid electrolyte solution (50 mmol/liter). Prior to using a Aucovered epoxy gratings as a working electrode directly, plastic-coated Cu wire was connected to the Au surface and additional insulation was done with epoxy resin to avoid possible contaminations. Before applying the potential cycling, inert nitrogen gas (UHP300, Airgas) was purged for more than 30 minutes to remove residual oxygen species in a liquid electrolyte solution. In
+         <a class="figClassf2" href="#f2-jecst-2020-01767" name="figLink">
+          Fig. 2
+         </a>
+         , a distinct oxidation peak was observed during potential cycling at about 0.55 V. This oxidation peak is well known for the adsorption of sulfuric acid groups (SO
+         <sub>
+          3
+         </sub>
+         <sup>
+          −
+         </sup>
+         ) on the Au electrode surface. Additional potential sweeps in the positive direction led to Au oxidation upon adsorption of oxygen species (OH
+         <sup>
+          −
+         </sup>
+         , O
+         <sup>
+          −
+         </sup>
+         , O
+         <sub>
+          2
+         </sub>
+         <sup>
+          −
+         </sup>
+         ). In the negative direction, the reduction of the adsorbed oxygen species to water molecules (H
+         <sub>
+          2
+         </sub>
+         O) was observed at two distinct peak positions. The SO
+         <sub>
+          3
+         </sub>
+         <sup>
+          −
+         </sup>
+         and OH
+         <sup>
+          −
+         </sup>
+         functional groups sequentially adsorbed on the Au surface restore and lift the Au monolayer from the electrode surface. Interestingly, as the number of applied potential cycles increases, the intensity of the oxygen reduction peak located at about 0.8 V gradually decreases and for 1.18 V it gradually increases. Similar results appear in the oxygen reduction reaction according to the physical properties of Pt nanoparticle electro-catalysts for the application of polymer electrolyte membrane fuel cells [
+         <a class="bibrClassb21" href="#b21-jecst-2020-01767" name="bibrLink">
+          21
+         </a>
+         –
+         <a class="bibrClassb23" href="#b23-jecst-2020-01767" name="bibrLink">
+          23
+         </a>
+         ]. In particular, in the results of Brian E. Hayden et al, as the thickness of the Pt electrode prepared by physical vapor deposition increases, the peak potential of oxygen reduction in the cyclic voltammogram shifts to a high potential [
+         <a class="bibrClassb23" href="#b23-jecst-2020-01767" name="bibrLink">
+          23
+         </a>
+         ]. Also, in the carbon monoxide, CO stripping voltammogram, the thinner the Pt electrode, the higher the peak potential of CO stripping is. These results show that there is an early dramatic change in Au reconstruction by CV in sulfuric acid. These changes in the adsorption properties of nanoparticles are according to physical characteristics such as particle size. Instantly, the excess pressure acting on the internal bulk atoms of a particle from surface atoms present in a single particle is inversely proportional to the particle’s radius.
+        </div>
+        <div id="idm140239752638032">
+         <a class="figClassf3" href="#f3-jecst-2020-01767" name="figLink">
+          Fig. 3
+         </a>
+         shows the changes in lattice spacing and crystal size according to XRD measurement of Aucovered epoxy gratings after potential cycling. It is clearly shown that the peak of Au (111) in XRD shifted to the higher high 2θ position, and the particle size calculated by the Debye-Scherrer equation also increased significantly from about 62.4 to 69.2 nm at the beginning of CV. The clear changes in lattice spacing and crystal size in XRD measurements predicted changes in coherent delocalized electron oscillations between Au and dielectric interface due to an increase in packing density of gold atoms present in the grain boundary by electrochemical Au reconstruction by potential cycling.
+        </div>
+        <div id="idm140239752635952">
+         The SPR detection sensitivity was monitored by measuring the normal incident specula optical reflection spectrum with a UV-Vis spectrometer (HR4000, Ocean Optics) and a halogen light source (DH-2000, Mikropack). During the detection test, the assembled home-made sandwich cell was equipped with optical fibers (Ocean Optics) and aqueous glycerol solutions (0, 9, 16, 24 and 31% by weight) to reference the refractive index. As we have already reported, a narrow SPR dip was observed in the air and aqueous glycerol solution medium of an epoxy gratings covered with Au in
+         <a class="figClassf4" href="#f4-jecst-2020-01767" name="figLink">
+          Fig. 4(a, b)
+         </a>
+         . The SPR sensitivity obtained from the slope of the trend line between the refractive index in
+         <a class="figClassf4" href="#f4-jecst-2020-01767" name="figLink">
+          Fig. 4(c)
+         </a>
+         and the SPR dip location (nm) was summarized in
+         <a class="figClassf5" href="#f5-jecst-2020-01767" name="figLink">
+          Fig. 5
+         </a>
+         as the number of sequentially increased potential cycles. At least 3 samples were prepared for each potential cycle. Conditions and normal incidence specula optical spectra were measured at several locations on the surface of an epoxy grating covered with Au to obtain average SPR sensitivity and standard deviation. Prior to applying potential cycling to the Au-covered epoxy gratings, it exhibited an SPR detection sensitivity of 876.15 ± 11.07 nm/RIU. After applying potential cycling, the SPR sensitivity gradually increases to 901.48 ± 3.25 (after 10 potential cycles), 914.56 ± 6.96 (20 cycles), 921.99 ± 2.95 (30 cycles), and finally 927.04 ± 7.55 (50 cycles) in
+         <a class="figClassf5" href="#f5-jecst-2020-01767" name="figLink">
+          Fig. 5
+         </a>
+         .
+        </div>
+        <div id="idm140239752629792">
+         The representative sensing performance indicators of the surface plasmon sensor are sensitivity and figure of merit (FOM). The sensitivity, which is the sensitivity to the refractive index unit (RIU), represents the change in the position of the SPR dip per refractive index change [
+         <a class="bibrClassb24" href="#b24-jecst-2020-01767" name="bibrLink">
+          24
+         </a>
+         –
+         <a class="bibrClassb27" href="#b27-jecst-2020-01767" name="bibrLink">
+          27
+         </a>
+         ]. FOM is a value obtained by dividing the sensitivity value by the FWHM of SPR dip, which is an index to evaluate the effectiveness and accuracy of the surface plasmon sensor [
+         <a class="bibrClassb26" href="#b26-jecst-2020-01767" name="bibrLink">
+          26
+         </a>
+         ,
+         <a class="bibrClassb28" href="#b28-jecst-2020-01767" name="bibrLink">
+          28
+         </a>
+         –
+         <a class="bibrClassb30" href="#b30-jecst-2020-01767" name="bibrLink">
+          30
+         </a>
+         ]. The sensitivity of the plasmon sensor increases when the particle size constituting the metal or dielectric component of the plasmon sensor is large [
+         <a class="bibrClassb9" href="#b9-jecst-2020-01767" name="bibrLink">
+          9
+         </a>
+         ]. If the periodic pattern of the platform of surface plasmon decreases the aspect ratio through structural deformation, the sensitivity of the plasmon sensor does not decrease. Instead, the intensity of SPR dip decreases and FWHM increases, resulting in a decrease in FOM. This means that the accuracy of the plasmon sensor may be poor. However, in this result, it is not possible to see the change in SPR dip intensity or FWHM before and after potential cycling. If any impurities are present on the metal surface because of the cleanness issues, it is expected that the intensity or FWHM of the SPR dip will change because it affects the scattering or reflection of light on the surface of the plasmon substrate. However, this was also not confirmed in this result, and when the above results were combined, it can be concluded that the sensitivity of the plasmon sensor was improved without structural deformation when electrochemical Au reconstruction was selected instead of high temperature heat treatment.
+        </div>
+       </div>
+       <div class="section" id="conclusions">
+        <a id="idm140239752621216">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         4. Conclusions
+        </h3>
+        <div id="idm140239752620112">
+         The increased SPR sensing sensitivity in the Au-covered epoxy grating with reverse track-pitch structure is observed when applying potential cycling in aqueous sulfuric acid solution. The as-prepared grating shows 876.15 ± 11.07 nm/RIU of sensing sensitivity, and finally increased to 927.04 ± 7.55 after 50 potential cycling. Observation of the XRD lattice spacing parameters reveal crystallographic modifications by electrochemically potential-induced Au reconstruction process. This is a way to improve sensitivity without affecting the accuracy of the plasmon sensor because structural deformation, which is a side effect of heat treatment at high temperatures, can be avoided.
+        </div>
+       </div>
+      </div>
+      <div class="back" id="article-back">
+       <div class="back-section">
+        <a id="idm140239752618640">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+         Acknowledgment
+        </h3>
+        <div id="idm140239752617840">
+         This research was supported by the Korea Institute of Energy Technology Evaluation and Planning funded by the Korea government MOTIE (2019281010007A)
+        </div>
+       </div>
+       <div class="section" id="display-objects">
+        <a id="idm140239752275968">
+         <!-- named anchor -->
+        </a>
+        <h3 class="main-title">
+        </h3>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 1
+         </h5>
+         <a id="f1-jecst-2020-01767">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752273136">
+           SEM and AFM image of Au-covered epoxy gratings in which inverse track-pitch structure of DVD-R disc is formed.
           </div>
-          <script type="text/javascript">
-           //<![CDATA[
-    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
-      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
-      b(function(){
-        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
-        if(!cookiesEnabled){
-          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+         </div>
+         <img alt="jecst-2020-01767f1.jpg" src="/upload//thumbnails/jecst-2020-01767f1.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 2
+         </h5>
+         <a id="f2-jecst-2020-01767">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752270208">
+           Cyclic voltammograms of Au-covered epoxy gratings in nitrogen-purged aqueous 50 mM H
+           <sub>
+            2
+           </sub>
+           SO
+           <sub>
+            4
+           </sub>
+           electrolyte solution with 100 mV/s of scan rate.
+          </div>
+         </div>
+         <img alt="jecst-2020-01767f2.jpg" src="/upload//thumbnails/jecst-2020-01767f2.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 3
+         </h5>
+         <a id="f3-jecst-2020-01767">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752266320">
+           (a) XRD patterns and (b) Au(111) lattice spacing and crystal size (nm) after potential cycling.
+          </div>
+         </div>
+         <img alt="jecst-2020-01767f3.jpg" src="/upload//thumbnails/jecst-2020-01767f3.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 4
+         </h5>
+         <a id="f4-jecst-2020-01767">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752263408">
+           (a) Incident normal reflection spectra in air after potential cycling. (b) SPR sensing sensitivity test of Aucoated epoxy gratings (50 potential cycling) with water and aqueous glycerol solutions and (c) its position vs. refractive index plot.
+          </div>
+         </div>
+         <img alt="jecst-2020-01767f4.jpg" src="/upload//thumbnails/jecst-2020-01767f4.jpg" width="200"/>
+        </div>
+        <div class="fig panel" style="display: float; clear: both; width: 690px; overflow: auto;">
+         <h5 class="label" style="margin:0px 0px 0px 0px;">
+          Fig. 5
+         </h5>
+         <a id="f5-jecst-2020-01767">
+          <!-- named anchor -->
+         </a>
+         <div class="caption">
+          <div class="first" id="idm140239752260352">
+           SPR sensing sensitivity after potential cycling.
+          </div>
+         </div>
+         <img alt="jecst-2020-01767f5.jpg" src="/upload//thumbnails/jecst-2020-01767f5.jpg" width="200"/>
+        </div>
+       </div>
+       <div class="back-section">
+        <a id="idm140239752617232">
+         <!-- named anchor -->
+        </a>
+        <div class="section ref-list">
+         <a id="idm140239752617232">
+          <!-- named anchor -->
+         </a>
+         <h3 class="main-title">
+          References
+         </h3>
+         <div class="ref-list table">
+          <div class="ref_layer" id="b1-jecst-2020-01767" name="jats-ref-pub">
+           [1] J. Homola,
+           <i>
+            Chem Rev
+           </i>
+           .,
+           <b>
+            2008
+           </b>
+           ,
+           <i>
+            108
+           </i>
+           (
+           <i>
+            2
+           </i>
+           ), 462–493.
+           <br/>
+           <a href="https://doi.org/10.1021/cr068107d" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b2-jecst-2020-01767" name="jats-ref-pub">
+           [2] JN. Anker, WP. Hall, O. Lyandres, NC. Shah, J. Zhao and RP. Van Duyne,
+           <i>
+            Nanosci Technol A Collect Rev from Nat Journals
+           </i>
+           .,
+           <b>
+            2009
+           </b>
+           , 308–319.
+           <br/>
+           <a href="https://doi.org/10.1142/9789814287005_0032" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b3-jecst-2020-01767" name="jats-ref-pub">
+           [3] KA. Willets and RP. Van Duyne,
+           <i>
+            Annu Rev Phys Chem
+           </i>
+           .,
+           <b>
+            2007
+           </b>
+           ,
+           <i>
+            58
+           </i>
+           , 267–297.
+           <br/>
+           <a href="https://doi.org/10.1146/annurev.physchem.58.032806.104607" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b4-jecst-2020-01767" name="jats-ref-pub">
+           [4] HC. Jeon, CJ. Heo, SY. Lee, SG. Park and SM. Yang,
+           <i>
+            J Mater Chem
+           </i>
+           .,
+           <b>
+            2012
+           </b>
+           ,
+           <i>
+            22
+           </i>
+           (
+           <i>
+            11
+           </i>
+           ), 4603–4606.
+           <br/>
+           <a href="https://doi.org/10.1039/c2jm15723c" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b5-jecst-2020-01767" name="jats-ref-pub">
+           [5] SY. Lee, HC. Jeon and SM. Yang,
+           <i>
+            J Mater Chem
+           </i>
+           .,
+           <b>
+            2012
+           </b>
+           ,
+           <i>
+            22
+           </i>
+           (
+           <i>
+            13
+           </i>
+           ), 5900–5913.
+           <br/>
+           <a href="https://doi.org/10.1039/c2jm16568f" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b6-jecst-2020-01767" name="jats-ref-pub">
+           [6] X. Dou, PY. Chung, P. Jiang and J. Dai,
+           <i>
+            Appl Phys Lett
+           </i>
+           .,
+           <b>
+            2012
+           </b>
+           ,
+           <i>
+            100
+           </i>
+           (
+           <i>
+            4
+           </i>
+           ), 041116–041119.
+           <br/>
+           <a href="https://doi.org/10.1063/1.3679682" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b7-jecst-2020-01767" name="jats-ref-pub">
+           [7] J. Yu, H. Tao and B. Cheng,
+           <i>
+            ChemPhysChem
+           </i>
+           .,
+           <b>
+            2010
+           </b>
+           ,
+           <i>
+            11
+           </i>
+           (
+           <i>
+            8
+           </i>
+           ), 1617–1618.
+           <br/>
+           <a href="https://doi.org/10.1002/cphc.200900993" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b8-jecst-2020-01767" name="jats-ref-pub">
+           [8] EM. Larsson, C. Langhammer, I. Zorić and B. Kasemo,
+           <i>
+            Science (80-)
+           </i>
+           .,
+           <b>
+            2009
+           </b>
+           ,
+           <i>
+            326
+           </i>
+           (
+           <i>
+            5956
+           </i>
+           ), 1091–1094.
+           <br/>
+           <a href="https://doi.org/10.1126/science.1176593" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b9-jecst-2020-01767" name="jats-ref-pub">
+           [9] B. Choi, X. Dou, Y. Fang, BM. Phillips and P. Jiang,
+           <i>
+            Phys Chem Chem Phys
+           </i>
+           .,
+           <b>
+            2016
+           </b>
+           ,
+           <i>
+            18
+           </i>
+           (
+           <i>
+            37
+           </i>
+           ), 26078–26087.
+           <br/>
+           <a href="https://doi.org/10.1039/C6CP04977J" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b10-jecst-2020-01767" name="jats-ref-pub">
+           [10] T. Kondo, J. Morita, K. Hanaoka, S. Takakusagi, K. Tamura, M. Takahasi, JNI. Mizuki and K. Uosaki,
+           <i>
+            J Phys Chem C
+           </i>
+           .,
+           <b>
+            2007
+           </b>
+           ,
+           <i>
+            111
+           </i>
+           (
+           <i>
+            35
+           </i>
+           ), 13197–13204.
+           <br/>
+           <a href="https://doi.org/10.1021/jp072601j" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b11-jecst-2020-01767" name="jats-ref-pub">
+           [11] OA. Hazzazi, GA. Attard, PB. Wells, FJ. Vidal-Iglesias and M. Casadesus,
+           <i>
+            J Electroanal Chem
+           </i>
+           .,
+           <b>
+            2009
+           </b>
+           ,
+           <i>
+            625
+           </i>
+           (
+           <i>
+            2
+           </i>
+           ), 123–130.
+           <br/>
+           <a href="https://doi.org/10.1016/j.jelechem.2008.10.016" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b12-jecst-2020-01767" name="jats-ref-pub">
+           [12] J. Wang, AJ. Davenport, HS. Isaacs and BM. Ocko,
+           <i>
+            Science (80-)
+           </i>
+           .,
+           <b>
+            1991
+           </b>
+           ,
+           <i>
+            255
+           </i>
+           (
+           <i>
+            5050
+           </i>
+           ), 1416–1418.
+           <br/>
+           <a href="https://doi.org/10.1126/science.255.5050.1416" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b13-jecst-2020-01767" name="jats-ref-pub">
+           [13] J. Wang, BM. Ocko, AJ. Davenport and HS. Issacs,
+           <i>
+            Phys Rev B
+           </i>
+           .,
+           <b>
+            1992
+           </b>
+           ,
+           <i>
+            46
+           </i>
+           (
+           <i>
+            16
+           </i>
+           ), 10321–10338.
+           <br/>
+           <a href="https://doi.org/10.1103/PhysRevB.46.10321" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b14-jecst-2020-01767" name="jats-ref-pub">
+           [14] T. Kondo, J. Zegenhagen, S. Takakusagi and K. Uosaki,
+           <i>
+            Surf Sci
+           </i>
+           .,
+           <b>
+            2015
+           </b>
+           ,
+           <i>
+            631
+           </i>
+           , 96–104.
+           <br/>
+           <a href="https://doi.org/10.1016/j.susc.2014.06.013" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b15-jecst-2020-01767" name="jats-ref-pub">
+           [15] B. Choi, Surface Plasmon Resonance Based on Optical Discs and Silica Microsphere Monolayer. University Of Florida,
+           <b>
+            2015
+           </b>
+           .
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b16-jecst-2020-01767" name="jats-ref-pub">
+           [16] J. Schneider and DM. Kolb,
+           <i>
+            Surf Sci
+           </i>
+           .,
+           <b>
+            1988
+           </b>
+           ,
+           <i>
+            193
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 579–592.
+           <br/>
+           <a href="https://doi.org/10.1016/0039-6028(88)90455-4" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b17-jecst-2020-01767" name="jats-ref-pub">
+           [17] DM. Kolb and J. Schneider,
+           <i>
+            Surf Sci
+           </i>
+           .,
+           <b>
+            1985
+           </b>
+           ,
+           <i>
+            162
+           </i>
+           (
+           <i>
+            1–3
+           </i>
+           ), 764–775.
+           <br/>
+           <a href="https://doi.org/10.1016/0039-6028(85)90977-X" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b18-jecst-2020-01767" name="jats-ref-pub">
+           [18] RR. Abbas, TH. Richardson, A. Hobson, A. Hassan and TR. Abbas,
+           <i>
+            Colloids Surfaces A Physicochem Eng Asp
+           </i>
+           .,
+           <b>
+            2014
+           </b>
+           ,
+           <i>
+            444
+           </i>
+           , 95–103.
+           <br/>
+           <a href="https://doi.org/10.1016/j.colsurfa.2013.12.036" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b19-jecst-2020-01767" name="jats-ref-pub">
+           [19] C. Yan, Y. Chen, A. Jin, M. Wang, X. Kong, X. Zhang, Y. Ju and L. Han,
+           <i>
+            Appl Surf Sci
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            258
+           </i>
+           (
+           <i>
+            1
+           </i>
+           ), 377–381.
+           <br/>
+           <a href="https://doi.org/10.1016/j.apsusc.2011.09.037" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b20-jecst-2020-01767" name="jats-ref-pub">
+           [20] V. Švorčík, O. Kvítek, O. Lyutakov, J. Siegel and Z. Kolská,
+           <i>
+            Appl Phys A Mater Sci Process
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            102
+           </i>
+           (
+           <i>
+            3
+           </i>
+           ), 747–751.
+           <br/>
+           <a href="https://doi.org/10.1007/s00339-010-5977-5" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <a href="http://link.springer.com/content/pdf/10.1007/s00339-010-5977-5.pdf" target="_blank">
+            <img alt="pdf" border="0" src="/image/icon/bnr_ref_pdf.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b21-jecst-2020-01767" name="jats-ref-pub">
+           [21] M. Shao, A. Peles and K. Shoemaker,
+           <i>
+            Nano Lett
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            11
+           </i>
+           (
+           <i>
+            9
+           </i>
+           ), 3714–3719.
+           <br/>
+           <a href="https://doi.org/10.1021/nl2017459" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b22-jecst-2020-01767" name="jats-ref-pub">
+           [22] KJJ. Mayrhofer, BB. Blizanac, M. Arenz, VR. Stamenkovic, PN. Ross and NM. Markovic,
+           <i>
+            J Phys Chem B
+           </i>
+           .,
+           <b>
+            2005
+           </b>
+           ,
+           <i>
+            109
+           </i>
+           (
+           <i>
+            30
+           </i>
+           ), 14433–14440.
+           <br/>
+           <a href="https://doi.org/10.1021/jp051735z" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b23-jecst-2020-01767" name="jats-ref-pub">
+           [23] BE. Hayden, D. Pletcher, JP. Suchsland and LJ. Williams,
+           <i>
+            Phys Chem Chem Phys
+           </i>
+           .,
+           <b>
+            2009
+           </b>
+           ,
+           <i>
+            11
+           </i>
+           (
+           <i>
+            40
+           </i>
+           ), 9141–9148.
+           <br/>
+           <a href="https://doi.org/10.1039/b910110a" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b24-jecst-2020-01767" name="jats-ref-pub">
+           [24] Y. Xia and NJ. Halas,
+           <i>
+            MRS Bull
+           </i>
+           .,
+           <b>
+            2005
+           </b>
+           ,
+           <i>
+            30
+           </i>
+           , 338–348.
+           <br/>
+           <a href="https://doi.org/10.1557/mrs2005.96" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b25-jecst-2020-01767" name="jats-ref-pub">
+           [25] C. Noguez,
+           <i>
+            J Phys Chem C
+           </i>
+           .,
+           <b>
+            2007
+           </b>
+           ,
+           <i>
+            111
+           </i>
+           (
+           <i>
+            10
+           </i>
+           ), 3606–3619.
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b26-jecst-2020-01767" name="jats-ref-pub">
+           [26] Y. Shen, J. Zhou, T. Liu, Y. Tao, R. Jiang, M. Liu, G. Xiao, J. Zhu, ZK. Zhou, X. Wang and et al,
+           <i>
+            Nat Commun
+           </i>
+           .,
+           <b>
+            2013
+           </b>
+           ,
+           <i>
+            4
+           </i>
+           , 1–9.
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b27-jecst-2020-01767" name="jats-ref-pub">
+           [27] Y. Gao, Q. Gan and FJ. Bartoli,
+           <i>
+            IEEE J Sel Top Quantum Electron
+           </i>
+           .,
+           <b>
+            2014
+           </b>
+           ,
+           <i>
+            20
+           </i>
+           (
+           <i>
+            3
+           </i>
+           .
+           <br/>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b28-jecst-2020-01767" name="jats-ref-pub">
+           [28] Y. Xiong, J. Chen, B. Wiley, Y. Xia, Y. Yin and ZY. Li,
+           <i>
+            Nano Lett
+           </i>
+           .,
+           <b>
+            2005
+           </b>
+           ,
+           <i>
+            5
+           </i>
+           (
+           <i>
+            7
+           </i>
+           ), 1237–1242.
+           <br/>
+           <a href="https://doi.org/10.1021/nl0508826" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b29-jecst-2020-01767" name="jats-ref-pub">
+           [29] J. Henzie, MH. Lee and TW. Odom,
+           <i>
+            Nat Nanotechnol
+           </i>
+           .,
+           <b>
+            2007
+           </b>
+           ,
+           <i>
+            2
+           </i>
+           (
+           <i>
+            9
+           </i>
+           ), 549–554.
+           <br/>
+           <a href="https://doi.org/10.1038/nnano.2007.252" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <a href="http://www.nature.com/articles/nnano.2007.252.pdf" target="_blank">
+            <img alt="pdf" border="0" src="/image/icon/bnr_ref_pdf.gif"/>
+           </a>
+           <br/>
+          </div>
+          <div class="ref_layer" id="b30-jecst-2020-01767" name="jats-ref-pub">
+           [30] KM. Mayer and JH. Hafner,
+           <i>
+            Chem Rev
+           </i>
+           .,
+           <b>
+            2011
+           </b>
+           ,
+           <i>
+            111
+           </i>
+           (
+           <i>
+            6
+           </i>
+           ), 3828–3857.
+           <br/>
+           <a href="https://doi.org/10.1021/cr100313v" target="_blank">
+            <img alt="crossref" border="0" src="/image/icon/bnr_ref_cross.gif"/>
+           </a>
+           <br/>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <div id="inThisPage" style="padding-top:0px;padding-left:0px;display:none;">
+      </div>
+     </div>
+     <script type="text/javascript">
+      <!--
+function _ajax(url, data, func, sync, type) {
+	var xmlhttp = window.XMLHttpRequest ? new XMLHttpRequest() : new ActiveXObject('Microsoft.XMLHTTP');
+	xmlhttp.onreadystatechange = function() {
+		if (xmlhttp.readyState == 4) func(xmlhttp.responseText, xmlhttp.status == 200);
+	};
+	xmlhttp.open(type ? type : 'POST', url, !sync ? true : false);
+	xmlhttp.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+	xmlhttp.send(data);
+}
+var jColor = "#0B3D53";
+$(function () {
+	abs_flag = true;
+	if($("#__abstract").html()) {
+		$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__abstract' style='text-decoration:none;'>Abstract</a></div>");
+		abs_flag = false;
+	}
+	var len = $(".main-title").size();
+	for(var i  = 0; i < len; i++) {
+		if($(".main-title").eq(i).html()) {
+			$(".main-title").eq(i).attr("id", "__sec"+i+"title");
+			if(i == len-1) {
+				$("#inThisPage").append("<div style='padding:5px 0px;'><a href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			} else {
+				$("#inThisPage").append("<div style='border-bottom:1px dotted silver;padding:5px 0px;'><a class='anchor' href='#__sec"+i+"title' style='text-decoration:none;'>"+$(".main-title").eq(i).html()+"</a></div>");
+			}
+		}
+	}
+
+	// insert goto buttons
+	{ 
+		var html = "<div onclick='openITP(this, false);' style='color:"+jColor+";position:absolute;text-align:right;top:0;right:0;cursor:pointer;'>Go to : <img src='/image/button/goto.gif' alt='Goto' title='Goto' border='0' align='bottom' style='vertical-align:middle;margin-bottom:3px;'/><div class='ITPArrow' style=\"display:none;width:0;height:0;border:5px solid transparent;border-top-color:"+jColor+";border-bottom-color:"+jColor+";border-bottom-width:0;\"></div></div>";
+
+		var sc = $(".abstract-layer");
+		sc.css('position','relative');
+		sc.append(html);
+		
+		var size1 = $(".body > .section").size();
+		for(var i = 0; i < size1; i++) {
+			var sc = $(".body > .section").eq(i);
+			if($(".body > .section:eq("+i+") .main-title").html()) {
+				sc.css('position','relative');
+				sc.append(html);
+			}
+		}
+		var size2 = $(".back > .back-section").size();
+		for(var i = 0; i < size2; i++) {
+			var sc = $(".back > .back-section").eq(i);
+			sc.css('position','relative');
+			sc.append(html);
+		}
+	}
+	_ajax("/cited/getCitedBy.php", "doi=10.33961/jecst.2020.01767", function(s,f) {
+		if(!s.indexOf('OK')) {
+			s = s.split(':');
+			if(s[1] > 0) {
+				$("#cited_wrap").css("display","block");
+				$(".CitedNum a").eq(0).html(s[1]);
+			}
+		}
+	});
+});
+
+
+$("#body").click(function() {if(new_node_obj)openITP(null, true);});
+var new_node = null, new_node_see = false, new_node_obj = null;
+function openITP(o, f) {
+	if(new_node_see || f) {
+		new_node_see = false;
+		$(".newITP").css("display","none");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		if(new_node_obj != o && !f) openITP(o, false);
+	} else {
+		event.cancelBubble = true;       //for IE
+		if(event.stopPropagation) event.stopPropagation();
+		new_node_obj = o;
+		if(!new_node) {
+			new_node = inThisPage.cloneNode(true);
+			o.appendChild(new_node);
+			new_node.className='newITP';
+			$(".newITP").css("position","absolute");
+			$(".newITP").css("background","#fff");
+			$(".newITP").css("border-radius","7px");
+			$(".newITP").css("border","2px solid");
+			$(".newITP").css("padding","5px");
+			$(".newITP").css("text-align","left");
+			$(".newITP").css("white-space",""); // Box size 자동 제거 "nowrap"
+			$(".newITP").css("z-index","999");
+			$(".newITP").css("right","0");
+		}
+		$(".newITP").css("display","block");
+		$(".ITPArrow").css("border-bottom-width", "0");
+		$(".ITPArrow").css("border-top-width", "5px");
+		o.appendChild(new_node);
+		$(".newITP").prev().css("border-bottom-width", "5px");
+		$(".newITP").prev().css("border-top-width", "0");
+		new_node_see = true;
+	}
+}
+// Array에 inArray 메서드 추가
+Array.prototype.inArray = function(obj) {
+	if(this==null) return false;
+	for (var i = 0, length = this.length; i < length; i++)
+		if (this[i] == obj) return true;
+	return false;
+};
+Array.prototype.indexOf = function(obj) {
+	if(this==null) return -1;
+    for (var i = 0, length = this.length; i < length; i++)
+        if (this[i] == obj) return i;
+    return -1;
+};
+
+// 팝업 레이어 관리
+	function getPopupLayer() {
+		var POPUP = {
+			lr : null,
+			ot : 0,
+			ol : 0,
+			show : function () {
+				if(this.lr) return this. lr;
+				var w;
+				w = document.getElementById("article-body").appendChild(document.createElement("div"));
+				ot = document.getElementById("article-body").offsetTop;
+				ol = document.getElementById("article-body").offsetLeft;
+				this. lr = w;
+				with(w.style) {
+					background = "#ffffff";
+					position = "absolute";
+					cursor = "pointer";
+					borderColor = "#1381ce";
+					padding = "10px";
+					margin = "0px";
+					border = "2px solid #d0d0d0";
+					clear = "both";
+					zIndex = "99";
+				};
+				return w;
+			},
+			hide : function () {
+				if(!this.lr) return;
+				this.lr.parentNode.removeChild(this.lr);
+				this.lr = null;
+			},
+			resize : function (w, h) {
+				if(!this.lr) return;
+				this.lr.style.width = w==0?"":(w+"px");
+				this.lr.style.height = h==0?"":(h+"px");
+			},
+			moveTo : function (x, y) {
+				if(!this.lr) return;
+				this.lr.style.left = x-2+"px";
+				this.lr.style.top = y-14+"px";
+			},
+			setHTML : function (html) {
+				if(!this.lr) return;
+				this.lr.innerHTML = html;
+			}
+		};
+		return POPUP;
+	}
+
+	var popup = new getPopupLayer();
+
+// 레퍼런스 마우스오버 이벤트 추가
+	var bibrLink = document.getElementsByName("bibrLink");
+	var rLen = bibrLink.length;
+	for(var i = 0; i < rLen; i++) {
+		bibrLink[i].onmouseover = function() {
+			var referId = this.getAttribute("href").split("#")[1];
+			var referElement = document.getElementById(referId);/*.parentNode;
+			var referText = referElement.firstChild.textContent + ". ";
+			referElement = referElement.parentNode;
+			while(referElement = referElement.nextSibling) if(referElement.nodeName=="DIV") break;*/
+			referText = referElement.textContent;
+			var ll = popup.show();
+			ll.onmouseout = function () {
+				popup.hide();
+			};
+			popup.resize(400, 0);
+			var bd = document.body.firstChild;
+			do {
+				if(bd.nodeName=="DIV") {
+					bd = bd.offsetLeft;
+					break;
+				}
+			} while(bd = bd.nextSibling) 
+			var scrollLeft = document.documentElement.scrollLeft | document.body.scrollLeft;
+			var scrollTop = document.documentElement.scrollTop | document.body.scrollTop;
+			popup.moveTo(this.getBoundingClientRect().left+scrollLeft-10, this.getBoundingClientRect().top+scrollTop);
+			
+			popup.setHTML(referText);
+
+			ll.setAttribute("title", referId); 
+			
+			ll.onclick = function () {
+				//location.href = "#"+this.title;
+
+				event.preventDefault();
+				var target = $("#"+this.title);
+				var header_height = $('.headerWrap').height()+20;
+				var offset_top = target.offset().top - header_height; 
+
+				$('html, body').animate({scrollTop: offset_top}, 1);
+
+			};
+		};
+	}
+
+	window.name = "0931_379";
+
+	// 피겨를 문단 사이에 끼워넣기
+	var figureArr = new Array();
+	var figLink = document.getElementsByName("figLink");
+	var fLen = figLink.length;
+
+	for(var i = 0; i < fLen; i++) {
+		var clsName = figLink[i].className;
+		if(!figureArr.inArray(clsName)) {
+			try {
+				var fig_ck = figLink[i];
+				var ck_limit =0;
+				while($(fig_ck).attr("class") != "body"){
+					if($(fig_ck).attr("class") == "fig panel"){
+						break;
+					}
+					fig_ck = fig_ck.parentNode;
+
+					if(ck_limit == 100) break;
+					ck_limit++;
+				}
+				if($(fig_ck).attr("class") != "fig panel"){
+					figureArr.push(clsName);
+					var figureId = figLink[i].getAttribute("href").split("#")[1];
+					var figureElement = document.getElementById(figureId).parentNode;
+					figLink[i].parentNode.appendChild(figureElement);
+					var dLink = document.createElement("P");
+					dLink.setAttribute("align", "right");
+					dLink.innerHTML = "<a href=\"./Figure.php?xn=jecst-2020-01767.xml&id="+figureId+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" align=\"bottom\" alt=\"Download Figure\" title=\"Download Figure\" border=\"0\"/></a>";
+					figureElement.appendChild(dLink);
+				}
+			} catch (e) { }
+		}
+	}
+
+// 테이블을 문단 사이에 끼워넣기
+	var tableArr = new Array();
+	var tableLink = document.getElementsByName("tableLink");
+	var tLen = tableLink.length;
+	for(var i = 0; i < tLen; i++) {
+		var clsName = tableLink[i].className;
+		if(!tableArr.inArray(clsName)) {
+			try {
+			tableArr.push(clsName);
+			var tableId = tableLink[i].getAttribute("href").split("#")[1];
+			if(/^t[0-9]+a/.test(tableId)) continue;
+			var tableElement = document.getElementById(tableId).parentNode;
+			if(tableElement.getElementsByTagName('TABLE')[0]) {
+				tableElement.getElementsByTagName('TABLE')[0].onclick = function () {
+					var chd = this.parentNode.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2020-01767.xml&id="+tid+"&number=379&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+				var dLink = document.createElement("P");
+				dLink.setAttribute("align", "right");
+				dLink.innerHTML = "<a href=\"./Table.php?xn=jecst-2020-01767.xml&id="+tableId+"&mode=export\"><img style=\"margin-top: 15px;\" src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a>";
+				tableElement.appendChild(dLink);
+			} else {
+				tableElement.onclick = function () {
+					var chd = this.firstChild;
+					while(!chd.id) {
+						chd = chd.nextSibling;
+					}
+					var tid = chd.id;
+					window.open("/journal/Table.php?xn=jecst-2020-01767.xml&id="+tid+"&number=379&p_name="+window.name, "tableView", "width=800,height=600,scrollbars=yes");
+				};
+			}
+
+			//논문 서브 타이틀에 링크가 있을 경우 테이블이 H3 태그 안으로 들어가서 상위 노드로 이전시킴. 2016-12-28 문찬범
+				if(tableLink[i].parentNode.nodeName == "H3") {
+					tableLink[i].parentNode.parentNode.appendChild(tableElement);
+				} else {
+					tableLink[i].parentNode.appendChild(tableElement);
+				}
+			
+			} catch (e) { }
+		}
+	}
+
+	$("#supplementary-material .table-wrap > a[id^=t]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Table.php?xn=jecst-2020-01767.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_table.gif\" border=\"0\" alt=\"Download Table\" title=\"Download Table\"></a></p>");
+	});
+
+	$("#supplementary-material a[id^=s]").each(function(index) {
+		var tid = $(this).attr("id");
+		$(this).parent().append("<p align=\"right\"><a href=\"./Figure.php?xn=jecst-2020-01767.xml&id="+tid+"&mode=export\"><img src=\"/image/icon/down_figure.gif\" border=\"0\" alt=\"Download Figure\" title=\"Download Figure\"></a></p>");
+	});
+	
+	function layoutFix() {
+		/*$(".artCat").html(" : "+$(".artCat").html());*/
+		
+		var div = document.getElementsByTagName("DIV");
+		for(var i = 0; i < div.length; i++)
+		if(div[i].className == "ref_layer") {
+			if(/^[^0-9]/.test(div[i].textContent)) {
+				div[i].style.padding = "0px 0px 0px 30px";
+				div[i].style.textIndent = "-30px";
+			}
+		} else if(div[i].className == "fig panel") {
+			var aid, img, h5, cap, dp;
+			var fc = div[i].firstChild;
+			do {
+				if(fc.nodeName == "A") aid = fc.outerHTML;
+				if(fc.nodeName == "IMG") img = fc.outerHTML;
+				if(fc.nodeName == "H5") h5 = fc.outerHTML;
+				if(fc.nodeName == "P") dp = fc.outerHTML;
+				if(fc.nodeName == "DIV" && fc.className == "caption") cap = fc.outerHTML;
+			}while(fc = fc.nextSibling);
+			var nHTML;
+			if(!h5 && !cap) {
+				nHTML = aid+"<CENTER>"+img+"</CENTER>";
+			} else {
+				nHTML = aid+"<TABLE><TR><TD width='30%'>"+img+"</TD><TD valign='top' style='padding-left:10px;'>"+h5+cap+dp+"</TD></TR></TABLE>";
+			}
+			div[i].innerHTML = nHTML;
+			div[i].getElementsByTagName('IMG')[0].onclick = function () {
+				var chd = this.parentNode;
+				while(chd.className != "fig panel") chd = chd.parentNode;
+				chd = chd.firstChild;
+				while(!chd.id) {
+					chd = chd.nextSibling;
+				}
+				var fid = chd.id;
+				window.open("/journal/Figure.php?xn=jecst-2020-01767.xml&id="+fid+"&number=379&p_name="+window.name, "figureView","width=1000,height=1000,scrollbars=yes");
+			};
+		}
+		
+		$(".panel").css("margin-bottom","25px");
+		$("a[href^='#']").click(function(event) {
+			event.preventDefault();
+			var target = $(this.hash);
+			var header_height = $('.headerWrap').height()+20;
+			var offset_top = target.offset().top - header_height; 
+
+			$('html, body').animate({scrollTop: offset_top}, 1);
+		});
+
+	}
+	var ll = $("a[target='xrefwindow']");
+	for(var i = 0; i < ll.size(); i++) {
+		ll.eq(i).attr("href",ll.eq(i).attr("href"));
+		//if(ll.eq(i).attr("href").indexOf("http://"))
+			//ll.eq(i).attr("href","http://"+ll.eq(i).attr("href"));
+	}
+	setTimeout("layoutFix()", 1);
+	
+$(document).ready(function(){
+	$("#slide_button").click(function(){
+		if($("#summary_view").css("display") == "none") {
+			$("#slide_button").attr("src", "/image/button/slide_on_btn.png");
+			$("#summary_view").css("display", "block");
+		} else {
+			$("#slide_button").attr("src", "/image/button/slide_off_btn.png");
+			$("#summary_view").css("display", "none");
+		}
+	});
+	
+	var shiftWindow = function() { scrollBy(0, -180) };
+    window.addEventListener("hashchange", shiftWindow);
+    function load() { if (window.location.hash) shiftWindow(); }
+	
+});
+
+	//var shiftWindow = function() { scrollBy(0, -180) };
+    //window.addEventListener("hashchange", shiftWindow);
+    //function load() { if (window.location.hash) shiftWindow(); }
+	
+//-->
+     </script>
+    </div>
+    <!-- xml 로딩 영역 -->
+    <!-- 본문영역 종료 -->
+    <div class="aside viewArea">
+     <dl class="tool">
+      <dt>
+       TOOLS
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <a onclick='journal_download("pdf", "379", "jecst-2020-01767.pdf")' style="cursor: pointer;">
+          <img alt="PDF Links" border="0" src="/image/aside/icon_pdf.gif"/>
+          PDF Links
+         </a>
+        </li>
+        <li>
+         <a href="view.php?viewtype=pubreader&amp;number=379">
+          <img alt="PubReader" border="0" src="/image/icon/pubreader.gif"/>
+          PubReader
+         </a>
+        </li>
+        <li>
+         <a onclick='journal_download("epub", "379", "path=L2hvbWUvdmlydHVhbC9qZWNzdC9qb3VybmFsL3VwbG9hZC9wZGYvLi4vZXB1Yi9qZWNzdC0yMDIwLTAxNzY3LmVwdWI=&amp;filename=amVjc3QtMjAyMC0wMTc2Ny5lcHVi")' style="cursor: pointer;">
+          <img alt="ePub Link" border="0" src="/image/aside/icon_epub.gif"/>
+          ePub Link
+         </a>
+        </li>
+        <li>
+         <a href="https://doi.org/10.33961/jecst.2020.01767">
+          <img alt="Full text via DOI" border="0" src="/image/aside/icon_doi.gif"/>
+          Full text via DOI
+         </a>
+        </li>
+        <!-- summary -->
+        <li>
+         <a onclick="window.open('/journal/CitationForm.php?number=379','CitationDownload','width=720,height=600,scrollbars=yes')" style="cursor:pointer">
+          <img alt="Download Citation" border="0" src="/image/aside/icon_citation.gif"/>
+          Download Citation
+         </a>
+        </li>
+        <li>
+         <a href="/journal/crossRefTDM.php?number=379" onclick="window.open(this.href, 'CrossRef TDM', 'width=800,height=800,scrollbars=yes');return false;" target="_blank">
+          <img alt="CrossRef TDM" border="0" src="/image/aside/icon_tdm.gif"/>
+          CrossRef TDM
+         </a>
+        </li>
+        <li>
+         <a href="javascript:article_email(379);">
+          <img alt="" src="/image/aside/icon_mail.gif"/>
+          E-Mail
+         </a>
+        </li>
+       </ul>
+       <dl>
+        <dt>
+         Share :
+        </dt>
+        <dd>
+         <a href="http://www.facebook.com/sharer.php?u=%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2020.01767&amp;t=Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction" onclick="window.open(this.href, 'Facebook', 'width=800,height=500,scrollbars=yes');return false;">
+          <img alt="Facebook" src="/image/aside/icon_facebook.png"/>
+         </a>
+         <a href="http://twitter.com/home?status=Improved+Surface+Plasmon+Resonance+Sensing+Sensitivity+due+to+an+Electrochemically+Potential-Induced+Gold+Reconstruction%0Dhttp%3A%2F%2Fwww.jecst.org%2Fjournal%2Fview.php%3Fdoi%3D10.33961%2Fjecst.2020.01767" onclick="window.open(this.href, 'Twitter', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Twitter" src="/image/aside/icon_twitter.png"/>
+         </a>
+         <a href="https://www.linkedin.com/shareArticle?mini=true&amp;url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2020.01767&amp;title=Improved+Surface+Plasmon+Resonance+Sensing+Sensitivity+due+to+an+Electrochemically+Potential-Induced+Gold+Reconstruction" onclick="window.open(this.href, 'LinkedIn', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Linked In" src="/image/aside/icon_linkedin.png"/>
+         </a>
+         <a href="https://plus.google.com/share?url=
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2020.01767&amp;t=Improved+Surface+Plasmon+Resonance+Sensing+Sensitivity+due+to+an+Electrochemically+Potential-Induced+Gold+Reconstruction" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Google+" src="/image/aside/icon_google_plus.png"/>
+         </a>
+         <a href="http://line.me/R/msg/text/?Improved+Surface+Plasmon+Resonance+Sensing+Sensitivity+due+to+an+Electrochemically+Potential-Induced+Gold+Reconstruction 
+http://www.jecst.org/journal/view.php?doi=10.33961/jecst.2020.01767" onclick="window.open(this.href, 'Google', 'width=750,height=500,scrollbars=yes');return false;">
+          <img alt="Line it" src="/image/aside/icon_line_share-b.png"/>
+         </a>
+         <!--
+															<a href="#" onclick="alert('KakaoTalk is only accessible from mobile.');" style="padding-top:10px;"> 
+									<img src="//developers.kakao.com/assets/img/about/logos/kakaolink/kakaolink_btn_medium.png"/>
+								</a>
+								<a href="javascript:shareStory2();" style="padding-top:10px;">
+									<img src="https://developers.kakao.com/sdk/js/resources/story/icon_small.png"/>
+								</a>
+							
+														-->
+        </dd>
+       </dl>
+      </dd>
+     </dl>
+     <!--
+<script type='text/javascript'>
+  //<![CDATA[
+    // // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    // // 카카오링크 버튼을 생성합니다. 처음 한번만 호출하면 됩니다.
+    function sendLink() {
+      Kakao.Link.sendDefault({
+        objectType: 'feed',
+        content: {
+          title: 'Improved Surface Plasmon Resonance Sensing Sensitivity due to an Electrochemically Potential-Induced Gold Reconstruction',
+          //description: '#케익 #딸기 #삼평동 #카페 #분위기 #소개팅',
+          imageUrl: 'https://www.e-aps.org/image/icon/kakao_img.png',
+          link: {
+            mobileWebUrl: 'https://www.e-aps.org/journal/view.php?number=379',
+            webUrl: 'https://www.e-aps.org/journal/view.php?number=379'
+          }
         }
       });
+    }
   //]]>
-          </script>
-          <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=6cadef4fc831a1d1')">
-          </div>
-         </form>
-         <script type="text/javascript">
-          //<![CDATA[
-    (function(){
-        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
-        var trkjs = isIE ? new Image() : document.createElement('img');
-        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=6cadef4fc831a1d1");
-        trkjs.id = "trk_managed_js";
-        trkjs.setAttribute("alt", "");
-        document.body.appendChild(trkjs);
-        var cpo=document.createElement('script');
-        cpo.type='text/javascript';
-        cpo.src="/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=6cadef4fc831a1d1";
-        
-        document.getElementsByTagName('head')[0].appendChild(cpo);
-    }());
-    //]]>
-         </script>
-        </div>
-       </div>
-       <div class="cf-column">
-        <div class="cf-screenshot-container">
-         <span class="cf-no-screenshot">
-         </span>
-        </div>
-       </div>
-      </div>
-     </div>
-    </div>
-    <div class="cf-section cf-wrapper">
-     <div class="cf-columns two">
-      <div class="cf-column">
-       <h2 data-translate="why_captcha_headline">
-        Why do I have to complete a CAPTCHA?
-       </h2>
-       <p data-translate="why_captcha_detail">
-        Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.
-       </p>
-      </div>
-      <div class="cf-column">
-       <h2 data-translate="resolve_captcha_headline">
-        What can I do to prevent this in the future?
-       </h2>
-       <p data-translate="resolve_captcha_antivirus">
-        If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.
-       </p>
-       <p data-translate="resolve_captcha_network">
-        If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.
-       </p>
-      </div>
-     </div>
-    </div>
-    <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
-     <p class="text-13">
-      <span class="cf-footer-item sm:block sm:mb-1">
-       Cloudflare Ray ID:
-       <strong class="font-semibold">
-        6cadef4fc831a1d1
-       </strong>
-      </span>
-      <span class="cf-footer-separator sm:hidden">
-       •
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1">
-       <span>
-        Your IP
-       </span>
-       : 203.241.220.252
-      </span>
-      <span class="cf-footer-separator sm:hidden">
-       •
-      </span>
-      <span class="cf-footer-item sm:block sm:mb-1">
-       <span>
-        Performance &amp; security by
-       </span>
-       <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" rel="noopener noreferrer" target="_blank">
-        Cloudflare
+
+</script>
+
+<script type='text/javascript'>
+  //<![CDATA[
+    // 사용할 앱의 JavaScript 키를 설정해 주세요.
+    Kakao.init('ca53edb9b0101a5fb6399990490c4516');
+    function shareStory() {
+      Kakao.Story.open({
+        url: 'https://www.e-aps.org/journal/view.php?number=379',
+        text: '\n'
+      });
+    }
+
+    function shareStory2() {
+      Kakao.Story.share({
+        url: 'https://www.e-aps.org/journal/view.php?number=379',
+        text: ''
+      });
+    }
+
+  //]]>
+</script>
+-->
+     <dl class="metrics">
+      <dt>
+       METRICS
+       <a href="/metrics/metrics_down_ref.php?number=379" onclick="window.open(this.href, 'Metrics View', 'width=720, height=800,scrollbars=yes');return false;" style="cursor:pointer;">
+        <img alt="Graph View" src="/image/aside/btn_graphView.png"/>
        </a>
-      </span>
+      </dt>
+      <dd>
+       <ul>
+        <li>
+         <span class="count">
+          <a class="viewPoint" href="/journal/CitedBy.php?number=379" onclick="window.open(this.href, 'CrossRef Citedby', 'width=720,height=800,scrollbars=yes');return false;">
+           1
+          </a>
+         </span>
+         <span>
+          Crossref
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          <a class="viewPoint" href="http://www.scopus.com/inward/citedby.url?partnerID=HzOxMe3b&amp;scp=85109142145" target="_blank" title="More information">
+           1
+          </a>
+         </span>
+         <span>
+          Scopus
+         </span>
+        </li>
+        <li>
+         <span class="count">
+          3,469
+         </span>
+         <span>
+          View
+         </span>
+        </li>
+        <li class="border">
+         <span class="count">
+          102
+         </span>
+         <span>
+          Download
+         </span>
+        </li>
+        <li style="width:100%;text-align:center;">
+         <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
+         </script>
+         <div -data-badge-details="right" -data-badge-type="medium-donut" class="altmetric-embed" data-doi="10.33961/jecst.2020.01767" onclick="blank_action()">
+         </div>
+        </li>
+       </ul>
+      </dd>
+      <dt>
+       Related articles in
+       <i>
+        J. Electrochem. Sci. Technol
+       </i>
+      </dt>
+      <dd>
+      </dd>
+     </dl>
+    </div>
+   </div>
+   <hr/>
+   <hr/>
+   <div class="siteMap">
+    <dl class="last" style="width:230px">
+     <dt>
+      <a href="/about/" title="ABOUT">
+       ABOUT
+      </a>
+     </dt>
+     <dd>
+      <dl>
+       <dd>
+        <ul>
+         <li>
+          <a href="/about/index.php" title="Aims and scope">
+           Aims and scope
+          </a>
+         </li>
+         <li>
+          <a href="/about/about.php" title="About the journal">
+           About the journal
+          </a>
+         </li>
+         <li>
+          <a href="/about/editorial.php" title="Editorial board">
+           Editorial board
+          </a>
+         </li>
+         <li>
+          <a href="/about/open_access.php" title="Open access">
+           Open access
+          </a>
+         </li>
+         <li>
+          <a href="/about/contact.php" title="Contact us">
+           Contact us
+          </a>
+         </li>
+        </ul>
+       </dd>
+      </dl>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/category.php" title="ARTICLES">
+       ARTICLE CATEGORY
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/articles/category.php?article_category=Mini-review" title="Mini review">
+         Mini review
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Communication" title="Communication">
+         Communication
+        </a>
+       </li>
+       <li>
+        <a href="/articles/category.php?article_category=Research article" title="Research article">
+         Research article
+        </a>
+       </li>
+      </ul>
+      <p>
+       <a href="/articles/category.php" title="Browse all articles">
+        Browse all articles &gt;
+       </a>
+      </p>
+     </dd>
+    </dl>
+    <dl style="width:255px">
+     <dt>
+      <a href="/articles/archive.php" title="ISSUES">
+       BROWSE ARTICLES
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/current/" title="Current issue">
+         Current issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/forthcoming.php" title="Forthcoming issue">
+         Forthcoming issue
+        </a>
+       </li>
+       <li>
+        <a href="/articles/archive.php" title="All issues">
+         All issues
+        </a>
+       </li>
+       <li>
+        <a href="/articles/print.php" title="ASAP">
+         ASAP
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostread.php" title="Most view">
+         Most view
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostdownload.php" title="Most download">
+         Most download
+        </a>
+       </li>
+       <li>
+        <a href="/articles/mostcited.php" title="Most cited">
+         Most cited
+        </a>
+       </li>
+       <li>
+        <a href="/articles/funded.php" title="Funded articles">
+         Funded articles
+        </a>
+       </li>
+       <li>
+        <a href="/articles/search.php" title="Search">
+         Search
+        </a>
+       </li>
+       <li>
+        <a href="/articles/author_index.php" title="Author index">
+         Author index
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+    <dl style="width:220px">
+     <dt>
+      <a href="/authors/authors.php" title="AUTHOR INFORMATION">
+       AUTHOR INFORMATION
+      </a>
+     </dt>
+     <dd>
+      <ul>
+       <li>
+        <a href="/authors/authors.php" title="Instructions to authors">
+         Instructions to authors
+        </a>
+       </li>
+       <li>
+        <a href="/authors/checklist.php" title="Author’s checklist">
+         Author’s checklist
+        </a>
+       </li>
+       <li>
+        <a href="http://submit.jecst.org" target="_blank" title="E-submission">
+         E-submission
+        </a>
+       </li>
+       <li>
+        <a href="/authors/copyright_transfer_agreement.php" title="Copyright transfer agreement">
+         Copyright transfer agreement
+        </a>
+       </li>
+       <li>
+        <a href="/authors/ethics.php" title="Research publication ethics">
+         Research publication ethics
+        </a>
+       </li>
+      </ul>
+     </dd>
+    </dl>
+   </div>
+   <div class="footerWrap">
+    <div>
+     <dl>
+      <dt>
+       Editorial Office
+      </dt>
+      <dd>
+       <!--Room 1715, 122 Wangsan-ro, Dongdaemun-gu, Seoul 02566, Korea<br/-->
+       E-mail:
+       <a class="link" href="mailto:journal@kecs.or.kr">
+        journal@kecs.or.kr
+       </a>
+       Tel: +82-2-568-9392    Fax: +82-2-568-5931
+      </dd>
+     </dl>
+     <p>
+      Copyright ©
+      <a href="http://kecs.or.kr/main/" target="_blank">
+       2022 by The Korean Electrochemical Society.
+      </a>
+     </p>
+     <p class="posTR">
+      <a href="https://www.m2-pi.com" target="_blank">
+       <img alt="Developed in M2PI" src="https://www.m2-pi.com/images/developed_m2pi.png" style="vertical-align:middle;margin-top:2px;"/>
+      </a>
      </p>
     </div>
-    <!-- /.error-footer -->
+   </div>
+   <!-- //footerWrap -->
+  </div>
+  <!-- //wrapper -->
+  <style>
+   #overlay { display: none; position: absolute; top: 0px; left: 0px; width: 100%; height: 100%; z-index: 999; }
+	#overlay #overlay_close { margin:25px auto 0px auto; height: 20px; text-align: right; }
+	#overlay #main_image_wrap { margin:25px auto 25px auto; height: 448px; text-align: center; }
+  </style>
+  <div id="overlay">
+   <div style="width:900px; background-color: rgba(208,208,208,0.85); border: 1px solid #a0a0a0; padding-bottom: 25px; margin: auto;">
+    <div id="overlay_close">
+     <img alt="Close layer" onclick="closePhotoView(); return false;" src="/image/b_close.png" style="cursor:pointer;margin-right:25px;"/>
+    </div>
+    <div id="main_image_wrap">
+     <table style="margin: auto;">
+      <tbody>
+       <tr>
+        <td onclick="mImage_sliding('prev')" style="cursor: pointer;" valign="middle">
+         <img alt="prev" border="0" src="/image/b_prev.png"/>
+        </td>
+        <td style="width: 800px;height:448px;" valign="middle">
+         <img height="448" id="main_image" src="" width="800"/>
+        </td>
+        <td onclick="mImage_sliding('next')" style="cursor: pointer;" valign="middle">
+         <img alt="next" border="0" src="/image/b_next.png"/>
+        </td>
+       </tr>
+      </tbody>
+     </table>
+    </div>
    </div>
   </div>
-  <script type="text/javascript">
-   window._cf_translation = {};
+  <script>
+   /* Image Slide */
+	var thumb_array = new Array();
+	var thumb_index = 0;
+
+// 	$(window).scroll(function () {
+// 		var y = $(this).scrollTop();
+// 		$("#overlay").css("margin-top", y+100);
+// 	});
+	
+	function mImage_sliding(dir) {
+		 if(dir == 'next') {
+			 thumb_index++;
+			 if(thumb_index >= thumb_array.length) {
+				 thumb_index--;
+				 return false;
+			 }
+		 } else {
+			 thumb_index--;
+			 if(thumb_index < 0) {
+				 thumb_index++;
+				 return false;
+			 }
+		 }
+		 changeMainImage(thumb_array[thumb_index]);
+	}
+	
+	function openPhotoView(obj) {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$(obj).parent().parent().find('img.thumb').each(function (index) {
+			thumb_array.push($(this).attr("src"));
+			if($(obj).attr("src") == $(this).attr("src")) {
+				thumb_index = index;
+				changeMainImage($(this).attr("src"));
+			}
+		});
+	}
+	
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		
+		var src_data = $("#ss_516").html();
+		
+		console.log(src_data);
+	}
+	/*
+	function openPhotoView2() {
+		var y = $(this).scrollTop();
+		$("#overlay").css("margin-top", y+100);
+		$("#overlay").show();
+		thumb_array = new Array();
+		$("#ss_516").find('img.thumb').each(function (index) {
+			if(index != 0) {
+				thumb_array.push($("#ss_516").attr("src"));
+				if($("#ss_516").attr("src") == $(this).attr("src")) {
+					thumb_index = index;
+					changeMainImage($(this).attr("src"));
+				}
+			} 
+		});
+		
+		console.log(thumb_array);
+	}
+	*/
+
+	function closePhotoView() {
+		$('#overlay').hide();
+		thumb_array = new Array();
+	}
+
+	function changeMainImage(src) {
+		$("<img />").attr("src", src).load(function() {
+			var ratio = 800 / this.width;
+			var width = this.width * ratio;
+			var height = this.height * ratio;
+			if(height > 448) {
+				ratio = 448 / this.height;
+				width = this.width * ratio;
+				height = this.height * ratio;
+			}
+			$("#overlay #main_image_wrap #main_image").attr('src', this.src);
+			$("#overlay #main_image_wrap #main_image").attr('width', width);
+			$("#overlay #main_image_wrap #main_image").attr('height', height);
+		});
+	}
+/* Image Slide End */
+  </script>
+  <script>
+   /*    1. article pmcid, pmid update */
+	
+	var pm_data = 'J. Electrochem. Sci. Technol|2021|12|167||379|10.33961/jecst.2020.01767';		$.ajax ({
+			type : 'POST',
+			data : { 'query' : pm_data },
+			url  : 'https://www.e-arrhythmia.org/PMC_REF_SEARCH/',
+			success : function(data) {
+				var p_data_list = data.split("|");
+				var p_data = p_data_list[5].trim() + "|" + p_data_list[6].trim() + "|" + p_data_list[7].trim() + "|jou";
+				
+				$.ajax ({
+					type : 'POST',
+					data : { 'p_data' : p_data },
+					url  : '/cited/getPMCID.php/'
+				});
+				
+			}
+		});	
+		
+	/************************************************************/
+
+
+	/*    2. reference linkout update */
+	
+	var ref_list1 = new Array();
+	var ref_list2 = new Array();
+
+		for(var i = 0; i < ref_list1.length; i++) {
+		//cross
+		//$.ajax ({
+		//	type : 'POST',
+		//	data : { 'data' : ref_list1[i] },
+		//	url  : '/cited/getDoi.php'
+		//});
+
+		//pmcid/pmid
+		$.ajax ({
+			type : 'POST',
+			data : { 'query' : ref_list2[i] },
+			url  : 'https://www.e-arrhythmia.org/PMC_REF_SEARCH/',
+			success : function(ref_data) {
+				var p_ref_data_list = ref_data.split("|");
+				var p_ref_data = p_ref_data_list[5].trim() + "|" + p_ref_data_list[6].trim() + "|" + p_ref_data_list[7].trim() + "|ref";
+				
+				$.ajax ({
+				type : 'POST',
+				data : { 'p_data' : p_ref_data },
+				url  : '/cited/getPMCID.php/'
+				});
+			}
+		});
+	}
+	
+	/************************************************************/
+
+
+	/*    3. cross / scopus metrics */
+	$.ajax({
+	type: 'POST',
+	data: {doi: '10.33961/jecst.2020.01767', cross_yn: "Y", scopus_yn: "Y"},
+	url: '/func/Call_CitedBy.php',
+	success: function(result) {
+	 var r_data = $.parseJSON(result);
+
+	 var sc_count = r_data.scopus_citeby;
+
+	 if(sc_count == "" || sc_count == null) {
+		 sc_count = 0;
+	 }
+		//console.log(sc_count);
+		/* include.right.php�� �߰��� scopus count ID��. �񵿱�� �����Ѵ�. */
+		//$("#scopus_citedval").html(parseInt(sc_count).toString().replace(/\B(?=(\d{3})+(?!\d))/g, ",")); 	 
+	}
+	});
+
+
+	/************************************************************/
   </script>
  </body>
 </html>

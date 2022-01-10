@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="b23ec51d-feff-4278-a1f7-151722392f73" lang="en">
+<html class="pb-page" data-request-id="a467c52b-c33a-4ee5-86dc-3566f1de2be5" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";journal:journal:ascecg;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;requestedJournal:journal:ascecg;wgroup:string:ACHS website Group;website:website:acspubs;pageGroup:string:Publication Pages;issue:issue:10.1021/ascecg.2017.5.issue-8;article:article:10.1021/acssuschemeng.7b01473" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -198,7 +198,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: '001d952c-d6f0-4d45-83a8-b27a65e92cf4'
+                            eventGroupKey: '6283557b-486a-4358-956c-900e8bdb3fe6'
                         }
 
                     }).done(function (status) {
@@ -1482,8 +1482,8 @@
                 *
                </strong>
                E-mail:
-               <a href="/cdn-cgi/l/email-protection#f5969d949b928c9eb59e949c8681db9496db9e87">
-                <span class="__cf_email__" data-cfemail="0e6d666f606977654e656f677d7a206f6d20657c">
+               <a href="/cdn-cgi/l/email-protection#c1a2a9a0afa6b8aa81aaa0a8b2b5efa0a2efaab3">
+                <span class="__cf_email__" data-cfemail="e18289808f86988aa18a80889295cf8082cf8a93">
                  [email protected]
                 </span>
                </a>
@@ -1493,8 +1493,8 @@
                 *
                </strong>
                E-mail:
-               <a href="/cdn-cgi/l/email-protection#aec3c5cdc6c1c7eec5cfc7ddda80cfcd80c5dc">
-                <span class="__cf_email__" data-cfemail="ff92949c979096bf949e968c8bd19e9cd1948d">
+               <a href="/cdn-cgi/l/email-protection#c9a4a2aaa1a6a089a2a8a0babde7a8aae7a2bb">
+                <span class="__cf_email__" data-cfemail="076a6c646f686e476c666e7473296664296c75">
                  [email protected]
                 </span>
                </a>
@@ -3844,7 +3844,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad84e56dfa618f","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb19d56dc27352c","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

@@ -1,602 +1,157 @@
 <!DOCTYPE html>
 <html lang="en-US">
  <head>
-  <script type="text/javascript">
-   var home = {	
-			metadata:{
-				searchCount: '5,530,001',
-				logoRelPath: '/customer_logos',
-				thirdParthAuth: false,
-				currentPage:  'document',
-				xploreVirtual:'https://ieeexplore.ieee.org',
-				isWebAccount: false,
-				isProvisioned: false,
-				globalNotification:{},
-				cart: {
-						count: 0
-				}
-			}						
-		};
-		
-
-
-
-
-
-	home.metadata.denialReason = 'conhome';
-  </script>
-  <meta content="In this paper, a novel mask-based load disaggregation scheme is presented to extract flexible load profiles in buildings. Flexible loads are those that can be a" id="meta-description" name="Description"/>
-  <link href="https://ieeexplore.ieee.org/document/9380471/" rel="canonical"/>
+  <meta charset="utf-8"/>
   <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
-  <!-- Disable "click" touch event 300ms delay for Chrome/Firefox on Android -->
-  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="noindex, nofollow" name="robots"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
   <title>
-   Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings | IEEE Journals &amp; Magazine | IEEE Xplore
+   Just a moment...
   </title>
-  <meta content="Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings" property="twitter:title"/>
-  <meta content="Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings" property="og:title"/>
-  <meta content="In this paper, a novel mask-based load disaggregation scheme is presented to extract flexible load profiles in buildings. Flexible loads are those that can be adjusted as needed and examples of such loads are heating, ventilation, and air-conditioning (HVAC), and lighting loads. Knowledge about the flexible sub-load in buildings is crucial for demand-side management programs. However, the load decomposition performance of conventional disaggregation methods may be limited mainly because similar profiles are superimposed on the entire load of the buildings. Motivated by these problems, a deep neural network (DNN)-based mask, termed DNNM, is proposed. It is customized in a time-frequency (T-F) domain to effectively extract the flexible portion of loads. To the best of our knowledge, the DNNM is to achieve load disaggregation using the distinctive T-F properties of the flexible loads. Particularly, a new mask is designed to increase the load disaggregation accuracy by determining the appropriate ratio of flexible load in the mixed loads, adaptively for different T-F elements. Numerical evaluations for residential and commercial building loads show that the proposed DNNM scheme outperforms the conventional disaggregation models in discriminating the contributions of the flexible load from the total power consumption." property="twitter:description"/>
-  <meta content="In this paper, a novel mask-based load disaggregation scheme is presented to extract flexible load profiles in buildings. Flexible loads are those that can be adjusted as needed and examples of such loads are heating, ventilation, and air-conditioning (HVAC), and lighting loads. Knowledge about the flexible sub-load in buildings is crucial for demand-side management programs. However, the load decomposition performance of conventional disaggregation methods may be limited mainly because similar profiles are superimposed on the entire load of the buildings. Motivated by these problems, a deep neural network (DNN)-based mask, termed DNNM, is proposed. It is customized in a time-frequency (T-F) domain to effectively extract the flexible portion of loads. To the best of our knowledge, the DNNM is to achieve load disaggregation using the distinctive T-F properties of the flexible loads. Particularly, a new mask is designed to increase the load disaggregation accuracy by determining the appropriate ratio of flexible load in the mixed loads, adaptively for different T-F elements. Numerical evaluations for residential and commercial building loads show that the proposed DNNM scheme outperforms the conventional disaggregation models in discriminating the contributions of the flexible load from the total power consumption." property="og:description"/>
-  <meta content="summary" name="twitter:card"/>
-  <meta content="https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png" property="twitter:image"/>
-  <meta content="https://ieeexplore.ieee.org/assets/img/ieee_logo_smedia_200X200.png" property="og:image"/>
-  <script async="" src="https://www.ieee.org/content/dam/ieee-global/js/settings.js">
-  </script>
-  <link href="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.css" rel="stylesheet" type="text/css"/>
-  <script async="" src="https://cdnjs.cloudflare.com/ajax/libs/cookieconsent2/3.0.3/cookieconsent.min.js">
-  </script>
-  <script>
-   window.addEventListener("load", function(){
- window.cookieconsent.initialise(json)
-});
-  </script>
-  <meta content="text/html;charset=utf-8" http-equiv="Content-Type"/>
-  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
- </head>
- <body class="body-resp">
-  <g:compress>
-   <link href="/assets/css/simplePassMeter.min.css?cv=20211130_000001" rel="stylesheet"/>
-   <link href="/assets/dist/ng-new/styles.css?cv=20211130_000001" media="screen, print" rel="stylesheet" type="text/css"/>
-   <link href="/assets/vendor/swiper/dist/idangerous.swiper.css?cv=20211130_000001" rel="stylesheet"/>
-   <link href="/assets/css/jquery-ui-1.8.19.custom.css?cv=20211130_000001" media="screen, print" rel="stylesheet" type="text/css"/>
-  </g:compress>
+  <style type="text/css">
+   html, body {width: 100%; height: 100%; margin: 0; padding: 0;}
+    body {background-color: #ffffff; color: #000000; font-family:-apple-system, system-ui, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, "Helvetica Neue",Arial, sans-serif; font-size: 16px; line-height: 1.7em;-webkit-font-smoothing: antialiased;}
+    h1 { text-align: center; font-weight:700; margin: 16px 0; font-size: 32px; color:#000000; line-height: 1.25;}
+    p {font-size: 20px; font-weight: 400; margin: 8px 0;}
+    p, .attribution, {text-align: center;}
+    #spinner {margin: 0 auto 30px auto; display: block;}
+    .attribution {margin-top: 32px;}
+    @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+    #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+    #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+    #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+    .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+    a { color: #2c7cb0; text-decoration: none; -moz-transition: color 0.15s ease; -o-transition: color 0.15s ease; -webkit-transition: color 0.15s ease; transition: color 0.15s ease; }
+    a:hover{color: #f4a15d}
+    .attribution{font-size: 16px; line-height: 1.5;}
+    .ray_id{display: block; margin-top: 8px;}
+    #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+    #cf-hcaptcha-container { text-align:center;}
+    #cf-hcaptcha-container iframe { display: inline-block;}
+  </style>
+  <meta content="35" http-equiv="refresh"/>
   <script type="text/javascript">
-   var googletag = googletag || {};
-		googletag.cmd = googletag.cmd || [];
-		(function() {
-		var gads = document.createElement('script');
-		gads.async = true;
-		gads.type = 'text/javascript';
-		var useSSL = 'https:' == document.location.protocol;
-		gads.src = (useSSL ? 'https:' : 'http:') + 
-		'//securepubads.g.doubleclick.net/tag/js/gpt.js';
-		var node = document.getElementsByTagName('script')[0];
-		node.parentNode.insertBefore(gads, node);
-		})();
+   //<![CDATA[
+    (function(){
+      
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "non-interactive",
+        cNounce: "17197",
+        cRay: "6cb1c2ed2954e9c4",
+        cHash: "85c007c7bbe6ef6",
+        cPMDTk: "",
+        cFPWv: "g",
+        cTTimeMs: "1000",
+        cRq: {
+          ru: "aHR0cHM6Ly9vbmxpbmVsaWJyYXJ5LndpbGV5LmNvbS9kb2kvMTAuMTExMS9qYWNlLjE1MjE0",
+          ra: "cHl0aG9uLXJlcXVlc3RzLzIuMjMuMA==",
+          rm: "R0VU",
+          d: "xukMzec5nPxmTW2FLWpH75xa4gQZzMP4/KhFpOKJvoZr14tsmWn+GQIWKB7x9IwkY89FUD5qbjI/34B3eQTMw84hEGqV8F1aZbbEBGMH4ztGB6wAZNuISDKiO+PgBYhOgFdboSTZcousfFFOUqjxvUcglK/Ew0OZuOBT3RHo56BchdeFjEWkq2GszA1utgpH7j2kkTAdQqSQnQsLfE9+K8Y/5TkBAl3hkRVZMwfOER96gJMBCOku8py4VljeDBB3+7744opli8KzDKNtzGjneieOjnUUHjuJN931Nqh3pRK+35vwwk8uOYSZp/WLhaxsGFw2RfXUpnH0Q8+qonyIrt2Jfo96AJGkQULC0MnhVOGY01xv/9Z4RSbZw8qrN+2sGr/i1ieU+360H4kZUVSbfTD+FHU2J1XzoGQwQbgw9B4E5gpLypk8sd2Z25qRBmp6LUsFhVUipbAhoalARwfv9NXyH3Q+ji59iAQPn5E0ti0OsfRJEl05CziASXOpay/EjWfoWYKifudxt8n9SvodJCkaSBegIQi9COcNkmDpN1Hnmd5K6GOzfXIlNDH4IWwE",
+          t: "MTY0MTc3NDI1Ni4xOTgwMDA=",
+          m: "ttDpXDj3nT62ThF99DCA9bbE+PUiIfnKuJHiO4gVJ9Y=",
+          i1: "TE//f1p8LLzHB3yVOEyoFQ==",
+          i2: "NMyFNOI8do3PqTbKtpLEJA==",
+          zh: "5psXVDyHKhylyDMHX58/NfMz0/wFqAsf4zTMPkqswgI=",
+          uh: "7miS0Xxj9JuMfUL1dJ1m1OOYUPnyhcctTsOqdlLYMgc=",
+          hh: "EpAw8Lb/MscuVNQHjMk8adeJO9erYR0sl2/eKp5d934=",
+        }
+      }
+      window._cf_chl_enter = function(){window._cf_chl_opt.p=1};
+      
+    })();
+    //]]>
   </script>
-  <script charset="utf-8" src="/assets/vendor/jquery/jquery-3.5.1.min.js?cv=20211130_000001" type="text/javascript">
-  </script>
-  <p class="JumpLink" id="PageTop">
-   <a accesskey="s" href="#" title="Click here to Skip to main content">
-    Skip to Main Content
-   </a>
-  </p>
-  <div class="row stats-global-notification" id="global-notification">
-   <div class="hide u-hide-important col Notification Notification--global Notification--fixed">
-    <a aria-label="close message button" class="Notification-close js-close" href="">
-     <i class="fa fa-close">
-     </i>
-    </a>
-    <div class="Notification-header">
-    </div>
-    <div class="Notification-text">
-    </div>
-   </div>
-  </div>
-  <div id="LayoutWrapper">
-   <div class="container-fluid">
-    <div class="row">
-     <div class="col">
-      <script src="https://cdn.jwplayer.com/libraries/6Mc4deRE.js" type="text/javascript">
-      </script>
-      <div class="Header" data-inst="false" data-service="true" data-web="false" id="xplore-header" style="display:none">
-      </div>
-      <div id="global-alert-message">
-      </div>
-      <meta content="eyJhbGciOiJIUzUxMiIsInppcCI6IkRFRiJ9.eNqqVkosKFCyUoooyMkvSlXSUcosLgZyK2Dc1AqgrKGZiaG5sZmJgTlQPrEEJmBsbmBeCwAAAP__.kmjsyea5GhZ-qM2es1Mo4kPk4n2qGo_RZWcDMlbP_R8XtL5ndNLJypHVIno60MPJXRXuXWKZkOyxl50lkQ25bQ" name="cToken"/>
-      <script type="text/javascript">
-       document.write('<base href="/document/" />');
-      </script>
-      <!-- XPL-21560-Added as part of Universal CASA-Dev -->
-      <script async="" src="https://scholar.google.com/scholar_js/casa.js" type="text/javascript">
-      </script>
-      <script src="https://app.cadmoremedia.com/Scripts/Embed.js" type="text/javascript">
-      </script>
-      <!--- This is a picture popup embed for mobilew view.  -->
-      <script src="https://app.cadmoremedia.com/Scripts/PicturePop.js" type="text/javascript">
-      </script>
-      <script type="text/javascript">
-       var body_rightsLink ="", body_publisher = "";
-var recordId = "";
-
-
-var AUTHOR_PROFILE = 'ON';
-if (AUTHOR_PROFILE.toUpperCase() == "OFF"){
-	var AUTHOR_PROFILE_ENABLED = false;
-}else{
-	var AUTHOR_PROFILE_ENABLED = true;
-}
-
-var xplGlobal = {
-	document: {
-		disqus:{
-			remote_auth_s3 : '',
-			public_api_key:'1lxKgMbpNIbQvfk2tqLcWeSVloE8rgIY2CV1tCu3Vp641oL4eEITYBbkViJJGNYY',
-			short_name:'ieeexplore',
-			client_url:'https://ieeexplore.ieee.org',
-			sso_enabled:'{$sessionProfile.provisioned}'
-		},
-
-		fullTextAccess: false,
-		isAccessFromInstitution: false
-		
-	}
-};
-	
-	xplGlobal.document.metadata={"userInfo":{"institute":false,"member":false,"individual":false,"guest":false,"subscribedContent":false,"fileCabinetContent":false,"fileCabinetUser":false,"institutionalFileCabinetUser":false,"showPatentCitations":true,"showGet802Link":false,"showOpenUrlLink":false,"tracked":false,"delegatedAdmin":false,"desktop":false,"isInstitutionDashboardEnabled":false,"isInstitutionProfileEnabled":false,"isRoamingEnabled":false,"isDelegatedAdmin":false,"isMdl":false,"isCwg":false},"authors":[{"name":"Junho Song","affiliation":["School of Mechatronics, Gwangju Institute of Science and Technology, Gwangju, Republic of Korea"],"bio":{"graphic":"/mediastore_new/IEEE/content/freeimages/5165411/9460803/9380471/song-3066547-small.gif","p":["Junho Song (Student Member, IEEE) received the B.S. degree in electronics engineering from Kwangwoon University, Seoul, South Korea, in 2015. He is currently pursuing the integrated M.S. and Ph.D. degrees with the School of Mechatronics, Gwangju Institute of Science and Technology, South Korea. His research interests include signal disaggregation, prediction, and compression for smart bioadjust grids."]},"firstName":"Junho","lastName":"Song","orcid":"0000-0002-4533-9820","id":"37088889448"},{"name":"Yonggu Lee","affiliation":["Security R&D Team, Korea Atomic Energy Research Institute, Daejeon, Republic of Korea"],"bio":{"graphic":"/mediastore_new/IEEE/content/freeimages/5165411/9460803/9380471/lee-3066547-small.gif","p":["Yonggu Lee (Member, IEEE) received the B.E. degree in electronics engineering from Kyungpook National University, Daegu, South Korea, in 2013, and the M.S. and Ph.D. degrees in electrical engineering and computer science from the Gwangju Institute of Science and Technology, Gwangju, South Korea, in 2016 and 2019, respectively. He is currently a Senior Researcher with the Security R&D Team, Korea Atomic Energy Research Institute (KAERI). His research interests include the areas of communications and signal processing, with emphasis on physical-layer security, 5G communication systems, and machine-type communications."]},"firstName":"Yonggu","lastName":"Lee","orcid":"0000-0001-9909-3590","id":"37086147408"},{"name":"Euiseok Hwang","affiliation":["School of Electrical Engineering and Computer Science, Gwangju Institute of Science and Technology, Gwangju, Republic of Korea"],"bio":{"graphic":"/mediastore_new/IEEE/content/freeimages/5165411/9460803/9380471/hwang-3066547-small.gif","p":["Euiseok Hwang (Member, IEEE) received the B.S. and M.S. degrees from the School of Engineering, Seoul National University, Seoul, South Korea, in 1998 and 2000, respectively, and the M.S. and Ph.D. degrees in electrical and computer engineering from Carnegie Mellon University, Pittsburgh, PA, USA, in 2010 and 2011, respectively. He was with the Digital Media Research Center, Daewoo Electronics Company, Ltd., South Korea, from 2000 to 2006, and was with the Channel Architecture Group, LSI Corporation (currently, Broadcom), San Jose, CA, USA, from 2011 to 2014. Since 2015, he has been an Assistant/Associate Professor with the School of Mechatronics/Electrical Engineering and Computer Science/Artificial Intelligence, Gwangju Institute of Science and Technology, South Korea. His research interests include data channel signal processing and coding, energy informatics, intelligence implementations for smart grid, and information processing for system intelligence in emerging ICT/IoT applications."]},"firstName":"Euiseok","lastName":"Hwang","orcid":"0000-0002-1718-7030","id":"37337952600"}],"issn":[{"format":"Print ISSN","value":"1949-3053"},{"format":"Electronic ISSN","value":"1949-3061"}],"articleNumber":"9380471","dbTime":"2 ms","metrics":{"citationCountPaper":1,"citationCountPatent":0,"totalDownloads":457},"purchaseOptions":{"showOtherFormatPricingTab":false,"showPdfFormatPricingTab":true,"pdfPricingInfoAvailable":true,"otherPricingInfoAvailable":false,"mandatoryBundle":false,"optionalBundle":false,"pdfPricingInfo":[{"memberPrice":"$14.95","nonMemberPrice":"$33.00","partNumber":"9380471","type":"PDF/HTML"}]},"getProgramTermsAccepted":false,"sections":{"abstract":"true","authors":"true","figures":"true","multimedia":"false","references":"true","citedby":"true","keywords":"true","definitions":"false","algorithm":"false","dataset":"false","cadmore":"false","footnotes":"false","disclaimer":"false","relatedContent":"false","metrics":"true"},"keywords":[{"type":"IEEE Keywords","kwd":["HVAC","Time-frequency analysis","Correlation","Buildings","Load modeling","Lighting","Neural networks"]},{"type":"INSPEC: Controlled Indexing","kwd":["building management systems","deep learning (artificial intelligence)","domestic appliances","HVAC","load management","neural nets","power consumption","time-frequency analysis"]},{"type":"INSPEC: Non-Controlled Indexing","kwd":["demand-side management","commercial building loads","residential building loads","mixed loads","load disaggregation accuracy","deep neural network-based mask","entire load","load decomposition performance","flexible sub-load","lighting loads","flexible load profiles","novel mask-based load disaggregation scheme","flexible load disaggregation","time-frequency mask estimation"]},{"type":"Author Keywords ","kwd":["Load disaggregation","time-frequency mask","deep neural network (DNN)","heating","ventilation","and air-conditioning (HVAC)","lighting","non-intrusive load monitoring (NILM)","load decomposition"]}],"pubLink":"/xpl/RecentIssue.jsp?punumber=5165411","pdfUrl":"/stamp/stamp.jsp?tp=&arnumber=9380471","abstract":"In this paper, a novel mask-based load disaggregation scheme is presented to extract flexible load profiles in buildings. Flexible loads are those that can be adjusted as needed and examples of such loads are heating, ventilation, and air-conditioning (HVAC), and lighting loads. Knowledge about the flexible sub-load in buildings is crucial for demand-side management programs. However, the load decomposition performance of conventional disaggregation methods may be limited mainly because similar profiles are superimposed on the entire load of the buildings. Motivated by these problems, a deep neural network (DNN)-based mask, termed DNNM, is proposed. It is customized in a time-frequency (T-F) domain to effectively extract the flexible portion of loads. To the best of our knowledge, the DNNM is to achieve load disaggregation using the distinctive T-F properties of the flexible loads. Particularly, a new mask is designed to increase the load disaggregation accuracy by determining the appropriate ratio of flexible load in the mixed loads, adaptively for different T-F elements. Numerical evaluations for residential and commercial building loads show that the proposed DNNM scheme outperforms the conventional disaggregation models in discriminating the contributions of the flexible load from the total power consumption.","allowComments":false,"doi":"10.1109/TSG.2021.3066547","doiLink":"https://doi.org/10.1109/TSG.2021.3066547","startPage":"3242","endPage":"3251","rightsLink":"http://s100.copyright.com/AppDispatchServlet?publisherName=ieee&publication=5165411&title=Time%E2%80%93Frequency+Mask+Estimation+Based+on+Deep+Neural+Network+for+Flexible+Load+Disaggregation+in+Buildings&isbn=&publicationDate=July+2021&author=Junho+Song&ContentID=10.1109/TSG.2021.3066547&orderBeanReset=true&startPage=3242&endPage=3251&volumeNum=12&issueNum=4","displayPublicationTitle":"IEEE Transactions on Smart Grid","pdfPath":"/iel7/5165411/9460803/09380471.pdf","publicationTitle":"IEEE Transactions on Smart Grid","issueLink":"/xpl/tocresult.jsp?isnumber=9460803","formulaStrippedArticleTitle":"Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings","isReadingRoomArticle":false,"isGetArticle":false,"isGetAddressInfoCaptured":false,"isMarketingOptIn":false,"pubTopics":[{"name":"Communication, Networking and Broadcast Technologies"},{"name":"Computing and Processing"},{"name":"Power, Energy and Industry Applications"}],"publisher":"IEEE","journalDisplayDateOfPublication":"17 March 2021","isPromo":false,"isNotDynamicOrStatic":false,"isFreeDocument":false,"isDynamicHtml":true,"chronOrPublicationDate":"July  2021","displayDocTitle":"Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings","isStandard":false,"isOUP":false,"isSAE":false,"isCustomDenial":false,"isNow":false,"isSMPTE":false,"isProduct":false,"isMorganClaypool":false,"persistentLink":"https://ieeexplore.ieee.org/servlet/opac?punumber=5165411","isEarlyAccess":false,"isChapter":false,"isStaticHtml":false,"publicationDate":"July 2021","dateOfInsertion":"18 June 2021","isConference":false,"volume":"12","issue":"4","isJournal":true,"isBook":false,"isBookWithoutChapters":false,"htmlLink":"/document/9380471/","isOpenAccess":false,"isEphemera":false,"accessionNumber":"21073856","xploreDocumentType":"Journals & Magazine","htmlAbstractLink":"/document/9380471/","startPage":"3242","fundingAgencies":{"fundingAgency":[{"fundingId":"10.13039/501100010418","fundingName":"Institute for Information and Communications Technology Promotion (IITP) grant funded by the Korean Government (MSIT) (Streamlined Secure Communications by Physical Layer Identification in Cellular IoT)","grantNumber":"2017-0-00413"},{"fundingName":"GIST Research Institute (GRI) grant funded by the GIST in 2020"}]},"openAccessFlag":"F","ephemeraFlag":"false","title":"Time–Frequency Mask Estimation Based on Deep Neural Network for Flexible Load Disaggregation in Buildings","accessionNumber":"21073856","html_flag":"false","ml_html_flag":"true","sourcePdf":"tsg-hwang-3066547-x.pdf","content_type":"Journals & Magazines","mlTime":"PT0.086002S","chronDate":"July  2021","xplore-pub-id":"5165411","pdfPath":"/iel7/5165411/9460803/09380471.pdf","isNumber":"9460803","rightsLinkFlag":"1","dateOfInsertion":"18 June 2021","contentType":"periodicals","publicationDate":"July 2021","publicationNumber":"5165411","citationCount":"1","xplore-issue":"9460803","issue":"4","articleId":"9380471","publicationTitle":"IEEE Transactions on Smart Grid","sections":{"abstract":"true","authors":"true","figures":"true","multimedia":"false","references":"true","citedby":"true","keywords":"true","definitions":"false","algorithm":"false","dataset":"false","cadmore":"false","footnotes":"false","disclaimer":"false","relatedContent":"false","metrics":"true"},"volume":"12","onlineDate":"17 March 2021","contentTypeDisplay":"Journals","publicationYear":"2021","subType":"IEEE Transaction","_value":"IEEE","lastupdate":"2021-12-26","mediaPath":"/mediastore_new/IEEE/content/media/5165411/9460803/9380471","endPage":"3251","displayPublicationTitle":"IEEE Transactions on Smart Grid","doi":"10.1109/TSG.2021.3066547"};
-      </script>
-      <div class="ng2-app">
-       <!-- <xpl-searchbar show-count="false"></xpl-searchbar> -->
-       <div class="global-content-wrapper">
-        <xpl-root>
-         <div class="Spinner">
+ </head>
+ <body>
+  <table cellpadding="20" height="100%" width="100%">
+   <tbody>
+    <tr>
+     <td align="center" valign="middle">
+      <div class="cf-browser-verification cf-im-under-attack">
+       <noscript>
+        <h1 data-translate="turn_on_js" style="color:#bd2426;">
+         Please turn JavaScript on and reload the page.
+        </h1>
+       </noscript>
+       <div id="cf-content" style="display:none">
+        <div id="cf-bubbles">
+         <div class="bubbles">
          </div>
-        </xpl-root>
-       </div>
-       <!-- START: Angular 2+ Migration: Due to Angualr2+ migration AngualrJs router place holder commented -->
-       <!-- 	<div ng-show="stateIsLoading" class="Spinner"></div>
-	<div ui-view class="{{stateIsLoading ? 'loading': ''}}"
-		autoscroll="false"></div>
- -->
-       <!-- END: Angular 2+ Migration-->
-      </div>
-      <section id="xploreFooter">
-       <div class="Footer stats-footer hide-mobile">
-        <div class="pure-g Footer-sections">
-         <div class="pure-u-1-4">
-          <h3 class="Footer-header">
-           IEEE Account
-          </h3>
-          <ul class="Footer-list">
-           <li>
-            <a href="https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Change Username/Password
-            </a>
-           </li>
-           <li>
-            <a href="https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Update Address
-            </a>
-           </li>
-          </ul>
+         <div class="bubbles">
          </div>
-         <div class="pure-u-1-4">
-          <h3 class="Footer-header">
-           Purchase Details
-          </h3>
-          <ul class="Footer-list">
-           <li>
-            <a href="https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Payment Options
-            </a>
-           </li>
-           <li>
-            <a href="https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Order History
-            </a>
-           </li>
-           <li>
-            <a href="/articleSale/purchaseHistory.jsp">
-             View Purchased Documents
-            </a>
-           </li>
-          </ul>
-         </div>
-         <div class="pure-u-1-4">
-          <h3 class="Footer-header">
-           Profile Information
-          </h3>
-          <ul class="Footer-list">
-           <li>
-            <a href="https://www.ieee.org/ieee-privacyportal/app/ibp?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Communications Preferences
-            </a>
-           </li>
-           <li>
-            <a href="https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Profession and Education
-            </a>
-           </li>
-           <li>
-            <a href="https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=http://ieeexplore.ieee.org&amp;refSiteName=IEEE Xplore">
-             Technical Interests
-            </a>
-           </li>
-          </ul>
-         </div>
-         <div class="pure-u-1-4">
-          <h3 class="Footer-header">
-           Need Help?
-          </h3>
-          <ul class="Footer-list">
-           <li>
-            <strong>
-             US &amp; Canada:
-            </strong>
-            +1 800 678 4333
-           </li>
-           <li>
-            <strong>
-             Worldwide:
-            </strong>
-            +1 732 981 0060
-            <br/>
-           </li>
-           <li>
-            <a href="/xpl/contact">
-             Contact &amp; Support
-            </a>
-           </li>
-          </ul>
+         <div class="bubbles">
          </div>
         </div>
-        <div class="row">
-         <div class="col-12 Footer-bottom">
-          <div class="Footer-bottom-inner-div row">
-           <div class="col">
-            <ul class="Menu Menu--horizontal Menu--dividers u-mb-1">
-             <li class="Menu-item">
-              <a href="/Xplorehelp/about-ieee-xplore.html">
-               About IEEE
-               <em>
-                Xplore
-               </em>
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="/xpl/contact">
-               Contact Us
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="/Xplorehelp/Help_start.html" target="blank">
-               Help
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="/Xplorehelp/accessibility-statement.html" target="blank">
-               Accessibility
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="/Xplorehelp/Help_Terms_of_Use.html" target="_blank">
-               Terms of Use
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="http://www.ieee.org/web/aboutus/whatis/policies/p9-26.html">
-               Nondiscrimination Policy
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="/xpl/sitemap.jsp">
-               Sitemap
-              </a>
-             </li>
-             <li class="Menu-item">
-              <a href="http://www.ieee.org/about/help/security_privacy.html" target="blank">
-               Privacy &amp; Opting Out of Cookies
-              </a>
-             </li>
-            </ul>
-            <p class="Footer-bottom-terms">
-             A not-for-profit organization, IEEE is the world's largest technical professional organization dedicated to advancing technology for the benefit of humanity.
-             <br/>
-             © Copyright 2022 IEEE - All rights reserved. Use of this web site signifies your agreement to the terms and conditions.
-            </p>
-           </div>
-           <div>
-            <i class="logo-ieee-white">
-            </i>
-           </div>
-          </div>
-         </div>
+        <h1>
+         <span data-translate="checking_browser">
+          Checking your browser before accessing
+         </span>
+         onlinelibrary.wiley.com.
+        </h1>
+        <div class="cookie-warning" data-translate="turn_on_cookies" id="no-cookie-warning" style="display:none">
+         <p data-translate="turn_on_cookies" style="color:#bd2426;">
+          Please enable Cookies and reload the page.
+         </p>
         </div>
+        <p data-translate="process_is_automatic">
+         This process is automatic. Your browser will redirect to your requested content shortly.
+        </p>
+        <p data-translate="allow_5_secs" id="cf-spinner-allow-5-secs">
+         Please allow up to 5 seconds…
+        </p>
+        <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">
+         Redirecting…
+        </p>
        </div>
-      </section>
-      <!-- BEGIN: tealium in v2/common/template.jsp. We need to include tealiumAnalytics.js here since Angular 2+ app load if you load after commnon.js then tealium value will not be available in angular 2+ app  -->
-      <!-- BEGIN: TealiumAnalytics.jsp -->
-      <script type="text/javascript">
-       // tealium config vars
-				var TEALIUM_CONFIG_TAGGING_ENABLED = true;		
-				var TEALIUM_CONFIG_CDN_URL = '//tags.tiqcdn.com/utag/';
-				var TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV = 'ieeexplore/main/prod';
-				
-				// tealium utag_data values for user 
-				var TEALIUM_userType = 'Anonymous';
-				var TEALIUM_userInstitutionId = '';
-				var TEALIUM_userId = '';
-				var TEALIUM_user_third_party = '';
-				
-				var TEALIUM_products = '';
-      </script>
-      <script type="text/javascript">
-       // asynchronously load tealium's utag.js , which declares tealium JS variables like; utag_data, utag
-			(function(a,b,c,d){
-			
-				a=TEALIUM_CONFIG_CDN_URL + TEALIUM_CONFIG_ACCOUNT_PROFILE_ENV + '/utag.js';
-				b=document;c='script';d=b.createElement(c);d.src=a;
-				d.type='text/java'+c;d.async=true;
-				a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
-			})();
-      </script>
-      <script src="/assets/js/analytics/tealiumTagsData.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script src="/assets/js/analytics/tealiumAnalytics.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <!-- END: TealiumAnalytics.jsp -->
-      <!-- END: tealium in v2/common/template.jsp -->
-      <script src="/xploreAssets/MathJax-274/MathJax.js?config=default" type="text/javascript">
-      </script>
-      <link href="/assets/css/ie7Sniffer.css?cv=20211130_000001" rel="stylesheet"/>
-      <script src="/assets/vendor/js-cookie/src/js.cookie.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script src="/assets/vendor/fingerprintjs2/fingerprint2.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script src="/assets/js/lib/core/fingerprint.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <!-- START OF Angular bundle assets -->
-      <script charset="utf-8" defer="" src="/assets/dist/ng-new/runtime.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script charset="utf-8" defer="" nomodule="" src="/assets/dist/ng-new/polyfills-es5.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script charset="utf-8" defer="" src="/assets/dist/ng-new/polyfills.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script charset="utf-8" defer="" src="/assets/dist/ng-new/styles.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <script charset="utf-8" defer="" src="/assets/dist/ng-new/main.js?cv=20211130_000001" type="text/javascript">
-      </script>
-      <!-- END OF Angular bundle assets -->
-      <!-- Usabilla Combicode for IEEE-->
-      <!-- Begin Usabilla for Websites embed code -->
-      <script type="text/javascript">
-       /*{literal}<![CDATA[*/window.lightningjs||function(c){function g(b,d){d&&(d+=(/\?/.test(d)?"&":"?")+"lv=1");c[b]||function(){var i=window,h=document,j=b,g=h.location.protocol,l="load",k=0;(function(){function b(){a.P(l);a.w=1;c[j]("_load")}c[j]=function(){function m(){m.id=e;return c[j].apply(m,arguments)}var b,e=++k;b=this&&this!=i?this.id||0:0;(a.s=a.s||[]).push([e,b,arguments]);m.then=function(b,c,h){var d=a.fh[e]=a.fh[e]||[],j=a.eh[e]=a.eh[e]||[],f=a.ph[e]=a.ph[e]||[];b&&d.push(b);c&&j.push(c);h&&f.push(h);return m};return m};var a=c[j]._={};a.fh={};a.eh={};a.ph={};a.l=d?d.replace(/^\/\//,(g=="https:"?g:"http:")+"//"):d;a.p={0:+new Date};a.P=function(b){a.p[b]=new Date-a.p[0]};a.w&&b();i.addEventListener?i.addEventListener(l,b,!1):i.attachEvent("on"+l,b);var q=function(){function b(){return["<head></head><",c,' onload="var d=',n,";d.getElementsByTagName('head')[0].",d,"(d.",g,"('script')).",i,"='",a.l,"'\"></",c,">"].join("")}var c="body",e=h[c];if(!e)return setTimeout(q,100);a.P(1);var d="appendChild",g="createElement",i="src",k=h[g]("div"),l=k[d](h[g]("div")),f=h[g]("iframe"),n="document",p;k.style.display="none";e.insertBefore(k,e.firstChild).id=o+"-"+j;f.frameBorder="0";f.id=o+"-frame-"+j;/MSIE[ ]+6/.test(navigator.userAgent)&&(f[i]="javascript:false");f.allowTransparency="true";l[d](f);try{f.contentWindow[n].open()}catch(s){a.domain=h.domain,p="javascript:var d="+n+".open();d.domain='"+h.domain+"';",f[i]=p+"void(0);"}try{var r=f.contentWindow[n];r.write(b());r.close()}catch(t) { f[i]=p+'d.write("'+b().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)}; a.l&&setTimeout(q,0)})()}();c[b].lv="1";return c[b]}var o="lightningjs",k=window[o]=g(o);k.require=g;k.modules=c}({}); if(!navigator.userAgent.match(/Android|BlackBerry|BB10|iPhone|iPad|iPod|Opera Mini|IEMobile/i)) {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/e9930a118e08.js"); } else {window.usabilla_live = lightningjs.require("usabilla_live", "//w.usabilla.com/118ca38ae742.js"); }/*]]>{/literal}*/
-      </script>
-      <!-- end usabilla live embed code -->
-      <div id="popup_overlay" style="width: 1263px;">
+       <form action="/doi/10.1111/jace.15214?__cf_chl_jschl_tk__=I_5Avr7DtF3ODZ5JZ0ig8eob0pTeWaCkRjwO.Wws978-1641774256-0-gaNycGzNByU" class="challenge-form" enctype="application/x-www-form-urlencoded" id="challenge-form" method="POST">
+        <input name="md" type="hidden" value="0fBczDctqRZek3dSQJwpuHlZIJqR0H81XKU7H_4lYk4-1641774256-0-AZmeBXfqO87Xw22v6FL6qf7JVw3xMcWB76qIMaKRh_cgafhtnWRdIRUwtnAOIg-YDCs9ttT84boxRAifF3BI6U6Q_FcH_QiZtQR81_byEzGABiqGrmAb7HUGCKQROuiRwV7XymGyUiK8PODuGPhHQ0mO2pUSleu1MpRW8XDaAxbKKgnKelGtIbwYagF8__9_Cor0ZyxeMJGOtyewbis5iBKCQKm5BNPYIDhmcJrF1DTl3vUwL3GpuwZNRBrRpaZOqW0IYldLmxd17G2YrNGHTJNEmI2aDYEOL1uxHjhrdKR2y6n5InegIJxe4FzNlgH-5yXxSjCtqr6sUUBvZ64op89EAo2SQMxntsosfSw9bqecSoFmID9XPsAv5REBY7g5C5uePosGVBZSOp9mpQx5bZisXNGPIaGPiBiE0HL8azYXS7XrkFncH9Wu1zPYbYtVhDbxa7knZIAFK2AYoAMm7_g7n9W_MXdzspIMO5Ubkj1uhS1cLfcD_-EpIPliD7d4qmBG8t8UAC_LWAyCKe3eTPQ5OVxuYfSeJ_7-7udOkEA5mNqfmrYyIiHZ4k1c0jt2bYgy0RAlyL64wOBWI9s2p4F0GEDJUuD37WcekWQXc01xUH3frbSam9Ysv2mfy6jnlrr4K4EGknOGIdj0lI03FTsHwStmV-3tQgl1PnkwCqFw-DnkN4rrvS7BOOCvx_8O-w"/>
+        <input name="r" type="hidden" value="5HBWthMpKGPu51wtili9prNcw0y0zOol9pv_BZfiV9U-1641774256-0-AQtj3daP6j0xzQ1joxCRIYGJCn1CQK03a5rzBeDu7laXgEkfTHoCXJeXXLqu3vG3NwPGdGztBFAOoY0penVE2Rv+aDqeXO9I4uT6LYjccooqHPrTO9QFc/VlxVdiTltMTsjPKEWceIyLUqXJ4kxp2514tfzxye9pCh22thrVb65emJhe0UG7F6+NsteQ25zbvnHvIwAt7Jo8zu5HVJRznUz9jyau3x9BFs9dr+Wcg00ut34IvqQFnQRk29ebRP/ulA2VaPoik57uRY9GZ7tWuce1K2t040e+pXr0Wgz0OrK9ekjkxhMkNzwO1rw8zLOufcec5GPYyj4KdzcZClfooiXX+3ChcfXfKpPfLoJbWsxILJim2uxm+Ezum5qOvruN+8vA58YdWyO49l1OB9krCTyeKYhjmvvut13hlUotdf9wjfYnGSBbAw4saq7qGtx7j7jOH+5ZRJAWKS1jPO43Z1sk/0phvhgspmfMInEbaSQGlk/mgZi/gHN29ZBOVWOc7049ML8FpSMS86MC3zW46Wkc3MKAVIMiluFiqtpDgI4d+I31wI1ct2ypOsbx7sNyDOpC3zvylELRwrqhuLYqISUDqo3NXtpEfQBxI8XcDJBqZ8NWc4wPBZcgi6WRGEjbqtfSc/x4OS5RR8rK/gw/lS+VtXQ/eHgMInEM+VeIb6r76BxcFtKPKksIXzvQ4Tmm081T+4fUx4yH+vXreMNC8om8f0g43Kd/0r9Z64KTarVxYVSZYJ7XubFS8c6PJqEN97EdjXli4BH75YvlcZXOAe9MKC2z9BxyypWV3pFKXuP1TZwvXTtgE8Mm5bm59qrn88Y7u7roL/a4iVmXjl3dM2wfOR4Q5nNDNtp97YrWr0XcVOiWv9xp/L7TxwIPurUdMMYFn7bfYh3dgacmtPltKEk8aUXWr+M7rn871KB1tdl7Nlz6rOYojA9wEoNyVM/7P4/xHMXEBcqUNeADsUfd8hPYugYrhBU/PkOOfMZGdfqOWj5DkXwjtbUszMeWSkS+zyoxvV7EiFa2dJA9UCagZrCgBVwq28tRxsd77NC8c5EiYS4a8d8JM1FO3XJr72xlz7FOVeiA7TWZsR4BmlRHc5hnsG3VQVer269Ir/PMuN/pz1N5gwpVWVWt31jfCmz+VRvdHtjaLjC1VKV9PXz/WPfmW9ZzxcU3DtX2oz6W0LdAHiQVrXDNgXtU3Ov7XYsMrTF+itanuV8RIcFfgfAeQ+SuYTVsnDip3NpIX1tptNZaP+Le40WsXX3ibS8bJaemBmV+zvEHND5qZk3fq9i7zR//ZbPBpkRDxpgpU8Q3fvhDumOYVqr8AAJx9ITl2em9UuKLvw/63VaPpYk/k5krAXkQcTik1XFrc4/DSYJ5ROsc9A+DZGOHuyqtVNbdxmMDB0xn8yUDUqbJpML/eNh07jcaUNMvnfnCuyMzuXe8M4rJX0SO5PPLPiJLv8mDiiEXNSFu5ffLiF+EbwZ8aF9UrRxXB7qbBpFM7K71N2ermUohwPNcmy5UHphj49eSCaziMHhJblW7o/8BWRTDg2cYpZHY3HfUNQqxuQq03vIwF+Vb0yXtrKw5/+SqHD7juSFGbDv3bmdIwFYuwAkGz1t2jaIc3yuBUcEMeDCKHQGzYkKRA0E+An5TNv+qiwwgiM0WaRzhZswAGv0JzaW6TloMbuj3ipjLty2eeTBX6njPB1+h6AXvNBmCoiLi+E4A3q09CGdsDao/9VLHo2PsWn1v+AbOnKu+RhR4VbtNv9388QfU"/>
+        <input id="jschl-vc" name="jschl_vc" type="hidden" value="d5ffbf7be9e9c4c0015154ca4a92bbab"/>
+        <!-- <input type="hidden" value="" id="jschl-vc" name="jschl_vc"/> -->
+        <input name="pass" type="hidden" value="1641774257.198-8+oH8PNhWD"/>
+        <input id="jschl-answer" name="jschl_answer" type="hidden"/>
+       </form>
+       <script type="text/javascript">
+        //<![CDATA[
+      (function(){
+          var a = document.getElementById('cf-content');
+          a.style.display = 'block';
+          var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+          var trkjs = isIE ? new Image() : document.createElement('img');
+          trkjs.setAttribute("src", "/cdn-cgi/images/trace/jschal/js/transparent.gif?ray=6cb1c2ed2954e9c4");
+          trkjs.id = "trk_jschal_js";
+          trkjs.setAttribute("alt", "");
+          document.body.appendChild(trkjs);
+          var cpo=document.createElement('script');
+          cpo.type='text/javascript';
+          cpo.src="/cdn-cgi/challenge-platform/h/g/orchestrate/jsch/v1?ray=6cb1c2ed2954e9c4";
+          
+          document.getElementsByTagName('head')[0].appendChild(cpo);
+        }());
+      //]]>
+       </script>
+       <div id="trk_jschal_nojs" style="background-image:url('/cdn-cgi/images/trace/jschal/nojs/transparent.gif?ray=6cb1c2ed2954e9c4')">
+       </div>
       </div>
-      <g:compress>
-       <script charset="utf-8" src="/assets/vendor/modernizr/modernizr.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/js/vendor.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script>
-        var $j = jQuery.noConflict();
-	var j$ = jQuery.noConflict();
-	var membershipIncomplete;
-    var IS_INDIVIDUAL_USER=false;
-
-	var searchPropertiesParamQueryText = 'queryText';
-	var searchPropertiesParamNewSearch = 'newsearch';
-	var searchPropertiesParamMatchBoolean = 'matchBoolean';
-	var searchPropertiesParamSearchWithin = 'searchWithin';
-	var searchInterfaceArticleIndexTermReference = 'Search_Index_Terms';
-	var searchPropertiesParamRecordsPerPage = 'rowsPerPage';
-	var searchPropertiesParamPageNumber = 'pageNumber';
-	var searchPropertiesParamRemoveRefinement = 'removeRefinement';	
-	var searchPropertiesParamSearchField = 'searchField';
-	var searchPropertiesParamArticleNumber = 'arnumber';
-	
-	var authorsGetDisplay = 'Authors';
-	var authorsFirstNameProperty = 'First Name';
-	var authorsLastNameProperty = 'Last Name';
-	var authorsMiddleNameProperty = 'Middle Name';
-	var pubTitleDispNameProperty = 'Publication Title';
-	var volumeDispNameProperty = 'Volume';
-	var issueDispNameProperty = 'Issue';
-	var startPageDispNameProperty = 'Start Page';
-	var endPageDispNameProperty = 'Start Page';
-
-	var searchIcsTermProperty = 'Standards ICS Terms';
-	var SearchMapperParamSearchField = 'searchField';
-	
-	var SearchMapperParamNewSearch = 'newsearch';
-	var SearchMapperParamArticleNumber = 'arnumber';	
-		
-	
-	
-	var NTPT_IMAGE_LOCATION = '';
-	var XPLORE_SSL_HOST = 'https://ieeexplore.ieee.org';	
-	
-	var SSL_YES_NO = 'yes';
-	if (SSL_YES_NO.toUpperCase() == "NO"){
-		var XPLORE_SSL_YES_NO = false;
-	}else{
-		var XPLORE_SSL_YES_NO = true;
-	}
-	var WEBSERVICES_SSL_YES_NO = 'yes';
-	if (WEBSERVICES_SSL_YES_NO.toUpperCase() == "NO"){
-		var XPLORE_WEBSERV_YES_NO = false;
-	}else{
-		var XPLORE_WEBSERV_YES_NO = true;
-	}
-	
-	var AUTHOR_PROFILE = 'ON';
-	if (AUTHOR_PROFILE.toUpperCase() == "OFF"){
-		var AUTHOR_PROFILE_ENABLED = false;
-	}else{
-		var AUTHOR_PROFILE_ENABLED = true;
-	}
-
-	var IMAGE_SEARCH_FLAG = 'OFF';
-	if (IMAGE_SEARCH_FLAG.toUpperCase() == "ON"){
-		var IMAGE_SEARCH_ENABLED = true;
-	} else {
-		var IMAGE_SEARCH_ENABLED = false;
-	}
-	
-	var ILN_ENABLED = true;
-	
-	
-	var IBP_MEMBEER_SIGNIN_TIME_WAIT_IN_MILLIES = '800';
-	var ASSETS_RELATIVE_PATH = '/assets'; // NOTE: AngularJS code relies on this
-	var ASSETS_RELATIVE_PATH_NO_SERVER = '/assets';
-	var ASSETS_VERSION = '20211130_000001'; // NOTE: AngularJS code relies on this
-	var IBP_WS_ASSETS='https://www.ieee.org';
-	var IBP_WS_ENABLED_FLAG = true;
-	var ENTERPRISE_CART_URL = 'https://www.ieee.org/cart/public/myCart/page.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE%20Xplore';
-	var IEEE_USER_INFO_COOKIE = 'ieeeUserInfoCookie';
-	
-	var ACC_MGMT_NEW = true;
-	if (! XPLORE_WEBSERV_YES_NO) {
-		var ACC_MGMT_NEW = 'false';
-	}
-	var ACC_MGMT_CREATE_URL = 'https://www.ieee.org/profile/public/createwebaccount/showCreateAccount.html?ShowMGAMarkeatbilityOptIn=true&sourceCode=xplore&car=IEEE-Xplore&autoSignin=Y';
-	var ACC_MGMT_FORGOT_PASSWD_URL = 'https://www.ieee.org/profile/public/forgotpassword/forgotUsernamePassword.html?sourceCode=xplore';
-
-	var SPECIAL_CHARACTER_MAPS = '&:.AND.,=:.EQ.,+:.PLS.,#:.HSH.';
-	var SPECIAL_CHARACTERS = new Array();
-	var SPECIAL_CHARACTER_REPLACEMENTS = new Array();
-	var characterMaps = SPECIAL_CHARACTER_MAPS.split(",");
-	for (var i = 0; i < characterMaps.length; i++) {
-		parts = characterMaps[i].split(":");
-		SPECIAL_CHARACTERS[i] = parts[0];
-		SPECIAL_CHARACTER_REPLACEMENTS[i] = parts[1];
-	}
-
-	var MAX_WILDCARDS = '7';
-	var MAX_SEARCH_TERMS = '20';
-	var ALL_SEARCH_FIELDS = 'Search_Index_Terms:Index Terms,Search_All_Text:Full Text & Metadata,Search_All:All Metadata,fullText:Full Text Only,Search_Publication_Title:Search Publication Title,Search_Related_Terms:Search Related Terms,Search_Authors:Author Name,Search_Standard_Ics_Title:ICE Terms,Search_Unsilo:Search Unsilo,Search_Mai:Search MAI,promoTopic:Custom Search,id:Article Number,moduleNumber:Module Number,part_num:Part_Num,issn:ISSN,isbn:ISBN,eisbn:EISBN,issueId:IS Number,pubIssueId:Pub Issue Id,accessionNumber:Accession Number,copyrightHolder:Copyright Holder,copyrightYear:Copyright Year,license:License,documentAbstract:Abstract,publicationId:Publication Number,parentPublicationId:Parent Publication Number,parentId:Parent Id,standardArticleId:Standard Article Id,title:Document Title,parentTitle:Parent Publication Title,parentDisplayTitle:Parent Display Title,publicationTitle:Publication Title,publicationDisplayTitle:Publication Display Title,volume:Volume,issue:Issue,paddedIssueNumber:Padded Issue Number,part:Part,startPage:Start Page,endPage:End Page,filePath:File Path,publicationDate:Publication Date,PublicationYear:Publication Year,onlineDate:Online Date,month:Month,Author:Author Pref Names,authorNormNames:Author Norm Names,author:Authors,authorIds:Author Ids,firstName:First Name,middleName:Middle Name,lastName:Last Name,authorAffiliations:Author Affiliations,authorBio:Author Bio,authorImg:Author Img,referenceCount:Reference Count,citationCount:Citation Count,downloadCount:Download Count,patentCount:Patent Count,multimediaFlag:Multimedia Flag,biomedicalEngFlag:Biomedical Eng Flag,nonIeee:Non IEEE,stdsProductNumber:STDS Product Number,bmsProductNumber:Bms Product Number,status:Status,doi:DOI,articleDoi:Article DOI,publicationDoi:Publication DOI,pdfPath:Pdf Path,pdfSize:Pdf Size,contentSubtype:Content Subtype,Publisher:Publisher,ControlledTerms:INSPEC Controlled Terms,freeTerms:INSPEC Non-Controlled Terms,ieeeTerms:IEEE Terms,authorTerms:Author Keywords,maiTerms:MAI Terms,meshTerms:Mesh_Terms,pacsTerms:PACS Terms,insertDate:Insert Date,ConferenceLocation:Conference Location,indexContent:Index Content,coden:CODEN,documentText:Document Text,standardNumber:Standard Number,preprintFlag:Preprint Flag,rapidPostFlag:Rapid Post Flag,lastUpdate:Last Update,newFlag:New Flag,openAccessFlag:Open Access Flag,publicationOpenAccess:Publication Open Access,promoFlag:Promo Flag,pubmedId:Pubmed Id,duration:Duration,society:Society,conference:Conference,ConferenceCountry:ConferenceCountry,conferenceStartDate:Conference Start Date,conferenceEndDate:Conference End Date,societyUrl:Society URL,idSubject:Id Subject,bookNumber:Book Number,pages:Pages,editionNumber:Edition Number,sequence:Sequence,relatedInfoType:Related Info Type,relatedInfo:Related Info,formatIsbn:Format ISBN,meetingDate:Meeting Date,courseLevel:Course level,courseParts:Course Parts,courseId:Course ID,aboutUrl:About Url,additionalUrl:Additional Url,authorsUrl:Authors Url,openAccessUrl:Open Access Url,openAccessFlag:Open Access flag,partnumVendorurlMediatype:Partnum VendorURL MediaType,brandingImageFile:Branding Image File,coverImageFile:Cover Image File,frequency:Frequency,fieldOfInterest:Field Of Interest,gParentPublicationNumber:G Parent Publication Number,msUrl:Ms Url,publicationRelationship:Relationship,societyImage:Society Image,visitUrl:Visit Url,visitWebsite:Visit Website,startYear:Start Year,endYear:End Year,publicationInactive:Publication Inactive,recordType:Record Type,epub:Epub,picCodeDescription:Pic Code Description,picCode:Pic Code,sponsors:Sponsors,issueNotes:Notes,conferenceDate:Conference Date,publicationContact:Publication Contact,isbuyable:isBuyable,standardRelationships:Standard Relationships,unavailableForSale:Unavailable for Sale,availableForSale:Available for Sale,standardFamily:Standard Family,standardGroup:Standard Group,productUrl:Product Url,isbnMediatype:ISBN MediaType,htmlFlag:Html Flag,rightslinkFlag:Rightslink Flag,pageCount:Page Count,name:Name,tableOfContents:Table of Contents,timeStamp:Time Stamp,subTitle:Sub Title,relatedItem:Related Item,referenceMaterial:Reference Material,latestIssueTime:Latest Issue Time,startYear:First Published Year,insertDate:Search Latest Date,pbdFlag:Pbd Flag,lmsUrl:Lms Url,currentVolume:Current Volume,graphicalFile:Graphical File,graphicalCoverImage:Graphical Cover Image,graphicalSummary:Graphical Summary,graphicalType:Graphical Type,authorNativeNames:Native Name,externalId:Article Page Number,standardBundles:Standard Bundles,standardBundleParts:Standard Bundle Parts,virtualTitle:Virtual Title,seriesName:Series Name,seriesId:Series Id,mlHtmlFlag:ML Html flag,promoDates:Promo Dates,promoStartDate:Promo Start Date,promoEndDate:Promo End Date,issueCompleteFlag:Issue Complete Flag,scope:Scope,purpose:Purpose,standardFamilyTitle:Standard Family Title,thumbnailImg:Thumbnail Img,supplementFile:Supplement File,courseFile:Course File,supplement:Supplement,courseAuthor:Course Author,pdhs:Pdhs,ceus:Ceus,courseFirstFrame:FirstFrame Img,idSubTopic:Id Sub Topic,certificateUrl:Certificate Url,standardRoot:Standard Root,icsTerms:Standards ICS Terms,impactStatement:Impact Statement,plagiarizedFlag:Plagiarized Flag,affirmedDate:Affirmed Date,sourcePdf:Source Pdf,orcid:Author ORCID,algorithmFlag:Algorithm Flag,fundingAgency:Funding Agency,funder:Funder,pricingKey:Map Pricing Key,publicationRollup:Rollup Key,collection:Collection,previewImage:Preview Image,regularDate:Regular Date,ContentType:Content Type,ringgoldIds:Ringgold ID,figures:Figures,mediaPath:Media Path,publicationVolumeOnly:Publication Volume Only,Search_All:All Metadata,Search_All_Text:Full Text & Metadata,fullText:Full Text Only,unsiloTerm:Unsilo Term,hasUnsilo:Has Unsilo,TypeAheadTerms:Type Ahead Terms,IeeeTerm:IEEE Term,ContentType:Content Type,Author:Author,Affiliation:Affiliation,Topic:Topic,PublicationTitle:Publication Title,PublicationYear:Year,Publisher:Publisher,ConferenceCountry:Conference Country,ConferenceLocation:Conference Location,StandardStatus:Standard Status,ConferenceYear:Conference Year,PublicationPackage:Subscribed Content,StandardPackage:Standard Package,ReadingRoom:Reading Room,StandardTitle:Standard Title,StdDictionaryTerms:Standards Dictionary Terms,TitleRange:Publication Range,StandardRange:Standard Range,RecordType:Record Type,MediaType:Media Type,BookType:Book Type,CourseType:Course Type,PublicationStandardRange:Publication Standard Range,PerpetualYear:Perpetual Year,OpacTitleRange:Opac Title Range,BookSeries:Book Series,SubjectCategory:Subject Category,Sessions:Sessions,TypeAheadPublication:Type Ahead Publication,SubTopic:Sub Topic,CourseDuration:Course Duration,CourseLevel:Course Level,StandardType:Standard Type,StandardSubtype:Standard SubType,StandardModifier:Standard Modifier,IcsTerms1:Ics Terms 1,IcsTerms2:Ics Terms 2,IcsTerms3:Ics Terms 3,SupplementalItem:Supplemental Items,CourseDuration:Course Duration,SpecialSection:Topics,SocietySection:Society Sections,ControlledTerms:Publication Topics';
-	var SEARCH_FIELD_REFERENCES = new Array();
-	var SEARCH_FIELD_DISPLAYS = new Array();
-	var searchFields = ALL_SEARCH_FIELDS.split(",");
-	for (var j = 0; j < searchFields.length; j++) {
-		parts = searchFields[j].split(":");
-		SEARCH_FIELD_REFERENCES[j] = parts[0];
-		SEARCH_FIELD_DISPLAYS[j] = parts[1];
-	}
-	
-
-	var refSite='https://ieeexplore.ieee.org';
-	var refSiteName="IEEE Xplore";
-	var applicationName = 'Xplore';
-	var MC_OPERATION_DELAY_TIMEOUT='5000';
-	var MC_ADDING_DELAY_MSG='Please wait.The selected item(s) is being added to the cart.';
-	var MC_TIMEOUT='60000';
-	var MC_OPERATION_DELAY_MSG_FLAG='true';
-
-	var MEMBER_PROFILE_CHANGE_USERNAMEPASS_LINK = 'https://www.ieee.org/profile/changeusrpwd/showChangeUsrPwdPage.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_MY_PROFILE ='https://www.ieee.org/profile/myprofile/myprofile.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_PROFILE_ADDRESSINFO_LINK = 'https://www.ieee.org/profile/address/getAddrInfoPage.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_PROFILE_PAYMENTINFO_LINK = 'https://www.ieee.org/profile/payment/showPaymentHome.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_PROFILE_ORDER_HISTORY_LINK = 'https://www.ieee.org/profile/vieworder/showOrderHistory.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_USER_COMMUNICATION_LINK = 'https://www.ieee.org/ieee-privacyportal/app/ibp?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_EDUCATIONAL_PROFILE_LINK = 'https://www.ieee.org/profile/profedu/getProfEduInformation.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var MEMBER_TECHNICAL_INTERESTS_LINK = 'https://www.ieee.org/profile/tips/getTipsInfo.html?refSite=http://ieeexplore.ieee.org&refSiteName=IEEE Xplore';
-	var HELPFILE_RELATIVE_PATH = '/Xplorehelp';
-	
-	//content types
-	var CONTENT_TYPE_PARAM = 'contentType';
-	var CONTENT_TYPE_BOOKS = 'Books';
-	var CONTENT_TYPE_COURSES = 'Courses';
-	var CONTENT_TYPE_STANDARDS = 'Standards';
-	var CONTENT_TYPE_CONFERENCES = 'Conferences';
-	var CONTENT_TYPE_JOURNALS = 'Journals';
-	var CONTENT_TYPE_EARLY_ACCESS = 'Early Access Articles';
-	
-	//User Preferences
-	var citFormat = "";
-	var dlFormat = "";
-	var myProjectLimit = 15;
-	var myProjectDocumentLimit = 1000;
-	var myProjectDocumentTagLimit = 50;
-	
-	
-	//Google ReCaptcha public Key 
-	var RECAPTCHA_PUBLIC_KEY = '6Ld6GEUUAAAAALdaAmeGUhZyz1KFFHnd5oCaTW-t';
-       </script>
-       <script charset="utf-8" src="/assets/dist/js/history.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/js/lib/conditional/cartScroll.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/js/lib/conditional/minicart.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/dist/js/core.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/dist/js/ads.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script charset="utf-8" src="/assets/dist/js/master.js?cv=20211130_000001" type="text/javascript">
-       </script>
-       <script>
-        j$('document').ready(function(){
-	if (Cookies.get('legacyUserName')) {
-		if (IBP_WS_ENABLED_FLAG){
-			Modal.refreshLegacyAccountTransition('/xpl/mwLegacyAccountTransition.jsp');
-		}
-	}
-});
-       </script>
-      </g:compress>
-      <script>
-       // Get/Set XPL namespace.
-	window.xpl = window.xpl || {};
-	
-	// Set constants/application properties.
-	xpl.properties = { 
-			collabratec: { 
-					url: 'https://ieee-collabratec.ieee.org/app/library'
-			}
-	};
-	
-	xpl.properties.details = {
-			oqs: ''
-	};
-      </script>
-      <!--Begin Optional Configuration-->
-      <script src="https://www.ieee.org/ieee-mashup/js/common/jquery.json-2.2.min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/common/postmessage-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/common/jquery.cookie-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-constants-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/auth/ieee-auth-include-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mini-cart-constants-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-mashup-util-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/common/jquery.ba-jqmq-min.js" type="text/javascript">
-      </script>
-      <script src="https://www.ieee.org/ieee-mashup/js/minicart/ieee-minicart-include-min.js" type="text/javaScript">
-      </script>
-      <!--End Optional Configuration-->
-      <!-- Removed due to network issues when loading in China -->
-      <!-- <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=ra-5005a435228f9245" async="async"></script>-->
-      <!-- Load Mathjax and process the document for Mathjax characters -->
-      <!-- <script type="text/javascript" src="/xploreAssets/MathJax-274/MathJax.js?config=default"></script> -->
-      <script defer="">
-       MathJax.Hub.Queue(["Typeset", MathJax.Hub, document.body]);
-      </script>
-     </div>
-    </div>
-   </div>
-   <script>
-    // set $ alias back to jQuery because noConflict mode is used in legacy pages
-					window.$ = jQuery;
-   </script>
-  </div>
-  <!-- /#LayoutWrapper -->
+      <div class="attribution">
+       DDoS protection by
+       <a href="https://www.cloudflare.com/5xx-error-landing/" rel="noopener noreferrer" target="_blank">
+        Cloudflare
+       </a>
+       <br/>
+       <span class="ray_id">
+        Ray ID:
+        <code>
+         6cb1c2ed2954e9c4
+        </code>
+       </span>
+      </div>
+     </td>
+    </tr>
+   </tbody>
+  </table>
  </body>
 </html>

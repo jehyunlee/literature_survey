@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="034dd6b2-ec75-4ce9-959c-2837e9059036" lang="en">
+<html class="pb-page" data-request-id="e41acc71-2fd6-42e0-8a13-651e86602093" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";issue:issue:10.1021/amlcef.2021.3.issue-4;requestedJournal:journal:amlcef;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;journal:journal:amlcef;wgroup:string:ACHS website Group;website:website:acspubs;article:article:10.1021/acsmaterialslett.1c00048;pageGroup:string:Publication Pages" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -196,7 +196,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'd2e59151-cdce-45d3-a5f4-d1ef9d1c4446'
+                            eventGroupKey: '3d617601-0dea-4c96-be15-93ccddbad2d4'
                         }
 
                     }).done(function (status) {
@@ -1495,8 +1495,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#4527232a2e3224053026376b202130">
-                  <span class="__cf_email__" data-cfemail="6b090d04001c0a2b1e0819450e0f1e">
+                 <a href="/cdn-cgi/l/email-protection#ee8c888185998fae9b8d9cc08b8a9b">
+                  <span class="__cf_email__" data-cfemail="4022262f2b3721003523326e252435">
                    [email protected]
                   </span>
                  </a>
@@ -3479,7 +3479,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad7f2b08cca213","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb1991e6db60f80","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

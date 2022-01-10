@@ -42,7 +42,7 @@
   <meta content="pc,mobile" name="applicable-device"/>
   <meta content="width=device-width,initial-scale=1.0,maximum-scale=5,user-scalable=yes" name="viewport"/>
   <script data-test="dataLayer">
-   window.dataLayer = [{"content":{"category":{"contentType":"news & views","legacy":{"webtrendsPrimaryArticleType":"news & views","webtrendsSubjectTerms":"kinetics-and-dynamics;solid-state-chemistry;synthesis-and-processing","webtrendsContentCategory":null,"webtrendsContentCollection":null,"webtrendsContentGroup":"Nature Chemistry","webtrendsContentGroupType":null,"webtrendsContentSubGroup":"News & Views"}},"article":{"doi":"10.1038/s41557-019-0305-y"},"attributes":{"cms":null,"deliveryPlatform":"oscar","copyright":{"open":false,"legacy":{"webtrendsLicenceType":null}}},"contentInfo":{"authors":["Mihui Park","Gi-Hyeok Lee","Yong-Mook Kang"],"publishedAt":1563926400,"publishedAtString":"2019-07-24","title":"Precipitates shape up","legacy":null,"publishedAtTime":null,"documentType":"aplusplus"},"journal":{"pcode":"nchem","title":"nature chemistry","volume":"11","issue":"8"},"authorization":{"status":true},"features":[{"name":"furtherReadingSection","present":false}],"collection":null},"page":{"category":{"pageType":"article"},"attributes":{"template":"mosaic","featureFlags":[{"name":"ab_test_highlight_supp_info","active":false},{"name":"nature-oa-paywall","active":true},{"name":"nature-onwards-journey","active":false},{"name":"split-test-check","active":false}],"testGroup":null},"search":null},"privacy":{},"version":"1.0.0","product":null,"session":null,"user":null,"backHalfContent":false,"country":"KR","hasBody":true,"uneditedManuscript":false,"twitterId":["o3xnx","o43y9","o3ef7"]}];
+   window.dataLayer = [{"content":{"category":{"contentType":"news & views","legacy":{"webtrendsPrimaryArticleType":"news & views","webtrendsSubjectTerms":"kinetics-and-dynamics;solid-state-chemistry;synthesis-and-processing","webtrendsContentCategory":null,"webtrendsContentCollection":null,"webtrendsContentGroup":"Nature Chemistry","webtrendsContentGroupType":null,"webtrendsContentSubGroup":"News & Views"}},"article":{"doi":"10.1038/s41557-019-0305-y"},"attributes":{"cms":null,"deliveryPlatform":"oscar","copyright":{"open":false,"legacy":{"webtrendsLicenceType":null}}},"contentInfo":{"authors":["Mihui Park","Gi-Hyeok Lee","Yong-Mook Kang"],"publishedAt":1563926400,"publishedAtString":"2019-07-24","title":"Precipitates shape up","legacy":null,"publishedAtTime":null,"documentType":"aplusplus"},"journal":{"pcode":"nchem","title":"nature chemistry","volume":"11","issue":"8"},"authorization":{"status":true},"features":[{"name":"furtherReadingSection","present":false}],"collection":null},"page":{"category":{"pageType":"article"},"attributes":{"template":"mosaic","featureFlags":[{"name":"ab_test_highlight_supp_info","active":false},{"name":"nature-oa-paywall","active":true},{"name":"nature-onwards-journey","active":false},{"name":"split-test-check","active":true}],"testGroup":null},"search":null},"privacy":{},"version":"1.0.0","product":null,"session":null,"user":null,"backHalfContent":false,"country":"KR","hasBody":true,"uneditedManuscript":false,"twitterId":["o3xnx","o43y9","o3ef7"]}];
     window.dataLayer.push({
         ga4MeasurementId: 'G-ERRNTNZ807',
         ga360TrackingId: 'UA-71668177-1',
@@ -406,8 +406,8 @@
       </p>
       <div class="div-gpt-ad advert leaderboard js-ad text-center hide-print grade-c-hide" data-ad-type="top" data-gpt="" data-gpt-sizes="728x90" data-gpt-targeting="type=article;pos=top;artid=s41557-019-0305-y;doi=10.1038/s41557-019-0305-y;subjmeta=263,301,357,440,551,638,639,915,950;kwrd=Reaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" data-gpt-unitpath="/285/nchem.nature.com/article" data-pa11y-ignore="" id="div-gpt-ad-top-1">
        <noscript>
-        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nchem.nature.com/article&amp;sz=728x90&amp;c=1269284522&amp;t=pos%3Dtop%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing">
-         <img alt="Advertisement" data-test="gpt-advert-fallback-img" height="90" src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nchem.nature.com/article&amp;sz=728x90&amp;c=1269284522&amp;t=pos%3Dtop%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" width="728"/>
+        <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nchem.nature.com/article&amp;sz=728x90&amp;c=-1611806220&amp;t=pos%3Dtop%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing">
+         <img alt="Advertisement" data-test="gpt-advert-fallback-img" height="90" src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nchem.nature.com/article&amp;sz=728x90&amp;c=-1611806220&amp;t=pos%3Dtop%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" width="728"/>
         </a>
        </noscript>
       </div>
@@ -801,11 +801,11 @@
        <p>
         Inorganic materials exhibit a variety of characteristics, such as their optical, electrical or catalytic properties, that make them very well suited to practical applications in areas ranging from electronics to energy storage and conversion. Control over their microstructure, morphology and size can help tailor the properties of functional materials to maximize device performances
         <sup>
-         <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR1" id="ref-link-section-d233266578e295" title="Zhao, Q., Yan, Z., Chen, C. &amp; Chen, J. Chem. Rev. 117, 10121–10211 (2017).">
+         <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR1" id="ref-link-section-d283384489e295" title="Zhao, Q., Yan, Z., Chen, C. &amp; Chen, J. Chem. Rev. 117, 10121–10211 (2017).">
           1
          </a>
          ,
-         <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR2" id="ref-link-section-d233266578e298" title="Yu, Y., Shi, Y. &amp; Zhang, B. Acc. Chem. Res. 51, 1711–1721 (2018).">
+         <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR2" id="ref-link-section-d283384489e298" title="Yu, Y., Shi, Y. &amp; Zhang, B. Acc. Chem. Res. 51, 1711–1721 (2018).">
           2
          </a>
         </sup>
@@ -819,7 +819,7 @@
         </sub>
         has been shown to exhibit morphology-dependent performances for alkali-ion batteries, with one-dimensional structures showing good electrochemical performances, owing to the short distances involved for ion diffusion and electron transport processes
         <sup>
-         <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR3" id="ref-link-section-d233266578e306" title="Longoni, G. et al. J. Power Sources 332, 42–50 (2016).">
+         <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR3" id="ref-link-section-d283384489e306" title="Longoni, G. et al. J. Power Sources 332, 42–50 (2016).">
           3
          </a>
         </sup>
@@ -837,7 +837,7 @@
         </sup>
         ions are present in different amounts on different facets, in the order of {111} &gt; {110} &gt; {100} — these facets are exposed for octahedra, rods and cubes, respectively
         <sup>
-         <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR1" id="ref-link-section-d233266578e317" title="Zhao, Q., Yan, Z., Chen, C. &amp; Chen, J. Chem. Rev. 117, 10121–10211 (2017).">
+         <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR1" id="ref-link-section-d283384489e317" title="Zhao, Q., Yan, Z., Chen, C. &amp; Chen, J. Chem. Rev. 117, 10121–10211 (2017).">
           1
          </a>
         </sup>
@@ -847,7 +847,7 @@
         </i>
         , Wei-Hong Lai and co-workers
         <sup>
-         <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR4" id="ref-link-section-d233266578e324" title="Lai, W. -H. et al. Nat. Chem. 
+         <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR4" id="ref-link-section-d283384489e324" title="Lai, W. -H. et al. Nat. Chem. 
                     https://doi.org/10.1038/s41557-019-0298-6
                     
                    (2019).">
@@ -861,11 +861,11 @@
        <p>
         Efforts to guide the growth of specific structures have traditionally focused on using organic surfactants or capping agents. Some capping agents can be selectively adsorbed on specific facets of inorganic nanocrystals, prohibiting crystal growth along these directions. Instead, growth occurs at the other facets, in turn enabling the final morphology to be tailored
         <sup>
-         <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR5" id="ref-link-section-d233266578e331" title="Darr, J. A., Zhang, J., Makwana, N. M. &amp; Weng, X. Chem. Rev. 117, 11125–11238 (2017).">
+         <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR5" id="ref-link-section-d283384489e331" title="Darr, J. A., Zhang, J., Makwana, N. M. &amp; Weng, X. Chem. Rev. 117, 11125–11238 (2017).">
           5
          </a>
          ,
-         <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR6" id="ref-link-section-d233266578e334" title="Bai, S., Wang, L., Li, Z. &amp; Xiong, Y. Adv. Sci. 4, 1600216 (2017).">
+         <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR6" id="ref-link-section-d283384489e334" title="Bai, S., Wang, L., Li, Z. &amp; Xiong, Y. Adv. Sci. 4, 1600216 (2017).">
           6
          </a>
         </sup>
@@ -879,31 +879,31 @@
         </sup>
         of the {001} facets
         <sup>
-         <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR6" id="ref-link-section-d233266578e342" title="Bai, S., Wang, L., Li, Z. &amp; Xiong, Y. Adv. Sci. 4, 1600216 (2017).">
+         <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR6" id="ref-link-section-d283384489e342" title="Bai, S., Wang, L., Li, Z. &amp; Xiong, Y. Adv. Sci. 4, 1600216 (2017).">
           6
          </a>
         </sup>
         . The downside of using surfactants or capping agents, however, is that they leave residues on the surface of the inorganic materials produced, which can in turn affect their chemistry
         <sup>
-         <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR7" id="ref-link-section-d233266578e346" title="Barhoum, A. et al. ACS Appl. Mater. Interfaces 6, 2734–2744 (2014).">
+         <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR7" id="ref-link-section-d283384489e346" title="Barhoum, A. et al. ACS Appl. Mater. Interfaces 6, 2734–2744 (2014).">
           7
          </a>
          ,
-         <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR8" id="ref-link-section-d233266578e349" title="Deshmukh, R. &amp; Niederberger, M. Chem. Eur. J. 23, 8542–8570 (2017).">
+         <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR8" id="ref-link-section-d283384489e349" title="Deshmukh, R. &amp; Niederberger, M. Chem. Eur. J. 23, 8542–8570 (2017).">
           8
          </a>
         </sup>
         . For example, this can lower their performances for applications such as heterogeneous catalysis and ion intercalation (such as in secondary alkali-ion batteries)
         <sup>
-         <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d233266578e354" title="Xiao, Y. et al. Adv. Mater. 30, 1803765 (2018).">
+         <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d283384489e354" title="Xiao, Y. et al. Adv. Mater. 30, 1803765 (2018).">
           9
          </a>
          ,
-         <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d233266578e354_1" title="Wang, D. et al. Chem. Soc. Rev. 47, 4611–4641 (2018).">
+         <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d283384489e354_1" title="Wang, D. et al. Chem. Soc. Rev. 47, 4611–4641 (2018).">
           10
          </a>
          ,
-         <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR11" id="ref-link-section-d233266578e357" title="Strasser, P., Gliech, M., Kuehl, S. &amp; Moeller, T. Chem. Soc. Rev. 47, 715–735 (2018).">
+         <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR11" id="ref-link-section-d283384489e357" title="Strasser, P., Gliech, M., Kuehl, S. &amp; Moeller, T. Chem. Soc. Rev. 47, 715–735 (2018).">
           11
          </a>
         </sup>
@@ -927,11 +927,11 @@
        <p>
         There have been prior instances of additive-free growth regulation. When nucleation occurs on a surface, nucleation and growth can both be guided by tailoring the substrate
         <sup>
-         <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR12" id="ref-link-section-d233266578e373" title="Xu, H., Zhou, M., Fang, Y. &amp; Teng, H. H. Minerals 8, 17 (2018).">
+         <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR12" id="ref-link-section-d283384489e373" title="Xu, H., Zhou, M., Fang, Y. &amp; Teng, H. H. Minerals 8, 17 (2018).">
           12
          </a>
          ,
-         <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR13" id="ref-link-section-d233266578e376" title="Li, L., Fijneman, A. J., Kaandorp, J. A., Aizenberg, J. &amp; Noorduin, W. L. Proc. Natl Acad. Sci. USA 115, 3575–3580 (2018).">
+         <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR13" id="ref-link-section-d283384489e376" title="Li, L., Fijneman, A. J., Kaandorp, J. A., Aizenberg, J. &amp; Noorduin, W. L. Proc. Natl Acad. Sci. USA 115, 3575–3580 (2018).">
           13
          </a>
         </sup>
@@ -945,13 +945,13 @@
         </sub>
         substrates
         <sup>
-         <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR13" id="ref-link-section-d233266578e384" title="Li, L., Fijneman, A. J., Kaandorp, J. A., Aizenberg, J. &amp; Noorduin, W. L. Proc. Natl Acad. Sci. USA 115, 3575–3580 (2018).">
+         <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR13" id="ref-link-section-d283384489e384" title="Li, L., Fijneman, A. J., Kaandorp, J. A., Aizenberg, J. &amp; Noorduin, W. L. Proc. Natl Acad. Sci. USA 115, 3575–3580 (2018).">
           13
          </a>
         </sup>
         ; a variety of shapes were grown through sequential steps. In another study, Bingqian Cao and Weiping Cai reported
         <sup>
-         <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR14" id="ref-link-section-d233266578e388" title="Cao, B. &amp; Cai, W. J. Phys. Chem. C 112, 680–685 (2008).">
+         <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR14" id="ref-link-section-d283384489e388" title="Cao, B. &amp; Cai, W. J. Phys. Chem. C 112, 680–685 (2008).">
           14
          </a>
         </sup>
@@ -998,7 +998,7 @@
         </i>
         ) leads to one-dimensional (rod-like) or two-dimensional (sheet-like) materials, respectively. The lower supersaturation provides fewer nuclei, and also slows down their forming rate, thereby favouring a slow crystal growth into rods or wires. That is, heterogeneous nucleation (growth on existing nuclei) is favoured over homogenous nucleation (formation of new nuclei from the solution), and materials therefore tend to grow along a preferred direction according to a thermodynamic-controlled process. At higher supersaturation, homogeneous nucleation also occurs, with the formation of a larger number of nuclei that can divergently grow in kinetic-controlled processes
         <sup>
-         <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR14" id="ref-link-section-d233266578e464" title="Cao, B. &amp; Cai, W. J. Phys. Chem. C 112, 680–685 (2008).">
+         <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR14" id="ref-link-section-d283384489e464" title="Cao, B. &amp; Cai, W. J. Phys. Chem. C 112, 680–685 (2008).">
           14
          </a>
         </sup>
@@ -1056,7 +1056,7 @@
         </i>
         they tend to form spheres to irregular particles by lower degree of oriented or even random attachment of particles
         <sup>
-         <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR15" id="ref-link-section-d233266578e501" title="De Yoreo, J. J. et al. Science 349, aaa6760 (2015).">
+         <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/articles/s41557-019-0305-y#ref-CR15" id="ref-link-section-d283384489e501" title="De Yoreo, J. J. et al. Science 349, aaa6760 (2015).">
           15
          </a>
         </sup>
@@ -1877,8 +1877,8 @@
           </p>
           <div class="div-gpt-ad advert medium-rectangle js-ad text-center hide-print grade-c-hide" data-ad-type="right" data-gpt="" data-gpt-sizes="300x250" data-gpt-targeting="type=article;pos=right;artid=s41557-019-0305-y;doi=10.1038/s41557-019-0305-y;subjmeta=263,301,357,440,551,638,639,915,950;kwrd=Reaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" data-gpt-unitpath="/285/nchem.nature.com/article" data-pa11y-ignore="" id="div-gpt-ad-right-2">
            <noscript>
-            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nchem.nature.com/article&amp;sz=300x250&amp;c=-966066044&amp;t=pos%3Dright%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing">
-             <img alt="Advertisement" data-test="gpt-advert-fallback-img" height="250" src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nchem.nature.com/article&amp;sz=300x250&amp;c=-966066044&amp;t=pos%3Dright%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" width="300"/>
+            <a href="//pubads.g.doubleclick.net/gampad/jump?iu=/285/nchem.nature.com/article&amp;sz=300x250&amp;c=547797001&amp;t=pos%3Dright%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing">
+             <img alt="Advertisement" data-test="gpt-advert-fallback-img" height="250" src="//pubads.g.doubleclick.net/gampad/ad?iu=/285/nchem.nature.com/article&amp;sz=300x250&amp;c=547797001&amp;t=pos%3Dright%26type%3Darticle%26artid%3Ds41557-019-0305-y%26doi%3D10.1038/s41557-019-0305-y%26subjmeta%3D263,301,357,440,551,638,639,915,950%26kwrd%3DReaction kinetics and dynamics,Solid-state chemistry,Synthesis and processing" width="300"/>
             </a>
            </noscript>
           </div>
@@ -2625,6 +2625,6 @@
   <script async="" src="//content.readcube.com/ping?doi=10.1038/s41557-019-0305-y&amp;format=js&amp;last_modified=2019-07-24">
   </script>
   <img alt="" class="u-visually-hidden" height="1" src="/platform/track/article/s41557-019-0305-y" width="1"/>
-  <!-- split B -->
+  <!-- split A -->
  </body>
 </html>

@@ -1,34 +1,34 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="866e9646-d1e4-4b92-aecb-30c0443932b1" lang="en">
+<html class="pb-page" data-request-id="d41e97cd-6f48-4f70-8d23-c29671b99890" lang="en">
  <head data-pb-dropzone="head">
-  <meta content=";website:website:wspc-site;requestedJournal:journal:mplb;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;article:article:10.1142/S0217984919400268;wgroup:string:WSPC website Group;journal:journal:mplb;issue:issue:10.1142/mplb.33.issue-14n15;pageGroup:string:Publication Pages" name="pbContext"/>
+  <meta content=";website:website:wspc-site;requestedJournal:journal:mplb;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;wgroup:string:WSPC website Group;article:article:10.1142/S0217984920400436;issue:issue:10.1142/mplb.34.issue-07n09;journal:journal:mplb;pageGroup:string:Publication Pages" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
   <meta content="Modern Physics Letters B" name="citation_journal_title"/>
-  <meta content="Influence on crack profiles of multi-layered Al/CFRP hybrid composites by using FE simulation" name="dc.Title"/>
+  <meta content="Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel" name="dc.Title"/>
   <meta content="Sung-Min  Yoon" name="dc.Creator"/>
-  <meta content="Soo-Jeong  Park" name="dc.Creator"/>
+  <meta content="Sung-Youl  Bae" name="dc.Creator"/>
   <meta content="Yun-Hae  Kim" name="dc.Creator"/>
-  <meta content="Hybrid composites; Al/CFRP; crack profiles; debonding; FE simulation" name="dc.Subject"/>
-  <meta content="This study aims to investigate a finite element analysis on Al/CFRP Hybrid composites with a flaw in-between bonding surfaces. 2D model was considered to simplify the 4-layered structures with a ci..." name="dc.Description"/>
-  <meta content="This study aims to investigate a finite element analysis on Al/CFRP Hybrid composites with a flaw in-between bonding surfaces. 2D model was considered to simplify the 4-layered structures with a ci..." name="Description"/>
+  <meta content="Hybrid panel; material peeling; adhesion strength; FE simulation" name="dc.Subject"/>
+  <meta content="The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum ..." name="dc.Description"/>
+  <meta content="The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum ..." name="Description"/>
   <meta content=" World Scientific Publishing Company " name="dc.Publisher"/>
-  <meta content="2019-05-28" name="dc.Date" scheme="WTN8601"/>
+  <meta content="2020-03-19" name="dc.Date" scheme="WTN8601"/>
   <meta content="research-article" name="dc.Type"/>
   <meta content="text/HTML" name="dc.Format"/>
-  <meta content="10.1142/S0217984919400268" name="dc.Identifier" scheme="doi"/>
-  <meta content="https://doi.org/10.1142/S0217984919400268" name="dc.Source"/>
+  <meta content="10.1142/S0217984920400436" name="dc.Identifier" scheme="doi"/>
+  <meta content="https://doi.org/10.1142/S0217984920400436" name="dc.Source"/>
   <meta content="en" name="dc.Language"/>
   <meta content="world" name="dc.Coverage"/>
-  <meta content="Hybrid composites,Al/CFRP,crack profiles,debonding,FE simulation" name="keywords"/>
-  <link href="https://doi.org/10.1142%2FS0217984919400268" rel="meta" type="application/atom+xml"/>
-  <link href="https://doi.org/10.1142%2FS0217984919400268" rel="meta" type="application/rdf+json"/>
-  <link href="https://doi.org/10.1142%2FS0217984919400268" rel="meta" type="application/unixref+xml"/>
+  <meta content="Hybrid panel,material peeling,adhesion strength,FE simulation" name="keywords"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/atom+xml"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/rdf+json"/>
+  <link href="https://doi.org/10.1142%2FS0217984920400436" rel="meta" type="application/unixref+xml"/>
   <title>
-   Influence on crack profiles of multi-layered Al/CFRP hybrid composites by using FE simulation | Modern Physics Letters B
+   Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel | Modern Physics Letters B
   </title>
   <meta charset="utf-8"/>
   <meta content="noarchive" name="robots"/>
-  <meta content="https://www.worldscientific.com/action/showOpenGraphCoverImage?doi=10.1142%2FS0217984919400268" property="og:image"/>
+  <meta content="https://www.worldscientific.com/action/showOpenGraphCoverImage?doi=10.1142%2FS0217984920400436" property="og:image"/>
   <meta content="width=device-width,initial-scale=1,maximum-scale=1, user-scalable=0" name="viewport"/>
   <link href="/wro/kup4~product.css" rel="stylesheet" type="text/css"/>
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,600,700" rel="stylesheet"/>
@@ -100,11 +100,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </h2>
         <div class="login-form">
          <div class="social-icons">
-          <a href="/action/oauth/linkedin?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268" id="linkedInLogin" title="Use your LinkedIn credentials to sign in on this site">
+          <a href="/action/oauth/linkedin?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436" id="linkedInLogin" title="Use your LinkedIn credentials to sign in on this site">
            <span aria-label="login with LinkedIn" class="icon icon-linkedin2">
            </span>
           </a>
-          <a href="/action/oauth/facebook?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268" id="facebookLogin" title="Use your Facebook credentials to sign in on this site">
+          <a href="/action/oauth/facebook?start=1&amp;redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436" id="facebookLogin" title="Use your Facebook credentials to sign in on this site">
            <span aria-label="login with Facebook" class="icon icon-facebook2">
            </span>
           </a>
@@ -112,8 +112,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </div>
          <form action="/action/doLogin" method="post">
           <input name="id" type="hidden" value="119162c4-9551-4055-99fe-48538e2570bc"/>
-          <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984919400268"/>
-          <input name="loginUri" type="hidden" value="/doi/abs/10.1142/S0217984919400268"/>
+          <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
+          <input name="loginUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
           <input name="popup" type="hidden" value="true"/>
           <div class="input-group">
            <div class="label">
@@ -163,7 +163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
            New User
           </div>
          </a>
-         <a class="float-right" href="/action/ssostart?redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268">
+         <a class="float-right" href="/action/ssostart?redirectUri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436">
           <div class="institution-login">
            Institutional Login
           </div>
@@ -248,7 +248,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          Create a new account
         </h2>
         <form action="/action/registration" class="registration-form" method="post">
-         <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984919400268"/>
+         <input name="redirectUri" type="hidden" value="/doi/abs/10.1142/S0217984920400436"/>
          <div class="input-group">
           <div class="label">
            <label for="4e824763-0b45-4b53-bcb3-79723a798efa.email">
@@ -477,7 +477,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           <li>
            <div class="right-side" data-widget-def="literatumNavigationLoginBar" data-widget-id="afb30c65-16c7-48c2-a29d-0490ff094f7a">
             <div class="loginBar login-open">
-             <a class="show-login show-login-customization" href="/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268">
+             <a class="show-login show-login-customization" href="/action/showLogin?uri=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436">
               <span class="icon-profile_empty" title="Register/Sign In">
               </span>
               <span class="sign-in-label">
@@ -491,7 +491,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         </div>
        </div>
       </div>
-      <a class="sr-only-focusable" href="#afterNav-cdp">
+      <a class="sr-only-focusable" href="#afterNav-48v">
        Skip main navigation
       </a>
       <div class="main-nav">
@@ -814,7 +814,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
          </li>
         </ul>
        </nav>
-       <span id="afterNav-cdp" tabindex="-1">
+       <span id="afterNav-48v" tabindex="-1">
        </span>
       </div>
       <div class="header__dropzone">
@@ -900,8 +900,8 @@ border-bottom: 1px solid #b8b8b8;
       During this period, the E-commerce and registration of new users may not be available for up to 6 hours.
       <br/>
       For online purchase, please visit us again. Contact us at
-      <a href="/cdn-cgi/l/email-protection#5f3c2a2c2b30323a2d3c3e2d3a1f282c2f3c713c3032">
-       <span class="__cf_email__" data-cfemail="cba8beb8bfa4a6aeb9a8aab9ae8bbcb8bba8e5a8a4a6">
+      <a href="/cdn-cgi/l/email-protection#a2c1d7d1d6cdcfc7d0c1c3d0c7e2d5d1d2c18cc1cdcf">
+       <span class="__cf_email__" data-cfemail="8fecfafcfbe0e2eafdeceefdeacff8fcffeca1ece0e2">
         [email protected]
        </span>
       </a>
@@ -909,7 +909,7 @@ border-bottom: 1px solid #b8b8b8;
      </div>
     </div>
     <main class="content">
-     <article class="container" data-enable-mathjax="true" data-figures="https://www.worldscientific.com/action/ajaxShowFigures?doi=10.1142%2FS0217984919400268&amp;ajax=true" data-references="https://www.worldscientific.com/action/ajaxShowEnhancedAbstract?doi=10.1142%2FS0217984919400268&amp;ajax=true">
+     <article class="container" data-enable-mathjax="true" data-figures="https://www.worldscientific.com/action/ajaxShowFigures?doi=10.1142%2FS0217984920400436&amp;ajax=true" data-references="https://www.worldscientific.com/action/ajaxShowEnhancedAbstract?doi=10.1142%2FS0217984920400436&amp;ajax=true">
       <div class="row">
        <div class="col-lg-9 col-sm-7 col-md-8 article__content">
         <div class="citation">
@@ -919,8 +919,8 @@ border-bottom: 1px solid #b8b8b8;
             <a class="article__tocHeading" href="/worldscinet/mplb">
              Modern Physics Letters B
             </a>
-            <a class="article__tocHeading" href="/toc/mplb/33/14n15">
-             Vol. 33, No. 14n15, 1940026 (2019)
+            <a class="article__tocHeading" href="/toc/mplb/34/07n09">
+             Vol. 34, No. 07n09, 2040043 (2020)
             </a>
            </nav>
           </span>
@@ -935,7 +935,7 @@ border-bottom: 1px solid #b8b8b8;
           </span>
          </div>
          <h1 class="citation__title">
-          Influence on crack profiles of multi-layered Al/CFRP hybrid composites by using FE simulation
+          Computational study on interfacial peeling by uniformly distributed loading on aluminum hybrid anti-mechanical vibration panel
          </h1>
          <ul class="rlist--inline article__corrections corrections-articles">
          </ul>
@@ -951,7 +951,7 @@ border-bottom: 1px solid #b8b8b8;
           <li>
            <a class="w-slide__btn" data-slide-target="#sb-1" href="#" title="">
             <span>
-             Soo-Jeong Park
+             Sung-Youl Bae
             </span>
            </a>
           </li>
@@ -985,7 +985,15 @@ border-bottom: 1px solid #b8b8b8;
               <p>
               </p>
               <p>
-               Department of Ocean Advanced Convergence Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Youngdo-gu, Busan, Republic of Korea
+               Department of Micro-Nano Mechanical Science and Engineering, Nagoya University, Japan
+              </p>
+              <p>
+               <a href="/cdn-cgi/l/email-protection#1f66707071316c6a71787276715f7831727d706731717e7870667e326a317e7c31756f">
+                E-mail Address:
+                <span class="__cf_email__" data-cfemail="2851474746065b5d464f454146684f06454a47500646494f475149055d06494b064258">
+                 [email protected]
+                </span>
+               </a>
               </p>
               <div class="bottom-info">
                <p>
@@ -998,9 +1006,9 @@ border-bottom: 1px solid #b8b8b8;
             </div>
             ,
             <div class="accordion-tabbed__tab-mobile">
-             <a class="author-name accordion-tabbed__control visible-x" data-db-target-for="a2" data-id="a2" href="#" title="Soo-Jeong Park">
+             <a class="author-name accordion-tabbed__control visible-x" data-db-target-for="a2" data-id="a2" href="#" title="Sung-Youl Bae">
               <span>
-               Soo-Jeong Park
+               Sung-Youl Bae
               </span>
               <i aria-hidden="true" class="icon-arrow_d_n">
               </i>
@@ -1013,11 +1021,19 @@ border-bottom: 1px solid #b8b8b8;
               <p>
               </p>
               <p>
-               Department of Ocean Advanced Convergence Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Youngdo-gu, Busan, Republic of Korea
+               Composites Team, Korea Textile Machinery Convergence Research Institute, Republic of Korea
+              </p>
+              <p>
+               <a href="/cdn-cgi/l/email-protection#13606a71727653787c677e7a3d61763d7861">
+                E-mail Address:
+                <span class="__cf_email__" data-cfemail="8cfff5eeede9cce7e3f8e1e5a2fee9a2e7fe">
+                 [email protected]
+                </span>
+               </a>
               </p>
               <div class="bottom-info">
                <p>
-                <a href="/author/Park%2C+Soo-Jeong">
+                <a href="/author/Bae%2C+Sung-Youl">
                  Search for more papers by this author
                 </a>
                </p>
@@ -1044,12 +1060,12 @@ border-bottom: 1px solid #b8b8b8;
                Corresponding author.
               </p>
               <p>
-               Department of Ocean Advanced Convergence Engineering, Korea Maritime and Ocean University, 727 Taejong-ro, Youngdo-gu, Busan, Republic of Korea
+               Department of Ocean Advanced Materials Convergence Engineering, Korea Maritime and Ocean University, Republic of Korea
               </p>
               <p>
-               <a href="/cdn-cgi/l/email-protection#750c001b1d10141e351e181a005b14165b1e07">
+               <a href="/cdn-cgi/l/email-protection#a2dbd7cccac7c3c9e2c9cfcdd78cc3c18cc9d0">
                 E-mail Address:
-                <span class="__cf_email__" data-cfemail="225b574c4a47434962494f4d570c43410c4950">
+                <span class="__cf_email__" data-cfemail="0b727e65636e6a604b6066647e256a68256079">
                  [email protected]
                 </span>
                </a>
@@ -1069,8 +1085,8 @@ border-bottom: 1px solid #b8b8b8;
         </div>
         <div class="epub-section">
          <span class="epub-section__item">
-          <a class="epub-section__doi__text" href="https://doi.org/10.1142/S0217984919400268">
-           https://doi.org/10.1142/S0217984919400268
+          <a class="epub-section__doi__text" href="https://doi.org/10.1142/S0217984920400436">
+           https://doi.org/10.1142/S0217984920400436
           </a>
          </span>
          <span class="epub-section__item epub-section__citedBy">
@@ -1085,7 +1101,7 @@ border-bottom: 1px solid #b8b8b8;
         <div class="article-adv" data-widget-def="literatumAd" data-widget-id="01820ee4-9fc3-49b5-b2b3-1aa1fae1400b">
         </div>
         <div class="content-navigation clearfix">
-         <a class="content-navigation__btn--pre" href="/doi/10.1142/S0217984919400256" title="Previous">
+         <a class="content-navigation__btn--pre" href="/doi/10.1142/S0217984920400424" title="Previous">
           <i class="icon-arrow_l">
           </i>
           <span>
@@ -1096,7 +1112,7 @@ border-bottom: 1px solid #b8b8b8;
           <div class="pb-dropzone" data-pb-dropzone="navigation-dropzone" title="navigation-dropzone">
           </div>
          </div>
-         <a class="content-navigation__btn--next" href="/doi/10.1142/S021798491940027X" title="Next">
+         <a class="content-navigation__btn--next" href="/doi/10.1142/S0217984920400448" title="Next">
           <span>
            Next
           </span>
@@ -1134,7 +1150,7 @@ border-bottom: 1px solid #b8b8b8;
             </li>
             <li class="coolBar__section coolBar--download">
              <div class="single__download">
-              <a class="coolBar__ctrl" href="/doi/reader/10.1142/S0217984919400268">
+              <a class="coolBar__ctrl" href="/doi/reader/10.1142/S0217984920400436">
                <i aria-hidden="true" class="icon-document">
                </i>
                <span>
@@ -1156,7 +1172,7 @@ border-bottom: 1px solid #b8b8b8;
              <div aria-labelledby="b83a9112-ff13-4233-be12-8a37252f58fb_Ctrl" class="article-tools__block fixed dropBlock__holder" data-db-target-of="b83a9112-ff13-4233-be12-8a37252f58fb" id="b83a9112-ff13-4233-be12-8a37252f58fb_Pop" role="menu">
               <ul class="rlist w-slide--list">
                <li class="article-tool" role="presentation">
-                <a href="/personalize/addFavoritePublication?doi=10.1142%2FS0217984919400268" role="menuitem">
+                <a href="/personalize/addFavoritePublication?doi=10.1142%2FS0217984920400436" role="menuitem">
                  <i aria-hidden="true" class="icon-Icon_Star-26">
                  </i>
                  <span>
@@ -1165,7 +1181,7 @@ border-bottom: 1px solid #b8b8b8;
                 </a>
                </li>
                <li class="article-tool" role="presentation">
-                <a href="/action/showCitFormats?doi=10.1142%2FS0217984919400268" role="menuitem">
+                <a href="/action/showCitFormats?doi=10.1142%2FS0217984920400436" role="menuitem">
                  <i aria-hidden="true" class="icon-Icon_Download">
                  </i>
                  <span>
@@ -1174,7 +1190,7 @@ border-bottom: 1px solid #b8b8b8;
                 </a>
                </li>
                <li class="article-tool" role="presentation">
-                <a href="/action/addCitationAlert?doi=10.1142%2FS0217984919400268" role="menuitem">
+                <a href="/action/addCitationAlert?doi=10.1142%2FS0217984920400436" role="menuitem">
                  <i aria-hidden="true" class="icon-Icon_Track-citations">
                  </i>
                  <span>
@@ -1183,7 +1199,7 @@ border-bottom: 1px solid #b8b8b8;
                 </a>
                </li>
                <li class="article-tool" role="presentation">
-                <a href="/action/recommendation?doi=10.1142%2FS0217984919400268" role="menuitem">
+                <a href="/action/recommendation?doi=10.1142%2FS0217984920400436" role="menuitem">
                  <i aria-hidden="true" class="icon-Icon_mail">
                  </i>
                  <span>
@@ -1262,13 +1278,13 @@ border-bottom: 1px solid #b8b8b8;
           <a class="scroll-offset" name="abstract">
           </a>
           <div class="sectionInfo abstractSectionHeading">
-           <h2 class="article-section__title section__title" id="d75761842e1">
+           <h2 class="article-section__title section__title" id="d62594811e1">
             Abstract
            </h2>
           </div>
           <div class="abstractSection abstractInFull">
            <p>
-            This study aims to investigate a finite element analysis on Al/CFRP Hybrid composites with a flaw in-between bonding surfaces. 2D model was considered to simplify the 4-layered structures with a circular flaw. The determination of debonding condition on multi-layered hybrid composites is subtle because the crack paths are unpredictable. In this model, the crack profiles depend on the applied stress, materials, bonding strengths and initial shapes of the flaw. The main idea is to find the key reason of failure on this material by means of fracture mechanics approach. The crack opening profiles are interesting to determine what kinds of factors are more influential for the structure. Williams expansion was used to analyze the profiles by the simulation results. We finally take into account the results to discuss the main fracture mechanism with the influential factors.
+            The purpose of this case study is to calculate the critical condition of interfacial peeling on aluminum hybrid anti-mechanical vibration panel. An area of thin-cored resin layer with two aluminum skins is located to design a hybrid panel. The system of hybrid panel is normally used for mechanical parts, which need to dampen mechanical vibration. In this structure, a thin core plays an especially important role to dampen vibration. However, this structure has a disadvantage of delaminating and peeling with perpendicular loading from the adhesive core. At a given level of adhesion, one calculates deflection and stress state as a function of loading. To confirm that this model is directly applicable to the quantity of deflection, the geometry of three layers is designed with actual product thickness. A total of five cases of loading condition are simulated to deduce the stress distribution. The interfacial area is the main interest for this simulation which can be related with critical peeling condition. As a result, the comparison with the practical values of adhesion shows a possibility of estimation for the peeling limit of this hybrid panel system.
            </p>
           </div>
          </div>
@@ -1281,23 +1297,18 @@ border-bottom: 1px solid #b8b8b8;
           </strong>
           <ul>
            <li>
-            <a href="/keyword/Hybrid+Composites">
-             Hybrid composites
+            <a href="/keyword/Hybrid+Panel">
+             Hybrid panel
             </a>
            </li>
            <li>
-            <a href="/keyword/Al%2Fcfrp">
-             Al/CFRP
+            <a href="/keyword/Material+Peeling">
+             material peeling
             </a>
            </li>
            <li>
-            <a href="/keyword/Crack+Profiles">
-             crack profiles
-            </a>
-           </li>
-           <li>
-            <a href="/keyword/Debonding">
-             debonding
+            <a href="/keyword/Adhesion+Strength">
+             adhesion strength
             </a>
            </li>
            <li>
@@ -1314,208 +1325,304 @@ border-bottom: 1px solid #b8b8b8;
            References
           </h2>
           <ul class="rlist separator">
-           <li class="references__item" id="S0217984919400268BIB001">
+           <li class="references__item" id="S0217984920400436BIB001">
             <span class="references__note">
              <span class="label">
               1.
              </span>
              <span class="references__authors">
-              F. Erdogan
+              K. Guido
              </span>
-             ,
              <span class="references__source">
               <em>
-               Int. J. Solids Struct.
+               Hybrid Materials: Synthesis, Characterization, and Applications
               </em>
              </span>
-             <strong>
-              7
-             </strong>
-             (
+             (John Wiley &amp; Sons,
              <span class="references__year">
-              1971
+              2007
              </span>
-             )  39.
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB001&amp;dbid=16&amp;doi=10.1142%2FS0217984919400268&amp;key=10.1016%2F0020-7683%2871%2990017-5" onclick="newWindow(this.href);return false" target="_blank">
-              Crossref
-             </a>
+             ).
              <span class="references__suffix">
-              ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+F.+Erdogan%2C+Int.+J.+Solids+Struct.+7+%281971%29+39.+" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar_lookup?hl=en&amp;publication_year=2007&amp;author=K.+Guido&amp;title=Hybrid+Materials%3A+Synthesis%2C+Characterization%2C+and+Applications" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB002">
+           <li class="references__item" id="S0217984920400436BIB002">
             <span class="references__note">
              <span class="label">
               2.
              </span>
              <span class="references__authors">
-              Y. H. Kim,  K. M. Moon,  Y. D. Jo,  S. Y. Bae,  S. J. Sin,  M. J. Kim and  J. Y. Kim
+              J. M. Biggerstaff and  J. B. Kosmatka
              </span>
              ,
              <span class="references__source">
               <em>
-               Adv. Sci. Lett.
+               J. Compos. Mater.
               </em>
              </span>
              <strong>
-              4
+              33–15
              </strong>
              (
              <span class="references__year">
-              2011
+              1999
              </span>
-             )  1455.
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB002&amp;dbid=16&amp;doi=10.1142%2FS0217984919400268&amp;key=10.1166%2Fasl.2011.1692" onclick="newWindow(this.href);return false" target="_blank">
+             )  1457.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB002&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1177%2F002199839903301505" onclick="newWindow(this.href);return false" target="_blank">
               Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB002&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=000082380100005" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
              </a>
              <span class="references__suffix">
               ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+Y.+H.+Kim%2C+K.+M.+Moon%2C+Y.+D.+Jo%2C+S.+Y.+Bae%2C+S.+J.+Sin%2C+M.+J.+Kim+and+J.+Y.+Kim%2C+Adv.+Sci.+Lett.+4+%282011%29+1455.+" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+M.+Biggerstaff+and+J.+B.+Kosmatka%2C+J.+Compos.+Mater.+33%E2%80%9315+%281999%29+1457.+" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB003">
+           <li class="references__item" id="S0217984920400436BIB003">
             <span class="references__note">
              <span class="label">
               3.
              </span>
-             <span class="references__authors">
-              L. D. Landro,  A. Montalto,  P. Bettini,  S. Guerra,  F. Montagnoli and  M. Rigamonti
-             </span>
-             ,
-             <span class="references__source">
-              <em>
-               Polym. Polym. Composites
-              </em>
-             </span>
-             <strong>
-              25
-             </strong>
-             (5) (
-             <span class="references__year">
-              2017
-             </span>
-             )  371.
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB003&amp;dbid=16&amp;doi=10.1142%2FS0217984919400268&amp;key=10.1177%2F096739111702500506" onclick="newWindow(this.href);return false" target="_blank">
-              Crossref
-             </a>
+             F. Federico, Ph.D. Thesis, University of Windsor, Canada (2017).
              <span class="references__suffix">
-              ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar_lookup?hl=en&amp;volume=25&amp;publication_year=2017&amp;pages=371&amp;journal=Polym.+Polym.+Composites&amp;issue=%285%29&amp;author=L.+D.+Landro&amp;author=A.+Montalto&amp;author=P.+Bettini&amp;author=S.+Guerra&amp;author=F.+Montagnoli&amp;author=M.+Rigamonti" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=F.+Federico%2C+Ph.D.+Thesis%2C+University+of+Windsor%2C+Canada+%282017%29." target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB004">
+           <li class="references__item" id="S0217984920400436BIB004">
             <span class="references__note">
              <span class="label">
               4.
              </span>
              <span class="references__authors">
-              D. W. Shin,  J. J. Kim,  J. H. Lee,  I. J. Kwon and  S. M. Park
+              C. Engelmann,  D. Meier,  A. Olowinsky and  M. Kielwasser
              </span>
              ,
+             <span class="references__article-title">
+              Metal meets composite — Hybrid joining for automotive applications
+             </span>
+             , in
              <span class="references__source">
               <em>
-               Compos. Res.
+               Lasers in Manufacturing Conf.
               </em>
              </span>
-             <strong>
-              30
-             </strong>
-             (4) (
-             <span class="references__year">
-              2017
-             </span>
-             )  254.
+             ,
+             <conf-date>
+              June 2015
+             </conf-date>
+             ,
+             <conf-loc>
+              Munchen, Germany
+             </conf-loc>
+             ,  p. 81.
              <span class="references__suffix">
-              <a class="google-scholar" href="http://scholar.google.com/scholar_lookup?hl=en&amp;volume=30&amp;publication_year=2017&amp;pages=254&amp;journal=Compos.+Res.&amp;issue=%284%29&amp;author=D.+W.+Shin&amp;author=J.+J.+Kim&amp;author=J.+H.+Lee&amp;author=I.+J.+Kwon&amp;author=S.+M.+Park" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+C.+Engelmann%2C+D.+Meier%2C+A.+Olowinsky+and+M.+Kielwasser%2C+Metal+meets+composite+%E2%80%94+Hybrid+joining+for+automotive+applications%2C+in+Lasers+in+Manufacturing+Conf.%2C+June+2015%2C+Munchen%2C+Germany%2C+p.%C2%A081.+" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB005">
+           <li class="references__item" id="S0217984920400436BIB005">
             <span class="references__note">
              <span class="label">
               5.
              </span>
              <span class="references__authors">
-              L. Mishnaevsky and  G. M. Dai
+              J. Zhang,  K. Chaisombat,  S. He and  C. Wang
              </span>
              ,
              <span class="references__source">
               <em>
-               Comp. Mater. Sci.
+               Mater. Design
               </em>
              </span>
              <strong>
-              81
+              36
              </strong>
              (
              <span class="references__year">
-              2014
+              2012
              </span>
-             )  630.
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB005&amp;dbid=16&amp;doi=10.1142%2FS0217984919400268&amp;key=10.1016%2Fj.commatsci.2013.08.024" onclick="newWindow(this.href);return false" target="_blank">
+             )  75.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB005&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2Fj.matdes.2011.11.006" onclick="newWindow(this.href);return false" target="_blank">
               Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB005&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=000301580500011" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
              </a>
              <span class="references__suffix">
               ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+L.+Mishnaevsky+and+G.+M.+Dai%2C+Comp.+Mater.+Sci.+81+%282014%29+630.+" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Zhang%2C+K.+Chaisombat%2C+S.+He+and+C.+Wang%2C+Mater.+Design+36+%282012%29+75.+" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB006">
+           <li class="references__item" id="S0217984920400436BIB006">
             <span class="references__note">
              <span class="label">
               6.
              </span>
              <span class="references__authors">
-              M. L. Williams
+              K. Brahma,  P. Dash and  B. Dattaguru
              </span>
              ,
              <span class="references__source">
               <em>
-               ASME J. Appl. Mech.
+               Int. J. Fat.
               </em>
              </span>
              <strong>
-              24
+              11
              </strong>
              (
              <span class="references__year">
-              1957
+              1989
              </span>
-             )  109.
+             )  37.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB006&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0142-1123%2889%2990045-5" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB006&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1989T059100005" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
              <span class="references__suffix">
-              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+M.+L.+Williams%2C+ASME+J.+Appl.+Mech.+24+%281957%29+109.+" target="_blank">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+K.+Brahma%2C+P.+Dash+and+B.+Dattaguru%2C+Int.+J.+Fat.+11+%281989%29+37.+" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB007">
+           <li class="references__item" id="S0217984920400436BIB007">
             <span class="references__note">
              <span class="label">
               7.
              </span>
              <span class="references__authors">
-              G. Pallares,  L. Ponson,  A. Grimaldi,  G. Prevot and  M. Ciccotti
+              N. Walker and  C. Beevers
              </span>
              ,
              <span class="references__source">
               <em>
-               Int. J. Fracture
+               Fat. Eng. Mater. Struct.
+              </em>
+             </span>
+             <strong>
+              1
+             </strong>
+             (
+             <span class="references__year">
+              1979
+             </span>
+             )  135.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB007&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1111%2Fj.1460-2695.1979.tb00372.x" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+N.+Walker+and+C.+Beevers%2C+Fat.+Eng.+Mater.+Struct.+1+%281979%29+135.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB008">
+            <span class="references__note">
+             <span class="label">
+              8.
+             </span>
+             <span class="references__authors">
+              E. Wang and  M. Omiya
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Fat. Eng. Mater. Struct.
+              </em>
+             </span>
+             <strong>
+              38
+             </strong>
+             (
+             <span class="references__year">
+              2015
+             </span>
+             )  315.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB008&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1111%2Fffe.12233" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+E.+Wang+and+M.+Omiya%2C+Fat.+Eng.+Mater.+Struct.+38+%282015%29+315.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB009">
+            <span class="references__note">
+             <span class="label">
+              9.
+             </span>
+             <span class="references__authors">
+              J. Newman and  I. Raju
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Eng. Fract. Mech.
+              </em>
+             </span>
+             <strong>
+              15
+             </strong>
+             (
+             <span class="references__year">
+              1981
+             </span>
+             )  185.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB009&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0013-7944%2881%2990116-8" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB009&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1981MH85300016" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             <span class="references__suffix">
+              ,
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Newman+and+I.+Raju%2C+Eng.+Fract.+Mech.+15+%281981%29+185.+" target="_blank">
+               Google Scholar
+              </a>
+             </span>
+            </span>
+           </li>
+           <li class="references__item" id="S0217984920400436BIB010">
+            <span class="references__note">
+             <span class="label">
+              10.
+             </span>
+             <span class="references__authors">
+              J. Newman
+             </span>
+             ,
+             <span class="references__source">
+              <em>
+               Int. J. Fat.
               </em>
              </span>
              <strong>
@@ -1523,52 +1630,52 @@ border-bottom: 1px solid #b8b8b8;
              </strong>
              (
              <span class="references__year">
-              2009
+              1984
              </span>
-             )  11.
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB007&amp;dbid=16&amp;doi=10.1142%2FS0217984919400268&amp;key=10.1007%2Fs10704-009-9341-8" onclick="newWindow(this.href);return false" target="_blank">
-              Crossref
-             </a>
+             )  131.
              <span class="references__suffix">
-              ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+G.+Pallares%2C+L.+Ponson%2C+A.+Grimaldi%2C+G.+Prevot+and+M.+Ciccotti%2C+Int.+J.+Fracture+24+%282009%29+11.+" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+J.+Newman%2C+Int.+J.+Fat.+24+%281984%29+131.+" target="_blank">
                Google Scholar
               </a>
              </span>
             </span>
            </li>
-           <li class="references__item" id="S0217984919400268BIB008">
+           <li class="references__item" id="S0217984920400436BIB011">
             <span class="references__note">
              <span class="label">
-              8.
+              11.
              </span>
              <span class="references__authors">
-              S. M. Yoon and  Y. H. Kim
+              C. Shih
              </span>
              ,
              <span class="references__source">
               <em>
-               Int. J. Mod. Phys.
+               J. Mech. Phys. Solids
               </em>
              </span>
              <strong>
-              32
+              29
              </strong>
-             (19) (
+             (
              <span class="references__year">
-              2018
+              1981
              </span>
-             )  1840051.
-             <a href="/doi/10.1142/S0217979218400519" onclick="newWindow(this.href);return false" target="_blank">
-              Link
+             )  305.
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=16&amp;doi=10.1142%2FS0217984920400436&amp;key=10.1016%2F0022-5096%2881%2990003-X" onclick="newWindow(this.href);return false" target="_blank">
+              Crossref
              </a>
              ,
-             <a href="/servlet/linkout?suffix=S0217984919400268BIB008&amp;dbid=64&amp;doi=10.1142%2FS0217984919400268&amp;key=2018IJMPB..3240051Y" onclick="newWindow(this.href);return false" target="_blank">
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=128&amp;doi=10.1142%2FS0217984920400436&amp;key=A1981MP34100003" onclick="newWindow(this.href);return false" target="_blank">
+              ISI
+             </a>
+             ,
+             <a href="/servlet/linkout?suffix=S0217984920400436BIB011&amp;dbid=64&amp;doi=10.1142%2FS0217984920400436&amp;key=1981JMPSo..29..305S" onclick="newWindow(this.href);return false" target="_blank">
               ADS
              </a>
              <span class="references__suffix">
               ,
-              <a class="google-scholar" href="http://scholar.google.com/scholar_lookup?hl=en&amp;volume=32&amp;publication_year=2018&amp;pages=1840051&amp;journal=Int.+J.+Mod.+Phys.&amp;issue=%2819%29&amp;author=S.+M.+Yoon&amp;author=Y.+H.+Kim" target="_blank">
+              <a class="google-scholar" href="http://scholar.google.com/scholar?hl=en&amp;q=+C.+Shih%2C+J.+Mech.+Phys.+Solids+29+%281981%29+305.+" target="_blank">
                Google Scholar
               </a>
              </span>
@@ -1578,7 +1685,7 @@ border-bottom: 1px solid #b8b8b8;
          </div>
          <div class="articleHistroy">
           <span class="string-date">
-           Published: 18 April 2019
+           Published: 19 March 2020
           </span>
          </div>
          <div class="response">
@@ -1593,7 +1700,7 @@ border-bottom: 1px solid #b8b8b8;
             <tr>
              <th style="background-color:#95B9C7; padding:4px; text-align:center;">
               Remember to check out the
-              <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Faction%2FshowMostCitedArticles%3FjournalCode%3Dmplb&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268&amp;pubId=42170577&amp;placeholderId=1062&amp;productId=1897">
+              <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Faction%2FshowMostCitedArticles%3FjournalCode%3Dmplb&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436&amp;pubId=42236328&amp;placeholderId=1062&amp;productId=1897">
                Most Cited Articles!
               </a>
              </th>
@@ -1605,7 +1712,7 @@ border-bottom: 1px solid #b8b8b8;
               <p>
                Boost your collection with these
                <strong>
-                <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Fpage%2Fcondensed-matter-physics-2020&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984919400268&amp;pubId=42170577&amp;placeholderId=1062&amp;productId=1897">
+                <a href="/action/clickThrough?id=103405&amp;url=https%3A%2F%2Fwww.worldscientific.com%2Fpage%2Fcondensed-matter-physics-2020&amp;loc=%2Fdoi%2Fabs%2F10.1142%2FS0217984920400436&amp;pubId=42236328&amp;placeholderId=1062&amp;productId=1897">
                  New Books in Condensed Matter Physics
                 </a>
                </strong>
@@ -1676,7 +1783,7 @@ border-bottom: 1px solid #b8b8b8;
               <h2 class="hidden">
                Recommended
               </h2>
-              <div class="show-recommended-placeholder" data-ajaxurl="/pb/widgets/ux3/ux3-showRecommend?widgetId=4b4a0a05-3395-4502-be59-ee2e57f8caf4&amp;doi=10.1142%2FS0217984919400268&amp;pbContext=%3Bwebsite%3Awebsite%3Awspc-site%3BrequestedJournal%3Ajournal%3Amplb%3Bpage%3Astring%3AArticle%2FChapter+View%3Bctype%3Astring%3AJournal+Content%3BsubPage%3Astring%3AAbstract%3Barticle%3Aarticle%3A10.1142%2FS0217984919400268%3Bwgroup%3Astring%3AWSPC+website+Group%3Bjournal%3Ajournal%3Amplb%3Bissue%3Aissue%3A10.1142%2Fmplb.33.issue-14n15%3BpageGroup%3Astring%3APublication+Pages">
+              <div class="show-recommended-placeholder" data-ajaxurl="/pb/widgets/ux3/ux3-showRecommend?widgetId=4b4a0a05-3395-4502-be59-ee2e57f8caf4&amp;doi=10.1142%2FS0217984920400436&amp;pbContext=%3Bwebsite%3Awebsite%3Awspc-site%3BrequestedJournal%3Ajournal%3Amplb%3Bpage%3Astring%3AArticle%2FChapter+View%3Bctype%3Astring%3AJournal+Content%3BsubPage%3Astring%3AAbstract%3Bwgroup%3Astring%3AWSPC+website+Group%3Barticle%3Aarticle%3A10.1142%2FS0217984920400436%3Bissue%3Aissue%3A10.1142%2Fmplb.34.issue-07n09%3Bjournal%3Ajournal%3Amplb%3BpageGroup%3Astring%3APublication+Pages">
               </div>
              </li>
             </ul>
@@ -1692,8 +1799,8 @@ border-bottom: 1px solid #b8b8b8;
              </div>
              <div class="meta">
               <strong>
-               <a href="/toc/mplb/33/14n15">
-                Vol. 33, No. 14n15
+               <a href="/toc/mplb/34/07n09">
+                Vol. 34, No. 07n09
                </a>
               </strong>
              </div>
@@ -1705,11 +1812,11 @@ border-bottom: 1px solid #b8b8b8;
              </strong>
              <div class="section__body">
               <p>
-               Downloaded 8 times
+               Downloaded 10 times
                <script src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js" type="text/javascript">
                </script>
               </p>
-              <div class="altmetric-embed" data-badge-popover="left" data-badge-type="1" data-doi="10.1142/S0217984919400268" data-hide-no-mentions="true">
+              <div class="altmetric-embed" data-badge-popover="left" data-badge-type="1" data-doi="10.1142/S0217984920400436" data-hide-no-mentions="true">
               </div>
               <p>
               </p>
@@ -1724,10 +1831,10 @@ border-bottom: 1px solid #b8b8b8;
               <p>
               </p>
               <div>
-               Received 1 November 2018
+               Received 11 August 2019
               </div>
               <div>
-               Accepted 10 February 2019
+               Accepted 26 December 2019
               </div>
               <p>
               </p>
@@ -1742,23 +1849,18 @@ border-bottom: 1px solid #b8b8b8;
             <div class="section__body">
              <ul class="rlist rlist--inline">
               <li>
-               <a class="badge-type" href="/keyword/Hybrid+Composites">
-                Hybrid composites
+               <a class="badge-type" href="/keyword/Hybrid+Panel">
+                Hybrid panel
                </a>
               </li>
               <li>
-               <a class="badge-type" href="/keyword/Al%2Fcfrp">
-                Al/CFRP
+               <a class="badge-type" href="/keyword/Material+Peeling">
+                material peeling
                </a>
               </li>
               <li>
-               <a class="badge-type" href="/keyword/Crack+Profiles">
-                crack profiles
-               </a>
-              </li>
-              <li>
-               <a class="badge-type" href="/keyword/Debonding">
-                debonding
+               <a class="badge-type" href="/keyword/Adhesion+Strength">
+                adhesion strength
                </a>
               </li>
               <li>
@@ -1772,13 +1874,13 @@ border-bottom: 1px solid #b8b8b8;
            <hr class="section__separator"/>
            <section class="section">
             <div class="section__body">
-             <a href="/doi/pdf/10.1142/S0217984919400268?download=true">
+             <a href="/doi/pdf/10.1142/S0217984920400436?download=true">
               PDF download
              </a>
              <hr class="section__separator"/>
             </div>
            </section>
-           <script src="//api.growkudos.com/widgets/article/10.1142/S0217984919400268?omit_icons=true">
+           <script src="//api.growkudos.com/widgets/article/10.1142/S0217984920400436?omit_icons=true">
            </script>
           </div>
           <div aria-busy="true" class="tab__spinner spinner-container" role="alert">

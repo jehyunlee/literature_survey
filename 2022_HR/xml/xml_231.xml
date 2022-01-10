@@ -535,81 +535,81 @@
          <div class="c-article-section__content" id="Sec1-content">
           <p>
            In 2020, South Korea’s residential electricity demand accounted for 14 percent of the total electricity demand [
-           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR1" id="ref-link-section-d88087745e377" title="Korea Electric Power Corporation (2021) 2020 year KEPCO in Brief">
+           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR1" id="ref-link-section-d152977868e377" title="Korea Electric Power Corporation (2021) 2020 year KEPCO in Brief">
             1
            </a>
            ]. Owing to the significant proportion of the total electricity energy demand, the Korean government is pushing to shift electricity supply policy to demand management-oriented policy [
-           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR2" id="ref-link-section-d88087745e380" title="Ministry of Trade, Industry and Energy (2020) 9th Basic plan for long-term electricity demand and supply (2020~2034)">
+           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR2" id="ref-link-section-d152977868e380" title="Ministry of Trade, Industry and Energy (2020) 9th Basic plan for long-term electricity demand and supply (2020~2034)">
             2
            </a>
            ]. Advanced metering infrastructure (AMI), an intelligent meter reading system, that makes it easier to measure and collect near-real-time residential electricity demand data, is currently being expanded and distributed in Korea as a key foundation for demand management-oriented energy policy shifting. Demand response a is representative demand management-oriented energy policy. Demand response is also a key element of a smart grid system [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR3" id="ref-link-section-d88087745e383" title="Deb C, Zhang F, Yang J, Lee SE, Shah KW (2017) A review on time series forecasting techniques for building energy consumption. Renew Sustain Energy Rev 74:902–924">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR3" id="ref-link-section-d152977868e383" title="Deb C, Zhang F, Yang J, Lee SE, Shah KW (2017) A review on time series forecasting techniques for building energy consumption. Renew Sustain Energy Rev 74:902–924">
             3
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR4" id="ref-link-section-d88087745e383_1" title="Ahmad MI (2017) Seasonal decomposition of electricity consumption data. Rev Integr Bus Econ Res 6(4):902–924">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR4" id="ref-link-section-d152977868e383_1" title="Ahmad MI (2017) Seasonal decomposition of electricity consumption data. Rev Integr Bus Econ Res 6(4):902–924">
             4
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d88087745e383_2" title="Hussain T, Muhammad K, Ser JD, Baik SW, de Albuquerque VHC (2020) Intelligent embedded vision for summarization of multiview videos in IIOT. IEEE Trans Ind Inf 16(4):2592–2602">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d152977868e383_2" title="Hussain T, Muhammad K, Ser JD, Baik SW, de Albuquerque VHC (2020) Intelligent embedded vision for summarization of multiview videos in IIOT. IEEE Trans Ind Inf 16(4):2592–2602">
             5
            </a>
            ,
-           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR6" id="ref-link-section-d88087745e386" title="Krizhevsky A, Sutskever I, Hinton GE (2012) ImageNet classification with deep convolutional neural networks. In: Proceedings of the advances neural information processing systems, pp 1097–1105">
+           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR6" id="ref-link-section-d152977868e386" title="Krizhevsky A, Sutskever I, Hinton GE (2012) ImageNet classification with deep convolutional neural networks. In: Proceedings of the advances neural information processing systems, pp 1097–1105">
             6
            </a>
            ]. In a residential power distribution system, demand response can be used to manage power supply to users and smooth system loads. Short-term residential load forecasting predicts residential electricity customers’ demand, which provides key information for making decisions in residential demand response. On the one hand, short-term residential electricity demand forecasting can help satisfy residential electricity customers’ electricity demand and forestall the danger of power outages. On the other hand, short-term residential electricity demand forecasting can benefit power companies and residential electricity customers economically. Based on the results of short-term residential electricity forecasting, utilities can establish pricing strategies for residential electricity demand [
-           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR5" id="ref-link-section-d88087745e389" title="Hussain T, Muhammad K, Ser JD, Baik SW, de Albuquerque VHC (2020) Intelligent embedded vision for summarization of multiview videos in IIOT. IEEE Trans Ind Inf 16(4):2592–2602">
+           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR5" id="ref-link-section-d152977868e389" title="Hussain T, Muhammad K, Ser JD, Baik SW, de Albuquerque VHC (2020) Intelligent embedded vision for summarization of multiview videos in IIOT. IEEE Trans Ind Inf 16(4):2592–2602">
             5
            </a>
            ].
           </p>
           <p>
            Load forecasting is mainly based on forecasting techniques founded on time series analysis, of which there is a representative seasonal autoregressive integrated moving average (SARIMA) model. Juberias et al. used the above model to present power forecasting at hourly intervals used in real-time control systems, while Jeong et al. [
-           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR7" id="ref-link-section-d88087745e395" title="Jeong HC, Jung J, Kang BO (2018) Development of ARIMA-based forecasting algorithms using meteorological indices for seasonal peak load. Trans Korean Inst Electr Eng 67:1257–1264">
+           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR7" id="ref-link-section-d152977868e395" title="Jeong HC, Jung J, Kang BO (2018) Development of ARIMA-based forecasting algorithms using meteorological indices for seasonal peak load. Trans Korean Inst Electr Eng 67:1257–1264">
             7
            </a>
            ,
-           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR8" id="ref-link-section-d88087745e398" title="Juberias G, Yunta R, Moreno JG, Mendivil C (1999) A new ARIMA model for hourly load forecasting. In: Transmission and distribution conference. IEEE, pp 314–319">
+           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR8" id="ref-link-section-d152977868e398" title="Juberias G, Yunta R, Moreno JG, Mendivil C (1999) A new ARIMA model for hourly load forecasting. In: Transmission and distribution conference. IEEE, pp 314–319">
             8
            </a>
            ] used the above model to present the winter and summer maximum power demand algorithm. Elamin and Fukushige[
-           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR9" id="ref-link-section-d88087745e401" title="Elamin N, Fukushige M (2018) Modeling and forecasting hourly electricity demand by SARIMAX with interactions. Energy 165(Part B):257–268">
+           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR9" id="ref-link-section-d152977868e401" title="Elamin N, Fukushige M (2018) Modeling and forecasting hourly electricity demand by SARIMAX with interactions. Energy 165(Part B):257–268">
             9
            </a>
            ] used the above model to forecast hourly electricity demand with weather variables such as temperature and humidity.
           </p>
           <p>
            However, the above examples of load forecasting research are mainly focused on load forecasting at the aggregated level, not on load forecasting at the individual household level. When the above prediction techniques are applied to residential load data, there is a disadvantage in that forecasting uncertainty increases due to differences in load patterns over days of the week for residential consumers and volatility components which is the aperiodic part influenced by residential customer’s behavior [
-           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR10" id="ref-link-section-d88087745e407" title="Shi H, Xu M, Li R (2018) Deep learning for household load forecasting—a novel pooling deep RNN. IEEE Trans Smart Grid 9(5):5271–5280">
+           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR10" id="ref-link-section-d152977868e407" title="Shi H, Xu M, Li R (2018) Deep learning for household load forecasting—a novel pooling deep RNN. IEEE Trans Smart Grid 9(5):5271–5280">
             10
            </a>
            ]. Several methods have been reported to address this problem. First, clustering techniques are used to group residential customers, days, or weather to reduce the variance of volatility components within each cluster [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d88087745e410" title="Quilumba FL, Lee WJ, Huang H, Wang DY, Szabados RL (2015) Using smart meter data to improve the accuracy of intraday load forecasting considering customer behavior similarities. IEEE Trans Smart Grid 6(2):911–918">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d152977868e410" title="Quilumba FL, Lee WJ, Huang H, Wang DY, Szabados RL (2015) Using smart meter data to improve the accuracy of intraday load forecasting considering customer behavior similarities. IEEE Trans Smart Grid 6(2):911–918">
             11
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d88087745e410_1" title="Hong T, Wang P, Pahwa A, Gui M, Hsiang SM (2010) Cost of temperature history data uncertainties in short term electric load forecasting. In: Proceedings of IEEE 11th international conference on probabilistic methods applied to power systems (PMPS), Singapore, pp 212–217">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d152977868e410_1" title="Hong T, Wang P, Pahwa A, Gui M, Hsiang SM (2010) Cost of temperature history data uncertainties in short term electric load forecasting. In: Proceedings of IEEE 11th international conference on probabilistic methods applied to power systems (PMPS), Singapore, pp 212–217">
             12
            </a>
            ,
-           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR13" id="ref-link-section-d88087745e413" title="Hong T, Wang P, White L (2015) Weather station selection for electric load forecasting. Int J Forecast 31(2):286–295">
+           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR13" id="ref-link-section-d152977868e413" title="Hong T, Wang P, White L (2015) Weather station selection for electric load forecasting. Int J Forecast 31(2):286–295">
             13
            </a>
            ]. Second, pre-processing techniques, especially spectral analysis techniques such as wavelet analysis, Fourier transform, and empirical mode decomposition (EMD) are used to separate the residential customers’ regular patterns from the volatility components [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d88087745e416" title="Chen Y et al (2010) Short-term load forecasting: similar day-based wavelet neural networks. IEEE Trans Power Syst 25(1):322–330">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d152977868e416" title="Chen Y et al (2010) Short-term load forecasting: similar day-based wavelet neural networks. IEEE Trans Power Syst 25(1):322–330">
             14
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d88087745e416_1" title="Al-Otaibi R, Jin N, Wilcox T, Flach P (2016) Feature construction and calibration for clustering daily load curves from smart-meter data. IEEE Trans Ind Inf 12(2):645–654">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d152977868e416_1" title="Al-Otaibi R, Jin N, Wilcox T, Flach P (2016) Feature construction and calibration for clustering daily load curves from smart-meter data. IEEE Trans Ind Inf 12(2):645–654">
             15
            </a>
            ,
-           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR16" id="ref-link-section-d88087745e419" title="Shi D, Li R, Shi R, Li F (2014) Analysis of the relationship between load profile and weather condition. In: Proceedings of IEEE PES Gen. meeting Conf. Expo., National Harbor, MD, USA, pp 1–5">
+           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR16" id="ref-link-section-d152977868e419" title="Shi D, Li R, Shi R, Li F (2014) Analysis of the relationship between load profile and weather condition. In: Proceedings of IEEE PES Gen. meeting Conf. Expo., National Harbor, MD, USA, pp 1–5">
             16
            </a>
            ]. The existing methods above are indirect, which aim to avoid volatility components by reducing or separating the volatility component. The proposed 2-Step SARIMAX method is designed to directly learn volatility components by using load data from a group of other households with a similar load patterns to that of the targeted household to be forecasted. Most of the load forecasting methods consider weather information such as temperature in addition to the past load data of residential customer [
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR17" id="ref-link-section-d88087745e423" title="Aggarwal SK, Kumar M (2016) ANN based residential demand forecasting using weather and special day information. In: 7th India international conference on power electronics (IICPE), pp 1–5">
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR17" id="ref-link-section-d152977868e423" title="Aggarwal SK, Kumar M (2016) ANN based residential demand forecasting using weather and special day information. In: 7th India international conference on power electronics (IICPE), pp 1–5">
             17
            </a>
            ]. In this paper, the 2-Step SARIMAX method is proposed to predict the load of the targeted residential customer incorporating the load data of other residential customers with a similar load pattern. The 2-Step SARIMAX algorithm does not use only the electricity demand data of residential electricity customer who is the target of the forecasting or use weather factor as an exogenous variable with the above data. The proposed 2-Step SARIMAX method in this paper is designed to use the load data of similar residential customers as exogenous variables. Also, the clustering method using extreme points is developed in the previous study to obtain residential customers with a similar load pattern to that of the targeted residential customer. The proposed method is not only expected to improve the overall residential load forecasting error but it can also reduce the variance of the forecasting errors.
@@ -646,7 +646,7 @@
           </h3>
           <p>
            An ARIMA model that analyzes and normalizes unsteady time series data by adding another procedure to the Autoregressive Moving Average (ARMA) model, which is a mixture of an autoregressive model and a moving average model. The equation is as follows [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR18" id="ref-link-section-d88087745e453" title="Cho MY, Hwang JC, Chen CS (1995) Customer short term load forecasting by using ARIMA transfer function model. In: IEEE conference on energy management and power delivery, vol 1, pp 317–322">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR18" id="ref-link-section-d152977868e453" title="Cho MY, Hwang JC, Chen CS (1995) Customer short term load forecasting by using ARIMA transfer function model. In: IEEE conference on energy management and power delivery, vol 1, pp 317–322">
             18
            </a>
            ]:
@@ -682,7 +682,7 @@
           </p>
           <p>
            If the time series data have seasonal fluctuations, the seasonal difference can be applied to remove them, as shown by the following equation, which is SARIMA [
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR17" id="ref-link-section-d88087745e628" title="Aggarwal SK, Kumar M (2016) ANN based residential demand forecasting using weather and special day information. In: 7th India international conference on power electronics (IICPE), pp 1–5">
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR17" id="ref-link-section-d152977868e628" title="Aggarwal SK, Kumar M (2016) ANN based residential demand forecasting using weather and special day information. In: 7th India international conference on power electronics (IICPE), pp 1–5">
             17
            </a>
            ]:
@@ -715,7 +715,7 @@
             \({(P,D,Q)}_{s}\)
            </span>
            [
-           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR7" id="ref-link-section-d88087745e901" title="Jeong HC, Jung J, Kang BO (2018) Development of ARIMA-based forecasting algorithms using meteorological indices for seasonal peak load. Trans Korean Inst Electr Eng 67:1257–1264">
+           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR7" id="ref-link-section-d152977868e901" title="Jeong HC, Jung J, Kang BO (2018) Development of ARIMA-based forecasting algorithms using meteorological indices for seasonal peak load. Trans Korean Inst Electr Eng 67:1257–1264">
             7
            </a>
            ].
@@ -730,7 +730,7 @@
             \({y}_{t}\)
            </span>
            is zero [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d88087745e951" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d152977868e951" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
             19
            </a>
            ]:
@@ -759,7 +759,7 @@
             2
            </a>
            ); however, depending on which exogenous variable is selected, it can have a significant effect on describing the time series[
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d88087745e1183" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d152977868e1183" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
             19
            </a>
            ].
@@ -769,7 +769,7 @@
           </h3>
           <p>
            The Box Jenkins method is used to find the most suitable parameter for a given time series data using an ARIMA-based time series model. It is known that it is effective for time series analysis with seasonal variability, such as the household electricity demand considered in this study, and suitable for short-term forecasting [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d88087745e1194" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR19" id="ref-link-section-d152977868e1194" title="Lee G-C, Han J (2020) Forecasting gas demand for power generation with SARIMAX models. Korean Manag Sci Rev 67–78">
             19
            </a>
            ].
@@ -780,7 +780,7 @@
             1
            </a>
            . Through the model discrimination and estimation steps, various order values of the time series model are determined, and forecasting for a new period is performed through the remaining procedures [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR20" id="ref-link-section-d88087745e1203" title="Box GEP, Jenkins GM, Reinsel GC (2008) Time series analysis forecasting and control, 4th edn. John Wiley and Sons">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR20" id="ref-link-section-d152977868e1203" title="Box GEP, Jenkins GM, Reinsel GC (2008) Time series analysis forecasting and control, 4th edn. John Wiley and Sons">
             20
            </a>
            ].
@@ -832,7 +832,7 @@
             2
            </a>
            which are effective in analyzing the differences in energy consumption over a period of time between customers. Three features which represent the demographic characteristics of residential customers well are selected in the previous research [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d88087745e1237" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d152977868e1237" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
             21
            </a>
            ]. The features are
@@ -860,7 +860,7 @@
             \({P}_{4}\)
            </span>
            is the difference between the two local maximum point values. After selecting features, this method uses the K-means algorithm which is the most utilized clustering algorithm [
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR22" id="ref-link-section-d88087745e1373" title="Zeng J, Wang J, Guo L, Fan G, Zhang K, Gui G (2019) Cell scene division and visualization based on autoencoder and K-means algorithm. IEEE Access 7:165217–165225">
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR22" id="ref-link-section-d152977868e1373" title="Zeng J, Wang J, Guo L, Fan G, Zhang K, Gui G (2019) Cell scene division and visualization based on autoencoder and K-means algorithm. IEEE Access 7:165217–165225">
             22
            </a>
            ].
@@ -956,7 +956,7 @@
           </p>
           <p>
            First, households with an electricity demand pattern similar to that of the residential customer to be forecasted are output using clustering using extreme points and demographic characteristics [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d88087745e1428" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d152977868e1428" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
             21
            </a>
            ]. Then, the electricity demand data of one-hour intervals before the forecast date for households with similar electricity demand patterns are averaged over time to create a single electricity demand data. Train data of exogenous variable is created by collecting the electricity demand data in chronological order by day of the week prior to the targeted forecasting date, as shown in Fig.
@@ -1126,7 +1126,7 @@
             3
            </a>
            . First, using the clustering method for residential customer with extreme points, residential electricity customers with similar electricity demand patterns to that of the targeted residential electricity customer were selected [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d88087745e1750" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR21" id="ref-link-section-d152977868e1750" title="Jeong HC, Jang M, Kim T, Joo S-K (2021) Clustering of load profiles of residential customers using extreme points and demographic characteristics. Electronics 10">
             21
            </a>
            ]. The optimal number of groups was 6, with a total of 38 households selected. Then, the selected residential electricity customers’ electricity demand data at an hourly interval before the targeted forecasting date were averaged by date and time to create representative electricity demand data. The representative electricity demand data and the electricity demand data of the targeted residential electricity customer were averaged by hourly time. The two hourly electricity demand data patterns are shown for 24 h, as shown in Fig.
@@ -1321,7 +1321,7 @@
             8
            </a>
            is not a definitive method for determining each order value, but rather a procedure for determining candidates for an appropriate order value. Bayesian Information Criterion (BIC), the parameter selection criterion for the SARIMA model, is effective when the number of samples is high, as in this study, and thus can be a suitable reference value [
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR23" id="ref-link-section-d88087745e1864" title="Enders W (2004) Applied econometric time series, 2nd edn. Wiley">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR23" id="ref-link-section-d152977868e1864" title="Enders W (2004) Applied econometric time series, 2nd edn. Wiley">
             23
            </a>
            ]. Therefore, in the process of the Box Jenkins method, all BIC values were calculated for the model designated as a combination of candidate values of p, q, P, Q, and the 1-Step SARIMA was created by selecting the model’s parameters with the smallest BIC value. Then, the 2-Step SARIMAX’s input data of exogenous variable was forecasted.
@@ -1385,7 +1385,7 @@
             1
            </a>
            , M1 represents the proposed two-step SARIMAX model, while M2 represents the daily SARIMA model. M3 represents the SARIMAX with weather factor model, while M4 represents the simple SARIMA model. The temperature of the residential area of the residential customer is used as an exogenous variable in the SARIMAX with weather factor model. In order to compare the performance of the forecasting models, the following Mean Absolute Error (MAE) [
-           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR24" id="ref-link-section-d88087745e1906" title="Al-Musaylh MS, Deo RC, Adamowski JF, Li Y (2018) Short-term electricity demand forecasting with MARS, SVR, and ARIMA models using aggregated demand data in Queensland, Australia. Elsevier 35:1–16">
+           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s42835-021-00917-z#ref-CR24" id="ref-link-section-d152977868e1906" title="Al-Musaylh MS, Deo RC, Adamowski JF, Li Y (2018) Short-term electricity demand forecasting with MARS, SVR, and ARIMA models using aggregated demand data in Queensland, Australia. Elsevier 35:1–16">
             24
            </a>
            ] is computed:

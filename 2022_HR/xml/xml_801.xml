@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="50e2cebc-1e0b-446c-bb3d-05ce84846d2b" lang="en">
+<html class="pb-page" data-request-id="30cb52cb-69ed-4d16-96a0-474304d67293" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;website:website:acspubs;article:article:10.1021/acsami.7b15470;journal:journal:aamick;issue:issue:10.1021/aamick.2018.10.issue-3;pageGroup:string:Publication Pages;subPage:string:Full Text" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -198,7 +198,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'ff33db38-a7b0-486c-b305-5d5fdb6ea09d'
+                            eventGroupKey: '6bba055e-1d35-4beb-b928-8cc9251a2a23'
                         }
 
                     }).done(function (status) {
@@ -1475,8 +1475,8 @@
                 *
                </strong>
                E-mail:
-               <a href="/cdn-cgi/l/email-protection#7b081a151c140e10551012163b101a12080f551a18551009">
-                <span class="__cf_email__" data-cfemail="4f3c2e2128203a24612426220f242e263c3b612e2c61243d">
+               <a href="/cdn-cgi/l/email-protection#671406090008120c490c0e0a270c060e1413490604490c15">
+                <span class="__cf_email__" data-cfemail="cebdafa0a9a1bba5e0a5a7a38ea5afa7bdbae0afade0a5bc">
                  [email protected]
                 </span>
                </a>
@@ -3137,8 +3137,8 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#a5d6c4cbc2cad0ce8bceccc8e5cec4ccd6d18bc4c68bced7">
-                      <span class="__cf_email__" data-cfemail="c5b6a4aba2aab0aeebaeaca885aea4acb6b1eba4a6ebaeb7">
+                     <a href="/cdn-cgi/l/email-protection#f586949b929a809edb9e9c98b59e949c8681db9496db9e87">
+                      <span class="__cf_email__" data-cfemail="0576646b626a706e2b6e6c68456e646c76712b64662b6e77">
                        [email protected]
                       </span>
                      </a>
@@ -3444,7 +3444,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLgv9ZZjQRLVg90H21EOLACvtfcHk0lgpl20tp9ipGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLgv9ZZjQRLVg90H21EOLACvtfcHk0ljNBvjLT6h68g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -3618,7 +3618,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqw4HF-4NUDUrVg90H21EOLACvtfcHk0lhalZvBGXuO6Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqw4HF-4NUDUrVg90H21EOLACvtfcHk0lgewVL0bLOVBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -3764,7 +3764,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrKvuM_e90tbrVg90H21EOLACvtfcHk0lhalZvBGXuO6Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrKvuM_e90tbrVg90H21EOLACvtfcHk0lgewVL0bLOVBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4034,7 +4034,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpndzUpl4QB7rVg90H21EOLACvtfcHk0lh8B-lUG3Wlow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpndzUpl4QB7rVg90H21EOLACvtfcHk0lgewVL0bLOVBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4229,7 +4229,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoC_kPBd-nCLLVg90H21EOLACvtfcHk0lh8B-lUG3Wlow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoC_kPBd-nCLLVg90H21EOLACvtfcHk0liBX8YejIXt7w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4375,7 +4375,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpITqp7jc4rdbVg90H21EOLACvtfcHk0lh8B-lUG3Wlow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpITqp7jc4rdbVg90H21EOLACvtfcHk0liBX8YejIXt7w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4591,7 +4591,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpESKQ1ZEbl27Vg90H21EOLACvtfcHk0lj72PIKp-fl9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpESKQ1ZEbl27Vg90H21EOLACvtfcHk0liBX8YejIXt7w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4768,7 +4768,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoB0COtAxzRlLVg90H21EOLACvtfcHk0lj72PIKp-fl9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoB0COtAxzRlLVg90H21EOLACvtfcHk0lgB8sJEFZdxdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4930,7 +4930,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpexaTM078UILVg90H21EOLACvtfcHk0lj72PIKp-fl9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpexaTM078UILVg90H21EOLACvtfcHk0lgB8sJEFZdxdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5116,7 +5116,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWPb3gJUOEyrVg90H21EOLACvtfcHk0lhoxiFMP5L5qQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWPb3gJUOEyrVg90H21EOLACvtfcHk0lgB8sJEFZdxdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5257,7 +5257,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcRaeSiDnnV1O_6BottYdIAWfW6udTcc2eaNqWWlbMabGbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcRaeSiDnnV1O_6BottYdIAWfW6udTcc2eYK_Ya3UQIWcbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5422,7 +5422,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvi6G-AyP1y7Vg90H21EOLACvtfcHk0lhoxiFMP5L5qQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvi6G-AyP1y7Vg90H21EOLACvtfcHk0lgw97G_X6016A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5568,7 +5568,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqe7UYPVDzzwbVg90H21EOLACvtfcHk0lgO0vpDoTQIjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqe7UYPVDzzwbVg90H21EOLACvtfcHk0lgw97G_X6016A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5744,7 +5744,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhkubXScmgbVg90H21EOLACvtfcHk0lgO0vpDoTQIjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhkubXScmgbVg90H21EOLACvtfcHk0lhfIpOlG48qig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5927,7 +5927,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKFVxxBt0SrLVg90H21EOLACvtfcHk0lgO0vpDoTQIjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKFVxxBt0SrLVg90H21EOLACvtfcHk0lhfIpOlG48qig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6122,7 +6122,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqC_xqJj56p9bVg90H21EOLACvtfcHk0liaxnRbTevqqQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqC_xqJj56p9bVg90H21EOLACvtfcHk0lhfIpOlG48qig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6302,7 +6302,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrSPNpt_hoTTLVg90H21EOLACvtfcHk0liaxnRbTevqqQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrSPNpt_hoTTLVg90H21EOLACvtfcHk0lgJUeSClb0KKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6557,7 +6557,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEauJx-zIJSbVg90H21EOLACvtfcHk0liaxnRbTevqqQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEauJx-zIJSbVg90H21EOLACvtfcHk0lgJUeSClb0KKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6767,7 +6767,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7Is0AhBcisLVg90H21EOLACvtfcHk0lg4HguCQEQRAg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7Is0AhBcisLVg90H21EOLACvtfcHk0liaYUXwn7Q--w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7168,7 +7168,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5A5bQ46jVIrVg90H21EOLACvtfcHk0lg4HguCQEQRAg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5A5bQ46jVIrVg90H21EOLACvtfcHk0liaYUXwn7Q--w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7378,7 +7378,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqK7RtzA044JrVg90H21EOLACvtfcHk0lhP_BI-IPZA_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqK7RtzA044JrVg90H21EOLACvtfcHk0li6v1jL8pToSw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7561,7 +7561,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotW7aRHeQwQrVg90H21EOLACvtfcHk0lhP_BI-IPZA_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotW7aRHeQwQrVg90H21EOLACvtfcHk0li6v1jL8pToSw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7762,7 +7762,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofFrbAMyHlYbVg90H21EOLACvtfcHk0lhP_BI-IPZA_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofFrbAMyHlYbVg90H21EOLACvtfcHk0li6v1jL8pToSw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8042,7 +8042,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqP2UdxB0NvxLVg90H21EOLACvtfcHk0lhEA0Fr8jRqbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqP2UdxB0NvxLVg90H21EOLACvtfcHk0lhaciANt5iXvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8221,7 +8221,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEhe99qF6lzLVg90H21EOLACvtfcHk0lhEA0Fr8jRqbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEhe99qF6lzLVg90H21EOLACvtfcHk0lhaciANt5iXvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8410,7 +8410,7 @@ Engineering, KAIST, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo8c_C-AF9FcLVg90H21EOLACvtfcHk0ljCwky-fa_U8Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo8c_C-AF9FcLVg90H21EOLACvtfcHk0lhaciANt5iXvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10198,7 +10198,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLgv9ZZjQRLVg90H21EOLACvtfcHk0lg8ma3ylInsug" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLgv9ZZjQRLVg90H21EOLACvtfcHk0lilOZkbRxKbZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -10372,7 +10372,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqw4HF-4NUDUrVg90H21EOLACvtfcHk0lgg24gQ03rW2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqw4HF-4NUDUrVg90H21EOLACvtfcHk0lilOZkbRxKbZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -10518,7 +10518,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrKvuM_e90tbrVg90H21EOLACvtfcHk0lgg24gQ03rW2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrKvuM_e90tbrVg90H21EOLACvtfcHk0lilOZkbRxKbZQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -10788,7 +10788,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpndzUpl4QB7rVg90H21EOLACvtfcHk0lhIud2Yyr_Vyw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpndzUpl4QB7rVg90H21EOLACvtfcHk0ljEu8hOAZxxjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -10983,7 +10983,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoC_kPBd-nCLLVg90H21EOLACvtfcHk0lhIud2Yyr_Vyw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoC_kPBd-nCLLVg90H21EOLACvtfcHk0lhYM91AplzrDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -11129,7 +11129,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpITqp7jc4rdbVg90H21EOLACvtfcHk0lgL5Tyv6eEvOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpITqp7jc4rdbVg90H21EOLACvtfcHk0lhYM91AplzrDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -11345,7 +11345,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpESKQ1ZEbl27Vg90H21EOLACvtfcHk0lgL5Tyv6eEvOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpESKQ1ZEbl27Vg90H21EOLACvtfcHk0lgfMXJ92UsQNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -11522,7 +11522,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoB0COtAxzRlLVg90H21EOLACvtfcHk0lgT3ktgfyfJJQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoB0COtAxzRlLVg90H21EOLACvtfcHk0lgfMXJ92UsQNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -11684,7 +11684,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpexaTM078UILVg90H21EOLACvtfcHk0lgT3ktgfyfJJQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpexaTM078UILVg90H21EOLACvtfcHk0lgduAQJ8VlfzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -11870,7 +11870,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWPb3gJUOEyrVg90H21EOLACvtfcHk0lgT3ktgfyfJJQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWPb3gJUOEyrVg90H21EOLACvtfcHk0lgduAQJ8VlfzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12011,7 +12011,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcRaeSiDnnV1O_6BottYdIAWfW6udTcc2eYxi8KUBU9-Qrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcRaeSiDnnV1O_6BottYdIAWfW6udTcc2ebkTAob-X3CBbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12176,7 +12176,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvi6G-AyP1y7Vg90H21EOLACvtfcHk0liP-6SI9hHhpw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvi6G-AyP1y7Vg90H21EOLACvtfcHk0lgduAQJ8VlfzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12322,7 +12322,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqe7UYPVDzzwbVg90H21EOLACvtfcHk0lh6Yh9UwJz_JQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqe7UYPVDzzwbVg90H21EOLACvtfcHk0lh0JVUiMHyEwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12498,7 +12498,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhkubXScmgbVg90H21EOLACvtfcHk0lh6Yh9UwJz_JQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhkubXScmgbVg90H21EOLACvtfcHk0lh0JVUiMHyEwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12681,7 +12681,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKFVxxBt0SrLVg90H21EOLACvtfcHk0lh6Yh9UwJz_JQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKFVxxBt0SrLVg90H21EOLACvtfcHk0lh0JVUiMHyEwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12876,7 +12876,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqC_xqJj56p9bVg90H21EOLACvtfcHk0ljhWUY6xTGZuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqC_xqJj56p9bVg90H21EOLACvtfcHk0lhfyi49b0c4Pg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13056,7 +13056,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrSPNpt_hoTTLVg90H21EOLACvtfcHk0ljhWUY6xTGZuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrSPNpt_hoTTLVg90H21EOLACvtfcHk0lhfyi49b0c4Pg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13311,7 +13311,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEauJx-zIJSbVg90H21EOLACvtfcHk0ljhWUY6xTGZuA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEauJx-zIJSbVg90H21EOLACvtfcHk0ljnIvfmLqACIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13521,7 +13521,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7Is0AhBcisLVg90H21EOLACvtfcHk0lhqRvkV6QrMWA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7Is0AhBcisLVg90H21EOLACvtfcHk0ljnIvfmLqACIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13922,7 +13922,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5A5bQ46jVIrVg90H21EOLACvtfcHk0lhqRvkV6QrMWA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5A5bQ46jVIrVg90H21EOLACvtfcHk0lgJ_bRVjw9guw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14132,7 +14132,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqK7RtzA044JrVg90H21EOLACvtfcHk0ligDzu5XRi66A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqK7RtzA044JrVg90H21EOLACvtfcHk0lgJ_bRVjw9guw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14315,7 +14315,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotW7aRHeQwQrVg90H21EOLACvtfcHk0ligDzu5XRi66A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotW7aRHeQwQrVg90H21EOLACvtfcHk0lhnbqLFNqPavA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14516,7 +14516,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofFrbAMyHlYbVg90H21EOLACvtfcHk0ligDzu5XRi66A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofFrbAMyHlYbVg90H21EOLACvtfcHk0lhnbqLFNqPavA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14796,7 +14796,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqP2UdxB0NvxLVg90H21EOLACvtfcHk0lh16SN1_TsWKg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqP2UdxB0NvxLVg90H21EOLACvtfcHk0lgvPSFzh7vHFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14975,7 +14975,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEhe99qF6lzLVg90H21EOLACvtfcHk0lh16SN1_TsWKg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEhe99qF6lzLVg90H21EOLACvtfcHk0lgvPSFzh7vHFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15164,7 +15164,7 @@ N. Pammi, Hae-Won Lee, Ji-Ho Eom,
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo8c_C-AF9FcLVg90H21EOLACvtfcHk0lhAwTKEUt9ejA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo8c_C-AF9FcLVg90H21EOLACvtfcHk0lgvPSFzh7vHFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16256,7 +16256,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad745a4d33e9dc","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb18fb2081961b2","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

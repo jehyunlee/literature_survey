@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="684ae0d4-a894-4c2e-b6b7-e80ed3f5c868" lang="en">
+<html class="pb-page" data-request-id="d7bf3092-17ce-45c7-9113-1ab5220ac137" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";article:article:10.1021/acsami.9b08006;page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;issue:issue:10.1021/aamick.2019.11.issue-33;website:website:acspubs;journal:journal:aamick;pageGroup:string:Publication Pages;subPage:string:Full Text" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -200,7 +200,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: '2e3b2666-62d9-4353-ac87-36840e1592c5'
+                            eventGroupKey: 'a8a69869-e095-454b-9ff0-d2f47cbae474'
                         }
 
                     }).done(function (status) {
@@ -1564,8 +1564,8 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#8ae2efeffeebe1a4e1e3e7cae1ebe3f9fea4ebe9a4e1f8">
-                  <span class="__cf_email__" data-cfemail="127a77776673793c797b7f5279737b61663c73713c7960">
+                 <a href="/cdn-cgi/l/email-protection#224a47475643490c494b4f6249434b51560c43410c4950">
+                  <span class="__cf_email__" data-cfemail="d9b1bcbcadb8b2f7b2b0b499b2b8b0aaadf7b8baf7b2ab">
                    [email protected]
                   </span>
                  </a>
@@ -3523,8 +3523,8 @@ Yuseong-gu, Daejeon 34141, Republic of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#58303d3d2c393376333135183339312b2c76393b76332a">
-                      <span class="__cf_email__" data-cfemail="0e666b6b7a6f65206567634e656f677d7a206f6d20657c">
+                     <a href="/cdn-cgi/l/email-protection#1179747465707a3f7a787c517a707862653f70723f7a63">
+                      <span class="__cf_email__" data-cfemail="157d707061747e3b7e7c78557e747c66613b74763b7e67">
                        [email protected]
                       </span>
                      </a>
@@ -3838,7 +3838,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr3hHAeKA2jN7Vg90H21EOLACvtfcHk0ljyMub4ViAQsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr3hHAeKA2jN7Vg90H21EOLACvtfcHk0ljZ4Aajdj4f4g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4028,7 +4028,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZvMyqzruGdLVg90H21EOLACvtfcHk0ljyMub4ViAQsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZvMyqzruGdLVg90H21EOLACvtfcHk0ljZ4Aajdj4f4g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4176,7 +4176,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUbEekVK8jobVg90H21EOLACvtfcHk0lgpGc_xt1KSOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUbEekVK8jobVg90H21EOLACvtfcHk0lhHUDXIIByNog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4314,7 +4314,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZdcMfLkJeX7Vg90H21EOLACvtfcHk0lgpGc_xt1KSOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZdcMfLkJeX7Vg90H21EOLACvtfcHk0lhHUDXIIByNog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4471,7 +4471,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqUBahHpRjLs7Vg90H21EOLACvtfcHk0lgpGc_xt1KSOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqUBahHpRjLs7Vg90H21EOLACvtfcHk0lhHUDXIIByNog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4633,7 +4633,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolpKU6CDJXebVg90H21EOLACvtfcHk0liSgfWCIKb6Dg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolpKU6CDJXebVg90H21EOLACvtfcHk0lhHUDXIIByNog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4783,7 +4783,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTixbCz_eB3rVg90H21EOLACvtfcHk0liSgfWCIKb6Dg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTixbCz_eB3rVg90H21EOLACvtfcHk0linVtaEeHLHjg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4921,7 +4921,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpryAC0jKUS1LVg90H21EOLACvtfcHk0ljnjH0IkkLpiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpryAC0jKUS1LVg90H21EOLACvtfcHk0linVtaEeHLHjg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5071,7 +5071,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq3AwVbAWDwjrVg90H21EOLACvtfcHk0ljnjH0IkkLpiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq3AwVbAWDwjrVg90H21EOLACvtfcHk0linVtaEeHLHjg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5215,7 +5215,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJZpTAUH66HbVg90H21EOLACvtfcHk0ljnjH0IkkLpiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJZpTAUH66HbVg90H21EOLACvtfcHk0lhy_zWmaymU2Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5371,7 +5371,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr_w4WN5j0bE7Vg90H21EOLACvtfcHk0lid3VZhICdccA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr_w4WN5j0bE7Vg90H21EOLACvtfcHk0lhy_zWmaymU2Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5503,7 +5503,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGob8MswffI6kbVg90H21EOLACvtfcHk0lid3VZhICdccA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGob8MswffI6kbVg90H21EOLACvtfcHk0lhy_zWmaymU2Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5672,7 +5672,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBMW2wIv6gGLVg90H21EOLACvtfcHk0lid3VZhICdccA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBMW2wIv6gGLVg90H21EOLACvtfcHk0lj2l6niKCU4JA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5840,7 +5840,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQC3UzmCjvo7Vg90H21EOLACvtfcHk0liIES42LrEWQQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQC3UzmCjvo7Vg90H21EOLACvtfcHk0lj2l6niKCU4JA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6015,7 +6015,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpvgTmCiGZW5bVg90H21EOLACvtfcHk0liIES42LrEWQQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpvgTmCiGZW5bVg90H21EOLACvtfcHk0lj2l6niKCU4JA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6195,7 +6195,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrM3iBzQQa0gLVg90H21EOLACvtfcHk0liIES42LrEWQQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrM3iBzQQa0gLVg90H21EOLACvtfcHk0ljgNGomCKyFzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6370,7 +6370,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY3pjkeMdY97Vg90H21EOLACvtfcHk0ljgLsoIYMMwdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY3pjkeMdY97Vg90H21EOLACvtfcHk0ljgNGomCKyFzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6514,7 +6514,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqm003hjzEqa7Vg90H21EOLACvtfcHk0ljgLsoIYMMwdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqm003hjzEqa7Vg90H21EOLACvtfcHk0ljgNGomCKyFzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6658,7 +6658,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpRddJfxCz4lLVg90H21EOLACvtfcHk0ljgLsoIYMMwdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpRddJfxCz4lLVg90H21EOLACvtfcHk0ljgNGomCKyFzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6864,7 +6864,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpmQFQGjv5K7Vg90H21EOLACvtfcHk0lghmEspVpHh1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpmQFQGjv5K7Vg90H21EOLACvtfcHk0liL2nwXd1ECKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7026,7 +7026,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGon1gU5q4rrabVg90H21EOLACvtfcHk0lghmEspVpHh1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGon1gU5q4rrabVg90H21EOLACvtfcHk0liL2nwXd1ECKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7186,7 +7186,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEG7u3ACIjNbVg90H21EOLACvtfcHk0lghmEspVpHh1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEG7u3ACIjNbVg90H21EOLACvtfcHk0liL2nwXd1ECKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7323,7 +7323,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQgEAbJanat_UQ0lWbKiCflfW6udTcc2eYiL--WJP3IXrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQgEAbJanat_UQ0lWbKiCflfW6udTcc2eZPr9HzqvEf8Lntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7617,7 +7617,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqld-yvPwpSLVg90H21EOLACvtfcHk0lhA3rghM3ardA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqld-yvPwpSLVg90H21EOLACvtfcHk0liBQK6iYXmaFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7791,7 +7791,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTcUD8VnhrIf7esJRIHUP1ofW6udTcc2ea14BwE9r5X2Lntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTcUD8VnhrIf7esJRIHUP1ofW6udTcc2eZPr9HzqvEf8Lntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7969,7 +7969,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpY1gA832s8QbVg90H21EOLACvtfcHk0lhA3rghM3ardA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpY1gA832s8QbVg90H21EOLACvtfcHk0ljR_936Jc_o3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8135,7 +8135,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorDeMMMZDUQLVg90H21EOLACvtfcHk0lgxYkGvRgRn_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorDeMMMZDUQLVg90H21EOLACvtfcHk0ljR_936Jc_o3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8297,7 +8297,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoF0dAPcvefQLVg90H21EOLACvtfcHk0lgxYkGvRgRn_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoF0dAPcvefQLVg90H21EOLACvtfcHk0ljR_936Jc_o3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8441,7 +8441,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBXmd9EjnD6LVg90H21EOLACvtfcHk0lgxYkGvRgRn_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBXmd9EjnD6LVg90H21EOLACvtfcHk0lhBHchnn8gdPw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8806,7 +8806,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpaAyzFpog_prVg90H21EOLACvtfcHk0lgwLA7PF68RLQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpaAyzFpog_prVg90H21EOLACvtfcHk0lhBHchnn8gdPw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9080,7 +9080,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrXqcThwt3CdLVg90H21EOLACvtfcHk0lgwLA7PF68RLQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrXqcThwt3CdLVg90H21EOLACvtfcHk0lhtrh-g1E9DeQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9372,7 +9372,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1fYmFalong7Vg90H21EOLACvtfcHk0lhv7rLHAH9HOQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1fYmFalong7Vg90H21EOLACvtfcHk0lhtrh-g1E9DeQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9933,7 +9933,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp1T1Q5ksAG-LVg90H21EOLACvtfcHk0likbsXMCZbaXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp1T1Q5ksAG-LVg90H21EOLACvtfcHk0lgymoTJ598t3w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10088,7 +10088,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqji8snMDjV7LVg90H21EOLACvtfcHk0likbsXMCZbaXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqji8snMDjV7LVg90H21EOLACvtfcHk0ljYRdwwvEmMKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10263,7 +10263,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp9lPJ7VQsDRLVg90H21EOLACvtfcHk0liQ81W-M9h8Nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp9lPJ7VQsDRLVg90H21EOLACvtfcHk0ljYRdwwvEmMKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10416,7 +10416,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrsrJk9UorXN7Vg90H21EOLACvtfcHk0liQ81W-M9h8Nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrsrJk9UorXN7Vg90H21EOLACvtfcHk0ljYRdwwvEmMKA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10578,7 +10578,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpL0uODKoMlJLVg90H21EOLACvtfcHk0liQ81W-M9h8Nw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpL0uODKoMlJLVg90H21EOLACvtfcHk0ljgAuUJtVjhMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10760,7 +10760,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoL-n1glzvFQLVg90H21EOLACvtfcHk0ljgmGyv_OfWbg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoL-n1glzvFQLVg90H21EOLACvtfcHk0ljgAuUJtVjhMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10921,7 +10921,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfC1fkW2r1kLVg90H21EOLACvtfcHk0ljgmGyv_OfWbg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfC1fkW2r1kLVg90H21EOLACvtfcHk0ljgAuUJtVjhMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11152,7 +11152,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBCkukagMC07Vg90H21EOLACvtfcHk0ljgmGyv_OfWbg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBCkukagMC07Vg90H21EOLACvtfcHk0ljy075KLiixFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11307,7 +11307,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTe-gGPhesmNVMGsG_HTXYFfW6udTcc2eaJO-XMbncGLLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTe-gGPhesmNVMGsG_HTXYFfW6udTcc2eZ4OoViR6VI7rntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11449,7 +11449,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5-QMP_P5KJrVg90H21EOLACvtfcHk0lgta0BqzNItAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5-QMP_P5KJrVg90H21EOLACvtfcHk0ljy075KLiixFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11617,7 +11617,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoHRIhKvV25VrVg90H21EOLACvtfcHk0lgta0BqzNItAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoHRIhKvV25VrVg90H21EOLACvtfcHk0ljy075KLiixFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11779,7 +11779,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPcSpaWsgxTLVg90H21EOLACvtfcHk0lgta0BqzNItAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPcSpaWsgxTLVg90H21EOLACvtfcHk0lgFyvsgI_ljOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12543,7 +12543,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr3hHAeKA2jN7Vg90H21EOLACvtfcHk0lh4F-rn634vDg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr3hHAeKA2jN7Vg90H21EOLACvtfcHk0li2rpqNqFXj5Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12733,7 +12733,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZvMyqzruGdLVg90H21EOLACvtfcHk0lju1mdo8SGm8A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZvMyqzruGdLVg90H21EOLACvtfcHk0li2rpqNqFXj5Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12881,7 +12881,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUbEekVK8jobVg90H21EOLACvtfcHk0lh0eMFTjz7LpQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUbEekVK8jobVg90H21EOLACvtfcHk0li2rpqNqFXj5Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13019,7 +13019,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZdcMfLkJeX7Vg90H21EOLACvtfcHk0lh0eMFTjz7LpQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZdcMfLkJeX7Vg90H21EOLACvtfcHk0lhnT8re0Go0Lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13176,7 +13176,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqUBahHpRjLs7Vg90H21EOLACvtfcHk0lh0eMFTjz7LpQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqUBahHpRjLs7Vg90H21EOLACvtfcHk0lhnT8re0Go0Lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13338,7 +13338,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolpKU6CDJXebVg90H21EOLACvtfcHk0ljC_2WR2u3xmw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolpKU6CDJXebVg90H21EOLACvtfcHk0lhnT8re0Go0Lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13488,7 +13488,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTixbCz_eB3rVg90H21EOLACvtfcHk0ljC_2WR2u3xmw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTixbCz_eB3rVg90H21EOLACvtfcHk0lh5UVmynecSaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13626,7 +13626,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpryAC0jKUS1LVg90H21EOLACvtfcHk0lhmuj2mO-u4tA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpryAC0jKUS1LVg90H21EOLACvtfcHk0lh5UVmynecSaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13776,7 +13776,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq3AwVbAWDwjrVg90H21EOLACvtfcHk0lhmuj2mO-u4tA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq3AwVbAWDwjrVg90H21EOLACvtfcHk0lhaUR4zs4JtXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13920,7 +13920,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJZpTAUH66HbVg90H21EOLACvtfcHk0lj5tdVagQT2Bg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJZpTAUH66HbVg90H21EOLACvtfcHk0lhaUR4zs4JtXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14076,7 +14076,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr_w4WN5j0bE7Vg90H21EOLACvtfcHk0lj5tdVagQT2Bg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr_w4WN5j0bE7Vg90H21EOLACvtfcHk0lhaUR4zs4JtXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14208,7 +14208,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGob8MswffI6kbVg90H21EOLACvtfcHk0lj5tdVagQT2Bg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGob8MswffI6kbVg90H21EOLACvtfcHk0liPPOlv3tqiRw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14377,7 +14377,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBMW2wIv6gGLVg90H21EOLACvtfcHk0liWTWrG-nb7Pw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBMW2wIv6gGLVg90H21EOLACvtfcHk0liPPOlv3tqiRw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14545,7 +14545,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQC3UzmCjvo7Vg90H21EOLACvtfcHk0liWTWrG-nb7Pw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQC3UzmCjvo7Vg90H21EOLACvtfcHk0liPPOlv3tqiRw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14720,7 +14720,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpvgTmCiGZW5bVg90H21EOLACvtfcHk0lgzEIMPhvYH9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpvgTmCiGZW5bVg90H21EOLACvtfcHk0li2ryF2jxsz6Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14900,7 +14900,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrM3iBzQQa0gLVg90H21EOLACvtfcHk0lgzEIMPhvYH9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrM3iBzQQa0gLVg90H21EOLACvtfcHk0li2ryF2jxsz6Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15075,7 +15075,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY3pjkeMdY97Vg90H21EOLACvtfcHk0ljEnWBWb0FS0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY3pjkeMdY97Vg90H21EOLACvtfcHk0li-WpGe4IwCDQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15219,7 +15219,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqm003hjzEqa7Vg90H21EOLACvtfcHk0ljEnWBWb0FS0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqm003hjzEqa7Vg90H21EOLACvtfcHk0li-WpGe4IwCDQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15363,7 +15363,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpRddJfxCz4lLVg90H21EOLACvtfcHk0lihzbFQ8BovvA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpRddJfxCz4lLVg90H21EOLACvtfcHk0lh2ayRJ71UU_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15569,7 +15569,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpmQFQGjv5K7Vg90H21EOLACvtfcHk0lihzbFQ8BovvA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrpmQFQGjv5K7Vg90H21EOLACvtfcHk0lh2ayRJ71UU_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15731,7 +15731,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGon1gU5q4rrabVg90H21EOLACvtfcHk0lh4ygEFbJlqgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGon1gU5q4rrabVg90H21EOLACvtfcHk0lh2ayRJ71UU_w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15891,7 +15891,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEG7u3ACIjNbVg90H21EOLACvtfcHk0lh4ygEFbJlqgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEG7u3ACIjNbVg90H21EOLACvtfcHk0lhRNwYJKhgSbg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16028,7 +16028,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQgEAbJanat_UQ0lWbKiCflfW6udTcc2eb-7WNh7DGAzLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQgEAbJanat_UQ0lWbKiCflfW6udTcc2ebxrgAaKPBoEbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16322,7 +16322,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqld-yvPwpSLVg90H21EOLACvtfcHk0lh83gp3R3p08Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqld-yvPwpSLVg90H21EOLACvtfcHk0ljTtIDH96xuQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16496,7 +16496,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTcUD8VnhrIf7esJRIHUP1ofW6udTcc2eZoiVf-7ZBEVrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTcUD8VnhrIf7esJRIHUP1ofW6udTcc2ebTD4JlQ-JgSrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16674,7 +16674,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpY1gA832s8QbVg90H21EOLACvtfcHk0lhRphl_gdUAfw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpY1gA832s8QbVg90H21EOLACvtfcHk0lgpC6Ny8gnlQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16840,7 +16840,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorDeMMMZDUQLVg90H21EOLACvtfcHk0liqVgkGVWu3eg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorDeMMMZDUQLVg90H21EOLACvtfcHk0lgpC6Ny8gnlQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17002,7 +17002,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoF0dAPcvefQLVg90H21EOLACvtfcHk0liqVgkGVWu3eg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoF0dAPcvefQLVg90H21EOLACvtfcHk0lgpC6Ny8gnlQA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17146,7 +17146,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBXmd9EjnD6LVg90H21EOLACvtfcHk0lgD_v9zkvJNiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBXmd9EjnD6LVg90H21EOLACvtfcHk0lhvLlg2ybyg3g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17511,7 +17511,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpaAyzFpog_prVg90H21EOLACvtfcHk0ljWKNWFnR6U4w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpaAyzFpog_prVg90H21EOLACvtfcHk0lhvLlg2ybyg3g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17785,7 +17785,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrXqcThwt3CdLVg90H21EOLACvtfcHk0ljWKNWFnR6U4w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrXqcThwt3CdLVg90H21EOLACvtfcHk0lh4TVs9GMbyZw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18077,7 +18077,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1fYmFalong7Vg90H21EOLACvtfcHk0ligQUFNQYPJgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1fYmFalong7Vg90H21EOLACvtfcHk0lh4TVs9GMbyZw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18638,7 +18638,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp1T1Q5ksAG-LVg90H21EOLACvtfcHk0ljDw8wrrp4QyA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp1T1Q5ksAG-LVg90H21EOLACvtfcHk0ljgKS-JP40PVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18793,7 +18793,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqji8snMDjV7LVg90H21EOLACvtfcHk0ljsFrj6ZF09kg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqji8snMDjV7LVg90H21EOLACvtfcHk0liMXz4fGXQtvQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18968,7 +18968,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp9lPJ7VQsDRLVg90H21EOLACvtfcHk0ljsFrj6ZF09kg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp9lPJ7VQsDRLVg90H21EOLACvtfcHk0liMXz4fGXQtvQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19121,7 +19121,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrsrJk9UorXN7Vg90H21EOLACvtfcHk0ljopUAcyEUFsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrsrJk9UorXN7Vg90H21EOLACvtfcHk0liMXz4fGXQtvQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19283,7 +19283,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpL0uODKoMlJLVg90H21EOLACvtfcHk0ljopUAcyEUFsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpL0uODKoMlJLVg90H21EOLACvtfcHk0lgP2XxCK8SANg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19465,7 +19465,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoL-n1glzvFQLVg90H21EOLACvtfcHk0lg0sfJf06xBwA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoL-n1glzvFQLVg90H21EOLACvtfcHk0lgP2XxCK8SANg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19626,7 +19626,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfC1fkW2r1kLVg90H21EOLACvtfcHk0lg0sfJf06xBwA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfC1fkW2r1kLVg90H21EOLACvtfcHk0lgP2XxCK8SANg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19857,7 +19857,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBCkukagMC07Vg90H21EOLACvtfcHk0lhlwiyUmSy5MQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBCkukagMC07Vg90H21EOLACvtfcHk0lixHZ8n3b-JVQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20012,7 +20012,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTe-gGPhesmNVMGsG_HTXYFfW6udTcc2eYxuG0IZaYFKbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTe-gGPhesmNVMGsG_HTXYFfW6udTcc2eblOVUV_hhSerntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20154,7 +20154,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5-QMP_P5KJrVg90H21EOLACvtfcHk0lh3W8bATo9Dgw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5-QMP_P5KJrVg90H21EOLACvtfcHk0lixHZ8n3b-JVQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20322,7 +20322,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoHRIhKvV25VrVg90H21EOLACvtfcHk0lh3W8bATo9Dgw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoHRIhKvV25VrVg90H21EOLACvtfcHk0liB3eeWmWx7sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20484,7 +20484,7 @@ of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPcSpaWsgxTLVg90H21EOLACvtfcHk0liOtnfHaZt2rA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPcSpaWsgxTLVg90H21EOLACvtfcHk0liB3eeWmWx7sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21576,7 +21576,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad770a2ed461ac","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb191ef5d9e12ce","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

@@ -589,101 +589,101 @@
          <div class="c-article-section__content" id="Sec1-content">
           <p>
            A high-temperature thermal process (over 700 ℃) based on the printing process has been used for a long time as an electrode formation method for the conventional crystalline silicon (c-Si) solar cell because there were many advantages in terms of productivity and process simplification [
-           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR1" id="ref-link-section-d234796240e482" title="Battaglia, C., Cuevas, A., &amp; De Wolf, S. (2016). High-efficiency crystalline silicon solar cells: Status and perspectives. Energy and Environmental Science., 9(5), 1552–1576.">
+           <a aria-label="Reference 1" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR1" id="ref-link-section-d238793873e482" title="Battaglia, C., Cuevas, A., &amp; De Wolf, S. (2016). High-efficiency crystalline silicon solar cells: Status and perspectives. Energy and Environmental Science., 9(5), 1552–1576.">
             1
            </a>
            ,
-           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR2" id="ref-link-section-d234796240e485" title="Hannebauer, H., Dullweber, T., Falcon, T., &amp; Brendel, R. (2013). Fineline printing options for high efficiencies and low Ag paste consumption. Energy Procedia, 38, 725–731.">
+           <a aria-label="Reference 2" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR2" id="ref-link-section-d238793873e485" title="Hannebauer, H., Dullweber, T., Falcon, T., &amp; Brendel, R. (2013). Fineline printing options for high efficiencies and low Ag paste consumption. Energy Procedia, 38, 725–731.">
             2
            </a>
            ]. Recently, several studies to improve efficiency of c-Si solar cells and minimize passivation damage which occurs during the metallization, have been conducted [
-           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR3" id="ref-link-section-d234796240e488" title="Lossen, J., Rudolph, D., Koduvelikulathu, L. J., Carvalho, R., Rossetto, M. P., Borsato, O., et al. (2016). Double printing nPERT cells with narrow contact layers. Energy Procedia, 92, 939–948.">
+           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR3" id="ref-link-section-d238793873e488" title="Lossen, J., Rudolph, D., Koduvelikulathu, L. J., Carvalho, R., Rossetto, M. P., Borsato, O., et al. (2016). Double printing nPERT cells with narrow contact layers. Energy Procedia, 92, 939–948.">
             3
            </a>
            ,
-           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR4" id="ref-link-section-d234796240e491" title="Stodolny, M., Lenes, M., Wu, Y., Janssen, G., Romijn, I., Luchies, J., et al. (2016). n-Type polysilicon passivating contact for industrial bifacial n-type solar cells. Solar Energy Materials and Solar Cells., 158, 24–28.">
+           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR4" id="ref-link-section-d238793873e491" title="Stodolny, M., Lenes, M., Wu, Y., Janssen, G., Romijn, I., Luchies, J., et al. (2016). n-Type polysilicon passivating contact for industrial bifacial n-type solar cells. Solar Energy Materials and Solar Cells., 158, 24–28.">
             4
            </a>
            ]. In these studies, the researchers tried to reduce electrode contact areas for reducing passivation damage. Also, several studies on passivation contact based on thin tunnel oxide such as Tunnel Oxide Passivated Contact (TOPCon) structure and heterojunction solar cell based on amorphous silicon (a-Si) have been carried out [
-           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR5" id="ref-link-section-d234796240e494" title="Larionova, Y., Turcu, M., Reiter, S., Brendel, R., Tetzlaff, D., Krügener, J., et al. (2017). On the recombination behavior of p+-type polysilicon on oxide junctions deposited by different methods on textured and planar surfaces. Physica Status Solidi A, 214(8), 1700058.">
+           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR5" id="ref-link-section-d238793873e494" title="Larionova, Y., Turcu, M., Reiter, S., Brendel, R., Tetzlaff, D., Krügener, J., et al. (2017). On the recombination behavior of p+-type polysilicon on oxide junctions deposited by different methods on textured and planar surfaces. Physica Status Solidi A, 214(8), 1700058.">
             5
            </a>
            ,
-           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR6" id="ref-link-section-d234796240e498" title="Tao, Y., Vijaykumar, U., Keenan, J., &amp; Ajeet, R. (2016). Tunnel oxide passivated rear contact for large area n-type front junction silicon solar cells providing excellent carrier selectivity. AIMS Materials Science, 3, 180–189.">
+           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR6" id="ref-link-section-d238793873e498" title="Tao, Y., Vijaykumar, U., Keenan, J., &amp; Ajeet, R. (2016). Tunnel oxide passivated rear contact for large area n-type front junction silicon solar cells providing excellent carrier selectivity. AIMS Materials Science, 3, 180–189.">
             6
            </a>
            ]. In this structure, passivation damage occurs frequently when a high-temperature thermal process was used for metallization, thus a low-temperature metallization was inevitably required [
-           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR7" id="ref-link-section-d234796240e501" title="Feldmann, F., Bivour, M., Reichel, C., Hermle, M., &amp; Glunz, S. W. (2014). Passivated rear contacts for high-efficiency n-type Si solar cells providing high interface passivation quality and excellent transport characteristics. Solar Energy Materials and Solar Cells, 120, 270–274.">
+           <a aria-label="Reference 7" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR7" id="ref-link-section-d238793873e501" title="Feldmann, F., Bivour, M., Reichel, C., Hermle, M., &amp; Glunz, S. W. (2014). Passivated rear contacts for high-efficiency n-type Si solar cells providing high interface passivation quality and excellent transport characteristics. Solar Energy Materials and Solar Cells, 120, 270–274.">
             7
            </a>
            ,
-           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR8" id="ref-link-section-d234796240e504" title="Melskens, J., Smets, A. H., Schouten, M., Eijt, S. W., Schut, H., Zeman, M. (2021). New insights in the nanostructure and defect states of hydrogenated amorphous silicon obtained by annealing. Conference New insights in the Nanostructure and Defect States of Hydrogenated Amorphous Silicon Obtained by Annealing. IEEE, pp. 1–8.">
+           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR8" id="ref-link-section-d238793873e504" title="Melskens, J., Smets, A. H., Schouten, M., Eijt, S. W., Schut, H., Zeman, M. (2021). New insights in the nanostructure and defect states of hydrogenated amorphous silicon obtained by annealing. Conference New insights in the Nanostructure and Defect States of Hydrogenated Amorphous Silicon Obtained by Annealing. IEEE, pp. 1–8.">
             8
            </a>
            ]. Therefore, the electrode forming methods at low temperature such as a thermal curing under 200 ℃, for 10 ~ 20 min based on thermal curing type resin/metal powder paste [
-           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR9" id="ref-link-section-d234796240e507" title="McIntosh, K. R., Abbott, M. D., Sudbury, B. A., Manzoor, S., Zhengshan, J. Y., Leilaeioun, M., et al. (2021). Absorption in each layer of a silicon heterojunction solar cell. Conference Absorption in Each Layer of a Silicon Heterojunction Solar Cell. IEEE, pp. 1322–1328.">
+           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR9" id="ref-link-section-d238793873e507" title="McIntosh, K. R., Abbott, M. D., Sudbury, B. A., Manzoor, S., Zhengshan, J. Y., Leilaeioun, M., et al. (2021). Absorption in each layer of a silicon heterojunction solar cell. Conference Absorption in Each Layer of a Silicon Heterojunction Solar Cell. IEEE, pp. 1322–1328.">
             9
            </a>
            ,
-           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR10" id="ref-link-section-d234796240e510" title="Li, Y., Kim, H.-S., Yi, J., Kim, D., &amp; Huh, J.-Y. (2018). Improved electrical performance of low-temperature-cured silver electrode for silicon heterojunction solar cells. IEEE Journal of Photovoltaics, 8(4), 969–975.">
+           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR10" id="ref-link-section-d238793873e510" title="Li, Y., Kim, H.-S., Yi, J., Kim, D., &amp; Huh, J.-Y. (2018). Improved electrical performance of low-temperature-cured silver electrode for silicon heterojunction solar cells. IEEE Journal of Photovoltaics, 8(4), 969–975.">
             10
            </a>
            ] and a metal deposition by physical vapor deposition (PVD), has been used. Electrode formation with PVD process had several disadvantages. The first disadvantage of PVD process is that the investment cost is too high due to the expensive PVD equipment. Secondly, in PVD process, the number of processes for the electrode patterning process are required, which is not appropriate in mass production. Meanwhile, the thermal curing method required heat treatment under 200 ℃ for 10 ~ 20 min, which increases the process time and decrease their productivity. Furthermore, the material cost of the thermal curing paste for heterojunction solar cell is very high as the higher silver (Ag) contents in the paste is needed. Therefore, several researches have been conducted to use Cu plating on Si heterojunction solar cells to reduce material cost [
-           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR11" id="ref-link-section-d234796240e513" title="Louwen, A., Van Sark, W., Schropp, R., &amp; Faaij, A. (2016). A cost roadmap for silicon heterojunction solar cells. Solar Energy Materials and Solar Cells, 147, 295–314.">
+           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR11" id="ref-link-section-d238793873e513" title="Louwen, A., Van Sark, W., Schropp, R., &amp; Faaij, A. (2016). A cost roadmap for silicon heterojunction solar cells. Solar Energy Materials and Solar Cells, 147, 295–314.">
             11
            </a>
            ,
-           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR12" id="ref-link-section-d234796240e517" title="Geissbühler, J., De Wolf, S., Faes, A., Badel, N., Jeangros, Q., Tomasi, A., et al. (2014). Silicon heterojunction solar cells with copper-plated grid electrodes: Status and comparison with silver thick-film techniques. IEEE Journal of Photovoltaics, 4(4), 1055–1062.">
+           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR12" id="ref-link-section-d238793873e517" title="Geissbühler, J., De Wolf, S., Faes, A., Badel, N., Jeangros, Q., Tomasi, A., et al. (2014). Silicon heterojunction solar cells with copper-plated grid electrodes: Status and comparison with silver thick-film techniques. IEEE Journal of Photovoltaics, 4(4), 1055–1062.">
             12
            </a>
            ].
           </p>
           <p>
            The intense pulsed light (IPL) sintering process, one of the low-temperature electrode formation technologies, is a technology that uses the generation of surface plasmonic effect of metal particles by light absorption [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d234796240e523" title="Amendola, V., Bakr, O. M., &amp; Stellacci, F. (2010). A study of the surface plasmon resonance of silver nanoparticles by the discrete dipole approximation method: Effect of shape, size, structure, and assembly. Plasmonics, 5(1), 85–97.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d238793873e523" title="Amendola, V., Bakr, O. M., &amp; Stellacci, F. (2010). A study of the surface plasmon resonance of silver nanoparticles by the discrete dipole approximation method: Effect of shape, size, structure, and assembly. Plasmonics, 5(1), 85–97.">
             13
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d234796240e523_1" title="Lee, K.-C., Lin, S.-J., Lin, C.-H., Tsai, C.-S., &amp; Lu, Y.-J. (2008). Size effect of Ag nanoparticles on surface plasmon resonance. Surface and Coatings Technology, 202(22–23), 5339–5342.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR14" id="ref-link-section-d238793873e523_1" title="Lee, K.-C., Lin, S.-J., Lin, C.-H., Tsai, C.-S., &amp; Lu, Y.-J. (2008). Size effect of Ag nanoparticles on surface plasmon resonance. Surface and Coatings Technology, 202(22–23), 5339–5342.">
             14
            </a>
            ,
-           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR15" id="ref-link-section-d234796240e526" title="Ringe, E., McMahon, J. M., Sohn, K., Cobley, C., Xia, Y., Huang, J., et al. (2010). Unraveling the effects of size, composition, and substrate on the localized surface plasmon resonance frequencies of gold and silver nanocubes: a systematic single-particle approach. The Journal of Physical Chemistry C, 114(29), 12511–12516.">
+           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR15" id="ref-link-section-d238793873e526" title="Ringe, E., McMahon, J. M., Sohn, K., Cobley, C., Xia, Y., Huang, J., et al. (2010). Unraveling the effects of size, composition, and substrate on the localized surface plasmon resonance frequencies of gold and silver nanocubes: a systematic single-particle approach. The Journal of Physical Chemistry C, 114(29), 12511–12516.">
             15
            </a>
            ]. Several studies on IPL sintering technology have been actively conducted recently using copper nanoparticles (Cu NP) [
-           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR16" id="ref-link-section-d234796240e529" title="Kim, H.-S., Dhage, S. R., Shim, D.-E., &amp; Hahn, H. T. (2009). Intense pulsed light sintering of copper nanoink for printed electronics. Applied Physics A, 97(4), 791.">
+           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR16" id="ref-link-section-d238793873e529" title="Kim, H.-S., Dhage, S. R., Shim, D.-E., &amp; Hahn, H. T. (2009). Intense pulsed light sintering of copper nanoink for printed electronics. Applied Physics A, 97(4), 791.">
             16
            </a>
            ,
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR17" id="ref-link-section-d234796240e532" title="Dharmadasa, R., Jha, M., Amos, D. A., &amp; Druffel, T. (2013). Room temperature synthesis of a copper ink for the intense pulsed light sintering of conductive copper films. ACS Applied Materials and Interfaces, 5(24), 13227–13234.">
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR17" id="ref-link-section-d238793873e532" title="Dharmadasa, R., Jha, M., Amos, D. A., &amp; Druffel, T. (2013). Room temperature synthesis of a copper ink for the intense pulsed light sintering of conductive copper films. ACS Applied Materials and Interfaces, 5(24), 13227–13234.">
             17
            </a>
            ]. To reduce the materials cost further, hybrid Cu microparticles (MP) /nanoparticles (NP) were also studied in several previous researches [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR18" id="ref-link-section-d234796240e535" title="Joo, S.-J., Hwang, H.-J., &amp; Kim, H.-S. (2014). Highly conductive copper nano/microparticles ink via flash light sintering for printed electronics. Nanotechnology, 25(26), 265601.">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR18" id="ref-link-section-d238793873e535" title="Joo, S.-J., Hwang, H.-J., &amp; Kim, H.-S. (2014). Highly conductive copper nano/microparticles ink via flash light sintering for printed electronics. Nanotechnology, 25(26), 265601.">
             18
            </a>
            ,
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR19" id="ref-link-section-d234796240e539" title="Ryu, C.-H., Moon, C.-J., &amp; Kim, H.-S. (2019). A study on the relationship between print-ability and flash light sinter-ability of Cu nano/micro-ink for printed electronics. Thin Solid Films, 671, 36–43.">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR19" id="ref-link-section-d238793873e539" title="Ryu, C.-H., Moon, C.-J., &amp; Kim, H.-S. (2019). A study on the relationship between print-ability and flash light sinter-ability of Cu nano/micro-ink for printed electronics. Thin Solid Films, 671, 36–43.">
             19
            </a>
            ]. For better IPL sintering result, a study was conducted to confirm temperature and resistivity by considering the selective absorption wavelength of Cu nanoparticles [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR20" id="ref-link-section-d234796240e542" title="Hwang, Y.-T., Chung, W.-H., Jang, Y.-R., &amp; Kim, H.-S. (2016). Intensive plasmonic flash light sintering of copper nanoinks using a band-pass light filter for highly electrically conductive electrodes in printed electronics. ACS Applied Materials and Interfaces, 8(13), 8591–8599.">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR20" id="ref-link-section-d238793873e542" title="Hwang, Y.-T., Chung, W.-H., Jang, Y.-R., &amp; Kim, H.-S. (2016). Intensive plasmonic flash light sintering of copper nanoinks using a band-pass light filter for highly electrically conductive electrodes in printed electronics. ACS Applied Materials and Interfaces, 8(13), 8591–8599.">
             20
            </a>
            ]. Recently, a study was newly presented that the Cu NP ink can be used and sintered as an electrode in a silicon (Si) wafer directly using IPL sintering process [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR21" id="ref-link-section-d234796240e545" title="Schube, J., Tutsch, L., Fellmeth, T., Bivour, M., Feldmann, F., Hatt, T., et al. (2018). Low-resistivity screen-printed contacts on indium tin oxide layers for silicon solar cells with passivating contacts. IEEE Journal of Photovoltaics, 8(5), 1208–1214.">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR21" id="ref-link-section-d238793873e545" title="Schube, J., Tutsch, L., Fellmeth, T., Bivour, M., Feldmann, F., Hatt, T., et al. (2018). Low-resistivity screen-printed contacts on indium tin oxide layers for silicon solar cells with passivating contacts. IEEE Journal of Photovoltaics, 8(5), 1208–1214.">
             21
            </a>
            ,
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR22" id="ref-link-section-d234796240e548" title="Hwang, H.-J., Kim, D.-J., Jang, Y.-R., Hwang, Y.-T., Jung, I.-H., &amp; Kim, H.-S. (2018). Multi-pulsed flash light sintering of copper nanoparticle pastes on silicon wafer for highly-conductive copper electrodes in crystalline silicon solar cells. Applied Surface Science, 462, 378–386.">
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR22" id="ref-link-section-d238793873e548" title="Hwang, H.-J., Kim, D.-J., Jang, Y.-R., Hwang, Y.-T., Jung, I.-H., &amp; Kim, H.-S. (2018). Multi-pulsed flash light sintering of copper nanoparticle pastes on silicon wafer for highly-conductive copper electrodes in crystalline silicon solar cells. Applied Surface Science, 462, 378–386.">
             22
            </a>
            ]. However, because only Cu particles ink electrodes are easily oxidized at high temperature and high humidity conditions, it is weak to long term reliability.
           </p>
           <p>
            In order to improve the long-term reliability of the low temperature curing electrode materials, research on Ag coated Cu paste for the Si solar cell was also conducted. However, the resistivity of the thermal cured electrode needs to be improved further to enhance the performance of the Si solar cell [
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR23" id="ref-link-section-d234796240e554" title="Nakamura, K. M., Tanaka, A., Ohshita, Y. (2018). Newly developed Ag coated Cu paste for Si hetero-junction solar cell. In 35th European Photovoltaic Solar Energy Conference and Exhibition, pp. 704–706.">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR23" id="ref-link-section-d238793873e554" title="Nakamura, K. M., Tanaka, A., Ohshita, Y. (2018). Newly developed Ag coated Cu paste for Si hetero-junction solar cell. In 35th European Photovoltaic Solar Energy Conference and Exhibition, pp. 704–706.">
             23
            </a>
            ]. In this study, screen-printed Ag coated Cu particles paste was sintered via IPL sintering process varying the light energy. The reliability, resistivity and interfacial contact resistance of the IPL sintered Ag coated Cu electrode were tested for a highly reliable solar cell.
@@ -778,11 +778,11 @@
           </h3>
           <p>
            To predict the heat generation of a Ag coated Cu paste electrode during the IPL sintering process, a general two-dimensional finite difference formulation of the heat conduction in implicit method was calculated by homemade program named ‘flash light sintering (FLS) program’ [
-           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR24" id="ref-link-section-d234796240e624" title="Jang, Y.-R., Ryu, C.-H., Hwang, Y.-T., &amp; Kim, H.-S. (2020). Optimization of intense pulsed light sintering considering dimensions of printed Cu nano/micro-paste patterns for printed electronics. International Journal of Precision Engineering and Manufacturing-Green Technology, 8, 471–485.">
+           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR24" id="ref-link-section-d238793873e624" title="Jang, Y.-R., Ryu, C.-H., Hwang, Y.-T., &amp; Kim, H.-S. (2020). Optimization of intense pulsed light sintering considering dimensions of printed Cu nano/micro-paste patterns for printed electronics. International Journal of Precision Engineering and Manufacturing-Green Technology, 8, 471–485.">
             24
            </a>
            ]. According to the heat transfer theory [
-           <a aria-label="Reference 25" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR25" id="ref-link-section-d234796240e627" title="Cengel, Y. A. (2007). Heat Transfer: A Practica Approach. . New Jersey: McGraw-Hill.">
+           <a aria-label="Reference 25" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR25" id="ref-link-section-d238793873e627" title="Cengel, Y. A. (2007). Heat Transfer: A Practica Approach. . New Jersey: McGraw-Hill.">
             25
            </a>
            ], the equation was constructed based on the following governing equation:
@@ -900,11 +900,11 @@
           </h3>
           <p>
            It has been well known that the damage on the Si substrate could occur due to the UV wavelength light and several reports on defect formation in bulk region of Si and passivation failure by UV light have been published [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR26" id="ref-link-section-d234796240e1733" title="Granek, F., &amp; Reichel, C. (2010). Back-contact back-junction silicon solar cells under UV illumination. Solar Energy Materials and Solar Cells, 94(10), 1734–1740.">
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR26" id="ref-link-section-d238793873e1733" title="Granek, F., &amp; Reichel, C. (2010). Back-contact back-junction silicon solar cells under UV illumination. Solar Energy Materials and Solar Cells, 94(10), 1734–1740.">
             26
            </a>
            ,
-           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR27" id="ref-link-section-d234796240e1736" title="Ye, F., Li, Y., Deng, W., Chen, H., Liao, G., Feng, Z., et al. (2018). UV-induced degradation in multicrystalline PERC cell and module. Solar Energy, 170, 1009–1015.">
+           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR27" id="ref-link-section-d238793873e1736" title="Ye, F., Li, Y., Deng, W., Chen, H., Liao, G., Feng, Z., et al. (2018). UV-induced degradation in multicrystalline PERC cell and module. Solar Energy, 170, 1009–1015.">
             27
            </a>
            ]. As shown in Fig.
@@ -912,11 +912,11 @@
             2
            </a>
            , the UV wavelength of 300 nm or less was weak, and the visible wavelength region of 450–650 nm was dominant. Thus, IPL irradiation may not be harmful to the solar cell and the damage on it could be minimized during the sintering process. In addition, the wavelength around 500 nm was considered to be advantageous for the sintering process as the surface plasmonic resonance wavelength of the Ag nanoparticles [
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR14" id="ref-link-section-d234796240e1742" title="Lee, K.-C., Lin, S.-J., Lin, C.-H., Tsai, C.-S., &amp; Lu, Y.-J. (2008). Size effect of Ag nanoparticles on surface plasmon resonance. Surface and Coatings Technology, 202(22–23), 5339–5342.">
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR14" id="ref-link-section-d238793873e1742" title="Lee, K.-C., Lin, S.-J., Lin, C.-H., Tsai, C.-S., &amp; Lu, Y.-J. (2008). Size effect of Ag nanoparticles on surface plasmon resonance. Surface and Coatings Technology, 202(22–23), 5339–5342.">
             14
            </a>
            ,
-           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR15" id="ref-link-section-d234796240e1745" title="Ringe, E., McMahon, J. M., Sohn, K., Cobley, C., Xia, Y., Huang, J., et al. (2010). Unraveling the effects of size, composition, and substrate on the localized surface plasmon resonance frequencies of gold and silver nanocubes: a systematic single-particle approach. The Journal of Physical Chemistry C, 114(29), 12511–12516.">
+           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR15" id="ref-link-section-d238793873e1745" title="Ringe, E., McMahon, J. M., Sohn, K., Cobley, C., Xia, Y., Huang, J., et al. (2010). Unraveling the effects of size, composition, and substrate on the localized surface plasmon resonance frequencies of gold and silver nanocubes: a systematic single-particle approach. The Journal of Physical Chemistry C, 114(29), 12511–12516.">
             15
            </a>
            ].
@@ -1116,7 +1116,7 @@
             1)
            </a>
            [
-           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR24" id="ref-link-section-d234796240e1954" title="Jang, Y.-R., Ryu, C.-H., Hwang, Y.-T., &amp; Kim, H.-S. (2020). Optimization of intense pulsed light sintering considering dimensions of printed Cu nano/micro-paste patterns for printed electronics. International Journal of Precision Engineering and Manufacturing-Green Technology, 8, 471–485.">
+           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR24" id="ref-link-section-d238793873e1954" title="Jang, Y.-R., Ryu, C.-H., Hwang, Y.-T., &amp; Kim, H.-S. (2020). Optimization of intense pulsed light sintering considering dimensions of printed Cu nano/micro-paste patterns for printed electronics. International Journal of Precision Engineering and Manufacturing-Green Technology, 8, 471–485.">
             24
            </a>
            ].
@@ -1526,11 +1526,11 @@
             2
            </sup>
            confirmed the increase of iVoc. The increase of iVoc by the IPL irradiation might be coming from improvement of surface passivation by light exposure [
-           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR28" id="ref-link-section-d234796240e2339" title="Kobayashi, E., De Wolf, S., Levrat, J., Christmann, G., Descoeudres, A., Nicolay, S., et al. (2016). Light-induced performance increase of silicon heterojunction solar cells. Applied Physics Letters, 109(15), 153503.">
+           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR28" id="ref-link-section-d238793873e2339" title="Kobayashi, E., De Wolf, S., Levrat, J., Christmann, G., Descoeudres, A., Nicolay, S., et al. (2016). Light-induced performance increase of silicon heterojunction solar cells. Applied Physics Letters, 109(15), 153503.">
             28
            </a>
            ,
-           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR29" id="ref-link-section-d234796240e2342" title="Mahtani, P., Varache, R., Jovet, B., Longeaud, C., Kleider, J.-P., &amp; Kherani, N. P. (2013). Light induced changes in the amorphous—crystalline silicon heterointerface. Journal of Applied Physics, 114(12), 124503.">
+           <a aria-label="Reference 29" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR29" id="ref-link-section-d238793873e2342" title="Mahtani, P., Varache, R., Jovet, B., Longeaud, C., Kleider, J.-P., &amp; Kherani, N. P. (2013). Light induced changes in the amorphous—crystalline silicon heterointerface. Journal of Applied Physics, 114(12), 124503.">
             29
            </a>
            ]. It was confirmed that surface passivation was improved by reducing density of defect site at doped a-Si/c-Si interface during light exposure. When the IPL sintering process was performed under conditions of 7 J/cm
@@ -1700,11 +1700,11 @@
             12
            </a>
            , the pFF level is more than 83.0% in the Suns-Voc measurement after cell fabrication, and the influence of junction leakage was weak. After 6 h of exposure to 1 sun per day at room temperature (25 ℃) in ambient condition, the evaluation was carried out for 6 months. It was expected that the effect of the diffusion barrier effect of the TCO layer between Si and Cu. Cu diffusion was considered to be prevented by applying a sintering temperature of 650 ℃ or less by applying a TCO thickness of 50 nm or more [
-           <a aria-label="Reference 30" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR30" id="ref-link-section-d234796240e2445" title="Liu, C., Liu, W., Chen, W., Hsieh, S., Tsai, T., &amp; Yang, L. (2005). ITO as a diffusion barrier between Si and Cu. Journal of The Electrochemical Society, 152(3), G234–G239.">
+           <a aria-label="Reference 30" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR30" id="ref-link-section-d238793873e2445" title="Liu, C., Liu, W., Chen, W., Hsieh, S., Tsai, T., &amp; Yang, L. (2005). ITO as a diffusion barrier between Si and Cu. Journal of The Electrochemical Society, 152(3), G234–G239.">
             30
            </a>
            ]. Also, it was confirmed that Cu diffusion was not observed in the a-IGZO device even after annealing for 1 h at 30 nm TCO thickness [
-           <a aria-label="Reference 31" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR31" id="ref-link-section-d234796240e2448" title="Hu, S., Lu, K., Ning, H., Fang, Z., Liu, X., Xie, W., et al. (2018). Effect of ITO Serving As A Barrier Layer for Cu electrodes on performance of a-IGZO TFT. IEEE Electron Device Letters, 39(4), 504–507.">
+           <a aria-label="Reference 31" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s40684-021-00346-3#ref-CR31" id="ref-link-section-d238793873e2448" title="Hu, S., Lu, K., Ning, H., Fang, Z., Liu, X., Xie, W., et al. (2018). Effect of ITO Serving As A Barrier Layer for Cu electrodes on performance of a-IGZO TFT. IEEE Electron Device Letters, 39(4), 504–507.">
             31
            </a>
            ]. It was confirmed that TCO layer played a role as a Cu diffusion barrier layer, and these results were confirmed by confirming the pFF value for 6 months after cell production in this study.

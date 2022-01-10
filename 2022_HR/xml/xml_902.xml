@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="7e065d82-a00f-49ef-90b8-6f4c7851c348" lang="en">
+<html class="pb-page" data-request-id="33277ab9-a4a3-48c7-a861-1c258286203f" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;issue:issue:10.1021/jacsat.2019.141.issue-17;wgroup:string:ACHS website Group;requestedJournal:journal:jacsat;website:website:acspubs;article:article:10.1021/jacs.9b00911;pageGroup:string:Publication Pages;subPage:string:Full Text;journal:journal:jacsat" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -197,7 +197,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: '0321b23c-f3f9-4bd2-9a07-d559d18d2a69'
+                            eventGroupKey: 'fc0b96c0-3491-4500-aee3-1a201f4b0bde'
                         }
 
                     }).done(function (status) {
@@ -1532,8 +1532,8 @@
                  <strong>
                   *
                  </strong>
-                 <a href="/cdn-cgi/l/email-protection#f69e85999891b69d979f8582d89795d89d84">
-                  <span class="__cf_email__" data-cfemail="442c372b2a23042f252d37306a25276a2f36">
+                 <a href="/cdn-cgi/l/email-protection#68001b07060f280309011b1c46090b46031a">
+                  <span class="__cf_email__" data-cfemail="3159425e5f56715a505842451f50521f5a43">
                    [email protected]
                   </span>
                  </a>
@@ -2157,14 +2157,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_71500" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_77726" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_71500">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_77726">
                   </div>
                  </div>
                 </div>
@@ -2294,14 +2294,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_12533" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_51272" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_12533">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_51272">
                   </div>
                  </div>
                 </div>
@@ -3480,14 +3480,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_73287" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_88546" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_73287">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_88546">
                   </div>
                  </div>
                 </div>
@@ -3612,14 +3612,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_02170" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_00161" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_02170">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_00161">
                    </div>
                   </div>
                  </div>
@@ -3699,14 +3699,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_18358" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_70758" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_18358">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_70758">
                    </div>
                   </div>
                  </div>
@@ -3746,8 +3746,8 @@ of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#4b233824252c0b202a22383f652a28652039">
-                      <span class="__cf_email__" data-cfemail="c4acb7abaaa384afa5adb7b0eaa5a7eaafb6">
+                     <a href="/cdn-cgi/l/email-protection#deb6adb1b0b99eb5bfb7adaaf0bfbdf0b5ac">
+                      <span class="__cf_email__" data-cfemail="3a524955545d7a515b53494e145b59145148">
                        [email protected]
                       </span>
                      </a>
@@ -3856,14 +3856,14 @@ Science and Technology, Daejeon 34141, Republic of Korea
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_30454" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_84151" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_30454">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_84151">
                    </div>
                   </div>
                  </div>
@@ -3887,14 +3887,14 @@ Science and Technology, Daejeon 34141, Republic of Korea
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_08841" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_57833" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_08841">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_57833">
                    </div>
                   </div>
                  </div>
@@ -4051,7 +4051,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEn8XjDV0UqrVg90H21EOLACvtfcHk0lgUPQcoGwH2cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEn8XjDV0UqrVg90H21EOLACvtfcHk0lic1ph2tZPYUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4230,7 +4230,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq4k15tJxjPOLVg90H21EOLACvtfcHk0lgUPQcoGwH2cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq4k15tJxjPOLVg90H21EOLACvtfcHk0lic1ph2tZPYUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4378,7 +4378,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGog8v4Xyx-UPrVg90H21EOLACvtfcHk0lgUPQcoGwH2cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGog8v4Xyx-UPrVg90H21EOLACvtfcHk0ljLSKwDvxDKiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4557,7 +4557,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqI0hZc2dGN7LVg90H21EOLACvtfcHk0lixGV-jllul9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqI0hZc2dGN7LVg90H21EOLACvtfcHk0ljLSKwDvxDKiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4723,7 +4723,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrHPRMWHFgIFLVg90H21EOLACvtfcHk0lixGV-jllul9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrHPRMWHFgIFLVg90H21EOLACvtfcHk0ljLSKwDvxDKiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4914,7 +4914,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpK8m6CqO5BZbVg90H21EOLACvtfcHk0liQtBkyiaIiJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpK8m6CqO5BZbVg90H21EOLACvtfcHk0ljVLyQaKz4uJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5061,7 +5061,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTPDnOQNKsWbVg90H21EOLACvtfcHk0liQtBkyiaIiJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTPDnOQNKsWbVg90H21EOLACvtfcHk0ljVLyQaKz4uJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5466,7 +5466,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpiGRwp3u8xAbVg90H21EOLACvtfcHk0lgIQoEPleI5XQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpiGRwp3u8xAbVg90H21EOLACvtfcHk0lgXeOKEZJuLNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5616,7 +5616,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq15H5NW_HnAbVg90H21EOLACvtfcHk0lgIQoEPleI5XQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq15H5NW_HnAbVg90H21EOLACvtfcHk0lgXeOKEZJuLNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5786,7 +5786,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTc3x810k3bVg90H21EOLACvtfcHk0ljCIJyUJOml0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTc3x810k3bVg90H21EOLACvtfcHk0lgXeOKEZJuLNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5930,7 +5930,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTmJ9MHkM5vHr7NkxioyDXTfW6udTcc2eYQC3WhbzSofbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTmJ9MHkM5vHr7NkxioyDXTfW6udTcc2eYbr4_NqVIBELntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6195,7 +6195,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzWvRRKZH5KrVg90H21EOLACvtfcHk0ljCIJyUJOml0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzWvRRKZH5KrVg90H21EOLACvtfcHk0likYoYyFyb4iw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6419,7 +6419,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqtmnZ_FOL7rVg90H21EOLACvtfcHk0lgs8pB6xQ4E9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqtmnZ_FOL7rVg90H21EOLACvtfcHk0likYoYyFyb4iw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6919,7 +6919,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQChvGE04QFrVg90H21EOLACvtfcHk0lgs8pB6xQ4E9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQChvGE04QFrVg90H21EOLACvtfcHk0lgUKPjgLhAtmg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7112,7 +7112,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovVhV2gSqNQLVg90H21EOLACvtfcHk0lin_YbQlSslgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovVhV2gSqNQLVg90H21EOLACvtfcHk0lj-7W1IaQb1iw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7258,7 +7258,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_NLJ6eyk08LVg90H21EOLACvtfcHk0lin_YbQlSslgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_NLJ6eyk08LVg90H21EOLACvtfcHk0lj-7W1IaQb1iw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7407,7 +7407,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV7_pdXqJ4P7Vg90H21EOLACvtfcHk0lin_YbQlSslgg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV7_pdXqJ4P7Vg90H21EOLACvtfcHk0lj-7W1IaQb1iw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7573,7 +7573,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTM5cMY9cr245I8NvIb08rbfW6udTcc2eZLqTgf82FTdLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTM5cMY9cr245I8NvIb08rbfW6udTcc2eYBpK5UvX-Rtbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7825,7 +7825,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZEsT8AJ-P17Vg90H21EOLACvtfcHk0liS1ta_ECOeVw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZEsT8AJ-P17Vg90H21EOLACvtfcHk0lhzoO1oBJGEFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8071,7 +8071,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqVKYVWSOfSXLVg90H21EOLACvtfcHk0liS1ta_ECOeVw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqVKYVWSOfSXLVg90H21EOLACvtfcHk0lhzoO1oBJGEFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8230,7 +8230,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPEluu1SjctrVg90H21EOLACvtfcHk0lik0PIYALIUQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPEluu1SjctrVg90H21EOLACvtfcHk0lgLdzLQ0eHmrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8393,7 +8393,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGMjBVSvYBU7Vg90H21EOLACvtfcHk0lik0PIYALIUQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGMjBVSvYBU7Vg90H21EOLACvtfcHk0lgLdzLQ0eHmrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8565,7 +8565,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrn0u6yZi1e-7Vg90H21EOLACvtfcHk0lik0PIYALIUQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrn0u6yZi1e-7Vg90H21EOLACvtfcHk0lgLdzLQ0eHmrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8826,7 +8826,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKXJmfb1-TFbVg90H21EOLACvtfcHk0lh52DZ2PryjmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKXJmfb1-TFbVg90H21EOLACvtfcHk0liDDB-SGS-EOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8958,7 +8958,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN4lb168iH2LVg90H21EOLACvtfcHk0lh52DZ2PryjmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN4lb168iH2LVg90H21EOLACvtfcHk0liDDB-SGS-EOA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9090,7 +9090,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrAR-v-1_WgK7Vg90H21EOLACvtfcHk0lh52DZ2PryjmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrAR-v-1_WgK7Vg90H21EOLACvtfcHk0li94_s4pne_Ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9222,7 +9222,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolt6ZDDdGTnbVg90H21EOLACvtfcHk0lidn3IEKFArmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolt6ZDDdGTnbVg90H21EOLACvtfcHk0li94_s4pne_Ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9431,7 +9431,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovHvUXCymUrbVg90H21EOLACvtfcHk0lidn3IEKFArmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovHvUXCymUrbVg90H21EOLACvtfcHk0li94_s4pne_Ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9581,7 +9581,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpuM4TMC_1aHbVg90H21EOLACvtfcHk0lidn3IEKFArmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpuM4TMC_1aHbVg90H21EOLACvtfcHk0li94_s4pne_Ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9818,7 +9818,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWp1fFTLM-2rVg90H21EOLACvtfcHk0liWF9KWrzOvTQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWp1fFTLM-2rVg90H21EOLACvtfcHk0lh49nXPVLi_3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11721,7 +11721,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                    </span>
                    <span class="cited-content_cbyCitation_article-title">
                     Amorphous urchin-like
-                    <a class="__cf_email__" data-cfemail="40232f30302532002e212e2f33292c292321" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="cba8a4bbbbaeb98ba5aaa5a4b8a2a7a2a8aa" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     hybrid for efficient CO2 electroreduction to C2+ products.
@@ -15553,14 +15553,14 @@ Science and Technology, Daejeon 34141, Republic of Korea
                       ARTICLE SECTIONS
                      </span>
                      <div class="article_sections-dropBlock">
-                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_25013" href="#">
+                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_42673" href="#">
                        <span>
                         Jump To
                        </span>
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_25013">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_42673">
                       </div>
                      </div>
                     </div>
@@ -15717,7 +15717,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEn8XjDV0UqrVg90H21EOLACvtfcHk0li2tnfo0sl_sQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqEn8XjDV0UqrVg90H21EOLACvtfcHk0lhLFCnAYtMThA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15896,7 +15896,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq4k15tJxjPOLVg90H21EOLACvtfcHk0li2tnfo0sl_sQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq4k15tJxjPOLVg90H21EOLACvtfcHk0lhLFCnAYtMThA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16044,7 +16044,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGog8v4Xyx-UPrVg90H21EOLACvtfcHk0lhSeiTWxL_U6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGog8v4Xyx-UPrVg90H21EOLACvtfcHk0lj_hhGamersIg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16223,7 +16223,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqI0hZc2dGN7LVg90H21EOLACvtfcHk0lhSeiTWxL_U6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqI0hZc2dGN7LVg90H21EOLACvtfcHk0lidsTF1LMBBkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16389,7 +16389,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrHPRMWHFgIFLVg90H21EOLACvtfcHk0lhSeiTWxL_U6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrHPRMWHFgIFLVg90H21EOLACvtfcHk0lidsTF1LMBBkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16580,7 +16580,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpK8m6CqO5BZbVg90H21EOLACvtfcHk0lh7nQtYUFrtug" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpK8m6CqO5BZbVg90H21EOLACvtfcHk0lidsTF1LMBBkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16727,7 +16727,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTPDnOQNKsWbVg90H21EOLACvtfcHk0lh7nQtYUFrtug" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTPDnOQNKsWbVg90H21EOLACvtfcHk0lhsqTdbcVZv3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17132,7 +17132,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpiGRwp3u8xAbVg90H21EOLACvtfcHk0lgm5zvnyS-ruQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpiGRwp3u8xAbVg90H21EOLACvtfcHk0lhsqTdbcVZv3Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17282,7 +17282,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq15H5NW_HnAbVg90H21EOLACvtfcHk0lgm5zvnyS-ruQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq15H5NW_HnAbVg90H21EOLACvtfcHk0linn9BKLsxQ0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17452,7 +17452,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTc3x810k3bVg90H21EOLACvtfcHk0lgm5zvnyS-ruQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTc3x810k3bVg90H21EOLACvtfcHk0linn9BKLsxQ0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17596,7 +17596,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTmJ9MHkM5vHr7NkxioyDXTfW6udTcc2eY4JfHJZ9ysRrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTmJ9MHkM5vHr7NkxioyDXTfW6udTcc2eY0ZrohlHotkLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17861,7 +17861,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzWvRRKZH5KrVg90H21EOLACvtfcHk0lgUTpo1BC6ejA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzWvRRKZH5KrVg90H21EOLACvtfcHk0ljS9O7XzN2__w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18085,7 +18085,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqtmnZ_FOL7rVg90H21EOLACvtfcHk0lgUTpo1BC6ejA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqtmnZ_FOL7rVg90H21EOLACvtfcHk0ljS9O7XzN2__w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18585,7 +18585,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQChvGE04QFrVg90H21EOLACvtfcHk0lgKqR91pSYhGQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQChvGE04QFrVg90H21EOLACvtfcHk0li4-V9VmWnYQQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18778,7 +18778,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovVhV2gSqNQLVg90H21EOLACvtfcHk0lgLkN-udwRzMQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovVhV2gSqNQLVg90H21EOLACvtfcHk0lgwoT_F6oyBzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18924,7 +18924,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_NLJ6eyk08LVg90H21EOLACvtfcHk0lgLkN-udwRzMQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_NLJ6eyk08LVg90H21EOLACvtfcHk0lgwoT_F6oyBzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19073,7 +19073,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV7_pdXqJ4P7Vg90H21EOLACvtfcHk0lgLkN-udwRzMQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV7_pdXqJ4P7Vg90H21EOLACvtfcHk0lgwoT_F6oyBzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19239,7 +19239,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTM5cMY9cr245I8NvIb08rbfW6udTcc2eaTvQIZnqGxwrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTM5cMY9cr245I8NvIb08rbfW6udTcc2ebpb-HodPuhlbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19491,7 +19491,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZEsT8AJ-P17Vg90H21EOLACvtfcHk0liIuRvP2ErOAQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZEsT8AJ-P17Vg90H21EOLACvtfcHk0ljRdar5z0IN9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19737,7 +19737,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqVKYVWSOfSXLVg90H21EOLACvtfcHk0liIuRvP2ErOAQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqVKYVWSOfSXLVg90H21EOLACvtfcHk0ljRdar5z0IN9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19896,7 +19896,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPEluu1SjctrVg90H21EOLACvtfcHk0ljhAnAQTIPHkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPEluu1SjctrVg90H21EOLACvtfcHk0lhg66WiElSaNw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20059,7 +20059,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGMjBVSvYBU7Vg90H21EOLACvtfcHk0ljhAnAQTIPHkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGMjBVSvYBU7Vg90H21EOLACvtfcHk0lhg66WiElSaNw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20231,7 +20231,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrn0u6yZi1e-7Vg90H21EOLACvtfcHk0ljhAnAQTIPHkg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrn0u6yZi1e-7Vg90H21EOLACvtfcHk0lhg66WiElSaNw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20492,7 +20492,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKXJmfb1-TFbVg90H21EOLACvtfcHk0lhcG9OLNLp_kA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKXJmfb1-TFbVg90H21EOLACvtfcHk0lgGjIdgi7oI6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20624,7 +20624,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN4lb168iH2LVg90H21EOLACvtfcHk0lhcG9OLNLp_kA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpN4lb168iH2LVg90H21EOLACvtfcHk0lgGjIdgi7oI6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20756,7 +20756,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrAR-v-1_WgK7Vg90H21EOLACvtfcHk0lhcG9OLNLp_kA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrAR-v-1_WgK7Vg90H21EOLACvtfcHk0lgGjIdgi7oI6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20888,7 +20888,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolt6ZDDdGTnbVg90H21EOLACvtfcHk0lgoucgCc51gnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolt6ZDDdGTnbVg90H21EOLACvtfcHk0lj-ibxdy-QzGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21097,7 +21097,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovHvUXCymUrbVg90H21EOLACvtfcHk0lgoucgCc51gnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGovHvUXCymUrbVg90H21EOLACvtfcHk0lj-ibxdy-QzGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21247,7 +21247,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpuM4TMC_1aHbVg90H21EOLACvtfcHk0lgoucgCc51gnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpuM4TMC_1aHbVg90H21EOLACvtfcHk0lj-ibxdy-QzGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21484,7 +21484,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWp1fFTLM-2rVg90H21EOLACvtfcHk0lh-xkR-UL8DmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqWp1fFTLM-2rVg90H21EOLACvtfcHk0lhZXJPoX_l-7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21606,7 +21606,7 @@ Science and Technology, Daejeon 34141, Republic of Korea
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_31000">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_43345">
                       </div>
                      </div>
                     </div>
@@ -22664,7 +22664,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad8880ec430fac","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb1a0c8ca9761bf","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

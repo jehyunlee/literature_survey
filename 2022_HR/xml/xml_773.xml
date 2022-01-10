@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="3509c816-2a71-4b74-9ad0-837022b493a3" lang="en">
+<html class="pb-page" data-request-id="1a4bf592-a827-471b-8f56-a37d8aac747d" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;article:article:10.1021/acsami.0c18454;website:website:acspubs;journal:journal:aamick;pageGroup:string:Publication Pages;subPage:string:Full Text;issue:issue:10.1021/aamick.2021.13.issue-1" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -204,7 +204,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: '25ac7e37-f82c-4642-9211-68ef75aaa2d4'
+                            eventGroupKey: 'b2d15106-80d7-4674-abbf-bcf8c59815a6'
                         }
 
                     }).done(function (status) {
@@ -1648,8 +1648,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#96eff9f8f1fbfff8fdfffbd6fdffe5e2b8e4f3b8fde4">
-                  <span class="__cf_email__" data-cfemail="1d6472737a7074737674705d76746e69336f7833766f">
+                 <a href="/cdn-cgi/l/email-protection#740d1b1a13191d1a1f1d19341f1d07005a06115a1f06">
+                  <span class="__cf_email__" data-cfemail="c0b9afaea7ada9aeaba9ad80aba9b3b4eeb2a5eeabb2">
                    [email protected]
                   </span>
                  </a>
@@ -1698,8 +1698,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#39525b525054794056574a5c5017585a17524b">
-                  <span class="__cf_email__" data-cfemail="375c555c5e5a774e585944525e195654195c45">
+                 <a href="/cdn-cgi/l/email-protection#c8a3aaa3a1a588b1a7a6bbada1e6a9abe6a3ba">
+                  <span class="__cf_email__" data-cfemail="b4dfd6dfddd9f4cddbdac7d1dd9ad5d79adfc6">
                    [email protected]
                   </span>
                  </a>
@@ -1748,8 +1748,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#7506021b351e1c06015b07105b1e07">
-                  <span class="__cf_email__" data-cfemail="97e4e0f9d7fcfee4e3b9e5f2b9fce5">
+                 <a href="/cdn-cgi/l/email-protection#780b0f163813110b0c560a1d56130a">
+                  <span class="__cf_email__" data-cfemail="eb989c85ab8082989fc5998ec58099">
                    [email protected]
                   </span>
                  </a>
@@ -5098,8 +5098,8 @@ of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#4f362021282226212426220f24263c3b613d2a61243d">
-                      <span class="__cf_email__" data-cfemail="196076777e7470777270745972706a6d376b7c37726b">
+                     <a href="/cdn-cgi/l/email-protection#cfb6a0a1a8a2a6a1a4a6a28fa4a6bcbbe1bdaae1a4bd">
+                      <span class="__cf_email__" data-cfemail="60190f0e070d090e0b090d200b0913144e12054e0b12">
                        [email protected]
                       </span>
                      </a>
@@ -5127,8 +5127,8 @@ University, Seoul 03722, Republic of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#d9b2bbb2b0b499a0b6b7aabcb0f7b8baf7b2ab">
-                      <span class="__cf_email__" data-cfemail="147f767f7d79546d7b7a67717d3a75773a7f66">
+                     <a href="/cdn-cgi/l/email-protection#2d464f4644406d5442435e4844034c4e03465f">
+                      <span class="__cf_email__" data-cfemail="9ff4fdf4f6f2dfe6f0f1ecfaf6b1fefcb1f4ed">
                        [email protected]
                       </span>
                      </a>
@@ -5150,8 +5150,8 @@ of Korea
                     ;
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#2c5f5b426c47455f58025e4902475e">
-                      <span class="__cf_email__" data-cfemail="f182869fb19a988285df8394df9a83">
+                     <a href="/cdn-cgi/l/email-protection#3142465f715a5842451f43541f5a43">
+                      <span class="__cf_email__" data-cfemail="b9caced7f9d2d0cacd97cbdc97d2cb">
                        [email protected]
                       </span>
                      </a>
@@ -5530,7 +5530,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8-F2tGHrBQbVg90H21EOLACvtfcHk0lgs6VerzhwUGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8-F2tGHrBQbVg90H21EOLACvtfcHk0li6hFtnSXU_ow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5800,7 +5800,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlf1UQRjEfBLVg90H21EOLACvtfcHk0lgSdREifNQdHg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlf1UQRjEfBLVg90H21EOLACvtfcHk0liii_VmWt_uJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5954,7 +5954,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTId-Avx9RCbVg90H21EOLACvtfcHk0lgSdREifNQdHg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTId-Avx9RCbVg90H21EOLACvtfcHk0lhqB-7KqwFALg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6109,7 +6109,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNogUUZbs8hLVg90H21EOLACvtfcHk0lh3MDIoGmB6bA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNogUUZbs8hLVg90H21EOLACvtfcHk0lhqB-7KqwFALg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6255,7 +6255,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpYqNa12w5ALrVg90H21EOLACvtfcHk0lh3MDIoGmB6bA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpYqNa12w5ALrVg90H21EOLACvtfcHk0ljHvdXyfNfMGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6404,7 +6404,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0oveqecTOTbVg90H21EOLACvtfcHk0lh3MDIoGmB6bA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0oveqecTOTbVg90H21EOLACvtfcHk0ljHvdXyfNfMGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6546,7 +6546,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpAU_WF0HcOxbVg90H21EOLACvtfcHk0lhhLQuoDeJCcA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpAU_WF0HcOxbVg90H21EOLACvtfcHk0lhIFhylRHjzFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6698,7 +6698,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr2xVM5_8Y0ArVg90H21EOLACvtfcHk0lhhLQuoDeJCcA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr2xVM5_8Y0ArVg90H21EOLACvtfcHk0lhIFhylRHjzFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6848,7 +6848,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp343JNcGQ6srVg90H21EOLACvtfcHk0ljgJeTZ4j35CQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp343JNcGQ6srVg90H21EOLACvtfcHk0lgqkgyvpS7zxw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6988,7 +6988,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpLVDiCWZ6A9rVg90H21EOLACvtfcHk0ljgJeTZ4j35CQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpLVDiCWZ6A9rVg90H21EOLACvtfcHk0lgqkgyvpS7zxw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7140,7 +7140,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo-5BSr-cDbTbVg90H21EOLACvtfcHk0ljgJeTZ4j35CQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo-5BSr-cDbTbVg90H21EOLACvtfcHk0liQ_TNy050mog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7206,7 +7206,7 @@ of Korea
                    </span>
                    <span class="NLM_article-title">
                     Embedded
-                    <a class="__cf_email__" data-cfemail="206d4f6e6063" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="531e3c1d1310" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     Nanocomposites as an Advanced Catalyst for Ammonia Decomposition to COx-Free Hydrogen
@@ -7255,7 +7255,7 @@ of Korea
                      <div class="casTitle">
                       <span class="NLM_cas:atitle">
                        Embedded
-                       <a class="__cf_email__" data-cfemail="9fd2f0d1dfdc" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="85c8eacbc5c6" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        nanocomposites as an advanced catalyst for ammonia decomposition to COx-free hydrogen
@@ -7303,30 +7303,30 @@ of Korea
                      </div>
                      <div class="casAbstract">
                       Mo-based nanoparticles (MoO2 and Mo2C) embedded in porous C matrix were synthesized by a successive hydrothermal and thermal treatment strategy.  The synthesized materials were tested for COx-free H prodn. via ammonia decompn.  Various characterizations, including N-sorption, TGA, FTIR, TEM, XRD, EDX and XPS, were used to study the morphol., component and structure of fresh and used catalysts.  In terms of fresh
-                      <a class="__cf_email__" data-cfemail="521f3d1211" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="c78aa88784" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       sample, tiny Mo-based nanoparticles (3-6 nm) are homogeneously dispersed in porous carbon matrixes, which were rapidly nitridized to MoN phases during reaction process.  Most of MoN species were still embedded in C matrixes after 25 h stability test.  For comparison,
-                      <a class="__cf_email__" data-cfemail="f8b597b6b8bb" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="e7aa88a9a7a4" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       sample was achieved via temp.-programmed ammonolysis of
-                      <a class="__cf_email__" data-cfemail="682507282b" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="135e7c5350" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       sample, demonstrating the formation of MoN species and enhanced activities.  The ammonia decompn. activity (∼90% conversion) is obtained over
-                      <a class="__cf_email__" data-cfemail="74391b3a3437" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="f3be9cbdb3b0" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       catalyst at 600° and 15,000/h, which is higher than that of non-pretreated
-                      <a class="__cf_email__" data-cfemail="c18cae8182" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="672a082724" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       catalyst.  This embedded structure also endows them with a relatively stable performance even at high temp.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlx0iOhLQ-M7Vg90H21EOLACvtfcHk0lhCg6v2SwvpkA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlx0iOhLQ-M7Vg90H21EOLACvtfcHk0liQ_TNy050mog" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7480,7 +7480,7 @@ of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8XoYZ0aq3LrVg90H21EOLACvtfcHk0lhCg6v2SwvpkA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8XoYZ0aq3LrVg90H21EOLACvtfcHk0liaxudFCO3-Lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7709,7 +7709,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7nJCIdpcQ0bVg90H21EOLACvtfcHk0lhCFjULIwiLXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7nJCIdpcQ0bVg90H21EOLACvtfcHk0liaxudFCO3-Lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7857,7 +7857,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvvMPbqc20gbVg90H21EOLACvtfcHk0lhCFjULIwiLXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvvMPbqc20gbVg90H21EOLACvtfcHk0lh_yQzn_C8-3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8009,7 +8009,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrF9Pdfvm1MTrVg90H21EOLACvtfcHk0lhCFjULIwiLXA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrF9Pdfvm1MTrVg90H21EOLACvtfcHk0lh_yQzn_C8-3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8151,7 +8151,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY7JbgjalEprVg90H21EOLACvtfcHk0lgCSDrRsyGEgA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY7JbgjalEprVg90H21EOLACvtfcHk0liEPHwgL4eqxw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8353,7 +8353,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqmTdXfsDq-KbVg90H21EOLACvtfcHk0lgCSDrRsyGEgA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqmTdXfsDq-KbVg90H21EOLACvtfcHk0liEPHwgL4eqxw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8519,7 +8519,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGox0WD00G8DprVg90H21EOLACvtfcHk0ljHkwynAadptA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGox0WD00G8DprVg90H21EOLACvtfcHk0lhDEPhBRV0ynA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8691,7 +8691,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzilGgmup7VbVg90H21EOLACvtfcHk0ljHkwynAadptA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzilGgmup7VbVg90H21EOLACvtfcHk0lhDEPhBRV0ynA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8857,7 +8857,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqylEX3mA7IirVg90H21EOLACvtfcHk0ljhJtlEFOM9Sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqylEX3mA7IirVg90H21EOLACvtfcHk0ljRqrLkZV4y0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9003,7 +9003,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzAya7n1iX3bVg90H21EOLACvtfcHk0ljhJtlEFOM9Sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzAya7n1iX3bVg90H21EOLACvtfcHk0ljRqrLkZV4y0A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9154,7 +9154,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRtAU-mrCEJLVg90H21EOLACvtfcHk0ljhJtlEFOM9Sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRtAU-mrCEJLVg90H21EOLACvtfcHk0li0wBOg9AinzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9303,7 +9303,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoeYAPf1ZVf97Vg90H21EOLACvtfcHk0lijmXZrLna8Gw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoeYAPf1ZVf97Vg90H21EOLACvtfcHk0li0wBOg9AinzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9445,7 +9445,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLx0wsC86R7Vg90H21EOLACvtfcHk0lijmXZrLna8Gw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLx0wsC86R7Vg90H21EOLACvtfcHk0ljVE7lENoCMMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9599,7 +9599,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGriThZAuubISrVg90H21EOLACvtfcHk0lgwycUCxn4h1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGriThZAuubISrVg90H21EOLACvtfcHk0ljVE7lENoCMMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9752,7 +9752,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqksCroBvsWU7Vg90H21EOLACvtfcHk0lgwycUCxn4h1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqksCroBvsWU7Vg90H21EOLACvtfcHk0ljVE7lENoCMMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9931,7 +9931,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoymN2nqBDwSLVg90H21EOLACvtfcHk0lhWQdT2a3RmvA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoymN2nqBDwSLVg90H21EOLACvtfcHk0lgF1VQHmLoHiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10088,7 +10088,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGopm0zMNov1aLVg90H21EOLACvtfcHk0lhWQdT2a3RmvA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGopm0zMNov1aLVg90H21EOLACvtfcHk0lgs0TGDGH099g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10242,7 +10242,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJhBzvA2Zc-bVg90H21EOLACvtfcHk0lhWQdT2a3RmvA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJhBzvA2Zc-bVg90H21EOLACvtfcHk0lgs0TGDGH099g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10420,14 +10420,14 @@ Nov 20, 2020.
                      </div>
                      <div class="casAbstract">
                       Micro-sized Ni-Al alloy powders were synthesized using different quantities of Ni and Al powders as well as AlCl3 as an activator in a quartz batch reactor at ≤773 K.  This method, named low-temp. chem. alloying (LTCA), which allows Al atoms to diffuse into micro-sized nickel particles mediated by aluminum chloride (chem. promotor), is distinct from conventional processes, such as cast-and-crush, and gas atomization.  As-synthesized Ni-Al alloys were characterized using different anal. techniques that included X-ray diffraction (XRD), particle size anal., and field emission SEM in conjunction with energy dispersive X-ray spectroscopy (FESEM-EDS), to confirm the formation of alloy phases, such as Ni3Al, NiAl, Ni2Al3, and NiAl3.  The anal. results showed that the cryst. phase compns. of the Ni-Al alloys were highly dependent upon the initial amts. of Ni and Al powders employed at the given alloying conditions (alloying temp., 773 K; alloying time, 20 h; amt. of AlCl3, 1.2 wt%).  As a result of the thermal treatment of Ni-Al powder mixts. with the Al contents of (5, 15, 30, and 50) wt.% under continuous powder mixing by rotation, each powder was found to have (i) Ni solid soln. + Ni3Al, (ii) Ni3Al, (iii) NiAl, and (iv) Ni2Al3 + NiAl3 phases, resp., corresponding to the equil. states of the Ni-Al phase diagram.  The cross-sectional analyses showed that the alloy structures of the heat-treated powders exist in a single-phase or core-shell form, depending on the no. of cryst. phase compns. predicted from the phase diagram.  In particular, the Ni-50 wt% Al powder has a unique
-                      <a class="__cf_email__" data-cfemail="bdf3d48ffcd18efdf3d4fcd18e" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="b1ffd883f0dd82f1ffd8f0dd82" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       core-shell structure.  We further evaluate the performance of the as-developed Ni-Al alloy powders as oxidn.-resistant materials and template materials for high-surface area (∼60 m2/gcat) nickel catalysts.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0ljxSL1CMdNoOw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0lgALMTwIdrflg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10609,7 +10609,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo9riYK-mHVmbVg90H21EOLACvtfcHk0lhpMLDWsehY1A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo9riYK-mHVmbVg90H21EOLACvtfcHk0lilJWEbGrXc2g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10790,7 +10790,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTQ21ooGc-7Vg90H21EOLACvtfcHk0lhpMLDWsehY1A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTQ21ooGc-7Vg90H21EOLACvtfcHk0lilJWEbGrXc2g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10954,7 +10954,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqcoopmYWkG_7Vg90H21EOLACvtfcHk0lhJRBVc6ahYDA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqcoopmYWkG_7Vg90H21EOLACvtfcHk0lhXN0KBNOL4mQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11118,7 +11118,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPN9aJLSd0OLVg90H21EOLACvtfcHk0lhJRBVc6ahYDA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPN9aJLSd0OLVg90H21EOLACvtfcHk0lhXN0KBNOL4mQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11281,7 +11281,7 @@ Nov 20, 2020.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7aQsvN5DiLLVg90H21EOLACvtfcHk0lhJRBVc6ahYDA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7aQsvN5DiLLVg90H21EOLACvtfcHk0liTByKikP4sGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11459,14 +11459,14 @@ Nov 20, 2020.
                      </div>
                      <div class="casAbstract">
                       Micro-sized Ni-Al alloy powders were synthesized using different quantities of Ni and Al powders as well as AlCl3 as an activator in a quartz batch reactor at ≤773 K.  This method, named low-temp. chem. alloying (LTCA), which allows Al atoms to diffuse into micro-sized nickel particles mediated by aluminum chloride (chem. promotor), is distinct from conventional processes, such as cast-and-crush, and gas atomization.  As-synthesized Ni-Al alloys were characterized using different anal. techniques that included X-ray diffraction (XRD), particle size anal., and field emission SEM in conjunction with energy dispersive X-ray spectroscopy (FESEM-EDS), to confirm the formation of alloy phases, such as Ni3Al, NiAl, Ni2Al3, and NiAl3.  The anal. results showed that the cryst. phase compns. of the Ni-Al alloys were highly dependent upon the initial amts. of Ni and Al powders employed at the given alloying conditions (alloying temp., 773 K; alloying time, 20 h; amt. of AlCl3, 1.2 wt%).  As a result of the thermal treatment of Ni-Al powder mixts. with the Al contents of (5, 15, 30, and 50) wt.% under continuous powder mixing by rotation, each powder was found to have (i) Ni solid soln. + Ni3Al, (ii) Ni3Al, (iii) NiAl, and (iv) Ni2Al3 + NiAl3 phases, resp., corresponding to the equil. states of the Ni-Al phase diagram.  The cross-sectional analyses showed that the alloy structures of the heat-treated powders exist in a single-phase or core-shell form, depending on the no. of cryst. phase compns. predicted from the phase diagram.  In particular, the Ni-50 wt% Al powder has a unique
-                      <a class="__cf_email__" data-cfemail="e9a780dba885daa9a780a885da" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="0e40673c4f623d4e40674f623d" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       core-shell structure.  We further evaluate the performance of the as-developed Ni-Al alloy powders as oxidn.-resistant materials and template materials for high-surface area (∼60 m2/gcat) nickel catalysts.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0liCz0KK8pWeiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0liTByKikP4sGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11643,7 +11643,7 @@ Conductivity of Metals, Metallic Elements and Alloys.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpdSkk_9tmvdrVg90H21EOLACvtfcHk0liCz0KK8pWeiQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpdSkk_9tmvdrVg90H21EOLACvtfcHk0lioNTpoRD0uMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11795,7 +11795,7 @@ Conductivity of Metals, Metallic Elements and Alloys.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoH6ZAQ_hh_BrVg90H21EOLACvtfcHk0lit6K76f8pOMQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoH6ZAQ_hh_BrVg90H21EOLACvtfcHk0lioNTpoRD0uMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11987,7 +11987,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqiO_nGPl5OV7Vg90H21EOLACvtfcHk0lit6K76f8pOMQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqiO_nGPl5OV7Vg90H21EOLACvtfcHk0ljTvrVz8gYhWg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12129,7 +12129,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqKHwwveIqJmbVg90H21EOLACvtfcHk0lhIYDRdJqYF8g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqKHwwveIqJmbVg90H21EOLACvtfcHk0ljTvrVz8gYhWg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12272,7 +12272,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpy9B85uxJQa7Vg90H21EOLACvtfcHk0lhIYDRdJqYF8g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpy9B85uxJQa7Vg90H21EOLACvtfcHk0lg8S_mJfR71wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12412,7 +12412,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqLPAU0viWhK7Vg90H21EOLACvtfcHk0lhF0xVxKfBs0w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqLPAU0viWhK7Vg90H21EOLACvtfcHk0lg8S_mJfR71wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12554,7 +12554,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQuBDDVTXncrVg90H21EOLACvtfcHk0lhF0xVxKfBs0w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQuBDDVTXncrVg90H21EOLACvtfcHk0lgiJO-6XYP8ug" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12708,7 +12708,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrIfJal9DVAh7Vg90H21EOLACvtfcHk0lhfXEN-pcTFrQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrIfJal9DVAh7Vg90H21EOLACvtfcHk0lgiJO-6XYP8ug" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12886,7 +12886,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYi2EIE1Z_bLVg90H21EOLACvtfcHk0lhfXEN-pcTFrQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYi2EIE1Z_bLVg90H21EOLACvtfcHk0lhBuqzffu1Rfw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13041,7 +13041,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo0-J5ppvIMu7Vg90H21EOLACvtfcHk0lgVXEqViiS7sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo0-J5ppvIMu7Vg90H21EOLACvtfcHk0lhBuqzffu1Rfw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13227,7 +13227,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKE2dA0XfQFLVg90H21EOLACvtfcHk0lgVXEqViiS7sw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKE2dA0XfQFLVg90H21EOLACvtfcHk0lhqFp4XADAmxA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13365,7 +13365,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5yt2dslTF6bVg90H21EOLACvtfcHk0lhvtctxaWn3nQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5yt2dslTF6bVg90H21EOLACvtfcHk0lhqFp4XADAmxA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13533,7 +13533,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpX_2SOaQieBrVg90H21EOLACvtfcHk0lhvtctxaWn3nQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpX_2SOaQieBrVg90H21EOLACvtfcHk0li_o_nswSEgkA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13679,7 +13679,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVFPQz_jcG9rVg90H21EOLACvtfcHk0lgjVcWbZglzpw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVFPQz_jcG9rVg90H21EOLACvtfcHk0li_o_nswSEgkA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13834,7 +13834,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofpinz9SBhu7Vg90H21EOLACvtfcHk0lgjVcWbZglzpw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofpinz9SBhu7Vg90H21EOLACvtfcHk0lgnxEwF9Ur3zQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14006,7 +14006,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq1hNQ3Pl4e1bVg90H21EOLACvtfcHk0lgjVcWbZglzpw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq1hNQ3Pl4e1bVg90H21EOLACvtfcHk0lgnxEwF9Ur3zQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14172,7 +14172,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogjG8rzGFAL7Vg90H21EOLACvtfcHk0lhk25mIKEoHrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogjG8rzGFAL7Vg90H21EOLACvtfcHk0liGpGPbDwuweQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14966,7 +14966,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8-F2tGHrBQbVg90H21EOLACvtfcHk0lhQyw1Bbdzi3g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8-F2tGHrBQbVg90H21EOLACvtfcHk0ljLXZ79JpNoFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15236,7 +15236,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlf1UQRjEfBLVg90H21EOLACvtfcHk0liLXmOwixp-UA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlf1UQRjEfBLVg90H21EOLACvtfcHk0ljLXZ79JpNoFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15390,7 +15390,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTId-Avx9RCbVg90H21EOLACvtfcHk0liLXmOwixp-UA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTId-Avx9RCbVg90H21EOLACvtfcHk0lhVv_KZuluCxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15545,7 +15545,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNogUUZbs8hLVg90H21EOLACvtfcHk0liLXmOwixp-UA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrNogUUZbs8hLVg90H21EOLACvtfcHk0lhVv_KZuluCxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15691,7 +15691,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpYqNa12w5ALrVg90H21EOLACvtfcHk0lhxGzT_r-yv0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpYqNa12w5ALrVg90H21EOLACvtfcHk0lhVv_KZuluCxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15840,7 +15840,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0oveqecTOTbVg90H21EOLACvtfcHk0lhxGzT_r-yv0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr0oveqecTOTbVg90H21EOLACvtfcHk0li4tfeY82OVNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15982,7 +15982,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpAU_WF0HcOxbVg90H21EOLACvtfcHk0lhxGzT_r-yv0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpAU_WF0HcOxbVg90H21EOLACvtfcHk0li4tfeY82OVNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16134,7 +16134,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr2xVM5_8Y0ArVg90H21EOLACvtfcHk0lhewDXpsPKevA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr2xVM5_8Y0ArVg90H21EOLACvtfcHk0li4tfeY82OVNA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16284,7 +16284,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp343JNcGQ6srVg90H21EOLACvtfcHk0lhewDXpsPKevA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp343JNcGQ6srVg90H21EOLACvtfcHk0lj8u07JVmU6cA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16424,7 +16424,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpLVDiCWZ6A9rVg90H21EOLACvtfcHk0lhewDXpsPKevA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpLVDiCWZ6A9rVg90H21EOLACvtfcHk0lj8u07JVmU6cA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16576,7 +16576,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo-5BSr-cDbTbVg90H21EOLACvtfcHk0lhewDXpsPKevA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo-5BSr-cDbTbVg90H21EOLACvtfcHk0lj8u07JVmU6cA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16642,7 +16642,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                       </span>
                       <span class="NLM_article-title">
                        Embedded
-                       <a class="__cf_email__" data-cfemail="a9e4c6e7e9ea" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="75381a3b3536" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        Nanocomposites as an Advanced Catalyst for Ammonia Decomposition to COx-Free Hydrogen
@@ -16691,7 +16691,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         <div class="casTitle">
                          <span class="NLM_cas:atitle">
                           Embedded
-                          <a class="__cf_email__" data-cfemail="1d5072535d5e" href="/cdn-cgi/l/email-protection">
+                          <a class="__cf_email__" data-cfemail="baf7d5f4faf9" href="/cdn-cgi/l/email-protection">
                            [email protected]
                           </a>
                           nanocomposites as an advanced catalyst for ammonia decomposition to COx-free hydrogen
@@ -16739,30 +16739,30 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                         <div class="casAbstract">
                          Mo-based nanoparticles (MoO2 and Mo2C) embedded in porous C matrix were synthesized by a successive hydrothermal and thermal treatment strategy.  The synthesized materials were tested for COx-free H prodn. via ammonia decompn.  Various characterizations, including N-sorption, TGA, FTIR, TEM, XRD, EDX and XPS, were used to study the morphol., component and structure of fresh and used catalysts.  In terms of fresh
-                         <a class="__cf_email__" data-cfemail="3a77557a79" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="5d10321d1e" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          sample, tiny Mo-based nanoparticles (3-6 nm) are homogeneously dispersed in porous carbon matrixes, which were rapidly nitridized to MoN phases during reaction process.  Most of MoN species were still embedded in C matrixes after 25 h stability test.  For comparison,
-                         <a class="__cf_email__" data-cfemail="bff2d0f1fffc" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="266b49686665" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          sample was achieved via temp.-programmed ammonolysis of
-                         <a class="__cf_email__" data-cfemail="bbf6d4fbf8" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="44092b0407" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          sample, demonstrating the formation of MoN species and enhanced activities.  The ammonia decompn. activity (∼90% conversion) is obtained over
-                         <a class="__cf_email__" data-cfemail="b8f5d7f6f8fb" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="24694b6a6467" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          catalyst at 600° and 15,000/h, which is higher than that of non-pretreated
-                         <a class="__cf_email__" data-cfemail="014c6e4142" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="fab795bab9" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          catalyst.  This embedded structure also endows them with a relatively stable performance even at high temp.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlx0iOhLQ-M7Vg90H21EOLACvtfcHk0ljDj7avfkFYJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqlx0iOhLQ-M7Vg90H21EOLACvtfcHk0liLFVH0D1XRmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16916,7 +16916,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8XoYZ0aq3LrVg90H21EOLACvtfcHk0ljDj7avfkFYJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp8XoYZ0aq3LrVg90H21EOLACvtfcHk0liLFVH0D1XRmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17145,7 +17145,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7nJCIdpcQ0bVg90H21EOLACvtfcHk0ljDj7avfkFYJw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7nJCIdpcQ0bVg90H21EOLACvtfcHk0liLFVH0D1XRmA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17293,7 +17293,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvvMPbqc20gbVg90H21EOLACvtfcHk0lj5lwKO-kDzSQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrvvMPbqc20gbVg90H21EOLACvtfcHk0ljhyTCLlstJlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17445,7 +17445,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrF9Pdfvm1MTrVg90H21EOLACvtfcHk0lj5lwKO-kDzSQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrF9Pdfvm1MTrVg90H21EOLACvtfcHk0ljhyTCLlstJlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17587,7 +17587,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY7JbgjalEprVg90H21EOLACvtfcHk0lj5lwKO-kDzSQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrY7JbgjalEprVg90H21EOLACvtfcHk0ljhyTCLlstJlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17789,7 +17789,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqmTdXfsDq-KbVg90H21EOLACvtfcHk0lj2CPbD_vW09Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqmTdXfsDq-KbVg90H21EOLACvtfcHk0lhujKENDSinFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17955,7 +17955,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGox0WD00G8DprVg90H21EOLACvtfcHk0lj2CPbD_vW09Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGox0WD00G8DprVg90H21EOLACvtfcHk0lhujKENDSinFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18127,7 +18127,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzilGgmup7VbVg90H21EOLACvtfcHk0lj2CPbD_vW09Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzilGgmup7VbVg90H21EOLACvtfcHk0lhujKENDSinFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18293,7 +18293,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqylEX3mA7IirVg90H21EOLACvtfcHk0likvWdvA1x_qA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqylEX3mA7IirVg90H21EOLACvtfcHk0ljDdywti4NdfA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18439,7 +18439,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzAya7n1iX3bVg90H21EOLACvtfcHk0likvWdvA1x_qA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzAya7n1iX3bVg90H21EOLACvtfcHk0ljDdywti4NdfA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18590,7 +18590,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRtAU-mrCEJLVg90H21EOLACvtfcHk0likvWdvA1x_qA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRtAU-mrCEJLVg90H21EOLACvtfcHk0ljDdywti4NdfA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18739,7 +18739,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoeYAPf1ZVf97Vg90H21EOLACvtfcHk0li-LL8hF9UtUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoeYAPf1ZVf97Vg90H21EOLACvtfcHk0lj1m6q_oATr1Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18881,7 +18881,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLx0wsC86R7Vg90H21EOLACvtfcHk0li-LL8hF9UtUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGroLx0wsC86R7Vg90H21EOLACvtfcHk0lj1m6q_oATr1Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19035,7 +19035,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGriThZAuubISrVg90H21EOLACvtfcHk0li-LL8hF9UtUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGriThZAuubISrVg90H21EOLACvtfcHk0lg8L-397hsKqA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19188,7 +19188,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqksCroBvsWU7Vg90H21EOLACvtfcHk0lhfzX7S6xJIPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqksCroBvsWU7Vg90H21EOLACvtfcHk0lg8L-397hsKqA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19367,7 +19367,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoymN2nqBDwSLVg90H21EOLACvtfcHk0lhfzX7S6xJIPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoymN2nqBDwSLVg90H21EOLACvtfcHk0lhsl7IuMF_ZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19524,7 +19524,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGopm0zMNov1aLVg90H21EOLACvtfcHk0lhfzX7S6xJIPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGopm0zMNov1aLVg90H21EOLACvtfcHk0lhsl7IuMF_ZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19678,7 +19678,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJhBzvA2Zc-bVg90H21EOLACvtfcHk0lhOyZFti3fJsQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJhBzvA2Zc-bVg90H21EOLACvtfcHk0lhsl7IuMF_ZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19856,14 +19856,14 @@ Nov 20, 2020.
                         </div>
                         <div class="casAbstract">
                          Micro-sized Ni-Al alloy powders were synthesized using different quantities of Ni and Al powders as well as AlCl3 as an activator in a quartz batch reactor at ≤773 K.  This method, named low-temp. chem. alloying (LTCA), which allows Al atoms to diffuse into micro-sized nickel particles mediated by aluminum chloride (chem. promotor), is distinct from conventional processes, such as cast-and-crush, and gas atomization.  As-synthesized Ni-Al alloys were characterized using different anal. techniques that included X-ray diffraction (XRD), particle size anal., and field emission SEM in conjunction with energy dispersive X-ray spectroscopy (FESEM-EDS), to confirm the formation of alloy phases, such as Ni3Al, NiAl, Ni2Al3, and NiAl3.  The anal. results showed that the cryst. phase compns. of the Ni-Al alloys were highly dependent upon the initial amts. of Ni and Al powders employed at the given alloying conditions (alloying temp., 773 K; alloying time, 20 h; amt. of AlCl3, 1.2 wt%).  As a result of the thermal treatment of Ni-Al powder mixts. with the Al contents of (5, 15, 30, and 50) wt.% under continuous powder mixing by rotation, each powder was found to have (i) Ni solid soln. + Ni3Al, (ii) Ni3Al, (iii) NiAl, and (iv) Ni2Al3 + NiAl3 phases, resp., corresponding to the equil. states of the Ni-Al phase diagram.  The cross-sectional analyses showed that the alloy structures of the heat-treated powders exist in a single-phase or core-shell form, depending on the no. of cryst. phase compns. predicted from the phase diagram.  In particular, the Ni-50 wt% Al powder has a unique
-                         <a class="__cf_email__" data-cfemail="bff1d68dfed38cfff1d6fed38c" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="155b7c27547926555b7c547926" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          core-shell structure.  We further evaluate the performance of the as-developed Ni-Al alloy powders as oxidn.-resistant materials and template materials for high-surface area (∼60 m2/gcat) nickel catalysts.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0lhOyZFti3fJsQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0lhsl7IuMF_ZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20045,7 +20045,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo9riYK-mHVmbVg90H21EOLACvtfcHk0lhOyZFti3fJsQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo9riYK-mHVmbVg90H21EOLACvtfcHk0linj2SHu4EIMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20226,7 +20226,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTQ21ooGc-7Vg90H21EOLACvtfcHk0lgk-CYQXgsWcg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrxTQ21ooGc-7Vg90H21EOLACvtfcHk0linj2SHu4EIMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20390,7 +20390,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqcoopmYWkG_7Vg90H21EOLACvtfcHk0lgk-CYQXgsWcg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqcoopmYWkG_7Vg90H21EOLACvtfcHk0lihApgmeNXCcQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20554,7 +20554,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPN9aJLSd0OLVg90H21EOLACvtfcHk0lgk-CYQXgsWcg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpPN9aJLSd0OLVg90H21EOLACvtfcHk0lihApgmeNXCcQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20717,7 +20717,7 @@ Nov 20, 2020.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7aQsvN5DiLLVg90H21EOLACvtfcHk0lg-QHV9u9yptw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7aQsvN5DiLLVg90H21EOLACvtfcHk0lihApgmeNXCcQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20895,14 +20895,14 @@ Nov 20, 2020.
                         </div>
                         <div class="casAbstract">
                          Micro-sized Ni-Al alloy powders were synthesized using different quantities of Ni and Al powders as well as AlCl3 as an activator in a quartz batch reactor at ≤773 K.  This method, named low-temp. chem. alloying (LTCA), which allows Al atoms to diffuse into micro-sized nickel particles mediated by aluminum chloride (chem. promotor), is distinct from conventional processes, such as cast-and-crush, and gas atomization.  As-synthesized Ni-Al alloys were characterized using different anal. techniques that included X-ray diffraction (XRD), particle size anal., and field emission SEM in conjunction with energy dispersive X-ray spectroscopy (FESEM-EDS), to confirm the formation of alloy phases, such as Ni3Al, NiAl, Ni2Al3, and NiAl3.  The anal. results showed that the cryst. phase compns. of the Ni-Al alloys were highly dependent upon the initial amts. of Ni and Al powders employed at the given alloying conditions (alloying temp., 773 K; alloying time, 20 h; amt. of AlCl3, 1.2 wt%).  As a result of the thermal treatment of Ni-Al powder mixts. with the Al contents of (5, 15, 30, and 50) wt.% under continuous powder mixing by rotation, each powder was found to have (i) Ni solid soln. + Ni3Al, (ii) Ni3Al, (iii) NiAl, and (iv) Ni2Al3 + NiAl3 phases, resp., corresponding to the equil. states of the Ni-Al phase diagram.  The cross-sectional analyses showed that the alloy structures of the heat-treated powders exist in a single-phase or core-shell form, depending on the no. of cryst. phase compns. predicted from the phase diagram.  In particular, the Ni-50 wt% Al powder has a unique
-                         <a class="__cf_email__" data-cfemail="c886a1fa89a4fb8886a189a4fb" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="46082f74072a7506082f072a75" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          core-shell structure.  We further evaluate the performance of the as-developed Ni-Al alloy powders as oxidn.-resistant materials and template materials for high-surface area (∼60 m2/gcat) nickel catalysts.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0lg-QHV9u9yptw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3ymkREvG8K7Vg90H21EOLACvtfcHk0lihApgmeNXCcQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21079,7 +21079,7 @@ Conductivity of Metals, Metallic Elements and Alloys.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpdSkk_9tmvdrVg90H21EOLACvtfcHk0lg-QHV9u9yptw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpdSkk_9tmvdrVg90H21EOLACvtfcHk0lihujU9f-qY0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21231,7 +21231,7 @@ Conductivity of Metals, Metallic Elements and Alloys.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoH6ZAQ_hh_BrVg90H21EOLACvtfcHk0ljI1gZ9hDebCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoH6ZAQ_hh_BrVg90H21EOLACvtfcHk0lihujU9f-qY0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21423,7 +21423,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqiO_nGPl5OV7Vg90H21EOLACvtfcHk0ljI1gZ9hDebCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqiO_nGPl5OV7Vg90H21EOLACvtfcHk0lihujU9f-qY0Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21565,7 +21565,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqKHwwveIqJmbVg90H21EOLACvtfcHk0ljI1gZ9hDebCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqKHwwveIqJmbVg90H21EOLACvtfcHk0ljifw3Kym6egw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21708,7 +21708,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpy9B85uxJQa7Vg90H21EOLACvtfcHk0ljUIiUXpcTWtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpy9B85uxJQa7Vg90H21EOLACvtfcHk0ljifw3Kym6egw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21848,7 +21848,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqLPAU0viWhK7Vg90H21EOLACvtfcHk0ljUIiUXpcTWtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqLPAU0viWhK7Vg90H21EOLACvtfcHk0ljifw3Kym6egw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21990,7 +21990,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQuBDDVTXncrVg90H21EOLACvtfcHk0ljUIiUXpcTWtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoQuBDDVTXncrVg90H21EOLACvtfcHk0lgwLrb07RMHlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22144,7 +22144,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrIfJal9DVAh7Vg90H21EOLACvtfcHk0ljUIiUXpcTWtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrIfJal9DVAh7Vg90H21EOLACvtfcHk0lgwLrb07RMHlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22322,7 +22322,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYi2EIE1Z_bLVg90H21EOLACvtfcHk0ljqM3RMaiiWWA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYi2EIE1Z_bLVg90H21EOLACvtfcHk0lgwLrb07RMHlQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22477,7 +22477,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo0-J5ppvIMu7Vg90H21EOLACvtfcHk0ljqM3RMaiiWWA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo0-J5ppvIMu7Vg90H21EOLACvtfcHk0lj3MGc7nZltxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22663,7 +22663,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKE2dA0XfQFLVg90H21EOLACvtfcHk0ljqM3RMaiiWWA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpKE2dA0XfQFLVg90H21EOLACvtfcHk0lj3MGc7nZltxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22801,7 +22801,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5yt2dslTF6bVg90H21EOLACvtfcHk0lgR5ygb3OVMbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo5yt2dslTF6bVg90H21EOLACvtfcHk0lj3MGc7nZltxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22969,7 +22969,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpX_2SOaQieBrVg90H21EOLACvtfcHk0lgR5ygb3OVMbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpX_2SOaQieBrVg90H21EOLACvtfcHk0lj3MGc7nZltxg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23115,7 +23115,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVFPQz_jcG9rVg90H21EOLACvtfcHk0lgR5ygb3OVMbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVFPQz_jcG9rVg90H21EOLACvtfcHk0liyLypen1WtLA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23270,7 +23270,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofpinz9SBhu7Vg90H21EOLACvtfcHk0lioc_Iuz3ZfjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGofpinz9SBhu7Vg90H21EOLACvtfcHk0liyLypen1WtLA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23442,7 +23442,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq1hNQ3Pl4e1bVg90H21EOLACvtfcHk0lioc_Iuz3ZfjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq1hNQ3Pl4e1bVg90H21EOLACvtfcHk0liyLypen1WtLA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23608,7 +23608,7 @@ Al3Ni2 (trigonal, P-3m1, 164)
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogjG8rzGFAL7Vg90H21EOLACvtfcHk0lioc_Iuz3ZfjQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGogjG8rzGFAL7Vg90H21EOLACvtfcHk0lj10XCseOUDgQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24712,7 +24712,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad6f8c385912e2","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb18ba49a1be9f8","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

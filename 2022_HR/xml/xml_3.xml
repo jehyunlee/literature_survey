@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="49f44224-d6a3-426e-9944-9f80a22d2c03" lang="en">
+<html class="pb-page" data-request-id="64217cb5-f5f4-43d8-9db3-4af3300ec217" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;website:website:aip-site;journal:journal:php;issue:issue:10.1063/php.2018.25.issue-4;requestedJournal:journal:php;wgroup:string:Publication Websites;pageGroup:string:Publication Pages;subPage:string:Full Text;article:article:10.1063/1.5026905" name="pbContext"/>
   <link href="http://purl.org/dc/elements/1.1/" rel="schema"/>
@@ -234,7 +234,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'a9b0cb10-b0a7-4dd8-913b-dfdc5f294400'
+                            eventGroupKey: '456a548b-2807-4ded-9fa0-245862d8cb63'
                         }
 
                     }).done(function (status) {
@@ -2433,7 +2433,7 @@ function genCitLink(dbid, suffix, key) {
                  <sup>
                   a)
                  </sup>
-                 <a class="email" href="/cdn-cgi/l/email-protection#6112060d0404210f0713084f13044f0a13">
+                 <a class="email" href="/cdn-cgi/l/email-protection#8bf8ece7eeeecbe5edf9e2a5f9eea5e0f9">
                  </a>
                  <i class="pubContent-comma">
                   and
@@ -2489,8 +2489,8 @@ function genCitLink(dbid, suffix, key) {
                     a)
                    </sup>
                    E-mail:
-                   <a class="email" href="/cdn-cgi/l/email-protection#addecac1c8c8edc3cbdfc483dfc883c6df">
-                    <span class="__cf_email__" data-cfemail="542733383131143a32263d7a26317a3f26">
+                   <a class="email" href="/cdn-cgi/l/email-protection#6714000b0202270901150e491502490c15">
+                    <span class="__cf_email__" data-cfemail="a7d4c0cbc2c2e7c9c1d5ce89d5c289ccd5">
                      [email protected]
                     </span>
                    </a>
@@ -3926,13 +3926,16 @@ K. D. Zastrow, Phys. Rev. Lett.
                <div class="ad-tower-image">
                 <div data-widget-def="literatumAd" data-widget-id="6190bac0-9517-4907-930d-198316ef9709">
                  <div class="pb-ad">
-                  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js">
+                  <!-- PHP_Right1 [async] -->
+                  <script type="text/javascript">
+                   if (!window.AdButler){(function(){var s = document.createElement("script"); s.async = true; s.type = "text/javascript";s.src = 'https://images.scitation.org/app.js';var n = document.getElementsByTagName("script")[0]; n.parentNode.insertBefore(s, n);}());}
                   </script>
-                  <!-- Right Vertical -->
-                  <ins class="adsbygoogle" data-ad-client="ca-pub-6239732533633024" data-ad-slot="3282587938" style="display:inline-block;width:120px;height:600px">
-                  </ins>
-                  <script>
-                   (adsbygoogle = window.adsbygoogle || []).push({});
+                  <script type="text/javascript">
+                   var AdButler = AdButler || {}; AdButler.ads = AdButler.ads || [];
+var abkw = window.abkw || '';
+var plc376359 = window.plc376359 || 0;
+document.write('<'+'div id="placement_376359_'+plc376359+'"></'+'div>');
+AdButler.ads.push({handler: function(opt){ AdButler.register(176720, 376359, [120,600], 'placement_376359_'+opt.place, opt); }, opt: { place: plc376359++, keywords: abkw, domain: 'images.scitation.org', click:'CLICK_MACRO_PLACEHOLDER' }});
                   </script>
                  </div>
                 </div>
@@ -4112,7 +4115,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
     </div>
    </div>
   </div>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cabd14f8e883526","token":"6e22ee04c76144be8fa91976f056f557","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb14482bee661be","token":"6e22ee04c76144be8fa91976f056f557","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

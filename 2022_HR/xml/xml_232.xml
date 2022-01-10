@@ -549,51 +549,51 @@
             1
            </a>
            , have attracted a great deal of attention [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d239475555e408" title="Ballal, M.S., Bhadane, K.V., Moharil, R.M., Suryawanshi, H.M.: A control and protection model for the distributed generation and energy storage systems in microgrids. J. Power Electron. 16(2), 748–759 (2016)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d244852650e408" title="Ballal, M.S., Bhadane, K.V., Moharil, R.M., Suryawanshi, H.M.: A control and protection model for the distributed generation and energy storage systems in microgrids. J. Power Electron. 16(2), 748–759 (2016)">
             1
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d239475555e408_1" title="Liu, G., Khodamoradi, A., Mattavelli, P., Caldognetto, T., Magnone, P.: Plug and play DC–DC converters for smart DC nanogrids with advanced control ancillary services. In: 2018 IEEE 23rd international workshop on computer aided modeling and design of communication links and networks (CAMAD), Barcelona, pp. 1–6.P (2018)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d244852650e408_1" title="Liu, G., Khodamoradi, A., Mattavelli, P., Caldognetto, T., Magnone, P.: Plug and play DC–DC converters for smart DC nanogrids with advanced control ancillary services. In: 2018 IEEE 23rd international workshop on computer aided modeling and design of communication links and networks (CAMAD), Barcelona, pp. 1–6.P (2018)">
             2
            </a>
            ,
-           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR3" id="ref-link-section-d239475555e411" title="Lucía, Ó., Cvetkovic, I., Sarnago, H., Boroyevich, D., Mattavelli, P., Lee, F.C.: Design of home appliances for a DC-based nanogrid system: an induction range study case. IEEE J. Emerg. Sel. Top. Power Electron. 1(4), 315–326 (2013)">
+           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR3" id="ref-link-section-d244852650e411" title="Lucía, Ó., Cvetkovic, I., Sarnago, H., Boroyevich, D., Mattavelli, P., Lee, F.C.: Design of home appliances for a DC-based nanogrid system: an induction range study case. IEEE J. Emerg. Sel. Top. Power Electron. 1(4), 315–326 (2013)">
             3
            </a>
            ]. In general, the total load of a DC nano grid is less than 20-kW, which consists of distributed power, renewable energy sources and energy storage systems (ESS) [
-           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR4" id="ref-link-section-d239475555e414" title="Teleke, S., Oehlerking, L., Hong, M.: Nanogrids with energy storage for future electricity grids. In: 2014 IEEE PES T&amp;D conference and exposition, chicago, IL, pp. 1–5 (2014)">
+           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR4" id="ref-link-section-d244852650e414" title="Teleke, S., Oehlerking, L., Hong, M.: Nanogrids with energy storage for future electricity grids. In: 2014 IEEE PES T&amp;D conference and exposition, chicago, IL, pp. 1–5 (2014)">
             4
            </a>
            ]. Due to the intermittent generation of renewable energy sources, ESSs are required to provide stable power to the grid [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d239475555e417" title="Eghtedarpour, N., Farjah, E.: Distributed charge/discharge control of energy storages in a renewable-energy-based DC micro-grid. IET Renew. Power Gener. 8(1), 45–57 (2014)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR5" id="ref-link-section-d244852650e417" title="Eghtedarpour, N., Farjah, E.: Distributed charge/discharge control of energy storages in a renewable-energy-based DC micro-grid. IET Renew. Power Gener. 8(1), 45–57 (2014)">
             5
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d239475555e417_1" title="Xie, B., Wang, J., Jin, Y., Ji, Y., Ma, C.: Power distribution control scheme for a three-phase interleaved DC/DC converter in the charging and discharging processes of a battery energy storage system. J. Power Electron. 18(4), 1211–1222 (2018)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d244852650e417_1" title="Xie, B., Wang, J., Jin, Y., Ji, Y., Ma, C.: Power distribution control scheme for a three-phase interleaved DC/DC converter in the charging and discharging processes of a battery energy storage system. J. Power Electron. 18(4), 1211–1222 (2018)">
             6
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d239475555e417_2" title="Kim, K., Shin, D., Lee, J., Lee, J.-P., Yoo, D.-W., Kim, H.-J.: A seamless transfer algorithm based on frequency detection with feedforward control method in distributed generation system. J. Power Electron. 15(4), 1066–1073 (2015)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d244852650e417_2" title="Kim, K., Shin, D., Lee, J., Lee, J.-P., Yoo, D.-W., Kim, H.-J.: A seamless transfer algorithm based on frequency detection with feedforward control method in distributed generation system. J. Power Electron. 15(4), 1066–1073 (2015)">
             7
            </a>
            ,
-           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR8" id="ref-link-section-d239475555e421" title="Li, Z., Zang, C., Zeng, P., Yu, H., Li, H., Li, S.: Analysis of multi-agent-based adaptive droop-controlled AC microgrids with pscad: modeling and simulation. J. Power Electron. 15(2), 455–468 (2015)">
+           <a aria-label="Reference 8" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR8" id="ref-link-section-d244852650e421" title="Li, Z., Zang, C., Zeng, P., Yu, H., Li, H., Li, S.: Analysis of multi-agent-based adaptive droop-controlled AC microgrids with pscad: modeling and simulation. J. Power Electron. 15(2), 455–468 (2015)">
             8
            </a>
            ]. In addition, it is common to connect an external grid in order to maintain reliability in the event of a grid power failure [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d239475555e424" title="Werth, A., Kitamura, N., Tanaka, K.: Conceptual study for open energy systems: distributed energy network using interconnected DC nanogrids. IEEE Trans. Smart Grid 6(4), 1621–1630 (2015)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d244852650e424" title="Werth, A., Kitamura, N., Tanaka, K.: Conceptual study for open energy systems: distributed energy network using interconnected DC nanogrids. IEEE Trans. Smart Grid 6(4), 1621–1630 (2015)">
             9
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d239475555e424_1" title="Navarro-Rodríguez, Á., García, P., Georgious, R., García, J.: Adaptive active power sharing techniques for DC and AC voltage control in a hybrid DC/AC microgrid. IEEE Trans. Ind. Appl. 55(2), 1106–1116 (2019)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d244852650e424_1" title="Navarro-Rodríguez, Á., García, P., Georgious, R., García, J.: Adaptive active power sharing techniques for DC and AC voltage control in a hybrid DC/AC microgrid. IEEE Trans. Ind. Appl. 55(2), 1106–1116 (2019)">
             10
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d239475555e424_2" title="Buso, S., Caldognetto, T., Liu, Q.: Analysis and experimental characterization of a large-bandwidth triple-loop controller for grid-tied inverters. IEEE Trans. Power Electron. 34(2), 1936–1949 (2019)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d244852650e424_2" title="Buso, S., Caldognetto, T., Liu, Q.: Analysis and experimental characterization of a large-bandwidth triple-loop controller for grid-tied inverters. IEEE Trans. Power Electron. 34(2), 1936–1949 (2019)">
             11
            </a>
            ,
-           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR12" id="ref-link-section-d239475555e427" title="Chandrasena, R.P.S., Shahnia, F., Ghosh, A., Rajakaruna, S.: Operation and control of a hybrid AC–DC nanogrid for future community houses. In: 2014 Australasian universities power engineering conference (AUPEC), Perth, WA, pp. 1–6 (2014)">
+           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR12" id="ref-link-section-d244852650e427" title="Chandrasena, R.P.S., Shahnia, F., Ghosh, A., Rajakaruna, S.: Operation and control of a hybrid AC–DC nanogrid for future community houses. In: 2014 Australasian universities power engineering conference (AUPEC), Perth, WA, pp. 1–6 (2014)">
             12
            </a>
            ].
@@ -635,72 +635,72 @@
           </div>
           <p>
            The operations of a DC nano grid can be divided into a grid-connected mode and an islanding mode [
-           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR13" id="ref-link-section-d239475555e440" title="Jie, L.R., Naayagi, R.T.: Nanogrid for energy aware buildings. In: 2019 IEEE PES GTD grand international conference and exposition Asia (GTD Asia), Bangkok, Thailand, pp. 92–96 (2019)">
+           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR13" id="ref-link-section-d244852650e440" title="Jie, L.R., Naayagi, R.T.: Nanogrid for energy aware buildings. In: 2019 IEEE PES GTD grand international conference and exposition Asia (GTD Asia), Bangkok, Thailand, pp. 92–96 (2019)">
             13
            </a>
            ]. In the grid-connected mode, the main grid supplies electric power to the load, while in the islanding mode, the DC nano grid operates independently by using an ESS or external grid power. For the reliability of the DC nano grid, smooth mode transition to the islanding mode is essential during grid accidents such as natural disasters or sudden load increments [
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR14" id="ref-link-section-d239475555e443" title="Wang, X., Guerrero, J.M., Blaabjerg, F., Chen, Z.: A review of power electronics based microgrids. J. Power Electron. 12(1), 181–192 (2012)">
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR14" id="ref-link-section-d244852650e443" title="Wang, X., Guerrero, J.M., Blaabjerg, F., Chen, Z.: A review of power electronics based microgrids. J. Power Electron. 12(1), 181–192 (2012)">
             14
            </a>
            ]. Therefore, seamless mode transitions between the grid-connected mode and the islanding mode, i.e., an appropriate control algorithm, should be prepared.
           </p>
           <p>
            To apply a seamless control algorithm in practice, it should be verified by experiments. However, it is difficult to build experimental test-beds. In addition, it takes a great deal of time and money to verify the reliability of the actual power grid. In the past, grid interactions have been analyzed by computer simulations, field experiments and stand-alone hardware tests [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d239475555e449" title="Palmintier, B., Lundstrom, B., Chakraborty, S., Williams, T., Schneider, K., Chassin, D.: A power hardware-in-the-loop platform with remote distribution circuit cosimulation. IEEE Trans. Ind. Electron. 62(4), 2236–2245 (2015)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR15" id="ref-link-section-d244852650e449" title="Palmintier, B., Lundstrom, B., Chakraborty, S., Williams, T., Schneider, K., Chassin, D.: A power hardware-in-the-loop platform with remote distribution circuit cosimulation. IEEE Trans. Ind. Electron. 62(4), 2236–2245 (2015)">
             15
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR16" id="ref-link-section-d239475555e449_1" title="Strasser, T., Stifter, M., Andrén, F., Palensky, P.: Co-simulation training platform for smart grids. IEEE Trans. Power Syst. 29(4), 1989–1997 (2014)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR16" id="ref-link-section-d244852650e449_1" title="Strasser, T., Stifter, M., Andrén, F., Palensky, P.: Co-simulation training platform for smart grids. IEEE Trans. Power Syst. 29(4), 1989–1997 (2014)">
             16
            </a>
            ,
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR17" id="ref-link-section-d239475555e452" title="Salas, V., Debora, P., Olías, E.: Field analysis of commercial PV inverters in the 5 kW power range with respect to MPPT effectively. In: Proceedings of 13th European Conference on power electronics and applications, pp. 1–7 (2009)">
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR17" id="ref-link-section-d244852650e452" title="Salas, V., Debora, P., Olías, E.: Field analysis of commercial PV inverters in the 5 kW power range with respect to MPPT effectively. In: Proceedings of 13th European Conference on power electronics and applications, pp. 1–7 (2009)">
             17
            </a>
            ]. In the case of the computer simulations, there are significant errors between simulation and experimental results since they are only based on theoretical models in virtual space which is not the same as the real world. In field experiments and stand-alone hardware implementations, practical tests are limited to specific environments due to spatial scales and cost restrictions. In particular, power tests that simulate fault conditions in a real power grid can be dangerous. Therefore, it is difficult to guarantee the accuracy of simulation results.
           </p>
           <p>
            To overcome these limitations, the concept of power hardware-in-the-loop (PHIL) simulation has been proposed [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d239475555e458" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d244852650e458" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
             18
            </a>
            ]. Unlike off-line software simulations, which use a virtual converter model, PHIL simulations can provide a variety of test conditions using real converter hardware [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR19" id="ref-link-section-d239475555e461" title="Bouscayrol, A.: Different types of hardware-in-the-loop simulation for electric drives. In: 2008 IEEE international symposium on industrial electronics, Cambridge, pp. 2146–2151 (2008)">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR19" id="ref-link-section-d244852650e461" title="Bouscayrol, A.: Different types of hardware-in-the-loop simulation for electric drives. In: 2008 IEEE international symposium on industrial electronics, Cambridge, pp. 2146–2151 (2008)">
             19
            </a>
            ]. In addition, the operation of an entire grid system can be easily simulated by considering fault conditions, which cannot be performed in field experiments or standalone hardware tests.
           </p>
           <p>
            Several studies related to PHIL simulation have been conducted [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d239475555e468" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d244852650e468" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
             18
            </a>
            ,
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR20" id="ref-link-section-d239475555e471" title="Edrington, C.S., Vodyakho, O., Hacker, B.A.: Development of a unified research platform for plug-in hybrid electrical vehicle integration analysis utilizing the power hardware-in-the-loop concept. J. Power Electron. 11(4), 471–478 (2011)">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR20" id="ref-link-section-d244852650e471" title="Edrington, C.S., Vodyakho, O., Hacker, B.A.: Development of a unified research platform for plug-in hybrid electrical vehicle integration analysis utilizing the power hardware-in-the-loop concept. J. Power Electron. 11(4), 471–478 (2011)">
             20
            </a>
            ,
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d239475555e474" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d244852650e474" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
             21
            </a>
            ]. A battery and electric vehicle based on PHIL simulation have been proposed to show their feasibility [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR20" id="ref-link-section-d239475555e477" title="Edrington, C.S., Vodyakho, O., Hacker, B.A.: Development of a unified research platform for plug-in hybrid electrical vehicle integration analysis utilizing the power hardware-in-the-loop concept. J. Power Electron. 11(4), 471–478 (2011)">
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR20" id="ref-link-section-d244852650e477" title="Edrington, C.S., Vodyakho, O., Hacker, B.A.: Development of a unified research platform for plug-in hybrid electrical vehicle integration analysis utilizing the power hardware-in-the-loop concept. J. Power Electron. 11(4), 471–478 (2011)">
             20
            </a>
            ]. DC grid research based on a PHIL test-bed has been proposed [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d239475555e480" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d244852650e480" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
             18
            </a>
            ,
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d239475555e484" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d244852650e484" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
             21
            </a>
            ]. As reported in [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d239475555e487" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR21" id="ref-link-section-d244852650e487" title="Huerta, F., Tello, R.L., Prodanovic, M.: Real-time power-hardware-in-the-loop implementation of variable-speed wind turbines. IEEE Trans. Ind. Electron. 64(3), 1893–1904 (2017)">
             21
            </a>
            ], the supply strategy of renewable energy has been analyzed using a PHIL wind turbine model in a DC grid. In the case of [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d239475555e490" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR18" id="ref-link-section-d244852650e490" title="Wang, J., Song, Y., Li, W., Guo, J., Monti, A.: Development of a universal platform for hardware in-the-loop testing of microgrids. IEEE Trans. Ind. Inf. 10(4), 2154–2165 (2014)">
             18
            </a>
            ], a DC grid was constructed using PHIL simulation technology and its behavior in grid-connected and island modes was analyzed. However, an overall test-bed for testing control algorithms and grid fault conditions based on a PHIL simulation, which can validate the reliability of a DC power grid, has not been proposed yet.
@@ -879,7 +879,7 @@
           </h3>
           <p>
            An ESS is required to supply stable power to the DC bus in the event of irregular power generation from renewable energy and grid failure. In addition, the ESS absorbs electric energy when surplus energy occurs, which can manage the electric energy efficiently. Therefore, a bi-directional DC/DC converter is required to charge and to discharge electric power [
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR22" id="ref-link-section-d239475555e593" title="Sousa, T.J.C., Monteiro, V., Martins, J.S., Sepúlveda, M.J., Lima, A., Afonso, J.L.: Comparative analysis of power electronics topologies to interface dc homes with the electrical ac power grid. In: 2019 International conference on smart energy systems and technologies (SEST), Porto, Portugal, pp. 1–6 (2019)">
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR22" id="ref-link-section-d244852650e593" title="Sousa, T.J.C., Monteiro, V., Martins, J.S., Sepúlveda, M.J., Lima, A., Afonso, J.L.: Comparative analysis of power electronics topologies to interface dc homes with the electrical ac power grid. In: 2019 International conference on smart energy systems and technologies (SEST), Porto, Portugal, pp. 1–6 (2019)">
             22
            </a>
            ]. In this paper, a current-fed dual active bridge (CF-DAB) converter, as shown in Fig.
@@ -966,7 +966,7 @@
             6
            </a>
            , the DC/DC converter is required to obtain a high-power density with galvanic isolation by using a high-frequency transformer [
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR22" id="ref-link-section-d239475555e660" title="Sousa, T.J.C., Monteiro, V., Martins, J.S., Sepúlveda, M.J., Lima, A., Afonso, J.L.: Comparative analysis of power electronics topologies to interface dc homes with the electrical ac power grid. In: 2019 International conference on smart energy systems and technologies (SEST), Porto, Portugal, pp. 1–6 (2019)">
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR22" id="ref-link-section-d244852650e660" title="Sousa, T.J.C., Monteiro, V., Martins, J.S., Sepúlveda, M.J., Lima, A., Afonso, J.L.: Comparative analysis of power electronics topologies to interface dc homes with the electrical ac power grid. In: 2019 International conference on smart energy systems and technologies (SEST), Porto, Portugal, pp. 1–6 (2019)">
             22
            </a>
            ]. The design specifications of the AC/DC and DC/DC converter are shown in Table
@@ -1032,7 +1032,7 @@
           </div>
           <p>
            The AC/DC converter adopts a single-phase bi-directional boost converter topology using sinusoidal pulse width modulation. It controls the reactive power to be zero with a unity power factor. A voltage-fed dual active bridge (VF-DAB) converter, which uses the SPSM, is selected as the bi-directional DC/DC converter. This is due to the fact that the power flows can easily be controlled by the phase difference between the primary and secondary side with a fixed duty of 50%. In addition, all of the switches of the VF-DAB converter operate in the ZVS area since the input and output voltage of the VF-DAB converter are the same as 380 V, i.e., the unit voltage gain in the grid-connected mode is achieved [
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR23" id="ref-link-section-d239475555e706" title="Rodríguez, A., Vázquez, A., Lamar, D.G., Hernando, M.M., Sebastián, J.: Different purpose design strategies and techniques to improve the performance of a dual active bridge with phase-shift control. IEEE Trans. Power Electron. 30(2), 790–804 (2015)">
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR23" id="ref-link-section-d244852650e706" title="Rodríguez, A., Vázquez, A., Lamar, D.G., Hernando, M.M., Sebastián, J.: Different purpose design strategies and techniques to improve the performance of a dual active bridge with phase-shift control. IEEE Trans. Power Electron. 30(2), 790–804 (2015)">
             23
            </a>
            ].
@@ -1098,23 +1098,23 @@
             4
            </a>
            is employed as a droop control block [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR24" id="ref-link-section-d239475555e746" title="Kim, Y.W., Kwon, M.H., Park, S.Y., Kim, M.K., Yang, D.K., Choi, S.W., Oh, S.J.: Development of 80 kW bi-directional hybrid-SIC boost-buck converter using droop control in DC nano-grid. Trans. Korean Inst. Power Electron. 22(4), 360–368 (2017)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR24" id="ref-link-section-d244852650e746" title="Kim, Y.W., Kwon, M.H., Park, S.Y., Kim, M.K., Yang, D.K., Choi, S.W., Oh, S.J.: Development of 80 kW bi-directional hybrid-SIC boost-buck converter using droop control in DC nano-grid. Trans. Korean Inst. Power Electron. 22(4), 360–368 (2017)">
             24
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR25" id="ref-link-section-d239475555e746_1" title="Le, P.M., Pham, X.H.T., Nguyen, H.M., Hoang, D.D.V., Nguyen, T.D., Vo, D.N.: Line impedance estimation based adaptive droop control method for parallel inverters. J. Power Electron. 18(1), 234–250 (2018)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR25" id="ref-link-section-d244852650e746_1" title="Le, P.M., Pham, X.H.T., Nguyen, H.M., Hoang, D.D.V., Nguyen, T.D., Vo, D.N.: Line impedance estimation based adaptive droop control method for parallel inverters. J. Power Electron. 18(1), 234–250 (2018)">
             25
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR26" id="ref-link-section-d239475555e746_2" title="Jia, Y., Li, D., Chen, Z.: Unbalanced power sharing for islanded droop-controlled microgrids. J. Power Electron. 19(1), 234–243 (2019)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR26" id="ref-link-section-d244852650e746_2" title="Jia, Y., Li, D., Chen, Z.: Unbalanced power sharing for islanded droop-controlled microgrids. J. Power Electron. 19(1), 234–243 (2019)">
             26
            </a>
            ,
-           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR27" id="ref-link-section-d239475555e749" title="Choi, H., Jung, J.: Enhanced power line communication strategy for DC microgrids using switching frequency modulation of power converters. IEEE Trans. Power Electron. 32(6), 4140–4144 (2017)">
+           <a aria-label="Reference 27" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR27" id="ref-link-section-d244852650e749" title="Choi, H., Jung, J.: Enhanced power line communication strategy for DC microgrids using switching frequency modulation of power converters. IEEE Trans. Power Electron. 32(6), 4140–4144 (2017)">
             27
            </a>
            ]. The DBS control operates based on a voltage droop algorithm using the DC bus voltage level. The grid power can be easily controlled by the DBS control without any communication devices. Using the DBS control, the converters connected to the grid can operate according to the DC bus voltage level and can independently work mutually with other converters on the same DC bus. Finally, autonomous operation of the DC nano grid can be achieved [
-           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR28" id="ref-link-section-d239475555e752" title="Schonbergerschonberger, J., Duke, R., Round, S.D.: DC-bus signaling: a distributed control strategy for a hybrid renewable nanogrid. IEEE Trans. Ind. Electron. 53(5), 1453–1460 (2006)">
+           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR28" id="ref-link-section-d244852650e752" title="Schonbergerschonberger, J., Duke, R., Round, S.D.: DC-bus signaling: a distributed control strategy for a hybrid renewable nanogrid. IEEE Trans. Ind. Electron. 53(5), 1453–1460 (2006)">
             28
            </a>
            ].
@@ -1298,7 +1298,7 @@
             8
            </a>
            . The long-distance line can be modeled using the resistance [
-           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR28" id="ref-link-section-d239475555e994" title="Schonbergerschonberger, J., Duke, R., Round, S.D.: DC-bus signaling: a distributed control strategy for a hybrid renewable nanogrid. IEEE Trans. Ind. Electron. 53(5), 1453–1460 (2006)">
+           <a aria-label="Reference 28" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00075-x#ref-CR28" id="ref-link-section-d244852650e994" title="Schonbergerschonberger, J., Duke, R., Round, S.D.: DC-bus signaling: a distributed control strategy for a hybrid renewable nanogrid. IEEE Trans. Ind. Electron. 53(5), 1453–1460 (2006)">
             28
            </a>
            ]. In this paper, the long-distance line is reproduced with a 1-Ohm resistor. To implement a simplified test-bed, the transmission line capacitance and inductance are neglected.

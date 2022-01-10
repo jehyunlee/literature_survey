@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="cf3437b2-9fe0-4dde-8838-b9739b9a4df9" lang="en">
+<html class="pb-page" data-request-id="9f3ac53a-2c3c-49e5-86f5-e16ff1a04d55" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;journal:journal:jpccck;issue:issue:10.1021/jpccck.2021.125.issue-29;wgroup:string:ACHS website Group;requestedJournal:journal:jpccck;website:website:acspubs;pageGroup:string:Publication Pages;subPage:string:Full Text;article:article:10.1021/acs.jpcc.1c03775" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -198,7 +198,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'c4bab617-c508-466f-8447-ba84ccb27fc9'
+                            eventGroupKey: '44111fe5-596a-43f3-b6e1-64975be9c871'
                         }
 
                     }).done(function (status) {
@@ -1568,8 +1568,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#f79f9e90909e93c5b79a949a9684839285d99496">
-                  <span class="__cf_email__" data-cfemail="adc5c4cacac4c99fedc0cec0ccded9c8df83cecc">
+                 <a href="/cdn-cgi/l/email-protection#b5dddcd2d2dcd187f5d8d6d8d4c6c1d0c79bd6d4">
+                  <span class="__cf_email__" data-cfemail="3b53525c5c525f097b5658565a484f5e4915585a">
                    [email protected]
                   </span>
                  </a>
@@ -3988,8 +3988,8 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#c7afaea0a0aea3f587aaa4aaa6b4b3a2b5e9a4a6">
-                      <span class="__cf_email__" data-cfemail="264e4f41414f4214664b454b4755524354084547">
+                     <a href="/cdn-cgi/l/email-protection#3e56575959575a0c7e535d535f4d4a5b4c105d5f">
+                      <span class="__cf_email__" data-cfemail="abc3c2ccccc2cf99ebc6c8c6cad8dfced985c8ca">
                        [email protected]
                       </span>
                      </a>
@@ -4273,7 +4273,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkbF8XhhHnjbVg90H21EOLACvtfcHk0ljPA_IUkSI9Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkbF8XhhHnjbVg90H21EOLACvtfcHk0ljzHnSmB87YCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4468,7 +4468,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0ljPA_IUkSI9Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0ljzHnSmB87YCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4673,7 +4673,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKli2yUtBPcbVg90H21EOLACvtfcHk0ljCq8KMwqd0jg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKli2yUtBPcbVg90H21EOLACvtfcHk0ljzHnSmB87YCg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4854,7 +4854,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0ljCq8KMwqd0jg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0lhXARvYFJRZnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5094,7 +5094,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpC6O5tXQH1RLVg90H21EOLACvtfcHk0lg2NNZMZxcHwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpC6O5tXQH1RLVg90H21EOLACvtfcHk0lhXARvYFJRZnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5240,7 +5240,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpu_l0AK4n0QLVg90H21EOLACvtfcHk0lg2NNZMZxcHwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpu_l0AK4n0QLVg90H21EOLACvtfcHk0lhXARvYFJRZnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5402,7 +5402,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7rSY0Jjeum7Vg90H21EOLACvtfcHk0lg2NNZMZxcHwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7rSY0Jjeum7Vg90H21EOLACvtfcHk0lhafyyonj5uIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5559,7 +5559,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp12sCkW8rdVbVg90H21EOLACvtfcHk0lg2NNZMZxcHwQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp12sCkW8rdVbVg90H21EOLACvtfcHk0lhafyyonj5uIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5740,7 +5740,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0lhF4o4IX_Avqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0liRqVYCKaijJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5878,7 +5878,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqyBZaIRqT77Vg90H21EOLACvtfcHk0lhF4o4IX_Avqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqyBZaIRqT77Vg90H21EOLACvtfcHk0liRqVYCKaijJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6028,7 +6028,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTg6Mp7b4t-LVg90H21EOLACvtfcHk0lhF4o4IX_Avqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTg6Mp7b4t-LVg90H21EOLACvtfcHk0liRqVYCKaijJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6179,7 +6179,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0SbeWCSAl_LVg90H21EOLACvtfcHk0lhzncQbTX_JbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0SbeWCSAl_LVg90H21EOLACvtfcHk0liRqVYCKaijJA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6335,7 +6335,7 @@ of Chemical Engineering, McMaster University, Hamilton, Ontario L8S 4L7, Canada
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1E3YhrfwOYbVg90H21EOLACvtfcHk0lhzncQbTX_JbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1E3YhrfwOYbVg90H21EOLACvtfcHk0liDsL8geU3UKg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6510,7 +6510,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTCvIYBUKQ-7Vg90H21EOLACvtfcHk0lhzncQbTX_JbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTCvIYBUKQ-7Vg90H21EOLACvtfcHk0liDsL8geU3UKg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6672,7 +6672,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYd-reGq27y7Vg90H21EOLACvtfcHk0liT9xT7l_YY6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYd-reGq27y7Vg90H21EOLACvtfcHk0liDsL8geU3UKg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6816,7 +6816,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0liT9xT7l_YY6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0lhOeB8Bjn2org" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6965,7 +6965,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoxHE7j-FIUB7Vg90H21EOLACvtfcHk0liT9xT7l_YY6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoxHE7j-FIUB7Vg90H21EOLACvtfcHk0lhOeB8Bjn2org" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7106,7 +7106,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpEkng6ea3lfLVg90H21EOLACvtfcHk0lj8Cd16z0yoNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpEkng6ea3lfLVg90H21EOLACvtfcHk0lhOeB8Bjn2org" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7250,7 +7250,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGojjkvVN8isJ7Vg90H21EOLACvtfcHk0lj8Cd16z0yoNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGojjkvVN8isJ7Vg90H21EOLACvtfcHk0liGnv71Bj7YHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7392,7 +7392,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZ8U00am5LKbVg90H21EOLACvtfcHk0lj8Cd16z0yoNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZ8U00am5LKbVg90H21EOLACvtfcHk0liGnv71Bj7YHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7531,7 +7531,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTjVYzHnZD2LVg90H21EOLACvtfcHk0lj8Cd16z0yoNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTjVYzHnZD2LVg90H21EOLACvtfcHk0liGnv71Bj7YHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7675,7 +7675,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGobgdiXoGaSPLVg90H21EOLACvtfcHk0lgCLX4DXMvRXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGobgdiXoGaSPLVg90H21EOLACvtfcHk0liGnv71Bj7YHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7825,7 +7825,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPssBy6PDlgLVg90H21EOLACvtfcHk0lgCLX4DXMvRXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPssBy6PDlgLVg90H21EOLACvtfcHk0ljJjwdZwFTKpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7969,7 +7969,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV5x4lmBXG5bVg90H21EOLACvtfcHk0lgCLX4DXMvRXw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV5x4lmBXG5bVg90H21EOLACvtfcHk0ljJjwdZwFTKpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8149,7 +8149,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpCbDPiN2-RpLVg90H21EOLACvtfcHk0ljiBYnssFy7ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpCbDPiN2-RpLVg90H21EOLACvtfcHk0ljJjwdZwFTKpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8324,7 +8324,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqdKWeSPDDlvLVg90H21EOLACvtfcHk0ljiBYnssFy7ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqdKWeSPDDlvLVg90H21EOLACvtfcHk0lh-SW7Y6IdJyQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8452,7 +8452,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolp8ld5KGlr7Vg90H21EOLACvtfcHk0ljiBYnssFy7ew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolp8ld5KGlr7Vg90H21EOLACvtfcHk0lh-SW7Y6IdJyQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8603,7 +8603,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQNs_o1logrbVg90H21EOLACvtfcHk0lit4PU3XnJvaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQNs_o1logrbVg90H21EOLACvtfcHk0lh-SW7Y6IdJyQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8784,7 +8784,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0lit4PU3XnJvaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0lh-SW7Y6IdJyQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8922,7 +8922,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0LYxatd8qsrVg90H21EOLACvtfcHk0lit4PU3XnJvaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0LYxatd8qsrVg90H21EOLACvtfcHk0lipZxqmdKOdhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9078,7 +9078,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPgg9nJLmHh7Vg90H21EOLACvtfcHk0lit4PU3XnJvaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPgg9nJLmHh7Vg90H21EOLACvtfcHk0lipZxqmdKOdhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9223,7 +9223,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZRqeL82SzaLVg90H21EOLACvtfcHk0lhiyVlgCswuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZRqeL82SzaLVg90H21EOLACvtfcHk0lipZxqmdKOdhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9362,7 +9362,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo_g4V8_j1D1bVg90H21EOLACvtfcHk0lhiyVlgCswuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo_g4V8_j1D1bVg90H21EOLACvtfcHk0lhbWX4BUIqMCA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9511,7 +9511,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqFm0ttwwYuy7Vg90H21EOLACvtfcHk0lhiyVlgCswuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqFm0ttwwYuy7Vg90H21EOLACvtfcHk0lhbWX4BUIqMCA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9774,7 +9774,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqQwrfRbjGvP7Vg90H21EOLACvtfcHk0ljGWw2XOX-79A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqQwrfRbjGvP7Vg90H21EOLACvtfcHk0lgLyW_4bW8tnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9930,7 +9930,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHqq-dkGspM7Vg90H21EOLACvtfcHk0ljGWw2XOX-79A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHqq-dkGspM7Vg90H21EOLACvtfcHk0lgLyW_4bW8tnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10102,7 +10102,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrjEvSpuZiHT7Vg90H21EOLACvtfcHk0lhmP_DsmkyPbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrjEvSpuZiHT7Vg90H21EOLACvtfcHk0lgLyW_4bW8tnA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10240,7 +10240,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMRKs314UKQbVg90H21EOLACvtfcHk0lhmP_DsmkyPbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMRKs314UKQbVg90H21EOLACvtfcHk0lhqi3BaGQIUNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10448,7 +10448,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv3do5wEPSqLVg90H21EOLACvtfcHk0lhmP_DsmkyPbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv3do5wEPSqLVg90H21EOLACvtfcHk0lhqi3BaGQIUNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10599,7 +10599,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3GK8yOqs6g7Vg90H21EOLACvtfcHk0lhmP_DsmkyPbQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3GK8yOqs6g7Vg90H21EOLACvtfcHk0lhqi3BaGQIUNg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10816,7 +10816,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqh-7u_ttNGGrVg90H21EOLACvtfcHk0liCrOJfTUAESQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqh-7u_ttNGGrVg90H21EOLACvtfcHk0lghlVyEBNo3-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10970,7 +10970,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0liCrOJfTUAESQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0lghlVyEBNo3-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11169,7 +11169,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorwlUKYIVsHLVg90H21EOLACvtfcHk0liCrOJfTUAESQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorwlUKYIVsHLVg90H21EOLACvtfcHk0lgnbZevt9lkzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11420,7 +11420,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGowXTaTp4yPw7Vg90H21EOLACvtfcHk0li2hJd-C1zoDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGowXTaTp4yPw7Vg90H21EOLACvtfcHk0lgnbZevt9lkzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11581,7 +11581,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzdkTUTejHIbVg90H21EOLACvtfcHk0li2hJd-C1zoDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzdkTUTejHIbVg90H21EOLACvtfcHk0lgnbZevt9lkzA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11762,7 +11762,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0li2hJd-C1zoDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0lgLYiagheBBFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11916,7 +11916,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0liSwSinUxWGuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0lgLYiagheBBFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12066,7 +12066,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqx4xvOZrhF1rVg90H21EOLACvtfcHk0liSwSinUxWGuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqx4xvOZrhF1rVg90H21EOLACvtfcHk0lgLYiagheBBFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12306,7 +12306,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKiqY1peCmDbVg90H21EOLACvtfcHk0liSwSinUxWGuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKiqY1peCmDbVg90H21EOLACvtfcHk0lgutRSU7QCZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12591,7 +12591,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7mNJo42WVhLVg90H21EOLACvtfcHk0lhVO6axXTF3iA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7mNJo42WVhLVg90H21EOLACvtfcHk0lgutRSU7QCZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12755,7 +12755,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpG4nBTfbFxkrVg90H21EOLACvtfcHk0lhVO6axXTF3iA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpG4nBTfbFxkrVg90H21EOLACvtfcHk0lgutRSU7QCZVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12918,7 +12918,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrhiPOJZUwnsLVg90H21EOLACvtfcHk0lhVO6axXTF3iA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrhiPOJZUwnsLVg90H21EOLACvtfcHk0li_F4zC5Pq8DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13116,7 +13116,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzpDlZUTZVHrVg90H21EOLACvtfcHk0ljMfcVHa1gWmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzpDlZUTZVHrVg90H21EOLACvtfcHk0li_F4zC5Pq8DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13270,7 +13270,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLIBQmypZf-LVg90H21EOLACvtfcHk0ljMfcVHa1gWmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLIBQmypZf-LVg90H21EOLACvtfcHk0li_F4zC5Pq8DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13438,7 +13438,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDxEtdG06NjLVg90H21EOLACvtfcHk0ljMfcVHa1gWmQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDxEtdG06NjLVg90H21EOLACvtfcHk0liPqew3XDjsqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13736,7 +13736,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqG8I35xrdhDrVg90H21EOLACvtfcHk0lh9QaBOGdRqQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqG8I35xrdhDrVg90H21EOLACvtfcHk0liPqew3XDjsqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13874,7 +13874,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpq03MNVCu2GLVg90H21EOLACvtfcHk0lh9QaBOGdRqQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpq03MNVCu2GLVg90H21EOLACvtfcHk0liPqew3XDjsqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14037,7 +14037,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpch3nUfvcge7Vg90H21EOLACvtfcHk0lh9QaBOGdRqQg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpch3nUfvcge7Vg90H21EOLACvtfcHk0lhBcYGO05VjxA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14194,7 +14194,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrOtriddLpM07Vg90H21EOLACvtfcHk0lgfhVW9_M8uqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrOtriddLpM07Vg90H21EOLACvtfcHk0lhBcYGO05VjxA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14411,7 +14411,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqnShCPalOuxbVg90H21EOLACvtfcHk0lgfhVW9_M8uqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqnShCPalOuxbVg90H21EOLACvtfcHk0lhBcYGO05VjxA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14563,7 +14563,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZMEutcEUNbbVg90H21EOLACvtfcHk0lgfhVW9_M8uqw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZMEutcEUNbbVg90H21EOLACvtfcHk0ljCiwkjjFsBmw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14719,7 +14719,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpws44giTrtTrVg90H21EOLACvtfcHk0liSf1q2fGTvzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpws44giTrtTrVg90H21EOLACvtfcHk0ljCiwkjjFsBmw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -14870,7 +14870,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3ranMF_4zr7Vg90H21EOLACvtfcHk0liSf1q2fGTvzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3ranMF_4zr7Vg90H21EOLACvtfcHk0ljCiwkjjFsBmw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15008,7 +15008,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp6JKZJYdqP2LVg90H21EOLACvtfcHk0liSf1q2fGTvzw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp6JKZJYdqP2LVg90H21EOLACvtfcHk0li7xMpLXRCPUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15147,7 +15147,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_y8XMT74FzLVg90H21EOLACvtfcHk0ljcE2TcCWrkcg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_y8XMT74FzLVg90H21EOLACvtfcHk0li7xMpLXRCPUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15315,7 +15315,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGQje6qBRUULVg90H21EOLACvtfcHk0ljcE2TcCWrkcg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGQje6qBRUULVg90H21EOLACvtfcHk0li7xMpLXRCPUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15464,7 +15464,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpt02VSQ_AiZLVg90H21EOLACvtfcHk0lgTuPGm0JU2Uw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpt02VSQ_AiZLVg90H21EOLACvtfcHk0lhMgSSOYNa-hQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15628,7 +15628,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrA9Y_YPOSmgLVg90H21EOLACvtfcHk0lgTuPGm0JU2Uw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrA9Y_YPOSmgLVg90H21EOLACvtfcHk0lhMgSSOYNa-hQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15798,7 +15798,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkKiiai8GzB7Vg90H21EOLACvtfcHk0lgTuPGm0JU2Uw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkKiiai8GzB7Vg90H21EOLACvtfcHk0lhMgSSOYNa-hQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -15991,7 +15991,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwTpFQjF4Fx7Vg90H21EOLACvtfcHk0lj4CrPxocdMdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwTpFQjF4Fx7Vg90H21EOLACvtfcHk0ljTycie8DlFBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -16171,7 +16171,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZFhbHuzQzQLVg90H21EOLACvtfcHk0lj4CrPxocdMdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZFhbHuzQzQLVg90H21EOLACvtfcHk0ljTycie8DlFBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -16322,7 +16322,7 @@ León, C.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrMCXfFjrbADrVg90H21EOLACvtfcHk0lj4CrPxocdMdQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrMCXfFjrbADrVg90H21EOLACvtfcHk0ljTycie8DlFBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -16518,7 +16518,7 @@ León, C.
                    </span>
                    <span class="NLM_article-title">
                     Oxygen Reduction Reaction Mechanism and Kinetics on M-NxCy and
-                    <a class="__cf_email__" data-cfemail="e4a9a4aac9a7" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="3a777a741779" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     Active Sites Present in Model M-N-C Catalysts under Alkaline and Acidic Conditions
@@ -16571,7 +16571,7 @@ León, C.
                      <div class="casTitle">
                       <span class="NLM_cas:atitle">
                        Oxygen reduction reaction mechanism and kinetics on M-NxCy and
-                       <a class="__cf_email__" data-cfemail="571a17197a14" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="672a27294a24" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        active sites present in model M-N-C catalysts under alkaline and acidic conditions
@@ -16619,18 +16619,18 @@ León, C.
                      </div>
                      <div class="casAbstract">
                       M-N-C electrocatalysts (where M is Fe or Co) have been investigated for mitigating the dependence on noble metals when catalyzing the oxygen redn. reaction (ORR) for fuel cell technologies in acidic or alk. conditions.  Rotating disk and rotating ring-disk electrode measurements for Fe-N-C and Co-N-C catalysts demonstrate promising performances and stability for the ORR, while the activity of main suspected active sites (M-NxCy and
-                      <a class="__cf_email__" data-cfemail="91dcd1dfbcd2" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="2b666b650668" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       ) has been discussed on the basis of the known phys.-chem. properties of the catalysts in acid and alk. media.  Thereupon, it is obsd. that atomically dispersed Fe-NxCy sites reach the highest ORR activity in acid media when amplified by an adequate energy binding between the metallic center and the oxygenated reaction intermediates.  In contrast,
-                      <a class="__cf_email__" data-cfemail="37715277791a74" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="95d3f0d5dbb8d6" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       core-shell sites reach a max. ORR mass activity in alk. media through a synergistic effect involving catalyst particles with metallic iron in the core and nitrogen-doped carbon in the shell.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUsvvhbX1-arVg90H21EOLACvtfcHk0lj7QLHYgxQhFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUsvvhbX1-arVg90H21EOLACvtfcHk0lhQpxf1J-qpSg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -17197,7 +17197,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkbF8XhhHnjbVg90H21EOLACvtfcHk0lg74iNYgLe0tg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkbF8XhhHnjbVg90H21EOLACvtfcHk0ljyj3Kh7WzqKw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17392,7 +17392,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0lg74iNYgLe0tg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0ljyj3Kh7WzqKw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17597,7 +17597,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKli2yUtBPcbVg90H21EOLACvtfcHk0lhBsPuYapWYRw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKli2yUtBPcbVg90H21EOLACvtfcHk0ljyj3Kh7WzqKw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17778,7 +17778,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0lhBsPuYapWYRw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0lhxRg811sxeTw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18018,7 +18018,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpC6O5tXQH1RLVg90H21EOLACvtfcHk0lizptadQBlB9Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpC6O5tXQH1RLVg90H21EOLACvtfcHk0lhxRg811sxeTw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18164,7 +18164,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpu_l0AK4n0QLVg90H21EOLACvtfcHk0li8jxvJ265LUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpu_l0AK4n0QLVg90H21EOLACvtfcHk0ljqumnYvjrYbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18326,7 +18326,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7rSY0Jjeum7Vg90H21EOLACvtfcHk0lhS4zCxq4wz4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr7rSY0Jjeum7Vg90H21EOLACvtfcHk0ljqumnYvjrYbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18483,7 +18483,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp12sCkW8rdVbVg90H21EOLACvtfcHk0lhS4zCxq4wz4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp12sCkW8rdVbVg90H21EOLACvtfcHk0liN4ejoqMc3lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18664,7 +18664,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0lhhN0uTuL0hCQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoG5hCSDhf6lrVg90H21EOLACvtfcHk0liN4ejoqMc3lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18802,7 +18802,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqyBZaIRqT77Vg90H21EOLACvtfcHk0lhhN0uTuL0hCQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqqyBZaIRqT77Vg90H21EOLACvtfcHk0liN4ejoqMc3lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18952,7 +18952,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTg6Mp7b4t-LVg90H21EOLACvtfcHk0lj6PNYZz1lOpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpTg6Mp7b4t-LVg90H21EOLACvtfcHk0liN4ejoqMc3lw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19103,7 +19103,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0SbeWCSAl_LVg90H21EOLACvtfcHk0lj6PNYZz1lOpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0SbeWCSAl_LVg90H21EOLACvtfcHk0lilsmBboX4G4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19259,7 +19259,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1E3YhrfwOYbVg90H21EOLACvtfcHk0ljCjikSXJDaWQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr1E3YhrfwOYbVg90H21EOLACvtfcHk0lilsmBboX4G4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19434,7 +19434,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTCvIYBUKQ-7Vg90H21EOLACvtfcHk0li3Vvxob7_zMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoTCvIYBUKQ-7Vg90H21EOLACvtfcHk0lilsmBboX4G4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19596,7 +19596,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYd-reGq27y7Vg90H21EOLACvtfcHk0li3Vvxob7_zMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYd-reGq27y7Vg90H21EOLACvtfcHk0lgfziwVjEaU9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19740,7 +19740,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0li3Vvxob7_zMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrzFsRiia0j0bVg90H21EOLACvtfcHk0lgfziwVjEaU9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19889,7 +19889,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoxHE7j-FIUB7Vg90H21EOLACvtfcHk0ljeNCqM7JeyUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoxHE7j-FIUB7Vg90H21EOLACvtfcHk0lgfziwVjEaU9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20030,7 +20030,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpEkng6ea3lfLVg90H21EOLACvtfcHk0ljeNCqM7JeyUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpEkng6ea3lfLVg90H21EOLACvtfcHk0li-byahvI5jUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20174,7 +20174,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGojjkvVN8isJ7Vg90H21EOLACvtfcHk0ljeNCqM7JeyUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGojjkvVN8isJ7Vg90H21EOLACvtfcHk0li-byahvI5jUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20316,7 +20316,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZ8U00am5LKbVg90H21EOLACvtfcHk0ljeNCqM7JeyUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpZ8U00am5LKbVg90H21EOLACvtfcHk0li-byahvI5jUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20455,7 +20455,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTjVYzHnZD2LVg90H21EOLACvtfcHk0ljcEH7BpBvNEA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrTjVYzHnZD2LVg90H21EOLACvtfcHk0li-byahvI5jUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20599,7 +20599,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGobgdiXoGaSPLVg90H21EOLACvtfcHk0ljcEH7BpBvNEA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGobgdiXoGaSPLVg90H21EOLACvtfcHk0libFOfYfD2H2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20749,7 +20749,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPssBy6PDlgLVg90H21EOLACvtfcHk0ljcEH7BpBvNEA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoPssBy6PDlgLVg90H21EOLACvtfcHk0libFOfYfD2H2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20893,7 +20893,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV5x4lmBXG5bVg90H21EOLACvtfcHk0lh-d4J2W2Njlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqV5x4lmBXG5bVg90H21EOLACvtfcHk0libFOfYfD2H2w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21073,7 +21073,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpCbDPiN2-RpLVg90H21EOLACvtfcHk0lh-d4J2W2Njlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpCbDPiN2-RpLVg90H21EOLACvtfcHk0liZoW3g0cb7mw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21248,7 +21248,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqdKWeSPDDlvLVg90H21EOLACvtfcHk0lh-d4J2W2Njlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqdKWeSPDDlvLVg90H21EOLACvtfcHk0liZoW3g0cb7mw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21376,7 +21376,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolp8ld5KGlr7Vg90H21EOLACvtfcHk0lh-d4J2W2Njlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGolp8ld5KGlr7Vg90H21EOLACvtfcHk0liZoW3g0cb7mw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21527,7 +21527,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQNs_o1logrbVg90H21EOLACvtfcHk0liSqPVRKF9kNQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpQNs_o1logrbVg90H21EOLACvtfcHk0lhWvTN57IM0zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21708,7 +21708,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0liSqPVRKF9kNQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0lhWvTN57IM0zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21846,7 +21846,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0LYxatd8qsrVg90H21EOLACvtfcHk0liSqPVRKF9kNQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp0LYxatd8qsrVg90H21EOLACvtfcHk0lhWvTN57IM0zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22002,7 +22002,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPgg9nJLmHh7Vg90H21EOLACvtfcHk0lhHtxYdE2D_Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPgg9nJLmHh7Vg90H21EOLACvtfcHk0lhWvTN57IM0zg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22147,7 +22147,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZRqeL82SzaLVg90H21EOLACvtfcHk0lhHtxYdE2D_Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoZRqeL82SzaLVg90H21EOLACvtfcHk0lhGi9gztcWdnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22286,7 +22286,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo_g4V8_j1D1bVg90H21EOLACvtfcHk0lhHtxYdE2D_Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo_g4V8_j1D1bVg90H21EOLACvtfcHk0lhGi9gztcWdnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22435,7 +22435,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqFm0ttwwYuy7Vg90H21EOLACvtfcHk0lhHtxYdE2D_Cw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqFm0ttwwYuy7Vg90H21EOLACvtfcHk0lhGi9gztcWdnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22698,7 +22698,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqQwrfRbjGvP7Vg90H21EOLACvtfcHk0liZpt5ciWNxqA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqQwrfRbjGvP7Vg90H21EOLACvtfcHk0lic-ot1p12YDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22854,7 +22854,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHqq-dkGspM7Vg90H21EOLACvtfcHk0liZpt5ciWNxqA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqHqq-dkGspM7Vg90H21EOLACvtfcHk0lic-ot1p12YDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23026,7 +23026,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrjEvSpuZiHT7Vg90H21EOLACvtfcHk0liZpt5ciWNxqA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrjEvSpuZiHT7Vg90H21EOLACvtfcHk0lic-ot1p12YDw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23164,7 +23164,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMRKs314UKQbVg90H21EOLACvtfcHk0ljYERCqAI5MIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMRKs314UKQbVg90H21EOLACvtfcHk0lhuAok4TjVyTQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23372,7 +23372,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv3do5wEPSqLVg90H21EOLACvtfcHk0ljYERCqAI5MIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv3do5wEPSqLVg90H21EOLACvtfcHk0lhuAok4TjVyTQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23523,7 +23523,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3GK8yOqs6g7Vg90H21EOLACvtfcHk0ljYERCqAI5MIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp3GK8yOqs6g7Vg90H21EOLACvtfcHk0lhuAok4TjVyTQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23740,7 +23740,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqh-7u_ttNGGrVg90H21EOLACvtfcHk0lgpR7fyWLOUUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqh-7u_ttNGGrVg90H21EOLACvtfcHk0liBoHzF7q9ovg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -23894,7 +23894,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0lgpR7fyWLOUUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0liBoHzF7q9ovg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24093,7 +24093,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorwlUKYIVsHLVg90H21EOLACvtfcHk0lgpR7fyWLOUUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorwlUKYIVsHLVg90H21EOLACvtfcHk0liBoHzF7q9ovg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24344,7 +24344,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGowXTaTp4yPw7Vg90H21EOLACvtfcHk0ljC4vnLqo7bGQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGowXTaTp4yPw7Vg90H21EOLACvtfcHk0lgl1FXcEkf1FQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24505,7 +24505,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzdkTUTejHIbVg90H21EOLACvtfcHk0ljC4vnLqo7bGQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqzdkTUTejHIbVg90H21EOLACvtfcHk0lgl1FXcEkf1FQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24686,7 +24686,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0ljC4vnLqo7bGQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqJ8xFB5npYT7Vg90H21EOLACvtfcHk0lgl1FXcEkf1FQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24840,7 +24840,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0ljTR8H2VM4h7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqvgRYvFedXEbVg90H21EOLACvtfcHk0ljISZpKiunJtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -24990,7 +24990,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqx4xvOZrhF1rVg90H21EOLACvtfcHk0ljTR8H2VM4h7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqx4xvOZrhF1rVg90H21EOLACvtfcHk0ljISZpKiunJtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -25230,7 +25230,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKiqY1peCmDbVg90H21EOLACvtfcHk0ljTR8H2VM4h7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoKiqY1peCmDbVg90H21EOLACvtfcHk0ljISZpKiunJtA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -25515,7 +25515,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7mNJo42WVhLVg90H21EOLACvtfcHk0lhCHJYMzufnvw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp7mNJo42WVhLVg90H21EOLACvtfcHk0lgnpl7mAfx0fw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -25679,7 +25679,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpG4nBTfbFxkrVg90H21EOLACvtfcHk0lhCHJYMzufnvw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpG4nBTfbFxkrVg90H21EOLACvtfcHk0lgnpl7mAfx0fw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -25842,7 +25842,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrhiPOJZUwnsLVg90H21EOLACvtfcHk0lhCHJYMzufnvw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrhiPOJZUwnsLVg90H21EOLACvtfcHk0lj4zpyvSAxxJg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26040,7 +26040,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzpDlZUTZVHrVg90H21EOLACvtfcHk0lifrs5uYCd0Ow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpzpDlZUTZVHrVg90H21EOLACvtfcHk0lj4zpyvSAxxJg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26194,7 +26194,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLIBQmypZf-LVg90H21EOLACvtfcHk0lifrs5uYCd0Ow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLIBQmypZf-LVg90H21EOLACvtfcHk0lj4zpyvSAxxJg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26362,7 +26362,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDxEtdG06NjLVg90H21EOLACvtfcHk0lifrs5uYCd0Ow" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDxEtdG06NjLVg90H21EOLACvtfcHk0lj4zpyvSAxxJg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26660,7 +26660,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqG8I35xrdhDrVg90H21EOLACvtfcHk0liE0pHlSaLe-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqG8I35xrdhDrVg90H21EOLACvtfcHk0li-9se1EeGgtw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26798,7 +26798,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpq03MNVCu2GLVg90H21EOLACvtfcHk0liE0pHlSaLe-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpq03MNVCu2GLVg90H21EOLACvtfcHk0li-9se1EeGgtw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -26961,7 +26961,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpch3nUfvcge7Vg90H21EOLACvtfcHk0liE0pHlSaLe-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpch3nUfvcge7Vg90H21EOLACvtfcHk0li-9se1EeGgtw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27118,7 +27118,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrOtriddLpM07Vg90H21EOLACvtfcHk0ljE5jji9qIvvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrOtriddLpM07Vg90H21EOLACvtfcHk0lj2wn9d2tI7lA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27335,7 +27335,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqnShCPalOuxbVg90H21EOLACvtfcHk0ljE5jji9qIvvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqnShCPalOuxbVg90H21EOLACvtfcHk0lj2wn9d2tI7lA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27487,7 +27487,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZMEutcEUNbbVg90H21EOLACvtfcHk0ljE5jji9qIvvg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqZMEutcEUNbbVg90H21EOLACvtfcHk0lj2wn9d2tI7lA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27643,7 +27643,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpws44giTrtTrVg90H21EOLACvtfcHk0ljQgjBQTZ7rCA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpws44giTrtTrVg90H21EOLACvtfcHk0ljPEsihW_R3oQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27794,7 +27794,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3ranMF_4zr7Vg90H21EOLACvtfcHk0ljQgjBQTZ7rCA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo3ranMF_4zr7Vg90H21EOLACvtfcHk0ljPEsihW_R3oQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -27932,7 +27932,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp6JKZJYdqP2LVg90H21EOLACvtfcHk0ljQgjBQTZ7rCA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp6JKZJYdqP2LVg90H21EOLACvtfcHk0ljPEsihW_R3oQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28071,7 +28071,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_y8XMT74FzLVg90H21EOLACvtfcHk0liX0EvetX2BWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq_y8XMT74FzLVg90H21EOLACvtfcHk0liH9uij6tSdiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28239,7 +28239,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGQje6qBRUULVg90H21EOLACvtfcHk0liX0EvetX2BWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGQje6qBRUULVg90H21EOLACvtfcHk0liH9uij6tSdiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28388,7 +28388,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpt02VSQ_AiZLVg90H21EOLACvtfcHk0liX0EvetX2BWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpt02VSQ_AiZLVg90H21EOLACvtfcHk0liH9uij6tSdiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28552,7 +28552,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrA9Y_YPOSmgLVg90H21EOLACvtfcHk0liX0EvetX2BWw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrA9Y_YPOSmgLVg90H21EOLACvtfcHk0liH9uij6tSdiA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28722,7 +28722,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkKiiai8GzB7Vg90H21EOLACvtfcHk0lg6oQaZFj7xMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqkKiiai8GzB7Vg90H21EOLACvtfcHk0ljBC4Sl9jKhvw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -28915,7 +28915,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwTpFQjF4Fx7Vg90H21EOLACvtfcHk0lg6oQaZFj7xMg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwTpFQjF4Fx7Vg90H21EOLACvtfcHk0ljBC4Sl9jKhvw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -29095,7 +29095,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZFhbHuzQzQLVg90H21EOLACvtfcHk0ljp70YT-GWgKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZFhbHuzQzQLVg90H21EOLACvtfcHk0liOwRYz6qLL8Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -29246,7 +29246,7 @@ León, C.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrMCXfFjrbADrVg90H21EOLACvtfcHk0ljp70YT-GWgKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrMCXfFjrbADrVg90H21EOLACvtfcHk0liOwRYz6qLL8Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -29442,7 +29442,7 @@ León, C.
                       </span>
                       <span class="NLM_article-title">
                        Oxygen Reduction Reaction Mechanism and Kinetics on M-NxCy and
-                       <a class="__cf_email__" data-cfemail="014c414f2c42" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="8fc2cfc1a2cc" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        Active Sites Present in Model M-N-C Catalysts under Alkaline and Acidic Conditions
@@ -29495,7 +29495,7 @@ León, C.
                         <div class="casTitle">
                          <span class="NLM_cas:atitle">
                           Oxygen reduction reaction mechanism and kinetics on M-NxCy and
-                          <a class="__cf_email__" data-cfemail="d499949af997" href="/cdn-cgi/l/email-protection">
+                          <a class="__cf_email__" data-cfemail="175a57593a54" href="/cdn-cgi/l/email-protection">
                            [email protected]
                           </a>
                           active sites present in model M-N-C catalysts under alkaline and acidic conditions
@@ -29543,18 +29543,18 @@ León, C.
                         </div>
                         <div class="casAbstract">
                          M-N-C electrocatalysts (where M is Fe or Co) have been investigated for mitigating the dependence on noble metals when catalyzing the oxygen redn. reaction (ORR) for fuel cell technologies in acidic or alk. conditions.  Rotating disk and rotating ring-disk electrode measurements for Fe-N-C and Co-N-C catalysts demonstrate promising performances and stability for the ORR, while the activity of main suspected active sites (M-NxCy and
-                         <a class="__cf_email__" data-cfemail="5f121f11721c" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="b6fbf6f89bf5" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          ) has been discussed on the basis of the known phys.-chem. properties of the catalysts in acid and alk. media.  Thereupon, it is obsd. that atomically dispersed Fe-NxCy sites reach the highest ORR activity in acid media when amplified by an adequate energy binding between the metallic center and the oxygenated reaction intermediates.  In contrast,
-                         <a class="__cf_email__" data-cfemail="7f391a3f31523c" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="8ec8ebcec0a3cd" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          core-shell sites reach a max. ORR mass activity in alk. media through a synergistic effect involving catalyst particles with metallic iron in the core and nitrogen-doped carbon in the shell.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUsvvhbX1-arVg90H21EOLACvtfcHk0ljp70YT-GWgKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpUsvvhbX1-arVg90H21EOLACvtfcHk0liOwRYz6qLL8Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -30644,7 +30644,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad69716e1b61a1","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb1869929e3e9f0","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

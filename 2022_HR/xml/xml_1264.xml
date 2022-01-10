@@ -1,0 +1,3201 @@
+<!DOCTYPE html>
+<!--[if IE 8]> <html class="no-js lt-ie9" lang="en" > <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en">
+ <!--<![endif]-->
+ <head>
+  <meta charset="utf-8"/>
+  <meta content="width=device-width" initial-scale="1" name="viewport"/>
+  <meta content="IE=Edge" http-equiv="X-UA-Compatible"/>
+  <meta content="telephone=no" name="format-detection"/>
+  <title>
+   Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror
+  </title>
+  <link href="http://purl.org/dc/elements/1.1/" rel="schema.dc" title="schema(DC)"/>
+  <meta content="summary" name="twitter:card"/>
+  <meta content="Wavelength-tunable optical vortices with a topological charge equal to l=1 of orbital angular momentum (OAM) were experimentally realized using a single off-axis spiral phase mirror (OSPM) with lasers of various visible-light wavelengths. Using an OSPM designed for 561 nm and an incidence angle of 45°, circular doughnut-shaped l=1 optical vortices were obtained at 561, 473, and 660 nm by rotating the OSPM to modify the laser incidence angle. Wavelength-tunable l=1 optical vortices were obtained at the respective incidence angles of 45°, 53.4°, and 33.7°, because the effective geometrical thickness of the OSPM, which determines the order of OAM, was identical at each wavelength. This flexible OSPM which operates over a wide wavelength range will provide continuously wavelength-tunable optical vortices for applications in the fields of advanced optics and photonics in which optical vortices with wide wavelength tunability are in demand." name="twitter:description"/>
+  <meta content="https://www.osapublishing.org/getThumbnail.cfm?uri=ol-46-17-4216&amp;o=y" name="twitter:image"/>
+  <meta content="@OpticaPubsGroup" name="twitter:site"/>
+  <meta content="Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror" name="twitter:title"/>
+  <meta content="Dong-Ho Lee" name="dc.creator"/>
+  <meta content="Dong Uk Kim" name="dc.creator"/>
+  <meta content="Geon Hee Kim" name="dc.creator"/>
+  <meta content="Hong-Seung Kim" name="dc.creator"/>
+  <meta content="Hwan-Jin Choi" name="dc.creator"/>
+  <meta content="I Jong Kim" name="dc.creator"/>
+  <meta content="Ilkyu Han" name="dc.creator"/>
+  <meta content="Ji Yong Bae" name="dc.creator"/>
+  <meta content="Ki Soo Chang" name="dc.creator"/>
+  <meta content="Kye-Sung Lee" name="dc.creator"/>
+  <meta content="Minwoo Jeon" name="dc.creator"/>
+  <meta content="Seok Kyung Jeong" name="dc.creator"/>
+  <meta content="Wonkyun Lee" name="dc.creator"/>
+  <meta content="Woo-Jong Yeo" name="dc.creator"/>
+  <meta content="2021-09-01" name="dc.date"/>
+  <meta content="Wavelength-tunable optical vortices with a topological charge equal to l=1 of orbital angular momentum (OAM) were experimentally realized using a single off-axis spiral phase mirror (OSPM) with lasers of various visible-light wavelengths. Using an OSPM designed for 561 nm and an incidence angle of 45°, circular doughnut-shaped l=1 optical vortices were obtained at 561, 473, and 660 nm by rotating the OSPM to modify the laser incidence angle. Wavelength-tunable l=1 optical vortices were obtained at the respective incidence angles of 45°, 53.4°, and 33.7°, because the effective geometrical thickness of the OSPM, which determines the order of OAM, was identical at each wavelength. This flexible OSPM which operates over a wide wavelength range will provide continuously wavelength-tunable optical vortices for applications in the fields of advanced optics and photonics in which optical vortices with wide wavelength tunability are in demand." name="dc.description"/>
+  <meta content="doi:10.1364/OL.432413" name="dc.identifier"/>
+  <meta content="EN" name="dc.language"/>
+  <meta content="Wavelength-tunable optical vortices with a topological charge equal to l=1 of orbital angular momentum (OAM) were experimentally realized using a single off-axis spiral phase mirror (OSPM) with lasers of various visible-light wavelengths. Using an OSPM designed for 561 nm and an incidence angle of 45°, circular doughnut-shaped l=1 optical vortices were obtained at 561, 473, and 660 nm by rotating the OSPM to modify the laser incidence angle. Wavelength-tunable l=1 optical vortices were obtained at the respective incidence angles of 45°, 53.4°, and 33.7°, because the effective geometrical thickness of the OSPM, which determines the order of OAM, was identical at each wavelength. This flexible OSPM which operates over a wide wavelength range will provide continuously wavelength-tunable optical vortices for applications in the fields of advanced optics and photonics in which optical vortices with wide wavelength tunability are in demand." property="og:description"/>
+  <meta content="https://www.osapublishing.org/getThumbnail.cfm?uri=ol-46-17-4216&amp;size=200&amp;o=y" property="og:image"/>
+  <meta content="Optica Publishing Group" property="og:sitename"/>
+  <meta content="Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror" property="og:title"/>
+  <meta content="Article" property="og:type"/>
+  <meta content="https://www.osapublishing.org/ol/abstract.cfm?uri=ol-46-17-4216" property="og:url"/>
+  <meta content="Optical Society of America" name="dc.publisher"/>
+  <meta content="&amp;#169; 2021 Optical Society of America" name="dc.rights"/>
+  <meta content="Optics Letters, Vol. 46, Issue 17, pp. 4216-4219" name="dc.source"/>
+  <meta content="Laser beams" name="dc.subject"/>
+  <meta content="Optical angular momentum" name="dc.subject"/>
+  <meta content="Optical vortices" name="dc.subject"/>
+  <meta content="Spatial light modulators" name="dc.subject"/>
+  <meta content="Spiral phase" name="dc.subject"/>
+  <meta content="Visible lasers" name="dc.subject"/>
+  <meta content="Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror" name="dc.title"/>
+  <meta content="https://www.osapublishing.org/abstract.cfm?uri=ol-46-17-4216" name="citation_abstract_html_url"/>
+  <meta content="Dong-Ho Lee" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Hong-Seung Kim" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Ilkyu Han" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Ji Yong Bae" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Woo-Jong Yeo" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Woo-Jong Yeo" name="citation_author"/>
+  <meta content="School of Mechanical Engineering, Chungnam National University, Daejeon, 34134, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Seok Kyung Jeong" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Seok Kyung Jeong" name="citation_author"/>
+  <meta content="School of Mechanical Engineering, Chungnam National University, Daejeon, 34134, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Minwoo Jeon" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Minwoo Jeon" name="citation_author"/>
+  <meta content="School of Mechanical Engineering, Chungnam National University, Daejeon, 34134, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Hwan-Jin Choi" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Hwan-Jin Choi" name="citation_author"/>
+  <meta content="School of Mechanical Engineering, Chungnam National University, Daejeon, 34134, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Dong Uk Kim" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Kye-Sung Lee" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Ki Soo Chang" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Wonkyun Lee" name="citation_author"/>
+  <meta content="School of Mechanical Engineering, Chungnam National University, Daejeon, 34134, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Geon Hee Kim" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="Geon Hee Kim" name="citation_author"/>
+  <meta content="Department of Machinery-Materials Convergence System Engineering, Hanbat University, Daejeon, 34158, Republic of Korea" name="citation_author_institution"/>
+  <meta content="I Jong Kim" name="citation_author"/>
+  <meta content="Division of Scientific Instrumentation and Management, Korea Basic Science Institute, Daejeon 34133, Republic of Korea" name="citation_author_institution"/>
+  <meta content="10.1364/OL.432413" name="citation_doi"/>
+  <meta content="4216" name="citation_firstpage"/>
+  <meta content="https://www.osapublishing.org/viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0&amp;html=true" name="citation_fulltext_html_url"/>
+  <meta content="1539-4794" name="citation_issn"/>
+  <meta content="17" name="citation_issue"/>
+  <meta content="Opt. Lett., OL" name="citation_journal_abbrev"/>
+  <meta content="Optics Letters" name="citation_journal_title"/>
+  <meta content="Laser beams;Optical angular momentum;Optical vortices;Spatial light modulators;Spiral phase;Visible lasers;" name="citation_keywords"/>
+  <meta content="EN" name="citation_language"/>
+  <meta content="4219" name="citation_lastpage"/>
+  <meta content="2021/08/24" name="citation_online_date"/>
+  <meta content="https://www.osapublishing.org/viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0" name="citation_pdf_url"/>
+  <meta content="2021/09/01" name="citation_publication_date"/>
+  <meta content="Optical Society of America" name="citation_publisher"/>
+  <meta content="Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror" name="citation_title"/>
+  <meta content="46" name="citation_volume"/>
+  <link href="/favicon.ico?v=2" rel="icon"/>
+  <link href="/css/token-input-facebook.css" rel="stylesheet"/>
+  <link href="/css/app.css?v=09192021" rel="stylesheet"/>
+  <!--<link rel="stylesheet" href="/css/search.css"> Second style redefines first in app.css -->
+  <link href="/css/journal-colors.css" rel="stylesheet"/>
+  <link href="/css/tools.css?v=09192021" rel="stylesheet"/>
+  <link href="/css/jqueryui/jquery-ui.css" rel="stylesheet"/>
+  <link href="/css/jqueryui/jquery-ui-1.10.3.custom.min.css" rel="stylesheet"/>
+  <link href="/css/carrousel.css" rel="stylesheet"/>
+  <!--[if lt IE 9]>
+<script type="text/javascript" src="/js/vendor/html5shiv.min.js"></script>
+<script type="text/javascript" src="/js/vendor/respond.min.js"></script>
+<![endif]-->
+  <link href="/fonts/fa5pro/css/all.css" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,600|Noto+Sans:700&amp;subset=latin,greek-ext" rel="stylesheet" type="text/css"/>
+  <script src="/js/vendor/custom.modernizr.js" type="text/javascript">
+  </script>
+  <script async="" src="https://scholar.google.com/scholar_js/casa.js" type="text/javascript">
+  </script>
+  <script src="/js/Chart.min.js" type="text/javascript">
+  </script>
+ </head>
+ <body class="single-article journal-ol">
+  <svg style="display: none;" xmlns="http://www.w3.org/2000/svg">
+   <symbol id="right-arrow" viewBox="0 0 7.7 8.89">
+    <defs>
+     <style>
+      .rarrow {
+stroke-miterlimit: 10;
+}
+     </style>
+    </defs>
+    <title>
+     Expand this Topic
+    </title>
+    <desc>
+     clickable element to expand a topic
+    </desc>
+    <polygon class="rarrow" points="0.5 0.87 0.5 8.03 6.7 4.45 0.5 0.87">
+    </polygon>
+   </symbol>
+  </svg>
+  <div class="site">
+   <nav class="primary navbar navbar-inverse hidden-xs">
+    <div class="container">
+     <div class="user-acct navbar-right">
+      <ul class="manage-user-acct nav navbar-nav">
+       <li class="nav-link">
+        <a data-target="#userLogin" data-toggle="modal" href="#" id="loginModal">
+         <i class="fal fa-user-circle" style="font-size:1.1em;">
+         </i>
+         LOGIN
+         <span class="muted" style="color:#999">
+          OR
+         </span>
+         CREATE ACCOUNT
+        </a>
+       </li>
+       <li class="nav-link">
+        <a href="https://prism.osapublishing.org">
+         <i class="fal fa-file-alt" style="font-size:1.1em;">
+         </i>
+         PRISM SUBMISSION
+        </a>
+       </li>
+      </ul>
+     </div>
+     <noscript>
+      <div class="maintenance-alert container cookie-alert" id="cookiePopup">
+       <div class="alert alert-simple alert-dismissible fade in osap-maintenance-alert">
+        <p class="text-left">
+         This website uses cookies to deliver some of our products and services as well as for analytics and to provide you a more personalized experience. Click
+         <a href="/cookies.cfm">
+          here
+         </a>
+         to learn more. By continuing to use this site, you agree to our use of cookies. We've also updated our Privacy Notice. Click
+         <a href="/privacy.cfm">
+          here
+         </a>
+         to see what's new.
+        </p>
+        <a aria-label="close" class="btn btn-primary" data-dismiss="alert" href="/close_cookie.cfm?redir=true" onclick="this.href='#'; $.get('/close_cookie.cfm');" role="button">
+         Allow All Cookies
+        </a>
+       </div>
+      </div>
+     </noscript>
+     <div class="maintenance-alert container hidden cookie-alert" id="cookiePopup">
+      <div class="alert alert-simple alert-dismissible fade in osap-maintenance-alert">
+       <p class="text-left">
+        This website uses cookies to deliver some of our products and services as well as for analytics and to provide you a more personalized experience. Click
+        <a href="/cookies.cfm">
+         here
+        </a>
+        to learn more. By continuing to use this site, you agree to our use of cookies. We've also updated our Privacy Notice. Click
+        <a href="/privacy.cfm">
+         here
+        </a>
+        to see what's new.
+       </p>
+       <a aria-label="close" class="btn btn-primary" data-dismiss="alert" href="/close_cookie.cfm?redir=true" onclick="this.href='#'; $.get('/close_cookie.cfm');" role="button">
+        Allow All Cookies
+       </a>
+       <button aria-label="close" class="close" data-dismiss="alert" id="cookiePopupClose" type="button">
+        <span aria-hidden="true">
+         ×
+        </span>
+       </button>
+      </div>
+     </div>
+    </div>
+   </nav>
+   <div style="background-color: black;">
+    <header class="masthead container">
+     <div>
+      <div role="navigation">
+       <div class="mobile-header">
+        <div class="primary-branding col-sm-4 col-xs-7">
+         <a class="primary-brand" href="https://www.osapublishing.org">
+          <img alt="Optica Publishing Group" src="/images/opg-header-ltpurple.svg"/>
+         </a>
+        </div>
+        <div class="mobile-nav-toggle visible-xs col-xs-5">
+         <button class="mobile-nav-btn navbar-toggle" data-target="#osaGlobalNav" data-toggle="collapse" type="button">
+          <span class="sr-only">
+           Toggle navigation
+          </span>
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+          <span class="icon-bar">
+          </span>
+         </button>
+         <button aria-label="start search" class="mobile-search-btn navbar-toggle" data-target="#mobile-search" data-toggle="collapse" type="button">
+          <span class="fi-magnifying-glass">
+          </span>
+         </button>
+        </div>
+       </div>
+       <div class="collapse" id="mobile-search">
+        <div class="header-search col-sm-9 col-xs-12">
+         <div class="input-group form-control">
+          <input aria-label="Search All Publications" class="form-control input-sm" id="topSearchTextMobile" placeholder="Search All Publications" type="text"/>
+          <div class="input-group-btn">
+           <button class="btn btn-default btn-sm search-options" type="button">
+            Options
+            <span class="caret">
+            </span>
+           </button>
+           <a class="btn btn-primary btn-sm" id="topSearchMobile">
+            <span class="fi-magnifying-glass">
+            </span>
+           </a>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="header-search hidden-xs">
+        <div class="search-bar input-group main-search">
+         <form action="/search_noscript.cfm" class="form-inline" name="nojs">
+          <input aria-label="Search All Publications" class="search-text-input form-control input-sm header-search_inputField" id="topSearchText" name="q" placeholder="Search All Publications" type="text"/>
+          <div class="input-group-btn header-search_btnGroup">
+           <button class="btn btn-topheader btn-sm search-options-header" data-target="#advanced-search-popup" data-toggle="collapse" type="button">
+            Options
+            <span class="caret">
+            </span>
+           </button>
+           <button aria-label="start search" class="btn btn-sm btn-search" id="topSearch" type="submit">
+            <div class="circle" style="margin-top:-4px; width:30px; height:30px; background-color:#333; border: 0; padding-top:6px;">
+             <i class="far fa-search ltpurple-color" style="font-size:0.8em;">
+             </i>
+            </div>
+           </button>
+          </div>
+         </form>
+        </div>
+        <form class="collapse advanced-search-popup" id="advanced-search-popup">
+         <div class="row avs-header">
+          <div class="col-sm-9" style="font-weight:bold;">
+           <i class="fal fa-filter">
+           </i>
+           SEARCH OPTIONS
+          </div>
+          <div class="col-sm-3 close-container">
+           <div class="close-top">
+            <a data-target="#advanced-search-popup" data-toggle="collapse" href="#" style="color:white;">
+             Close
+             <i class="far fa-times">
+             </i>
+            </a>
+           </div>
+          </div>
+         </div>
+         <div class="avs-content">
+          <div class="avs_grayout">
+          </div>
+          <div class="row">
+           <div class="col-sm-2 avs-label" style="font-weight:bold;">
+            KEYWORDS
+           </div>
+           <div class="col-sm-8">
+            <input aria-label="Enter search terms here" class="form-control" id="txtSearch" name="" placeholder="Enter search terms here" type="text"/>
+            <input id="chkOtrResource" name="selectionChk" type="checkbox" value=""/>
+            <span class="avs-inline-label-left">
+             <label for="chkOtrResource" style="font-weight:normal;">
+              Only if other resources available (images, video, datasets)
+             </label>
+            </span>
+           </div>
+           <div class="col-sm-2">
+            <div>
+             <input checked="" id="chk-searchin-metadata" name="chkSearchIn" type="checkbox"/>
+             <span class="avs-inline-label-left">
+              <label for="chk-searchin-metadata" style="font-weight:normal;display:inline;">
+               Title and Abstract
+              </label>
+             </span>
+            </div>
+            <div>
+             <input id="chk-searchin-all" name="chkSearchIn" type="checkbox"/>
+             <span class="avs-inline-label-left">
+              <label for="chk-searchin-all" style="font-weight:normal;">
+               All text
+              </label>
+             </span>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-sm-2 avs-label" style="font-weight:bold;">
+            AUTHORS
+           </div>
+           <div class="col-sm-8">
+            <input aria-label="author names" class="form-control" id="authorSearch" placeholder="Enter author names here" type="text"/>
+            <span class="small muted">
+             • Use these formats for best results: Smith or J Smith
+            </span>
+            <span class="small muted">
+             <br/>
+             • Use a comma to separate multiple people: J Smith, RL Jones, Macarthur
+            </span>
+           </div>
+           <div class="col-sm-2">
+            <label for="chkAny" style="font-weight:normal;">
+             Any :
+            </label>
+            <input checked="checked" id="chkAny" name="chkAnyAll" type="radio" value="any"/>
+            <label for="chkAll" style="font-weight:normal;">
+             All :
+            </label>
+            <input id="chkAll" name="chkAnyAll" type="radio" value="all"/>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-sm-12">
+            <div class="avs-help avs-divider">
+             <a class="avs-help-link" data-action="slide-toggle" data-target="#avsHint1" href="#" title="Help Link">
+              ?
+             </a>
+             <div class="avs-help-message" id="avsHint1">
+              <strong>
+               Tips for preparing a search:
+              </strong>
+              <ul>
+               <li>
+                Keep it simple - don't use too many different parameters.
+               </li>
+               <li>
+                Separate search groups with parentheses and Booleans. Note the Boolean sign must be in upper-case.
+                <ul>
+                 <li>
+                  Example: (diode OR solid-state) AND laser [search contains "diode" or "solid-state" and laser]
+                 </li>
+                 <li>
+                  Example: (photons AND downconversion) - pump [search contains both "photons" and "downconversion" but not "pump"]
+                 </li>
+                </ul>
+               </li>
+               <li>
+                Improve efficiency in your search by using wildcards.
+               </li>
+               <ul>
+                <li>
+                 Asterisk ( * ) -- Example: "elect*" retrieves documents containing "electron," "electronic," and "electricity"
+                </li>
+                <li>
+                 Question mark (?) -- Example: "gr?y" retrieves documents containing "grey" or "gray"
+                </li>
+               </ul>
+               <li>
+                Use quotation marks " " around specific phrases where you want the entire phrase only.
+               </li>
+               <li>
+                For best results, use the separate Authors field to search for author names.
+               </li>
+               <li>
+                Author name searching:
+                <ul>
+                 <li>
+                  Use these formats for best results: Smith or J Smith
+                 </li>
+                 <li>
+                  Use a comma to separate multiple people: J Smith, RL Jones, Macarthur
+                 </li>
+                 <li>
+                  Note: Author names will be searched in the keywords field, also, but that may find papers where the person is mentioned, rather than papers they authored.
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="row">
+           <div class="col-md-12" style="font-weight:bold;">
+            SEARCH IN
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-sm-2">
+            <input checked="" class="checkbox" id="chkJournals" name="selectionChk" type="checkbox"/>
+            <span class="avs-inline-label-left">
+             <label for="chkJournals" style="font-weight:normal;">
+              Journals
+             </label>
+            </span>
+           </div>
+           <div class="col-sm-7">
+            <div class="input-collapse">
+             <input aria-label="choose journals" class="form-control" id="advsJournalsSelector" placeholder="All journals (type names or look up list)" type="text"/>
+             <div class="input-group-btn" name="journal">
+              <button aria-label="Expand" class="btn btn-default dropdown-toggle avs-modal-open" data-toggle="dropdown" type="button">
+               <span class="caret">
+               </span>
+              </button>
+             </div>
+            </div>
+           </div>
+           <div class="col-sm-3 avs-tiny">
+            <div class="avs-tiny_field">
+             <label for="volSearch" style="font-weight:normal;">
+              Vol.
+             </label>
+             <input class="form-control" id="volSearch" placeholder="All" type="text"/>
+            </div>
+            <div class="avs-tiny_field">
+             <label for="issueSearch" style="font-weight:normal;">
+              Issue
+             </label>
+             <input class="form-control" id="issueSearch" placeholder="All" type="text"/>
+            </div>
+            <div class="avs-tiny_field">
+             <label for="pageSearch" style="font-weight:normal;">
+              Page
+             </label>
+             <input class="form-control" id="pageSearch" placeholder="All" type="text"/>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top-lg">
+           <div class="col-sm-2">
+            <input checked="" class="checkbox" id="chkConferences" type="checkbox"/>
+            <span class="avs-inline-label-left">
+             <label for="chkConferences" style="font-weight:normal;">
+              Conferences
+             </label>
+            </span>
+           </div>
+           <div class="col-sm-7">
+            <div class="input-collapse">
+             <input aria-label="choose conferences" class="form-control" id="advsProceedingSelector" placeholder="All conferences (type names or look up list)" type="text"/>
+             <div class="input-group-btn" name="proceeding">
+              <button aria-label="Expand" class="btn btn-default dropdown-toggle avs-modal-open" data-toggle="dropdown" type="button">
+               <span class="caret">
+               </span>
+              </button>
+             </div>
+            </div>
+           </div>
+           <div class="col-sm-3 avs-tiny">
+            <div class="avs-tiny_field">
+             <label for="yearSearch" style="font-weight:normal;">
+              Year
+             </label>
+             <input class="form-control" id="yearSearch" placeholder="All" type="text"/>
+            </div>
+            <div class="avs-tiny_field avs-tiny_field--expanded">
+             <label for="sessionPagerSearch" style="font-weight:normal;">
+              Paper #
+             </label>
+             <input class="form-control" id="sessionPagerSearch" placeholder="All" type="text"/>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top-lg">
+           <div class="col-sm-3">
+            <input checked="" class="checkbox" id="chkReports" type="checkbox"/>
+            <span class="avs-inline-label-left">
+             <label for="chkReports" style="font-weight:normal;">
+              Industry Reports
+             </label>
+            </span>
+           </div>
+           <div class="col-sm-6">
+           </div>
+           <div class="col-sm-3 avs-tiny">
+            <div class="avs-tiny_field avs-tiny_field--expanded">
+             <label for="reportYearSearch" style="font-weight:normal;">
+              Report Year
+             </label>
+             <input class="form-control" id="reportYearSearch" placeholder="All" type="text"/>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-md-12">
+            <div class="avs-help avs-divider">
+            </div>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-sm-3" style="font-weight:bold;">
+            PUBLICATION YEARS
+           </div>
+           <div class="col-sm-5">
+            <div class="form-inline">
+             <div class="form-group">
+              <span class="avs-inline-label-right">
+               <label for="startYear" style="font-weight:normal;">
+                From
+               </label>
+              </span>
+              <input class="form-control year-inline" id="startYear" maxlength="4" placeholder="1917" type="text"/>
+              <span class="avs-inline-label-left avs-inline-label-right">
+               <label for="endYear" style="font-weight:normal;">
+                To
+               </label>
+              </span>
+              <input class="form-control year-inline" id="endYear" maxlength="4" placeholder="2022" type="text"/>
+             </div>
+            </div>
+           </div>
+           <div class="col-sm-4">
+            <div>
+             <small class="muted">
+              Enter only one date to search
+             </small>
+            </div>
+            <div>
+             <small class="muted">
+              After ("From") or Before ("To")
+             </small>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-md-12">
+            <div class="avs-help avs-divider">
+            </div>
+           </div>
+          </div>
+          <div class="avs_topics">
+           <div class="row space-top mbottom-10">
+            <div class="col-sm-3" style="font-weight:bold;">
+             OPTICS &amp; PHOTONICS TOPICS
+            </div>
+            <div class="col-sm-9 input-collapse avs_topics-search">
+             <a class="btn btn-default avs_topics-browse-btn purple-border" href="#" id="browsetopicsbutton">
+              Browse All Topics
+             </a>
+             <input aria-label="Search All Topics" class="form-control avs_topics-search-field" id="advsTopicsSelector" placeholder="Search All Topics" type="text"/>
+             <br/>
+            </div>
+           </div>
+           <div class="row space-top selectedtopicsadv mbottom-10">
+            <div class="col-md-2">
+             <small class="muted">
+              Selected topics
+             </small>
+            </div>
+            <div class="col-md-10" id="advTopicsSelectedList">
+            </div>
+           </div>
+           <div class="row selectedtopicsadv mbottom-10">
+            <div class="col-md-2">
+            </div>
+            <div class="col-md-10 muted">
+             <input checked="checked" id="chkAnyTopic" name="chkAnyAllTopic" type="radio" value="any"/>
+             <label for="chkAnyTopic" style="font-weight:normal;">
+              Find articles with
+              <strong>
+               any
+              </strong>
+              selected topics
+             </label>
+             <input id="chkAllTopic" name="chkAnyAllTopic" type="radio" value="all"/>
+             <label for="chkAllTopic" style="font-weight:normal;">
+              Find articles with
+              <strong>
+               all
+              </strong>
+              selected topics
+             </label>
+            </div>
+           </div>
+           <div class="row hidden mbottom-20" id="pickTopicsBrowse">
+            <div class="col-md-12 mbottom-20">
+             <strong>
+              Browse All Topics
+             </strong>
+             <br/>
+             Click the
+             <svg class="selection-list_arrow">
+              <use xlink:href="#right-arrow">
+              </use>
+             </svg>
+             to reveal subtopics. Use the checkbox to select a topic to filter your search.
+            </div>
+            <div class="col-md-12" id="advBrowseTopics">
+            </div>
+           </div>
+           <div class="row space-top">
+            <div class="col-md-12">
+             <div class="avs-help avs-divider">
+              <a class="avs-help-link" data-action="slide-toggle" data-target="#avsHint2" href="#" title="Help Link">
+               ?
+              </a>
+              <div class="avs-help-message" id="avsHint2">
+               <strong>
+                About Optics &amp; Photonics Topics
+               </strong>
+               <br/>
+               Optica Publishing Group developed the Optics and Photonics Topics to help organize its diverse content more accurately by topic area. This topic browser contains over 2400 terms and is organized in a three-level hierarchy.
+               <a href="/author/thesaurus/OSAThes_home.cfm" target="_blank">
+                Read more.
+               </a>
+               <br/>
+               <br/>
+               Topics can be refined further in the search results. The Topic facet will reveal the high-level topics associated with the articles returned in the search results.
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-sm-2" style="font-weight:bold;">
+            SPECIAL COLLECTIONS
+           </div>
+           <div class="col-sm-5 input-collapse">
+            <input id="specialcollections_ee" name="specialcollections" type="checkbox" value="ee"/>
+            <label class="avs-inline-label-left" for="specialcollections_ee">
+             Energy and Environmental Optics Express
+            </label>
+            <br/>
+            <input id="specialcollections_el" name="specialcollections" type="checkbox" value="elnotes"/>
+            <label class="avs-inline-label-left" for="specialcollections_el">
+             Engineering and Laboratory Notes
+            </label>
+            <br/>
+           </div>
+           <div class="col-sm-5 input-collapse">
+            <input id="specialcollections_spt" name="specialcollections" type="checkbox" value="spotlight"/>
+            <label class="avs-inline-label-left" for="specialcollections_spt">
+             Spotlight on Optics
+            </label>
+            <br/>
+            <input id="specialcollections_tut" name="specialcollections" type="checkbox" value="tutorial"/>
+            <label class="avs-inline-label-left" for="specialcollections_tut">
+             Tutorials
+            </label>
+           </div>
+          </div>
+          <div class="row space-top">
+           <div class="col-md-12">
+            <div class="avs-help avs-divider">
+            </div>
+           </div>
+          </div>
+          <div class="row">
+           <div class="col-sm-6">
+            <a class="btn btn-default purple-border" href="#" id="clearFilters">
+             Clear my choices above
+            </a>
+           </div>
+           <div class="col-sm-6">
+            <a class="btn btn-primary pull-right" href="#" id="cmdSearch">
+             <strong class="fi-magnifying-glass">
+             </strong>
+             Search
+            </a>
+           </div>
+          </div>
+         </div>
+         <input id="origsearchstr" name="origsearchstr" type="hidden" value=""/>
+         <input id="facetsearchstr" name="facetsearchstr" type="hidden" value=""/>
+         <input id="facetavoidstr" name="facetavoidstr" type="hidden" value=""/>
+        </form>
+       </div>
+       <div class="site-nav-container col-lg-8 col-md-12">
+        <nav class="primary-site-nav collapse navbar-collapse" id="osaGlobalNav">
+         <ul class="nav navbar-nav navbar-main" id="first-nav">
+          <li class="primary-site-nav__dropdown">
+           <a class="dropdown-toggle hidden-xs navbar-main-header" href="/about.cfm" id="select_journals">
+            Journals
+           </a>
+           <a class="dropdown-toggle visible-xs navbar-main-header" data-target="select_journals--mobile__menu" data-toggle="dropdown" href="" id="select_journals--mobile">
+            Journals
+            <span class="caret" style="color:#9475ff">
+            </span>
+           </a>
+           <div class="visible-xs">
+            <div class="dropdown-menu dropdown-one-col" id="select_journals--mobile__menu">
+             <ul>
+              <li>
+               <a href="/aop">
+                Advances in Optics and Photonics
+               </a>
+              </li>
+              <li>
+               <a href="/ao">
+                Applied Optics
+               </a>
+              </li>
+              <li>
+               <a href="/as">
+                Applied Spectroscopy
+               </a>
+              </li>
+              <li>
+               <a href="/boe">
+                Biomedical Optics Express
+               </a>
+              </li>
+              <li>
+               <a href="/col">
+                Chinese Optics Letters
+               </a>
+              </li>
+              <li>
+               <a href="/copp">
+                Current Optics and Photonics
+               </a>
+              </li>
+              <li>
+               <a href="/jlt">
+                Journal of Lightwave Technology
+               </a>
+              </li>
+              <li>
+               <a href="/jnirs">
+                Journal of Near Infrared Spectroscopy
+               </a>
+              </li>
+              <li>
+               <a href="/jot">
+                Journal of Optical Technology
+               </a>
+              </li>
+              <li>
+               <a href="/jocn">
+                Journal of Optical Communications and Networking
+               </a>
+              </li>
+              <li>
+               <a href="/josaa">
+                Journal of the Optical Society of America A
+               </a>
+              </li>
+              <li>
+               <a href="/josab">
+                Journal of the Optical Society of America B
+               </a>
+              </li>
+              <li>
+               <a href="/optica">
+                Optica
+               </a>
+              </li>
+              <li>
+               <a href="/ome">
+                Optical Materials Express
+               </a>
+              </li>
+              <li>
+               <a href="/oe">
+                Optics Express
+               </a>
+              </li>
+              <li>
+               <a href="/ol">
+                Optics Letters
+               </a>
+              </li>
+              <li>
+               <a href="/osac">
+                OSA Continuum
+               </a>
+              </li>
+              <li>
+               <a href="/prj">
+                Photonics Research
+               </a>
+              </li>
+              <li class="nav-link-heading">
+               <span class="nav-link-heading-txt">
+                Legacy Journals
+               </span>
+              </li>
+              <li>
+               <a href="/jdt">
+                Journal of Display Technology (2005-2016)
+               </a>
+              </li>
+              <li>
+               <a href="/josk">
+                Journal of the Optical Society of Korea (1997-2016)
+               </a>
+              </li>
+              <li>
+               <a href="/jon">
+                Journal of Optical Networking (2002-2009)
+               </a>
+              </li>
+              <li>
+               <a href="/josa">
+                Journal of the Optical Society of America (1917-1983)
+               </a>
+              </li>
+              <li>
+               <a href="/on">
+                Optics News (1975-1989)
+               </a>
+              </li>
+             </ul>
+            </div>
+           </div>
+           <div class="dropdown-menu dropdown-two-col-lg dropdown-wide">
+            <div class="row">
+             <div class="col-sm-6">
+              <ul>
+               <li>
+                <a href="/aop">
+                 Advances in Optics and Photonics
+                </a>
+               </li>
+               <li>
+                <a href="/ao">
+                 Applied Optics
+                </a>
+               </li>
+               <li>
+                <a href="/as">
+                 Applied Spectroscopy
+                </a>
+               </li>
+               <li>
+                <a href="/boe">
+                 Biomedical Optics Express
+                </a>
+               </li>
+               <li>
+                <a href="/col">
+                 Chinese Optics Letters
+                </a>
+               </li>
+               <li>
+                <a href="/copp">
+                 Current Optics and Photonics
+                </a>
+               </li>
+               <li>
+                <a href="/jlt">
+                 Journal of Lightwave Technology
+                </a>
+               </li>
+               <li>
+                <a href="/jnirs">
+                 Journal of Near Infrared Spectroscopy
+                </a>
+               </li>
+               <li>
+                <a href="/jot">
+                 Journal of Optical Technology
+                </a>
+               </li>
+               <li>
+                <a href="/jocn">
+                 Journal of Optical Communications and Networking
+                </a>
+               </li>
+               <li>
+                <a href="/josaa">
+                 Journal of the Optical Society of America A
+                </a>
+               </li>
+               <li>
+                <a href="/josab">
+                 Journal of the Optical Society of America B
+                </a>
+               </li>
+               <li>
+                <a href="/optica">
+                 Optica
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div class="col-sm-6">
+              <ul>
+               <li>
+                <a href="/ome">
+                 Optical Materials Express
+                </a>
+               </li>
+               <li>
+                <a href="http://www.osa-opn.org" target="_blank">
+                 Optics and Photonics News
+                 <span class="far fa-external-link">
+                 </span>
+                </a>
+               </li>
+               <li>
+                <a href="/oe">
+                 Optics Express
+                </a>
+               </li>
+               <li>
+                <a href="/ol">
+                 Optics Letters
+                </a>
+               </li>
+               <li>
+                <a href="/osac">
+                 OSA Continuum
+                </a>
+               </li>
+               <li>
+                <a href="/prj">
+                 Photonics Research
+                </a>
+               </li>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Legacy Journals
+                </span>
+               </li>
+               <li>
+                <a href="/jdt">
+                 Journal of Display Technology (2005-2016)
+                </a>
+               </li>
+               <li>
+                <a href="/josk">
+                 Journal of the Optical Society of Korea (1997-2016)
+                </a>
+               </li>
+               <li>
+                <a href="/jon">
+                 Journal of Optical Networking (2002-2009)
+                </a>
+               </li>
+               <li>
+                <a href="/josa">
+                 Journal of the Optical Society of America (1917-1983)
+                </a>
+               </li>
+               <li>
+                <a href="/on">
+                 Optics News (1975-1989)
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="primary-site-nav__dropdown">
+           <a class="dropdown-toggle navbar-main-header" href="/conferences.cfm" id="select_proceedings">
+            Conferences
+           </a>
+           <div class="dropdown-menu dropdown-two-col-lg">
+            <div class="row">
+             <div class="col-sm-6">
+              <ul>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Find Conferences
+                </span>
+               </li>
+               <li>
+                <a href="/conferences.cfm">
+                 By Year
+                </a>
+               </li>
+               <li>
+                <a href="/conferences.cfm?findby=conference">
+                 By Name
+                </a>
+               </li>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Featured
+                </span>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=5">
+                 Optical Fiber Communication (OFC)
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=124">
+                 Conference on Lasers and Electro-Optics (CLEO)
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=56">
+                 Frontiers in Optics (FiO)
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div class="col-sm-6">
+              <ul>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Newly Published
+                </span>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=56&amp;yr=2021">
+                 Frontiers in Optics
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=134&amp;yr=2021">
+                 Quantum Information and Measurement
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=144&amp;yr=2021">
+                 Asia Communications and Photonics Conference
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=1&amp;yr=2021">
+                 Advanced Solid State Lasers
+                </a>
+               </li>
+               <li>
+                <a href="/conference.cfm?meetingid=182&amp;yr=2021">
+                 Laser Applications Conference
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </li>
+          <li class="primary-site-nav__dropdown hidden-xs">
+           <a class="dropdown-toggle navbar-main-header" href="#global-nav" id="select_other_resources">
+            Other Resources
+           </a>
+           <div class="dropdown-menu dropdown-two-col-lg">
+            <div class="row">
+             <div class="col-sm-6">
+              <ul>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Information For
+                </span>
+               </li>
+               <li>
+                <a href="/author/author.cfm">
+                 Authors
+                </a>
+               </li>
+               <li>
+                <a href="/reviewer/">
+                 Reviewers
+                </a>
+               </li>
+               <li>
+                <a href="/library/">
+                 Librarians
+                </a>
+               </li>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Products and Services
+                </span>
+               </li>
+               <li>
+                <a href="/osadigitalarchive.cfm">
+                 Digital Archive
+                </a>
+               </li>
+               <li>
+                <a href="/isp.cfm">
+                 Interactive Science Publishing (ISP)
+                </a>
+               </li>
+               <li>
+                <a href="https://imagebank.osa.org" target="_blank">
+                 Optics ImageBank
+                 <span class="far fa-external-link">
+                 </span>
+                </a>
+               </li>
+               <li>
+                <a href="/author/thesaurus/OSAThes_home.cfm">
+                 Optics and Photonics Topics
+                </a>
+               </li>
+               <li>
+                <a href="/spotlight">
+                 Spotlight on Optics
+                </a>
+               </li>
+              </ul>
+             </div>
+             <div class="col-sm-6">
+              <ul>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Publications
+                </span>
+               </li>
+               <li>
+                <a href="/books/">
+                 Bookshelf
+                </a>
+               </li>
+               <li>
+                <a href="/industryreports.cfm">
+                 Industry Reports
+                </a>
+               </li>
+               <li>
+                <a href="/collections/special-collections.cfm">
+                 Special Collections
+                </a>
+               </li>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Regional Content
+                </span>
+               </li>
+               <li>
+                <a href="/prj/china/onthecover.cfm">
+                 On The Cover: Photonics Research
+                </a>
+               </li>
+               <li>
+                <a href="/col/china/spotlight.cfm">
+                 Spotlight: Chinese Optics Letters
+                </a>
+               </li>
+               <li class="nav-link-heading">
+                <span class="nav-link-heading-txt">
+                 Open Access Information
+                </span>
+               </li>
+               <li>
+                <a href="/submit/review/open-access-policy-statement.cfm">
+                 Open Access Statement and Policy
+                </a>
+               </li>
+               <li>
+                <a href="/library/license_v2.cfm">
+                 Terms for Journal Article Reuse
+                </a>
+               </li>
+              </ul>
+             </div>
+            </div>
+           </div>
+          </li>
+         </ul>
+         <ul class="nav navbar-nav navbar-right navbar-secondary" id="second-nav">
+          <li class="primary-site-nav__dropdown">
+           <a class="dropdown-toggle navbar-secondary-header" data-toggle="dropdown" href="#" id="my_favorites">
+            My Favorites
+           </a>
+           <div class="dropdown-menu dropdown-one-col">
+            <ul>
+             <li>
+              <a href="/user">
+               Go to My Account
+              </a>
+             </li>
+             <li>
+              <a data-target="#userLogin" data-toggle="modal" href="#">
+               Login to access favorites
+              </a>
+             </li>
+            </ul>
+           </div>
+          </li>
+          <li class="primary-site-nav__dropdown">
+           <a class="dropdown-toggle navbar-secondary-header" data-toggle="dropdown" href="#" id="recent_pages">
+            Recent Pages
+           </a>
+           <div class="dropdown-menu dropdown-one-col">
+            <ul class="recent-page-list">
+            </ul>
+           </div>
+          </li>
+         </ul>
+         <ul class="hidden-sm hidden-md hidden-lg manage-user-acct--mobile">
+          <li class="nav-link">
+           <a data-target="#userLogin" data-toggle="modal" href="#" id="loginModal">
+            <img alt="my account" src="/images/icons/icon-my-account.png"/>
+            LOGIN
+            <span class="muted">
+             OR
+            </span>
+            CREATE ACCOUNT
+           </a>
+          </li>
+         </ul>
+        </nav>
+       </div>
+      </div>
+     </div>
+    </header>
+   </div>
+   <div class="nav-bar-siblings container small">
+    <a class="secondary-smallnav-item_link" href="/ol/home.cfm">
+     Journal Home
+    </a>
+    <a class="secondary-smallnav-item_link" href="/ol/journal/ol/about.cfm">
+     About
+    </a>
+    <a class="secondary-smallnav-item_link" href="/ol/upcomingissue.cfm">
+     Issues in Progress
+    </a>
+    <a class="secondary-smallnav-item_link" href="/ol/issue.cfm">
+     Current Issue
+    </a>
+    <a class="secondary-smallnav-item_link" href="/ol/browse.cfm">
+     All Issues
+    </a>
+    <a class="secondary-smallnav-item_link" href="/ol/upcoming.cfm">
+     Early Posting
+    </a>
+   </div>
+   <div class="container content" id="articleContainer" style="padding-top:1em;">
+    <div class="col-md-12">
+     <div class="row">
+      <div class="article-parents">
+       <ul class="small list-inline article-journal-name">
+        <li>
+         <strong>
+          Optics Letters
+         </strong>
+        </li>
+        <li>
+         Vol. 46,
+        </li>
+        <li>
+         <a href="/ol/issue.cfm?volume=46&amp;issue=17">
+          Issue 17
+         </a>
+         ,
+        </li>
+        <li>
+         pp. 4216-4219
+        </li>
+        <li>
+         (2021)
+        </li>
+        <li class="article-doi">
+         <span class="separator-disc">
+          •
+         </span>
+         <a href="https://doi.org/10.1364/OL.432413">
+          https://doi.org/10.1364/OL.432413
+         </a>
+        </li>
+       </ul>
+      </div>
+     </div>
+     <div class="row">
+      <header class="article-header">
+       <div class="col-md-12">
+        <div class="col-md-2" style="margin-left:-20px;margin-right:20px;padding-right:0px;padding-left:0px;">
+         <div style="width:100%;text-align:left">
+          <div class="fit-thumbnail-box hidden-xs">
+           <img alt="Article Cover" class="fit-thumbnail-img hidden-xs" src="/getThumbnail.cfm?uri=ol-46-17-4216&amp;s=n&amp;size=168"/>
+          </div>
+         </div>
+        </div>
+        <div class="col-md-10" style="margin-bottom:1.5em;">
+         <h1 class="article-title">
+          Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror
+         </h1>
+         <p class="article-authors">
+          Dong-Ho Lee, Hong-Seung Kim, Ilkyu Han, Ji Yong Bae, Woo-Jong Yeo, Seok Kyung Jeong, Minwoo Jeon, Hwan-Jin Choi, Dong Uk Kim, Kye-Sung Lee, Ki Soo Chang, Wonkyun Lee, Geon Hee Kim, and I Jong Kim
+         </p>
+         <div>
+          <div class="btn-group article-affiliations-dropdown dropdown hidden-xs" style="margin-right:2em;">
+           <a data-toggle="dropdown" id="author-affiliations-dropdown">
+            Author Information
+            <span class="caret">
+            </span>
+           </a>
+           <div class="article-author-affiliations dropdown-menu" id="authorAffiliations">
+            <h5>
+             Author Affiliations
+            </h5>
+            <p>
+             <strong>
+              Dong-Ho Lee,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               †
+              </sup>
+              Hong-Seung Kim,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               †
+              </sup>
+              Ilkyu Han,
+              <sup>
+               1
+              </sup>
+              Ji Yong Bae,
+              <sup>
+               1
+              </sup>
+              Woo-Jong Yeo,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               2
+              </sup>
+              Seok Kyung Jeong,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               2
+              </sup>
+              Minwoo Jeon,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               2
+              </sup>
+              Hwan-Jin Choi,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               2
+              </sup>
+              Dong Uk Kim,
+              <sup>
+               1
+              </sup>
+              Kye-Sung Lee,
+              <sup>
+               1
+              </sup>
+              Ki Soo Chang,
+              <sup>
+               1
+              </sup>
+              Wonkyun Lee,
+              <sup>
+               2
+              </sup>
+              Geon Hee Kim,
+              <sup>
+               1,
+              </sup>
+              <sup>
+               3
+              </sup>
+              and I Jong Kim
+              <sup>
+               1,
+              </sup>
+              <sup>
+               *
+              </sup>
+             </strong>
+            </p>
+            <p>
+             <em>
+              <sup>
+               1
+              </sup>
+              Division of Scientific Instrumentation and
+Management, Korea Basic Science Institute,
+Daejeon 34133, Republic of Korea
+             </em>
+            </p>
+            <p>
+             <em>
+              <sup>
+               2
+              </sup>
+              School of Mechanical Engineering,
+Chungnam National University, Daejeon,
+34134, Republic of Korea
+             </em>
+            </p>
+            <p>
+             <em>
+              <sup>
+               3
+              </sup>
+              Department of Machinery-Materials
+Convergence System Engineering, Hanbat
+University, Daejeon, 34158, Republic of Korea
+             </em>
+            </p>
+            <p>
+             <sup>
+              †
+             </sup>
+             These authors contributed equally to this Letter.
+            </p>
+            <p>
+             <sup>
+              *
+             </sup>
+             Corresponding author:
+             <a href="mailto:ijkim@kbsi.re.kr">
+              ijkim@kbsi.re.kr
+             </a>
+            </p>
+            <h5 style="margin-bottom:0px">
+             ORCID
+            </h5>
+            <table>
+             <tbody>
+              <tr>
+               <td>
+                <strong>
+                 Ilkyu
+                 <!--?xml version="1.0" encoding="UTF-8"?-->
+                 <surname>
+                  Han
+                 </surname>
+                </strong>
+               </td>
+               <td nowrap="" style="padding-left: 10px">
+                <a class="orcida" href="https://orcid.org/0000-0002-5434-3039" target="_blank">
+                 <img alt="orcid link" class="orcid-logo" src="/images/orcid_16x16.png"/>
+                </a>
+                <a class="orcida" href="https://orcid.org/0000-0002-5434-3039" target="_blank">
+                 https://orcid.org/0000-0002-5434-3039
+                </a>
+               </td>
+              </tr>
+              <tr>
+               <td>
+                <strong>
+                 Kye-Sung
+                 <!--?xml version="1.0" encoding="UTF-8"?-->
+                 <surname>
+                  Lee
+                 </surname>
+                </strong>
+               </td>
+               <td nowrap="" style="padding-left: 10px">
+                <a class="orcida" href="https://orcid.org/0000-0001-8669-627X" target="_blank">
+                 <img alt="orcid link" class="orcid-logo" src="/images/orcid_16x16.png"/>
+                </a>
+                <a class="orcida" href="https://orcid.org/0000-0001-8669-627X" target="_blank">
+                 https://orcid.org/0000-0001-8669-627X
+                </a>
+               </td>
+              </tr>
+             </tbody>
+            </table>
+           </div>
+          </div>
+          <div class="btn-group hidden-xs hidden-sm">
+           <a data-toggle="dropdown" id="search-by-author-dropdown">
+            <i class="far fa-search" style="font-size:0.8em;">
+            </i>
+            Find other works by these authors
+            <span class="caret">
+            </span>
+           </a>
+           <ul class="dropdown-menu" id="search-by-author">
+            <li>
+             <a href="search.cfm?a=D Lee">
+              D Lee
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=H Kim">
+              H Kim
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=I Han">
+              I Han
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=J Bae">
+              J Bae
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=W Yeo">
+              W Yeo
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=S Jeong">
+              S Jeong
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=M Jeon">
+              M Jeon
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=H Choi">
+              H Choi
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=D Kim">
+              D Kim
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=K Lee">
+              K Lee
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=K Chang">
+              K Chang
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=W Lee">
+              W Lee
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=G Kim">
+              G Kim
+             </a>
+            </li>
+            <li>
+             <a href="search.cfm?a=I Kim">
+              I Kim
+             </a>
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+      </header>
+     </div>
+     <div class="row">
+      <div class="col-md-12" style="padding-right:0px;">
+       <div class="col-md-2" style="padding-right:0px; padding-left: 0px;">
+        <a name="scrollUp">
+        </a>
+        <div class="access-permissions inaccessible" style="margin-left:-20px;">
+         <strong>
+          Not Accessible
+         </strong>
+         <p class="muted">
+          Your library or personal account may give you access
+         </p>
+        </div>
+       </div>
+       <div class="col-md-10" style="padding-right:0px; margin-left:-6px;">
+        <div class="abstract-tools-header">
+         <div class="article-tools">
+          <ul class="tool-list-one">
+           <li class="pdf-download">
+            <a href="viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0" target="_blank">
+             <i class="fal fa-file-pdf">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Get PDF
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href='mailto:?subject=Article Published in Optics Letters&amp;body=I would like to notify you about the following article published in Optics Letters:%0ADong-Ho Lee, Hong-Seung Kim, Ilkyu Han, Ji Yong Bae, Woo-Jong Yeo, Seok Kyung Jeong, Minwoo Jeon, Hwan-Jin Choi, Dong Uk Kim, Kye-Sung Lee, Ki Soo Chang, Wonkyun Lee, Geon Hee Kim, and I Jong Kim, "Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror," Opt. Lett. 46, 4216-4219 (2021)%0Ahttps://www.osapublishing.org/ol/abstract.cfm?URI=ol-46-17-4216%0A---------------------------------------------------------------------------%0AThis is sent to you as an email notification feature from Optica Publishing Group: https://www.osapublishing.org'>
+             <i class="fal fa-envelope">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Email
+             </span>
+            </a>
+           </li>
+           <li class="dropdown js-article-dropdown">
+            <a class="dropdown-toggle js-article-dropdown-toggle">
+             <i class="fal fa-share-alt">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Share
+              <span class="caret">
+              </span>
+             </span>
+            </a>
+            <ul class="dropdown-menu list-unstyled">
+             <li>
+              <a class="sharefacebook" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="Share with Facebook" class="share-icon" src="/images/facebook-icon.png" title="Facebook"/>
+               Share with Facebook
+              </a>
+             </li>
+             <li>
+              <a class="sharetwitter" href="https://twitter.com/intent/tweet?text=Reading this OL article %23OSA_OL https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="Tweet This" class="share-icon" src="/images/twitter-icon.png" title="Twitter"/>
+               Tweet This
+              </a>
+             </li>
+             <li>
+              <a class="sharereddit" href="http://www.reddit.com/submit?url=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="reddit" class="share-icon" src="/images/reddit-icon.gif" title="reddit"/>
+               Post on reddit
+              </a>
+             </li>
+             <li>
+              <a class="sharelinkedin" href="https://www.linkedin.com/cws/share?url=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="linkedin" class="share-icon" src="/images/linkedin-icon.png" title="linkedin"/>
+               Share with LinkedIn
+              </a>
+             </li>
+             <li>
+              <a class="shareciteulike" href="http://www.citeulike.org/posturl?url=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216&amp;title=Generation%20of%20wavelength%2Dtunable%20optical%20vortices%20using%20an%20off%2Daxis%20spiral%20phase%20mirror" target="_blank">
+               <img alt="Add to CiteULike" class="share-icon" src="/images/citeulike-icon.png" title="CiteULike"/>
+               Add to CiteULike
+              </a>
+             </li>
+             <li>
+              <a class="sharemendeley" href="http://www.mendeley.com/import/?url=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="Mendeley" class="share-icon" src="/images/mendeley-icon.png" title="Mendeley"/>
+               Add to Mendeley
+              </a>
+             </li>
+             <li>
+              <a class="sharebibsonomy" href="http://www.bibsonomy.org/ShowBookmarkEntry?c=b&amp;jump=yes&amp;url=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Furi%3Dol%2D46%2D17%2D4216" target="_blank">
+               <img alt="Add to BibSonomy" class="share-icon" src="/images/bibsonomy-icon.png" title="BibSonomy"/>
+               Add to BibSonomy
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="get-citation dropdown js-article-dropdown">
+            <a class="dropdown-toggle js-article-dropdown-toggle" id="getCitation__toggle">
+             <i class="fal fa-quote-right">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Get Citation
+             </span>
+             <span class="caret">
+             </span>
+            </a>
+            <div class="get-citation-content dropdown-menu" id="getCitation">
+             <strong>
+              Copy Citation Text
+             </strong>
+             <div class="citation-text">
+              Dong-Ho Lee, Hong-Seung Kim, Ilkyu Han, Ji Yong Bae, Woo-Jong Yeo, Seok Kyung Jeong, Minwoo Jeon, Hwan-Jin Choi, Dong Uk Kim, Kye-Sung Lee, Ki Soo Chang, Wonkyun Lee, Geon Hee Kim, and I Jong Kim, "Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror," Opt. Lett.
+              <b>
+               46
+              </b>
+              , 4216-4219 (2021)
+             </div>
+             <form action="" id="articlesForm" method="post" name="articlesForm" style="display: inline">
+              <input name="articles" type="hidden" value="458054"/>
+              <input name="ArticleAction" type="hidden" value=""/>
+             </form>
+             <strong>
+              Export Citation
+             </strong>
+             <ul class="list-unstyled">
+              <li>
+               <a href="#" onclick="checkboxActions('export_bibtex'); return false;">
+                BibTex
+               </a>
+              </li>
+              <li>
+               <a href="#" onclick="checkboxActions('export_endnote'); return false;">
+                Endnote (RIS)
+               </a>
+              </li>
+              <li>
+               <a href="#" onclick="checkboxActions('export_html'); return false;">
+                HTML
+               </a>
+              </li>
+              <li>
+               <a href="#" onclick="checkboxActions('export_txt'); return false;">
+                Plain Text
+               </a>
+              </li>
+             </ul>
+            </div>
+           </li>
+           <li>
+            <a data-target="#userLogin" data-toggle="modal" href="#">
+             <i class="fal fa-engine-warning">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Citation alert
+             </span>
+            </a>
+           </li>
+           <li>
+            <a href="/user/favorites_add_article.cfm?articles=458054" target="_blank">
+             <i class="fal fa-folder-upload">
+             </i>
+             <span class="hidden-xs">
+              <br/>
+              Save article
+             </span>
+            </a>
+           </li>
+           <!-- Crossmark 2.0 widget -->
+           <script src="https://crossmark-cdn.crossref.org/widget/v2.0/widget.js">
+           </script>
+           <a data-target="crossmark" style="float:right; text-align:center; font-size:0.9em;">
+            <img alt="check crossmark updates" src="https://crossmark-cdn.crossref.org/widget/v2.0/logos/CROSSMARK_BW_square_no_text.svg" style="margin-bottom:0px;" width="24"/>
+            <br/>
+            Check for updates
+           </a>
+           <!-- End Crossmark 2.0 widget -->
+          </ul>
+         </div>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="row">
+     <!-- Aux Sidebar -->
+     <div class="col-sm-3 col-sm-push-9 article-secondary">
+      <div class="sidebar-nav hidden-xs">
+       <ul class="right-nav">
+        <li class="sub-list">
+         <input autocomplete="off" class="osap-accordion__toggle" id="toggle-relatedTopics" type="checkbox"/>
+         <label class="osap-accordion__label right-nav__label" for="toggle-relatedTopics">
+          Related Topics
+          <i class="far osap-accordion__chevron">
+          </i>
+         </label>
+         <div class="osap-accordion__content" id="relatedTopics">
+          <em>
+           Table of Contents Category
+          </em>
+          <ul class="list-unstyled">
+           <li>
+            Lasers and Laser Optics
+           </li>
+          </ul>
+          <br/>
+          <div class="get-citation dropdown" id="topicsHelp">
+           <em>
+            Optics &amp; Photonics Topics
+           </em>
+           <div class="advanced-search-popup advanced-search-popup--article">
+            <a class="topicsHelp__toggle" id="topicsHelp__toggle" title="Help Link">
+             ?
+            </a>
+           </div>
+           <div class="get-citation-content dropdown-menu">
+            <span class="small">
+             The topics in this list come from the
+             <a href="/author/thesaurus/OSAThes_home.cfm" target="_blank">
+              Optics and Photonics Topics
+             </a>
+             applied to this article.
+            </span>
+           </div>
+          </div>
+          <ul class="list-unstyled">
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Optical systems|Laser systems|Laser beams">
+             Laser beams
+            </a>
+           </li>
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Physics|Electromagnetic radiation|Optical angular momentum">
+             Optical angular momentum
+            </a>
+           </li>
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Physical optics|Wave optics|Optical vortices">
+             Optical vortices
+            </a>
+           </li>
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Optical computing|Optical processing|Spatial light modulators">
+             Spatial light modulators
+            </a>
+           </li>
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Physical optics|Wave optics|Spiral phase">
+             Spiral phase
+            </a>
+           </li>
+           <li>
+            <a class="js-relatedTopicLink" href="search.cfm?t=Optical systems|Laser systems|Visible lasers">
+             Visible lasers
+            </a>
+           </li>
+          </ul>
+          <br/>
+         </div>
+        </li>
+       </ul>
+       <ul class="right-nav">
+        <li class="sub-list">
+         <input autocomplete="off" class="osap-accordion__toggle" id="toggle-aboutArticle" type="checkbox"/>
+         <label class="osap-accordion__label right-nav__label" for="toggle-aboutArticle">
+          About this Article
+          <i class="far osap-accordion__chevron">
+          </i>
+         </label>
+         <div class="osap-accordion__content" id="aboutThisArticle">
+          <em>
+           History
+          </em>
+          <ul class="list-unstyled small">
+           <li>
+            Original Manuscript: May 26, 2021
+           </li>
+           <li>
+            Revised Manuscript: July 12, 2021
+           </li>
+           <li>
+            Manuscript Accepted: July 16, 2021
+           </li>
+           <li>
+            Published: August 24, 2021
+           </li>
+          </ul>
+         </div>
+        </li>
+       </ul>
+      </div>
+      <div class="reference-info" id="referenceInfo">
+       <!-- Dynamic Reference Info -->
+      </div>
+     </div>
+     <!-- Main Content -->
+     <div class="col-sm-9 col-sm-pull-3">
+      <div class="row">
+       <!-- Article Navigation -->
+       <div class="article-sidebar col-md-3">
+        <a href="viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0" id="link-pdf" style="color:white" target="_blank">
+         <button class="btn btn-getpdf btn-sm" style="margin:2px 0px 1em 0px;width:100%;text-align:left;font-weight:600;" type="submit">
+          PDF Article
+         </button>
+        </a>
+        <div class="article-nav sub-page-nav" id="articleNav">
+         <ul class="sidebar-nav-list" data-action="change-section" data-target="articleBody">
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" href="#Abstract" onclick="scrollToAnchor('scrollUp');">
+            Abstract
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" href="viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0&amp;html=true">
+            Full Article
+           </a>
+          </li>
+         </ul>
+         <ul class="sidebar-nav-list navextras">
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" data-action="change-section" data-target="articleFigures" href="#articleFigures" id="figurestablink" onclick="scrollToAnchor('scrollUp');">
+            Figures (
+            <span class="sidebar-hlight">
+             4
+            </span>
+            )
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" data-action="change-section" data-target="articleDataAvailability" href="#articleDataAvailability" onclick="scrollToAnchor('scrollUp');">
+            Data Availability
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" data-action="change-section" data-target="articleReferences" href="#articleReferences" onclick="scrollToAnchor('scrollUp');">
+            References (
+            <span class="sidebar-hlight">
+             19
+            </span>
+            )
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" data-action="change-section" data-target="articleCitations" href="#articleCitations" onclick="scrollToAnchor('scrollUp');">
+            Cited By
+            <span id="numrefs">
+            </span>
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav-link" data-action="change-section" data-target="articleMetrics" href="#articleMetrics" onclick="showMetrics();">
+            Metrics
+           </a>
+          </li>
+          <li class="sidebar-nav-i">
+           <a class="sidebar-nav__top-link" href="#top">
+            Back to Top
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+       <!-- Article Body -->
+       <div class="main-content col-md-9">
+        <div class="article-section page-section active" id="articleBody">
+         <h2 class="article-heading" id="Abstract">
+          Abstract
+         </h2>
+         <p>
+         </p>
+         <p xmlns:mml="http://www.w3.org/1998/Math/MathML" xmlns:xlink="http://www.w3.org/1999/xlink">
+          Wavelength-tunable optical vortices with a topological charge equal to
+          <span class="inline-formula">
+           $l = {1}$
+          </span>
+          of orbital angular momentum (OAM) were experimentally realized using a single off-axis spiral phase mirror (OSPM) with lasers of various visible-light wavelengths. Using an OSPM designed for 561 nm and an incidence angle of 45°, circular doughnut-shaped
+          <span class="inline-formula">
+           $l = {1}$
+          </span>
+          optical vortices were obtained at 561, 473, and 660 nm by rotating the OSPM to modify the laser incidence angle. Wavelength-tunable
+          <span class="inline-formula">
+           $l = {1}$
+          </span>
+          optical vortices were obtained at the respective incidence angles of 45°, 53.4°, and 33.7°, because the effective geometrical thickness of the OSPM, which determines the order of OAM, was identical at each wavelength. This flexible OSPM which operates over a wide wavelength range will provide continuously wavelength-tunable optical vortices for applications in the fields of advanced optics and photonics in which optical vortices with wide wavelength tunability are in demand.
+         </p>
+         <p>
+         </p>
+         <p>
+          © 2021 Optical Society of America
+         </p>
+         <a href="viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0&amp;html=true" id="link-full">
+          Full Article
+         </a>
+         |
+         <a href="viewmedia.cfm?uri=ol-46-17-4216&amp;seq=0" id="link-pdf" target="_blank">
+          PDF Article
+         </a>
+         <div class="alert alert-gray" style="padding: 2px 6px; margin:16px 0px;">
+          <h2 class="article-heading">
+           Corrections
+          </h2>
+          Dong-Ho Lee, Hong-Seung Kim, Ilkyu Han, Ji Yong Bae, Woo-Jong Yeo, Seok Kyung Jeong, Minwoo Jeon, Hwan-Jin Choi, Dong Uk Kim, Kye-Sung Lee, Ki Soo Chang, Wonkyun Lee, Geon Hee Kim, and I. Jong Kim, "Generation of wavelength-tunable optical vortices using an off-axis spiral phase mirror: publisher’s note," Opt. Lett.
+          <b>
+           46
+          </b>
+          , 4887-4887 (2021)
+          <br/>
+          <a href="abstract.cfm?uri=ol-46-19-4887">
+           https://www.osapublishing.org/ol/abstract.cfm?uri=ol-46-19-4887
+          </a>
+          <br/>
+          <br/>
+          <p>
+           7 September 2021: A typographical correction was made to the author listing.
+          </p>
+         </div>
+         <hr style="margin-top:5em;"/>
+         <strong>
+          More Like This
+         </strong>
+         <div class="content-item media-twbs">
+          <div class="media-twbs-left">
+           <img aria-hidden="true" class="media-object" height="50" role="presentation" src="/getThumbnail.cfm?uri=ol-45-8-2187&amp;o=y" width="50"/>
+          </div>
+          <div class="media-twbs-body">
+           <a class="js-relatedArticleLink" href="/ol/abstract.cfm?uri=ol-45-8-2187">
+            Off-axis spiral phase mirrors for generating high-intensity optical vortices
+           </a>
+           <p>
+            Andrew Longman, Carlos Salgado, Ghassan Zeraouli, Jon I. Apiñaniz, Jose Antonio Pérez-Hernández, M. Khairy Eltahlawy, Luca Volpe, and Robert Fedosejevs
+            <br/>
+            <span class="muted">
+             Opt. Lett.
+             <strong>
+              45
+             </strong>
+             (8) 2187-2190 (2020)
+            </span>
+           </p>
+          </div>
+         </div>
+         <div class="content-item media-twbs">
+          <div class="media-twbs-left">
+           <img aria-hidden="true" class="media-object" height="50" role="presentation" src="/getThumbnail.cfm?uri=ol-44-15-3673&amp;o=y" width="50"/>
+          </div>
+          <div class="media-twbs-body">
+           <a class="js-relatedArticleLink" href="/ol/abstract.cfm?uri=ol-44-15-3673">
+            Orbital angular momentum of a laser beam behind an off-axis spiral phase plate
+           </a>
+           <p>
+            Victor Kotlyar, Alexey Kovalev, Alexey Porfirev, and Elena Kozlova
+            <br/>
+            <span class="muted">
+             Opt. Lett.
+             <strong>
+              44
+             </strong>
+             (15) 3673-3676 (2019)
+            </span>
+           </p>
+          </div>
+         </div>
+         <div class="content-item media-twbs">
+          <div class="media-twbs-left">
+           <img aria-hidden="true" class="media-object" height="50" role="presentation" src="/getThumbnail.cfm?uri=ol-46-13-3235&amp;o=y" width="50"/>
+          </div>
+          <div class="media-twbs-body">
+           <a class="js-relatedArticleLink" href="/ol/abstract.cfm?uri=ol-46-13-3235">
+            Tunable vortex beam generation using an optical parametric oscillator with an antiresonant-ring interferometer
+           </a>
+           <p>
+            Varun Sharma, S. Chaitanya Kumar, G. K. Samanta, and M. Ebrahim-Zadeh
+            <br/>
+            <span class="muted">
+             Opt. Lett.
+             <strong>
+              46
+             </strong>
+             (13) 3235-3238 (2021)
+            </span>
+           </p>
+          </div>
+         </div>
+         <div class="content-item media-twbs-body relatedmorelink" style="text-align:center">
+          <a href"#"="" onclick="$('.relatedmore').show(); $('.relatedmorelink').hide(); return false;">
+           View More...
+          </a>
+         </div>
+         <div class="relatedmore" style="display:none">
+          <div class="content-item media-twbs">
+           <div class="media-twbs-left">
+            <img aria-hidden="true" class="media-object" height="50" role="presentation" src="/getThumbnail.cfm?uri=ao-51-7-873&amp;o=y" width="50"/>
+           </div>
+           <div class="media-twbs-body">
+            <a class="js-relatedArticleLink" href="/ao/abstract.cfm?uri=ao-51-7-873">
+             Generation of high-order optical vortices using directly machined spiral phase mirrors
+            </a>
+            <p>
+             Geoff Campbell, Boris Hage, Ben Buchler, and Ping Koy Lam
+             <br/>
+             <span class="muted">
+              Appl. Opt.
+              <strong>
+               51
+              </strong>
+              (7) 873-876 (2012)
+             </span>
+            </p>
+           </div>
+          </div>
+          <div class="content-item media-twbs">
+           <div class="media-twbs-left">
+            <img aria-hidden="true" class="media-object" height="50" role="presentation" src="/getThumbnail.cfm?uri=ol-41-14-3249&amp;o=y" width="50"/>
+           </div>
+           <div class="media-twbs-body">
+            <a class="js-relatedArticleLink" href="/ol/abstract.cfm?uri=ol-41-14-3249">
+             Wavelength-selective orbital-angular-momentum beam generation using MEMS tunable Fabry–Perot filter
+            </a>
+            <p>
+             Sujoy Paul, Vladimir S. Lyubopytov, Martin F. Schumann, Julijan Cesar, Arkadi Chipouline, Martin Wegener, and Franko Küppers
+             <br/>
+             <span class="muted">
+              Opt. Lett.
+              <strong>
+               41
+              </strong>
+              (14) 3249-3252 (2016)
+             </span>
+            </p>
+           </div>
+          </div>
+         </div>
+         <div style="width:100%; padding: 40px 0px 0px 0px;">
+          <a class="ft-article-prev" href="abstract.cfm?uri=ol-46-17-4212">
+           <i class="fal fa-caret-left">
+           </i>
+           Previous Article
+          </a>
+          <a class="ft-article-next" href="abstract.cfm?uri=ol-46-17-4220">
+           Next Article
+           <i class="fal fa-caret-right">
+           </i>
+          </a>
+         </div>
+        </div>
+        <div class="article-section page-section small" id="articleReferences">
+         <h3 class="article-heading">
+          References
+         </h3>
+         <p>
+          You do not have subscription access to this journal. Citation lists with outbound citation links are available to subscribers only. You may subscribe either as an Optica member, or as an authorized user of your institution.
+         </p>
+         <p>
+          Contact your librarian or system administrator
+          <br/>
+          or
+          <br/>
+          <a data-target="#userLogin" data-toggle="modal" href="#">
+           Login to access Optica Member Subscription
+          </a>
+         </p>
+        </div>
+        <div class="article-section page-section" id="articleDataAvailability">
+         <!--?xml version="1.0" encoding="UTF-8"?-->
+         <da_html>
+          <h3 class="article-heading">
+           Data Availability
+          </h3>
+          <p>
+           Data underlying the results presented in this paper are not publicly available at this time but may be obtained from the authors upon reasonable request.
+          </p>
+         </da_html>
+        </div>
+        <div class="article-section page-section small" id="articleCitations">
+         <h3 class="article-heading">
+          Cited By
+         </h3>
+         <p>
+          You do not have subscription access to this journal. Cited by links are available to subscribers only. You may subscribe either as an Optica member, or as an authorized user of your institution.
+         </p>
+         <p>
+          Contact your librarian or system administrator
+          <br/>
+          or
+          <br/>
+          <a data-target="#userLogin" data-toggle="modal" href="#">
+           Login to access Optica Member Subscription
+          </a>
+         </p>
+        </div>
+        <div class="article-section page-section media-section" id="articleFigures">
+         <h3 class="article-heading">
+          Figures (4)
+         </h3>
+         <p>
+          You do not have subscription access to this journal. Figure files are available to subscribers only. You may subscribe either as an Optica member, or as an authorized user of your institution.
+         </p>
+         <p>
+          Contact your librarian or system administrator
+          <br/>
+          or
+          <br/>
+          <a data-target="#userLogin" data-toggle="modal" href="#">
+           Login to access Optica Member Subscription
+          </a>
+         </p>
+        </div>
+        <div class="article-section page-section" id="articleMetrics">
+         <h3 class="article-heading">
+          Metrics
+         </h3>
+         <script type="text/Javascript">
+          var metricsloaded = false;
+function showMetrics () {
+if (metricsloaded == false) {
+$('#metricsiframe').attr('src','https://cm.scholarlyiq.com/ArticleCompleteView.htm?publisher=OSA&article=458054&username=osacharts&hashedPassword=wexvlUOkPxSJncOLbve5rAjB5nY%3D&style=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fcss%2Fmetrics%2Ecss');
+metricsloaded = true;
+}
+}
+         </script>
+         <iframe id="metricsiframe" width="100%">
+         </iframe>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="hidden-sm hidden-md hidden-lg secondary-navigation--footer">
+     <div style="padding: 5px 0px 0px 0px;">
+      <div class="journal-nav-item hidden-md hidden-lg hidden-sm">
+       <div class="mobile-journal-header">
+        <a href="/ol/home.cfm">
+         <h1>
+          Optics Letters
+         </h1>
+         <p class="primary-editors">
+          Miguel Alonso, Editor-in-Chief
+         </p>
+        </a>
+       </div>
+      </div>
+      <div class="journal-nav-item hidden-xs">
+       <a class="secondary-nav-item_link" href="/ol/home.cfm">
+        Journal Home
+       </a>
+      </div>
+      <div class="journal-nav-item">
+       <a class="secondary-nav-item_link" href="/ol/journal/ol/about.cfm">
+        About
+       </a>
+      </div>
+      <div class="journal-nav-item">
+       <a class="secondary-nav-item_link" href="/ol/upcomingissue.cfm">
+        Issues in Progress
+       </a>
+      </div>
+      <div class="journal-nav-item">
+       <a class="secondary-nav-item_link" href="/ol/issue.cfm">
+        Current Issue
+       </a>
+      </div>
+      <div class="journal-nav-item">
+       <a class="secondary-nav-item_link" href="/ol/browse.cfm">
+        All Issues
+       </a>
+      </div>
+      <div class="journal-nav-item">
+       <a class="secondary-nav-item_link" href="/ol/upcoming.cfm">
+        Early Posting
+       </a>
+      </div>
+     </div>
+    </div>
+   </div>
+   <script type="text/Javascript">
+    function alertconfirmed() {
+// Send ajax to confirm
+document.getElementById('confirmAlertButton').disabled = 'disabled';
+$.ajax({
+cache: false,
+type: "GET",
+url: "set_citation_alert.cfm?uri=ol-46-17-4216&confirmalert=true"
+}).done(function( ajxretmsg ) {
+if (ajxretmsg == "1") {
+document.getElementById('alertConfirmArea').innerHTML = '<strong>Your alert has been set!</strong><br><br><input type="button" name="closeEmail" data-dismiss="modal" value="Close">';
+} else {
+document.getElementById('alertConfirmArea').innerHTML = 'There was an error setting your alert. Please try again later.<br><br><input type="button" name="closeEmail" data-dismiss="modal" value="Close">';
+}
+});
+}
+   </script>
+   <div aria-hidden="true" aria-labelledby="setCitationLabel" class="modal fade" id="setCitationModal" role="dialog" tabindex="-1">
+    <div class="modal-dialog login-dialog">
+     <div class="modal-content">
+      <div class="modal-header">
+       <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+        ×
+       </button>
+       <h4 class="modal-title" id="setCitationLabel">
+        Confirm Citation Alert
+       </h4>
+      </div>
+      <div class="modal-body">
+       Please
+       <a data-target="#userLogin" data-toggle="modal">
+        login
+       </a>
+       to set citation alerts.
+      </div>
+     </div>
+    </div>
+   </div>
+   <div aria-hidden="true" aria-labelledby="mathJaxHelp" class="modal fade" id="mathJaxHelp" role="dialog" tabindex="-1">
+    <div class="modal-dialog login-dialog">
+     <div class="modal-content">
+      <div class="modal-header">
+       <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+        ×
+       </button>
+       MathJax Help
+      </div>
+      <div class="modal-body">
+       Equations displayed with
+       <a href="http://www.mathjax.org" target="_blank">
+        MathJax
+       </a>
+       . Right click equation to reveal menu options.
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="modal fade" id="formErrors" role="dialog">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-label="close" class="close" data-dismiss="modal">
+       <span aria-hidden="true">
+        ×
+       </span>
+      </button>
+      <h4 class="modal-title">
+       Field Error
+      </h4>
+     </div>
+     <div class="modal-body">
+      <p id="formErrorsText">
+      </p>
+     </div>
+     <div class="modal-footer">
+      <button class="btn btn-primary" data-dismiss="modal">
+       Ok
+      </button>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="avs-modal" id="avsModal">
+   <div class="avs-modal-content" id="avsModalContent">
+    <strong>
+     Select
+     <span id="titleFiltersPopup">
+     </span>
+     as filters
+    </strong>
+    <hr/>
+    <div class="row">
+     <div class="col-md-8">
+      <div class="input-collapse">
+       <input aria-label="type names or look up list" class="form-control selectized" id="input-popup-selectize" placeholder="(type names or look up list)" tabindex="-1" type="text"/>
+       <div class="selectize-control form-control multi">
+       </div>
+      </div>
+     </div>
+    </div>
+    <hr/>
+    <ul id="checkBoxList">
+    </ul>
+    <hr/>
+    <span class="btn btn-primary" id="avsModalSubmit">
+     Select Topics
+    </span>
+    <span class="cancel" id="avsModalClose">
+     Cancel
+    </span>
+   </div>
+  </div>
+  <div class="container ft-links">
+   <a id="global-nav">
+   </a>
+   <div class="top-button">
+    <a href="#" style="color:white;">
+     <span class="fi-arrow-up">
+      Top
+     </span>
+    </a>
+   </div>
+   <div class="col-sm-3">
+    <ul class="ft-links-list">
+     <li>
+      <a href="/">
+       Publishing Home
+      </a>
+     </li>
+     <li>
+      <a href="/about.cfm">
+       Journals
+      </a>
+     </li>
+     <li>
+      <a href="/conferences.cfm">
+       Conferences
+      </a>
+     </li>
+     <li class="bullet hidden-xs">
+      <a href="/conferences.cfm">
+       By Year
+      </a>
+     </li>
+     <li class="bullet hidden-xs">
+      <a href="/conferences.cfm?findby=conference">
+       By Name
+      </a>
+     </li>
+    </ul>
+    <ul class="ft-links-list">
+     <li class="ft-links-header">
+      Information for
+     </li>
+     <li>
+      <a href="/author/author.cfm">
+       Authors
+      </a>
+     </li>
+     <li>
+      <a href="/reviewer/">
+       Reviewers
+      </a>
+     </li>
+     <li>
+      <a href="/library/">
+       Librarians
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-sm-3">
+    <ul class="ft-links-list">
+     <li class="ft-links-header">
+      Open Access Information
+     </li>
+     <li>
+      <a href="/submit/review/open-access-policy-statement.cfm">
+       Open Access Statement and Policy
+      </a>
+     </li>
+     <li>
+      <a href="/library/license_v2.cfm">
+       Terms for Journal Article Reuse
+      </a>
+     </li>
+    </ul>
+    <ul class="ft-links-list">
+     <li class="ft-links-header">
+      Other Resources
+     </li>
+     <li>
+      <a href="/books/default.cfm">
+       Optica Publishing Group Bookshelf
+      </a>
+     </li>
+     <li>
+      <a href="/industryreports.cfm">
+       Industry Reports
+      </a>
+     </li>
+     <li>
+      <a href="http://www.osa-opn.org" target="_blank">
+       Optics &amp; Photonics News
+       <span class="far fa-external-link">
+       </span>
+      </a>
+     </li>
+     <li>
+      <a href="https://imagebank.osa.org" target="_blank">
+       Optics ImageBank
+       <span class="far fa-external-link">
+       </span>
+      </a>
+     </li>
+     <li>
+      <a href="/spotlight/">
+       Spotlight on Optics
+      </a>
+     </li>
+    </ul>
+    <!-- mobile only regional sites link -->
+   </div>
+   <div class="col-sm-3">
+    <ul class="ft-links-list">
+     <li class="ft-links-header">
+      About
+     </li>
+     <li>
+      <a href="/about.cfm">
+       About Optica Publishing Group
+      </a>
+     </li>
+     <li>
+      <a href="/benefitslog.cfm">
+       About My Account
+      </a>
+     </li>
+     <li>
+      <a href="/contactus.cfm">
+       Contact Us
+      </a>
+     </li>
+     <li>
+      <a href="#" onclick="popUpWindow('/submitFeedback.cfm?url='+escape(document.location.href),700,490); return false;">
+       Send Us Feedback
+      </a>
+     </li>
+     <li>
+      <a href="https://www.optica.org">
+       Optica Home
+      </a>
+     </li>
+    </ul>
+   </div>
+   <div class="col-sm-3">
+    <ul class="nav navbar-nav navbar-right navbar-ft hidden-sm hidden-xs">
+     <li class="dropdown" style="border:1px solid #6c6c6c; margin-right: 10px;">
+      <a class="dropdown-toggle navbar-ft-header" data-toggle="dropdown" href="#">
+       My Favorites
+       <strong class="caret">
+       </strong>
+      </a>
+      <ul class="dropdown-menu up">
+       <li>
+        <a href="/user">
+         Go to My Account
+        </a>
+       </li>
+       <li>
+        <a data-target="#userLogin" data-toggle="modal" href="#">
+         Login to access favorites
+        </a>
+       </li>
+      </ul>
+     </li>
+     <li class="dropdown" style="border:1px solid #6c6c6c;">
+      <a class="dropdown-toggle navbar-ft-header" data-toggle="dropdown" href="#">
+       Recent Pages
+       <strong class="caret">
+       </strong>
+      </a>
+      <ul class="dropdown-menu up recent-page-list">
+      </ul>
+     </li>
+    </ul>
+   </div>
+   <div class="row">
+    <div class="col-xs-12 col-md-3 col-md-offset-9 text-right" style="margin-top:-40px;">
+     <a aria-label="Follow @OpticaPubsGroup on Twitter" class="ft-links-header purple-hover" href="https://www.twitter.com/OpticaPubsGroup" target="_blank">
+      <span class="fab fa-2x fa-twitter-square">
+      </span>
+     </a>
+     <a aria-label="Follow us on Facebook" class="ft-links-header purple-hover" href="https://www.facebook.com/OpticaWorldwide" target="_blank">
+      <span class="fab fa-2x fa-facebook-square">
+      </span>
+     </a>
+     <a aria-label="Follow us on LinkedIn" class="ft-links-header purple-hover" href="https://www.linkedin.com/company/optica-worldwide/" target="_blank">
+      <span class="fab fa-2x fa-linkedin">
+      </span>
+     </a>
+     <a aria-label="RSS Alerts" class="ft-links-header purple-hover" href="/toc_alerts_subscribe.cfm" target="_blank">
+      <span class="fas fa-2x fa-rss-square">
+      </span>
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="ft-bottom">
+   <div class="container">
+    <div class="col-sm-6">
+     © Copyright 2022 | Optica Publishing Group. All Rights Reserved
+    </div>
+    <div class="col-sm-6 ft-right">
+     <a class="footer-link" href="/privacy.cfm">
+      Privacy
+     </a>
+     |
+     <a class="footer-link" href="/termsofuse.cfm">
+      Terms of Use
+     </a>
+    </div>
+   </div>
+  </div>
+  <div class="modal fade" id="userLogin">
+   <div class="modal-dialog login-dialog">
+    <div class="modal-content">
+     <div class="modal-header">
+      <button aria-hidden="true" class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+      <h4 class="modal-title">
+       Login or
+       <a href="https://account.optica.org/eweb/dynamicpage.aspx?sso=1&amp;site=osac&amp;webcode=loginrequired&amp;url_success=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fol%2Fabstract%2Ecfm%3Frwjcode%3Dol%26uri%3Dol%2D46%2D17%2D4216%26usertoken%3D%7Btoken%7D">
+        Create Account
+       </a>
+      </h4>
+     </div>
+     <div class="modal-body">
+      <form class="form-horizontal" role="form">
+       <div class="alert alert-danger loginErr">
+       </div>
+       <div class="alert alert-warning loginLoading">
+        Please wait...
+       </div>
+       <div class="form-group">
+        <label class="col-sm-2 control-label" for="inputEmail">
+         Email
+        </label>
+        <div class="col-sm-10">
+         <input autofocus="" class="form-control" id="inputEmail" placeholder="Email" type="email"/>
+        </div>
+       </div>
+       <div class="form-group">
+        <label class="col-sm-2 control-label" for="inputPassword">
+         Password
+        </label>
+        <div class="col-sm-10">
+         <input class="form-control" id="inputPassword" placeholder="Password" type="password"/>
+         <span class="help-block">
+          <a href="https://account.osa.org/eweb/Dynamicpage.aspx?webcode=forgotpassword&amp;Site=osac">
+           Forgot your password?
+          </a>
+         </span>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+         <div class="checkbox">
+          <label>
+           <input id="rememberme" type="checkbox"/>
+           Remember me on this computer
+          </label>
+         </div>
+        </div>
+       </div>
+       <div class="form-group">
+        <div class="col-sm-offset-2 col-sm-10">
+         <button class="btn btn-primary" id="loginButton" type="submit">
+          Login
+         </button>
+         <button class="btn btn-default" data-dismiss="modal" data-target="#userLogin" type="submit">
+          Cancel
+         </button>
+        </div>
+       </div>
+      </form>
+     </div>
+     <div class="modal-footer">
+      <div class="col-xs-12" style="text-align: left">
+       <a href="https://auth.optica.org/connect/authorize?client_id=osap&amp;response_type=id_token token&amp;scope=openid email profile affiliation&amp;redirect_uri=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fdefault%2Ecfm&amp;state=BBB412FE-F40B-45A6-B326B39A09CBE2E7|https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fabstract%2Ecfm%3Frwjcode%3Dol%26uri%3Dol%2D46%2D17%2D4216&amp;nonce=BBB412FE-F40B-45A6-B326B39A09CBE2E7&amp;acr_values=idp:oa&amp;response_mode=form_post">
+        Institutional Login
+       </a>
+       (Optica Publishing Group participates in eduGAIN)
+      </div>
+     </div>
+     <div class="modal-footer">
+      <div class="col-xs-12" style="text-align: left">
+       <a href="https://auth.optica.org/connect/authorize?client_id=osap&amp;response_type=id_token token&amp;scope=openid email profile affiliation&amp;redirect_uri=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fdefault%2Ecfm&amp;state=BBB412FE-F40B-45A6-B326B39A09CBE2E7|https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fabstract%2Ecfm%3Frwjcode%3Dol%26uri%3Dol%2D46%2D17%2D4216&amp;nonce=BBB412FE-F40B-45A6-B326B39A09CBE2E7&amp;acr_values=idp:oa&amp;response_mode=form_post">
+        China CARSI Member Access
+       </a>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <div class="col-xs-12" style="text-align: left">
+       <a href="/openathens.cfm?entity=https%3A%2F%2Fpassport.escience.cn%2Fidp%2Fshibboleth">
+        China CAoS Member Access
+       </a>
+      </div>
+     </div>
+     <div class="modal-footer">
+      <div class="col-xs-6" style="text-align: left">
+       <a href="/privacy.cfm">
+        Privacy Policy
+       </a>
+      </div>
+      <div class="col-xs-6">
+       <a href="http://www.osa.org/en-us/help/">
+        Need help?
+       </a>
+       <i class="fal fa-info-circle">
+       </i>
+      </div>
+     </div>
+    </div>
+    <!-- /.modal-content -->
+   </div>
+   <!-- /.modal-dialog -->
+  </div>
+  <!-- /.modal -->
+  <script type="text/x-mathjax-config">
+   MathJax.Hub.Config({
+MathML: {
+// fixing some spacing issues by forcing it to use the MathML spacing instead of TeX
+useMathMLspacing: true
+},
+// workaround for MathZoom overflow issues.
+MathZoom: {
+styles: {
+"#MathJax_Zoom": {
+overflow: "auto !important"
+}
+}
+},
+CommonHTML: {
+mtextFontInherit: true,
+linebreaks: {
+automatic: true
+}
+},
+displayAlign: "center",
+"HTML-CSS": {
+linebreaks: {
+automatic: true
+},
+availableFonts: ["Gyre-Pagella"],
+preferredFont: "Gyre-Pagella",
+webFont: "Gyre-Pagella",
+mtextFontInherit: true,
+scale: 85,
+noReflows: false
+},
+SVG: {
+linebreaks: {
+automatic: true
+} ,
+font: "Gyre-Pagella",
+mtextFontInherit: true
+},
+menuSettings: {
+zoom: "Click",
+zscale: "200%"
+},
+//testing MatchWebFonts extension
+MatchWebFonts: {
+matchFor: {
+"HTML-CSS": true,
+NativeMML: true,
+SVG: true
+}
+},
+tex2jax: {inlineMath: [["$","$"],["\\(","\\)"]], processEscapes: true},
+extensions: ["toMathML.js"],
+TeX: {extensions:["autoload-all.js","mediawiki-texvc.js"]}
+});
+// end intitial config
+MathJax.Hub.Register.StartupHook("End Jax", function() {
+var browser = MathJax.Hub.Browser;
+var versionNumberStart = browser.version.substring(0, browser.version.indexOf("."));
+if (browser.isSafari && (versionNumberStart === "5")) {
+console.log("Safari 5.x detected, rerendering in CommonHTML");
+jax = "CommonHTML";
+MathJax.Hub.setRenderer(jax);
+} 
+});
+MathJax.Hub.Register.StartupHook("MathML Jax Ready",function () {
+var MATHML = MathJax.InputJax.MathML,
+MML = MathJax.ElementJax.mml;
+var MAKEMML = MATHML.Parse.prototype.MakeMML;
+MATHML.Parse.Augment({
+MakeMML: function (node) {
+//
+// Convert to MathJax internal format
+//
+var mml = MAKEMML.call(this,node);
+//
+// If it is an <mi> with text ending in a combining character
+// create an <mover> element with the original <mi> text
+// and an <mo> containing the combining character.
+//
+if (mml.isa(MML.mi)) {
+var text = mml.data.join("");
+if (text.length > 1) {
+var c = text.charCodeAt(text.length-1);
+if ((c >= 0x300 && c < 0x360) || (c >= 0x20D0 && c < 0x2100)) {
+mml = MML.mover(
+MML.mi(text.substr(0,text.length-1)),
+MML.mo(text.charAt(text.length-1))
+);
+}
+}
+}
+return mml;
+}
+});
+});
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.2/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript">
+  </script>
+  <!-- <script>
+document.write('<script src=' +
+('__proto__' in {} ? 'js/vendor/zepto' : 'js/vendor/jquery') +
+'.js><\/script>')
+</script> -->
+  <!--these are the concatenated scripts - when we're done with the JS, we should put together a cfif to serve these if it's not on development-->
+  <!--
+<script src="/js/libraries.min.js" type="text/javascript"></script>
+<script src="/js/app.min.js" type="text/javascript"></script>
+<script src="/js/full-search.min.js" type="text/javascript"></script>
+-->
+  <script src="/js/vendor/jquery-3.5.1.min.js">
+  </script>
+  <script src="/js/vendor/jquery.autocomplete.min.js">
+  </script>
+  <script src="/js/vendor/selectize.js?v=11102021">
+  </script>
+  <script src="/js/vendor/selectize.custom.js">
+  </script>
+  <script src="/js/vendor/sly.min.js">
+  </script>
+  <script src="/js/jquery.tinysort.min.js">
+  </script>
+  <script src="/js/app.js?v=10212019">
+  </script>
+  <script src="/js/recentPages.js?v=11102021">
+  </script>
+  <script src="/js/vendor/bootstrap.min.js">
+  </script>
+  <script src="/js/quickpager.jquery.js">
+  </script>
+  <script src="/js/jquery.unveil.js">
+  </script>
+  <script src="/js/jquery.tokeninput.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery.base64.js" type="text/javascript">
+  </script>
+  <script src="/js/search.js?v=11102021">
+  </script>
+  <script src="/js/underscore.js" type="text/javascript">
+  </script>
+  <script src="/js/jquery-ui-1.10.2.custom.min.js" type="text/javascript">
+  </script>
+  <script src="/js/search/ApiClient.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Bus.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Config.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Constants.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Template.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Facet.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Pagination.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Results.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Search.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Topics.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Util.js?v=11102021" type="text/javascript">
+  </script>
+  <script src="/js/search/Main.js?v=11102021" type="text/javascript">
+  </script>
+  <!-- templates -->
+  <script id="template-page-size-selector" type="text/template">
+   <%= selected %>
+<ul class="dropdown-menu">
+<%= unselected %>
+</ul>
+  </script>
+  <script id="template-pagination-selected-page-size" type="text/template">
+   <a class="page_size_<%= size %> btn btn-default dropdown-toggle" data-toggle="dropdown" href="#">
+<%= size %>
+<span class="caret"></span>
+</a>
+  </script>
+  <script id="template-pagination-unselected-page-size" type="text/template">
+   <li><a class="page_size_<%= size %>" href="#"><%= size %></a></li>
+  </script>
+  <script id="search-result-row" type="text/template">
+   <li class="sr-item">
+<input type="checkbox" class="sri-select hidden-xs" name="articles" value="<%= documentUri %>" aria-label="<%= documentUri %> checkbox"/>
+<div class="sri-summary">
+<h3 class="sri-title"><a href="<%= path %>abstract.cfm?uri=<%= documentUri %>&origin=search" target="_blank"><%= title %><%= videoIcon %></a></h3>
+<span class="sri-authors"><%= authors %></span>
+<ul class="sri-details">
+<li class="sri-year"><%= year %></li>
+<li class="sri-journal"><%= access%> <%= name %><strong>&nbsp; View: <%= htmlLinks %><%= pdfLinks %></strong><%= xinfo %></li>
+</ul>
+<div class="sri-toggle-extended fi-plus">
+</div>
+</div>
+<div class="sri-extended">
+<img src="<%= imgLink%>" class="sri-image" height="100" width="100" alt="" onerror="this.parentNode.removeChild(this);" />
+<p class="sri-abstract"><%= abstract %></p>
+<ul class="sri-hits list-unstyled">
+<%= searchHits %>
+</ul>
+</div>
+</li>
+  </script>
+  <script id="search-result-hit" type="text/template">
+   <li>&hellip;<%= hitText %>&hellip;</li>
+  </script>
+  <script id="search-result-snippet-highlighted" type="text/template">
+   <strong><%= text %></strong>
+  </script>
+  <script id="search-result-snippet-xinfo" type="text/template">
+   [<%= xinfo %>]
+  </script>
+  <script id="search-result-snippet-pdf" type="text/template">
+   <a href="<%= pdfUri %>" target="_blank">PDF</a>
+  </script>
+  <script id="search-result-snippet-html" type="text/template">
+   <a href="<%= htmlUri %>" target="_blank">HTML</a> |
+  </script>
+  <script id="search-result-element-visible" type="text/template">
+   display:inline
+  </script>
+  <script id="search-result-element-hidden" type="text/template">
+   display:none
+  </script>
+  <script id="search-result-element-nbsp" type="text/template">
+   &nbsp;
+  </script>
+  <script id="search-result-facet" type="text/template">
+   <h5 class="bg1">
+<span class="float_l">
+<input type="checkbox" name="chkAllFacet-<%= name %>">
+<%= facetName %>
+</input>
+</span>
+<%= moreLink %>
+<a id="sortby-<%= name %>" class="sidebar_more white" href="#">Sort</a>
+</h5>
+<ul id="facet-values-<%= name %>">
+<%= facetValues %>
+</ul>
+  </script>
+  <script id="facet-publications" type="text/template">
+   <ul class="sf-list">
+<li class="sf-list_list-item"><input id="publicationsAll" class="sf-select-all sf-list_input" type="checkbox" checked="checked" disabled="disabled"/> <label class="sf-list_label" for="publicationsAll">All</label></li>
+<li class="sf-list_list-item"><input id="facet-publications-journals" class="sf-list_input" type="checkbox" name="publications"/> <label class="sf-list_label" for="facet-publications-journals">Journals <span class="facet-count">(<%= totalJournals %>)</span></label></li>
+<li class="sf-list_list-item"><input id="facet-publications-proceedings" class="sf-list_input" type="checkbox" name="proceedings"/> <label class="sf-list_label" for="facet-publications-proceedings">Conferences <span class="facet-count">(<%= totalProceedings %>)</span></label></li>
+<li class="sf-list_list-item"><input id="facet-publications-reports" class="sf-list_input" type="checkbox" name="reports"/> <label class="sf-list_label" for="facet-publications-reports">Industry Reports <span class="facet-count">(<%= totalReports %>)</span></label></li>
+</ul>
+</div>
+<div class="sf-module sf-journals">
+<div class="row2">
+<h3 id="facet-journal-show" class="sf-group-title collapsed" style="text-transform: none !important;">Journals</h3>
+<div id="sortJournal" class="sf-sort"></div>
+</div>
+<div id="facet-journal-values">
+</div>
+</div>
+<div class="sf-module sf-proceedings">
+<div class="row2">
+<h3 id="facet-proceeding-show" class="sf-group-title collapsed" style="text-transform: none !important;">Conferences</h3>
+<div id="sortProceeding" class="sf-sort"></div>
+</div>
+<div id="facet-proceeding-values"></div>
+</div>
+  </script>
+  <script id="search-result-facet-basics" type="text/template">
+   <ul class="sf-list">
+<li class="sf-select-all"><input id="<%= allId %>" type="checkbox" checked="checked" disabled="disabled"/> <label for="<%= allId %>">All</label></li>
+<%= values %>
+<li class="sf-expanded">
+<a href="#" id="more-<%= allId %>" class="search-panel_more-link" data-toggle="modal" data-target="#modal-<%= allId %>">more <%=name%> &raquo;</a>
+<div class="modal full fade" id="modal-<%= allId %>">
+<div class="modal-dialog">
+<div class="modal-content search">
+<div class="row mbottom-20">
+<div class="col-md-4">
+<h3 class="modal-header search"><%= modalTitle %></h3>
+</div>
+<div class="col-md-6 col-md-offset-2">
+<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1" aria-label="type names or look up list"></input>
+<div class="selectize-control form-control multi"></div>
+</div>
+</div>
+<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+</div>
+<hr>
+<a href="#" id="apply-<%= allId %>" class="btn btn-primary" data-dismiss="modal">Apply Filters</a>
+<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+  </script>
+  <script id="search-result-facet-terms" type="text/template">
+   <ul class="sf-list">
+<li class="sf-select-all">
+<input id="<%= allId %>" type="checkbox" checked="checked" disabled="disabled"/>
+<label for="<%= allId %>">Remove all topic filters</label>
+</li>
+<%= values %>
+<li class="sf-expanded">
+<a href="#" id="more-<%= allId %>" class="search-panel_more-link hidden-xs" data-toggle="modal" data-target="#modal-<%= allId %>">include more topics &raquo;</a>
+<div class="modal full fade" id="modal-<%= allId %>">
+<div class="modal-dialog">
+<div class="modal-content search">
+<div class="row mbottom-20">
+<div class="col-md-4">
+<h3 class="modal-header search">Optics &amp; Photonics Topics</h3>
+</div>
+<div class="col-md-6 col-md-offset-2">
+<input id="input-<%= allId%>" type="text" class="form-control" placeholder="Search for a specific topic" tabindex="-1" aria-label="Search for a specific topic"></input>
+</div>
+</div>
+<div class="row mbottom-20">
+<div class="col-md-12">
+<strong>Browse the topics:</strong>
+Click the <svg class="selection-list_arrow"><use xlink:href="#right-arrow" /></svg> to reveal subtopics. Use the checkbox to select a topic to filter your search.
+</div>
+</div>
+<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+</div>
+<div class="row">
+<div class="col-md-12">
+<strong>Selected Topics</strong>
+</div>
+</div>
+<div id="moreSelectedList"></div>
+<div class="row"><div class="col-md-12">&nbsp;<!-- spacing row --></div></div>
+<a href="#" id="apply-<%= allId %>" class="btn btn-primary" data-dismiss="modal">Add Selected Topic Filters</a>
+<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+  </script>
+  <script id="search-result-facet-journal-proceedings" type="text/template">
+   <ul class="sf-list">
+<li class="sf-select-all"><input id="<%= allId %>" type="checkbox" checked> <label for="<%= allId %>">All</label></li>
+<%= values %>
+<li class="sf-expanded">
+<a href="#" id="more-<%= allId %>" class="search-panel_more-link" data-toggle="modal" data-target="#modal-<%= allId %>" class="sf-expanded-toggle">more <%=name%> &raquo;</a>
+<div class="modal full fade" id="modal-<%= allId %>">
+<div class="modal-dialog">
+<div class="modal-content search">
+<div class="row mbottom-20">
+<div class="col-md-4">
+<h3 class="modal-header search"><%= modalTitle%></h3>
+</div>
+<div class="col-md-6 col-md-offset-2">
+<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1" aria-label="type names or look up list"></input>
+<div class="selectize-control form-control multi"></div>
+</div>
+</div>
+<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+</div>
+<hr>
+<a href="#" id="apply-<%= allId %>" class="btn btn-primary" data-dismiss="modal">Apply Filters</a>
+<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
+</div>
+</div>
+</div>
+</li>
+</ul>
+  </script>
+  <script id="search-result-facet-content" type="text/template">
+   <ul class="sf-list">
+<%= values %>
+</ul>
+  </script>
+  <script id="facet-more-new-content" type="text/template">
+   <div class="more-columns_container">
+<div class="more-columns_column"><ul class="selection-list"><%= val1%></ul></div>
+<div class="more-columns_column"><ul class="selection-list"><%= val2%></ul></div>
+<div class="more-columns_column"><ul class="selection-list"><%= val3%></ul></div>
+</div>
+  </script>
+  <script id="facet-more-terms-div" type="text/template">
+   <div class="more-columns_container">
+<div class="more-columns_column" id="<%= name%>-col1"><%= val%></div>
+<div class="more-columns_column" id="<%= name%>-col2"></div>
+<div class="more-columns_column" id="<%= name%>-col3"></div>
+</div>
+  </script>
+  <script id="facet-more-terms-list" type="text/template">
+   <ul class="selection-list"><%= val%></ul>
+  </script>
+  <script id="search-result-facet-more" type="text/template">
+   <a id="more-<%= name %>" href="#" class="sidebar_more white">More</a>
+  </script>
+  <script id="search-result-facet-detail" type="text/template">
+   <a href="#" id="details-link-<%= id %>" class="sidebar_more black">details</a>
+<ul id="details-container-<%= id %>" class="list-unstyled" style="display:none;" data-value="<%= valName %>"></ul>
+  </script>
+  <script id="search-result-facet-value" type="text/template">
+   <li class="sf-list_list-item <%= rowclass %>" style="<%= display %>">
+<input type="checkbox" class="sf-list_input <%= boxstyle %>" name="chkFacet-<%= name %>" value="<%= code %>" aria-label="<%= dataValue %>" data-value="<%= dataValue %>" id="<%= id %>" <%= checked %> acronym="<%= acronym %>" />
+<% if (hasCloseButton === true) { %>
+<div <% if (isbold != '') { %> class="sf-list_label sf-authors-bold" <% } else { %> class="sf-list_label" style="margin-bottom:5px"<% } %>><%= valName %><span class="facet-count"><%= valCount %></span> <span class="fal fa-times-circle facet-value_toggle purple-color"></span></div> <%= detail%>
+<% } else { %>
+<label <%= title%> for="<%= id %>" <% if (isbold != '') { %> class="sf-list_label sf-authors-bold" <% } else { %> class="sf-list_label" <% } %>><%= valName %> <span class="facet-count"><%= valCount %></span></label> <%= detail%>
+<% } %>
+</li>
+  </script>
+  <script id="more-term-facet-value" type="text/template">
+   <li class="selection-list_list-item" style="<%= display %>">
+<input id="<%= labelid %>" class="selection-list_checkbox" type="checkbox" name="<%= name %>" data-value="<%= dataValue %>" <%= checked %> <%= boxstyle %>/><div class="selection-list_link" name="text-<%= name %>" data-value="<%= dataValue %>" <%= clazz %>><label for="<%= labelid %>" style="font-weight:normal;margin-bottom:0px;"><%= valName %><% if (valCount != "") { %> <span class="more-facet-count"><%= valCount %></span><% } %></label></div><% if (isx === true) { %><a href="#" aria-label="selection expander" class="selection-list_expander <%= inputname%>-expandin"><svg class="selection-list_arrow"><use xlink:href="#right-arrow" /></svg></a><% } %>
+</li>
+  </script>
+  <script id="more-term-selected" type="text/template">
+   <div class="selected-facet" data-topic="<%= finalTopic %>">
+<%= val %>
+<a href="#" name="selected-x" aria-label="<%= dataValue %>" data-value="<%= dataValue %>" count="<%= cnt %>" class="selected-facet_close" ><span class="fal fa-times-circle purple-color"></span></a>
+</div>
+  </script>
+  <script id="search-result-facet-class" type="text/template">
+   class=""
+  </script>
+  <script id="search-result-facet-style-normal" type="text/template">
+   style="font-weight:normal"
+  </script>
+  <script id="search-result-facet-sort-popup" type="text/template">
+   <p>
+<input type="radio" id='<%= name %>:item-order:ascending' name="facetSortBy" value='<%= name %>:item-order:ascending' >
+<label for='<%= name %>:item-order:ascending'><%= label %> ascending</label><br>
+<input type="radio" id='<%= name %>:item-order:descending' name="facetSortBy" value='<%= name %>:item-order:descending' >
+<label for='<%= name %>:item-order:descending'><%= label %> descending</label><br>
+<input type="radio" id='<%= name %>:frequency-order:ascending' name="facetSortBy" value='<%= name %>:frequency-order:ascending' >
+<label for='<%= name %>:frequency-order:ascending'>Frequency ascending</label><br>
+<input type="radio" id='<%= name %>:frequency-order:descending' name="facetSortBy" value='<%= name %>:frequency-order:descending'>
+<label for='<%= name %>:frequency-order:descending'>Frequency descending</label>
+</p>
+  </script>
+  <script id="filter-selected" type="text/template">
+   <li class="label filter-tag filter-tag--<%= filterType %>"> <%= filterValue %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="far fa-times purple-color" data-value="<%= filterValue %>"></span></a></li>
+  </script>
+  <script id="filter-search" type="text/template">
+   <li class="filter-search label filter-tag filter-tag--<%= filterType %>"> <%= filterLabel %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="far fa-times purple-color" data-value="<%= filterValue %>"></span></a></li>
+  </script>
+  <script id="publication-sort-template" type="text/template">
+   <button class="sf-sort-toggle"><i class="fas fa-sort"></i><span class="sr-only">sort</span></button>
+<div class="sf-sort-popup">
+<ul>
+<li class="active"><a href="#" name="sort-<%= type%>" data-value="<%= type%>:frequency-order:descending">Article Count</a></li>
+<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:ascending">Alphabetical A>Z</a></li>
+<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:descending">Alphabetical Z>A</a></li>
+</ul>
+</div>
+  </script>
+  <script id="author-topic-sort-template" type="text/template">
+   <button class="sf-sort-toggle"><i class="fas fa-sort"></i><span class="sr-only">sort</span></button>
+<div class="sf-sort-popup">
+<ul>
+<li class="active"><a href="#" name="sort-<%= type%>" data-value="<%= type%>:frequency-order:descending">Article Count</a></li>
+<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:ascending">Alphabetical A>Z</a></li>
+<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:descending">Alphabetical Z>A</a></li>
+</ul>
+</div>
+  </script>
+  <script id="year-sort-template" type="text/template">
+   <button class="sf-sort-toggle"><i class="fas fa-sort"></i><span class="sr-only">sort</span></button>
+<div class="sf-sort-popup">
+<ul>
+<li class="active"><a href="#" name="sort-year" data-value="year:item-order:descending">Newest date first</a></li>
+<li><a href="#" name="sort-year" data-value="year:item-order:ascending">Oldest date first</a></li>
+<li><a href="#" name="sort-year" data-value="year:frequency-order:descending">Article Count</a></li>
+</ul>
+</div>
+  </script>
+  <script id="more-pop-up-template" type="text/template">
+   <%= values%>
+  </script>
+  <script id="loading-gif-template" type="text/template">
+   <li><img style="position:center; display:none;" src="../images/ajax-loader.gif"/></li>
+  </script>
+  <script id="all-plus-separator-template" type="text/template">
+   <li class="sf-select-all"><input id="<%= allId %>" type="checkbox" > <label for="<%= allId %>">All</label></li>
+  </script>
+  <script id="more-topic-column-header" type="text/template">
+   <div class="selection-list_header"><%= name %></div>
+  </script>
+  <script id="loader" type="text/template">
+   <div class="progress">
+<div class="progress-bar progress-bar-striped active" role="progress-bar" id="progress-<%= allId %>"></div>
+</div>
+  </script>
+  <script type="text/javascript">
+   $(document).ready(function() {
+if (location.hash.indexOf("figanchor") != -1) {
+$("#figurestablink").click();
+$(location.hash).get(0).scrollIntoView();
+}
+$.get('/checkjs.cfm?s=4GMEM9N');
+populateRecentPages();
+$("img").removeClass("lazyimg").unveil(100);
+});
+  </script>
+  <script type="text/javascript">
+   var gaAcct = "UA-1200622-15";
+function downloadJSAtOnload() {
+var element = document.createElement("script");
+element.src = "/js/loadJS.js";
+document.body.appendChild(element);
+}
+if (window.addEventListener)
+window.addEventListener("load", downloadJSAtOnload, false);
+else if (window.attachEvent)
+window.attachEvent("onload", downloadJSAtOnload);
+else window.onload = downloadJSAtOnload;
+  </script>
+  <!-- osap5 -->
+ </body>
+</html>

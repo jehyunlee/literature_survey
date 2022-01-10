@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="6255d040-fc03-4d55-b53c-1367480e095e" lang="en">
+<html class="pb-page" data-request-id="f6f606b8-fd27-4aeb-8cfe-787d6c818e68" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;article:article:10.1021/acsami.8b00837;website:website:acspubs;issue:issue:10.1021/aamick.2018.10.issue-16;journal:journal:aamick;pageGroup:string:Publication Pages;subPage:string:Full Text" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -199,7 +199,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'f13dbe5a-c3b7-410c-be24-b335af96a96e'
+                            eventGroupKey: '125e7a70-b907-4baa-b902-7517727112be'
                         }
 
                     }).done(function (status) {
@@ -1532,8 +1532,8 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#83f0e9f3e2f1e8c3e4eaf0f7ade2e0ade8f1">
-                  <span class="__cf_email__" data-cfemail="70031a0011021b30171903045e11135e1b02">
+                 <a href="/cdn-cgi/l/email-protection#b1c2dbc1d0c3daf1d6d8c2c59fd0d29fdac3">
+                  <span class="__cf_email__" data-cfemail="34475e4455465f74535d47401a55571a5f46">
                    [email protected]
                   </span>
                  </a>
@@ -3452,8 +3452,8 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#35465f4554475e75525c46411b54561b5e47">
-                      <span class="__cf_email__" data-cfemail="592a3329382b32193e302a2d77383a77322b">
+                     <a href="/cdn-cgi/l/email-protection#e6958c9687948da6818f9592c88785c88d94">
+                      <span class="__cf_email__" data-cfemail="06756c7667746d46616f7572286765286d74">
                        [email protected]
                       </span>
                      </a>
@@ -3854,7 +3854,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUzbj3W4GOdrVg90H21EOLACvtfcHk0ljO9F2dLvULEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUzbj3W4GOdrVg90H21EOLACvtfcHk0lhoXHV5XzW-jg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4044,7 +4044,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBId3zfEzu-rVg90H21EOLACvtfcHk0ljO9F2dLvULEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBId3zfEzu-rVg90H21EOLACvtfcHk0lhoXHV5XzW-jg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4213,7 +4213,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqjKSPvuJRhibVg90H21EOLACvtfcHk0liOBhyWAZstew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqjKSPvuJRhibVg90H21EOLACvtfcHk0ljrM8qTT3-f1Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4379,7 +4379,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPWwkSY1eU77Vg90H21EOLACvtfcHk0liOBhyWAZstew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPWwkSY1eU77Vg90H21EOLACvtfcHk0ljrM8qTT3-f1Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4575,7 +4575,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrCNwhMStFc-rVg90H21EOLACvtfcHk0liOBhyWAZstew" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrCNwhMStFc-rVg90H21EOLACvtfcHk0ljrM8qTT3-f1Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4726,7 +4726,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqY5dKMF2ha1bVg90H21EOLACvtfcHk0lgB4TK09o3q3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqY5dKMF2ha1bVg90H21EOLACvtfcHk0lhbyDTJyRFCKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4910,7 +4910,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGre_zHsJNIXgbVg90H21EOLACvtfcHk0lgB4TK09o3q3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGre_zHsJNIXgbVg90H21EOLACvtfcHk0lhbyDTJyRFCKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5078,7 +5078,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoqCCm-WVYh4bVg90H21EOLACvtfcHk0lgB4TK09o3q3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoqCCm-WVYh4bVg90H21EOLACvtfcHk0lhbyDTJyRFCKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5235,7 +5235,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEaWn1QyehgLVg90H21EOLACvtfcHk0lgB4TK09o3q3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEaWn1QyehgLVg90H21EOLACvtfcHk0lhbyDTJyRFCKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5422,7 +5422,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVXzg8qUfH7LVg90H21EOLACvtfcHk0lh6wgV5AhGxgQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVXzg8qUfH7LVg90H21EOLACvtfcHk0lj3u_ntljXw-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5560,7 +5560,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorSYRBEkk3ALVg90H21EOLACvtfcHk0lh6wgV5AhGxgQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorSYRBEkk3ALVg90H21EOLACvtfcHk0lj3u_ntljXw-g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5805,7 +5805,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpsrmgDT2qRUrVg90H21EOLACvtfcHk0limoWb-iPI1NQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpsrmgDT2qRUrVg90H21EOLACvtfcHk0lic8LWqOjrRjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5962,7 +5962,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrh3nRH9WaICLVg90H21EOLACvtfcHk0limoWb-iPI1NQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrh3nRH9WaICLVg90H21EOLACvtfcHk0lic8LWqOjrRjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6119,7 +6119,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpXZZRY89WJ17Vg90H21EOLACvtfcHk0limoWb-iPI1NQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpXZZRY89WJ17Vg90H21EOLACvtfcHk0lic8LWqOjrRjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6257,7 +6257,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoiV5fyskrHgLVg90H21EOLACvtfcHk0limoWb-iPI1NQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoiV5fyskrHgLVg90H21EOLACvtfcHk0lic8LWqOjrRjA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6334,7 +6334,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                    <span>
                    </span>
                    <span class="NLM_article-title">
-                    <a class="__cf_email__" data-cfemail="9fdef8dfd1f6" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="e5a482a5ab8c" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     core-shell nanowire network for robust transparent electrodes against oxidation and sulfurization
@@ -6390,7 +6390,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </span>
                      <div class="casTitle">
                       <span class="NLM_cas:atitle">
-                       <a class="__cf_email__" data-cfemail="400127000e29" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="6e2f092e2007" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        core-shell nanowire network for robust transparent electrodes against oxidation and sulfurization
@@ -6441,7 +6441,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGru3UHW3tc-c7Vg90H21EOLACvtfcHk0lican12LejPIQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGru3UHW3tc-c7Vg90H21EOLACvtfcHk0lgtscMwd_3Hnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6583,7 +6583,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpJRYkxHC-k-LVg90H21EOLACvtfcHk0lican12LejPIQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpJRYkxHC-k-LVg90H21EOLACvtfcHk0lgtscMwd_3Hnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6769,7 +6769,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBOtRy_Xce-rVg90H21EOLACvtfcHk0lican12LejPIQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBOtRy_Xce-rVg90H21EOLACvtfcHk0lgtscMwd_3Hnw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6944,7 +6944,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoBlOo0_S2O07Vg90H21EOLACvtfcHk0ljlbCTMYBChng" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoBlOo0_S2O07Vg90H21EOLACvtfcHk0lig0K1YSyo-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7200,7 +7200,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGruQk2q4FGQ6bVg90H21EOLACvtfcHk0ljlbCTMYBChng" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGruQk2q4FGQ6bVg90H21EOLACvtfcHk0lig0K1YSyo-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7350,7 +7350,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhMLqxwBY7rVg90H21EOLACvtfcHk0ljlbCTMYBChng" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhMLqxwBY7rVg90H21EOLACvtfcHk0lig0K1YSyo-wA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7501,7 +7501,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPMDCsR4lkN7Vg90H21EOLACvtfcHk0ljlbCTMYBChng" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPMDCsR4lkN7Vg90H21EOLACvtfcHk0lhv3Q538jV1iQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7668,7 +7668,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqaCxKw0RUrYrVg90H21EOLACvtfcHk0liuTdQbdNGGEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqaCxKw0RUrYrVg90H21EOLACvtfcHk0lhv3Q538jV1iQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7905,7 +7905,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo1zesGbFNI-7Vg90H21EOLACvtfcHk0liuTdQbdNGGEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo1zesGbFNI-7Vg90H21EOLACvtfcHk0lhv3Q538jV1iQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8044,7 +8044,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZNTQaPrXfFbVg90H21EOLACvtfcHk0liuTdQbdNGGEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZNTQaPrXfFbVg90H21EOLACvtfcHk0ljrHZVEztbI4g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8241,7 +8241,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr6VzC2AzApbbVg90H21EOLACvtfcHk0lj5v1buEzO5aw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr6VzC2AzApbbVg90H21EOLACvtfcHk0ljrHZVEztbI4g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8368,7 +8368,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpqUF1qqZEa0rVg90H21EOLACvtfcHk0lj5v1buEzO5aw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpqUF1qqZEa0rVg90H21EOLACvtfcHk0ljrHZVEztbI4g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8611,7 +8611,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRoSfvXgHNGLVg90H21EOLACvtfcHk0lj5v1buEzO5aw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRoSfvXgHNGLVg90H21EOLACvtfcHk0lgEwuMZ1c-81A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8780,7 +8780,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqetvm_gAyA3bVg90H21EOLACvtfcHk0lhppX2DNqP2DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqetvm_gAyA3bVg90H21EOLACvtfcHk0lgEwuMZ1c-81A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8955,7 +8955,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFKTOWSfgFxLVg90H21EOLACvtfcHk0lhppX2DNqP2DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFKTOWSfgFxLVg90H21EOLACvtfcHk0lgEwuMZ1c-81A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9151,7 +9151,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGor6xpZiP7_srVg90H21EOLACvtfcHk0lhppX2DNqP2DQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGor6xpZiP7_srVg90H21EOLACvtfcHk0lh2SiiGiMJOsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9432,7 +9432,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrrW_eW52hNbbVg90H21EOLACvtfcHk0lgjaFbTWi-ZcA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrrW_eW52hNbbVg90H21EOLACvtfcHk0lh2SiiGiMJOsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9646,7 +9646,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwhffAidwQJ7Vg90H21EOLACvtfcHk0lgjaFbTWi-ZcA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwhffAidwQJ7Vg90H21EOLACvtfcHk0lhIWRmTuBm4Dg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9808,7 +9808,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqE1c2uaC3e67Vg90H21EOLACvtfcHk0lj97QfQ92dsKw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqE1c2uaC3e67Vg90H21EOLACvtfcHk0lhIWRmTuBm4Dg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9958,7 +9958,7 @@ of Science and Technology, Gwangju 500-712, Republic of Korea
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQtBmH06FTaV5HZzFRCXxVKfW6udTcc2ea4axEW_5rmjLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQtBmH06FTaV5HZzFRCXxVKfW6udTcc2eZIfa3sIhc3jLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12083,7 +12083,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUzbj3W4GOdrVg90H21EOLACvtfcHk0lh98Xy28XPWUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrUzbj3W4GOdrVg90H21EOLACvtfcHk0lh9QSUk3Gb2HA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12273,7 +12273,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBId3zfEzu-rVg90H21EOLACvtfcHk0lh98Xy28XPWUw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrBId3zfEzu-rVg90H21EOLACvtfcHk0lh9QSUk3Gb2HA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12442,7 +12442,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqjKSPvuJRhibVg90H21EOLACvtfcHk0lhtkjtarLajIg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqjKSPvuJRhibVg90H21EOLACvtfcHk0li2PwxFXheHdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12608,7 +12608,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPWwkSY1eU77Vg90H21EOLACvtfcHk0lhtkjtarLajIg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPWwkSY1eU77Vg90H21EOLACvtfcHk0li2PwxFXheHdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12804,7 +12804,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrCNwhMStFc-rVg90H21EOLACvtfcHk0lhEzk5P8DZ9mA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrCNwhMStFc-rVg90H21EOLACvtfcHk0ljCuCs73bCADQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -12955,7 +12955,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqY5dKMF2ha1bVg90H21EOLACvtfcHk0lhEzk5P8DZ9mA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqY5dKMF2ha1bVg90H21EOLACvtfcHk0ljCuCs73bCADQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13139,7 +13139,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGre_zHsJNIXgbVg90H21EOLACvtfcHk0lhEzk5P8DZ9mA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGre_zHsJNIXgbVg90H21EOLACvtfcHk0liedO6wzYRypw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13307,7 +13307,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoqCCm-WVYh4bVg90H21EOLACvtfcHk0lh7TMkzJm2VsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoqCCm-WVYh4bVg90H21EOLACvtfcHk0liedO6wzYRypw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13464,7 +13464,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEaWn1QyehgLVg90H21EOLACvtfcHk0lh7TMkzJm2VsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrEaWn1QyehgLVg90H21EOLACvtfcHk0ljhMrdPVQxtPQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13651,7 +13651,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVXzg8qUfH7LVg90H21EOLACvtfcHk0lh7TMkzJm2VsA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpVXzg8qUfH7LVg90H21EOLACvtfcHk0ljhMrdPVQxtPQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -13789,7 +13789,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorSYRBEkk3ALVg90H21EOLACvtfcHk0li6xUY6Z9X4ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGorSYRBEkk3ALVg90H21EOLACvtfcHk0lh-5yeNTm9BFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14034,7 +14034,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpsrmgDT2qRUrVg90H21EOLACvtfcHk0li6xUY6Z9X4ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpsrmgDT2qRUrVg90H21EOLACvtfcHk0lh-5yeNTm9BFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14191,7 +14191,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrh3nRH9WaICLVg90H21EOLACvtfcHk0li6xUY6Z9X4ag" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrh3nRH9WaICLVg90H21EOLACvtfcHk0lgVh7GyMURuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14348,7 +14348,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpXZZRY89WJ17Vg90H21EOLACvtfcHk0lg8NDIAZXFyFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpXZZRY89WJ17Vg90H21EOLACvtfcHk0lgVh7GyMURuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14486,7 +14486,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoiV5fyskrHgLVg90H21EOLACvtfcHk0lg8NDIAZXFyFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoiV5fyskrHgLVg90H21EOLACvtfcHk0lgVh7GyMURuXQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14563,7 +14563,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                       <span>
                       </span>
                       <span class="NLM_article-title">
-                       <a class="__cf_email__" data-cfemail="06476146486f" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="87c6e0c7c9ee" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        core-shell nanowire network for robust transparent electrodes against oxidation and sulfurization
@@ -14619,7 +14619,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </span>
                         <div class="casTitle">
                          <span class="NLM_cas:atitle">
-                          <a class="__cf_email__" data-cfemail="317056717f58" href="/cdn-cgi/l/email-protection">
+                          <a class="__cf_email__" data-cfemail="7c3d1b3c3215" href="/cdn-cgi/l/email-protection">
                            [email protected]
                           </a>
                           core-shell nanowire network for robust transparent electrodes against oxidation and sulfurization
@@ -14670,7 +14670,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGru3UHW3tc-c7Vg90H21EOLACvtfcHk0lg8NDIAZXFyFg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGru3UHW3tc-c7Vg90H21EOLACvtfcHk0lhDhl1GECKOLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14812,7 +14812,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpJRYkxHC-k-LVg90H21EOLACvtfcHk0ljrgO5Z9AKaaA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpJRYkxHC-k-LVg90H21EOLACvtfcHk0lhDhl1GECKOLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -14998,7 +14998,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBOtRy_Xce-rVg90H21EOLACvtfcHk0ljrgO5Z9AKaaA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpBOtRy_Xce-rVg90H21EOLACvtfcHk0lhDhl1GECKOLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15173,7 +15173,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoBlOo0_S2O07Vg90H21EOLACvtfcHk0ljrgO5Z9AKaaA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoBlOo0_S2O07Vg90H21EOLACvtfcHk0lhDhl1GECKOLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15429,7 +15429,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGruQk2q4FGQ6bVg90H21EOLACvtfcHk0liKjlvFgDRmbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGruQk2q4FGQ6bVg90H21EOLACvtfcHk0li8OKXWYrIKIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15579,7 +15579,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhMLqxwBY7rVg90H21EOLACvtfcHk0liKjlvFgDRmbA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqxhMLqxwBY7rVg90H21EOLACvtfcHk0li8OKXWYrIKIw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15730,7 +15730,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPMDCsR4lkN7Vg90H21EOLACvtfcHk0lh_Vgtl5-Rt5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrPMDCsR4lkN7Vg90H21EOLACvtfcHk0li5T_fWz4_LYQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15897,7 +15897,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqaCxKw0RUrYrVg90H21EOLACvtfcHk0lh_Vgtl5-Rt5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqaCxKw0RUrYrVg90H21EOLACvtfcHk0li5T_fWz4_LYQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16134,7 +16134,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo1zesGbFNI-7Vg90H21EOLACvtfcHk0lh_Vgtl5-Rt5w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo1zesGbFNI-7Vg90H21EOLACvtfcHk0liBvHIg2tvXFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16273,7 +16273,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZNTQaPrXfFbVg90H21EOLACvtfcHk0lh7N9TwWHe2yg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZNTQaPrXfFbVg90H21EOLACvtfcHk0liBvHIg2tvXFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16470,7 +16470,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr6VzC2AzApbbVg90H21EOLACvtfcHk0lh7N9TwWHe2yg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGr6VzC2AzApbbVg90H21EOLACvtfcHk0liBvHIg2tvXFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16597,7 +16597,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpqUF1qqZEa0rVg90H21EOLACvtfcHk0lh7N9TwWHe2yg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpqUF1qqZEa0rVg90H21EOLACvtfcHk0liBvHIg2tvXFA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16840,7 +16840,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRoSfvXgHNGLVg90H21EOLACvtfcHk0ljkc11NAndCYQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqRoSfvXgHNGLVg90H21EOLACvtfcHk0ljZNP4cn3IXSg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17009,7 +17009,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqetvm_gAyA3bVg90H21EOLACvtfcHk0ljkc11NAndCYQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqetvm_gAyA3bVg90H21EOLACvtfcHk0ljZNP4cn3IXSg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17184,7 +17184,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFKTOWSfgFxLVg90H21EOLACvtfcHk0ljkc11NAndCYQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrFKTOWSfgFxLVg90H21EOLACvtfcHk0lhquwvy4V1Y6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17380,7 +17380,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGor6xpZiP7_srVg90H21EOLACvtfcHk0lii4a80i4pNUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGor6xpZiP7_srVg90H21EOLACvtfcHk0lhquwvy4V1Y6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17661,7 +17661,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrrW_eW52hNbbVg90H21EOLACvtfcHk0lii4a80i4pNUQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrrW_eW52hNbbVg90H21EOLACvtfcHk0lhquwvy4V1Y6A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17875,7 +17875,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwhffAidwQJ7Vg90H21EOLACvtfcHk0lgv2SUoFIUsyw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqwhffAidwQJ7Vg90H21EOLACvtfcHk0lhSSyzBT0MsVg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18037,7 +18037,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqE1c2uaC3e67Vg90H21EOLACvtfcHk0lgv2SUoFIUsyw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqE1c2uaC3e67Vg90H21EOLACvtfcHk0lj_EAJDq5QkBg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18187,7 +18187,7 @@ M. Martinez, Arthur Ishteev, Azin Fahimi, Josef Velten, Izabela Jurewicz, Alan B
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQtBmH06FTaV5HZzFRCXxVKfW6udTcc2eawIHM5HyM3urntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcQtBmH06FTaV5HZzFRCXxVKfW6udTcc2eYbAdNfm0UVwrntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19281,7 +19281,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad74ad4a260fa0","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb18ff7bb0112e2","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

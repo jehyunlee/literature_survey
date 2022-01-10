@@ -525,15 +525,15 @@
          <div class="c-article-section__content" id="Sec1-content">
           <p>
            LVDC distribution systems are continuously being researched and investigated to construct DC microgrids (MGs), which can be a substitute for existing AC grid systems. DC grids can provide high quality electric power to DC household applications. In addition, a DC MGs can use electricity more effectively than a conventional AC grid system with reduced transmission losses [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d26503369e341" title="Chiradeja, P., Ramakumar, R.: An approach to quantify the technical benefits of distributed generation. IEEE Trans. Energy Convers. 19(4), 764–773 (2004)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d102388828e341" title="Chiradeja, P., Ramakumar, R.: An approach to quantify the technical benefits of distributed generation. IEEE Trans. Energy Convers. 19(4), 764–773 (2004)">
             1
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d26503369e341_1" title="Lee, J., Kim, H., Han, B., Jeong, Y., Yang, H., Cha, H.: DC micro-grid operational analysis with a detailed simulation model for distributed generation. J. Power Electron. 11(3), 350–359 (2011)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d102388828e341_1" title="Lee, J., Kim, H., Han, B., Jeong, Y., Yang, H., Cha, H.: DC micro-grid operational analysis with a detailed simulation model for distributed generation. J. Power Electron. 11(3), 350–359 (2011)">
             2
            </a>
            ,
-           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR3" id="ref-link-section-d26503369e344" title="Choi, H.J., Jung, J.H.: Enhanced power line communication strategy for DC microgrids using switching frequency modulation of power converters. IEEE Trans. Power Electron. 32(6), 4140–4144 (2017)">
+           <a aria-label="Reference 3" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR3" id="ref-link-section-d102388828e344" title="Choi, H.J., Jung, J.H.: Enhanced power line communication strategy for DC microgrids using switching frequency modulation of power converters. IEEE Trans. Power Electron. 32(6), 4140–4144 (2017)">
             3
            </a>
            ]. Figure
@@ -545,11 +545,11 @@
             1
            </a>
            a, to implement a DC MG, an LVDC distribution system is necessary. The LVDC system requires that high voltage (kV) should be converted to the level of the application voltage such as 380 V, i.e., a converter interfaced with the LVDC system should cover a high power and a high voltage [
-           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR4" id="ref-link-section-d26503369e353" title="Lee, W., Choi, H., Cho, Y., Ryu, M., Jung, J.: Design methodology of a three-phase dual active bridge converter for low voltage direct current applications. J. Power Electron. 18(2), 482–491 (2018)">
+           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR4" id="ref-link-section-d102388828e353" title="Lee, W., Choi, H., Cho, Y., Ryu, M., Jung, J.: Design methodology of a three-phase dual active bridge converter for low voltage direct current applications. J. Power Electron. 18(2), 482–491 (2018)">
             4
            </a>
            ,
-           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR5" id="ref-link-section-d26503369e357" title="Liu, C., Zhu, D., Zhang, J., Liu, H., Cai, G.: A bidirectional dual buck-boost voltage balancer with direct coupling based on a burst-mode control scheme for low-voltage bipolar-type DC microgrids. J. Power Electron. 15(6), 1609–1618 (2015)">
+           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR5" id="ref-link-section-d102388828e357" title="Liu, C., Zhu, D., Zhang, J., Liu, H., Cai, G.: A bidirectional dual buck-boost voltage balancer with direct coupling based on a burst-mode control scheme for low-voltage bipolar-type DC microgrids. J. Power Electron. 15(6), 1609–1618 (2015)">
             5
            </a>
            ]. In addition, bi-directional power conversion is required, since a DC MG can be good for consumers to act as an electricity seller.
@@ -581,7 +581,7 @@
                 b
                </b>
                target LVDC system structure [
-               <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR6" id="ref-link-section-d26503369e372" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
+               <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR6" id="ref-link-section-d102388828e372" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
                 6
                </a>
                ]
@@ -611,15 +611,15 @@
             1
            </a>
            b is a single-phase dual-active-bridge (SP-DAB) converter, since it has great benefits like inherent the zero voltage switching (ZVS) capability without any additional resonant components and smooth bi-directional transitions [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d26503369e386" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d102388828e386" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
             6
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d26503369e386_1" title="Choi, H.-J., Jung, J.-H.: Practical design of dual active bridge converter as isolated bi-directional power interface for solid state transformer applications. J. Electr. Eng. Tech. 11(5), 1266–1273 (2016)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d102388828e386_1" title="Choi, H.-J., Jung, J.-H.: Practical design of dual active bridge converter as isolated bi-directional power interface for solid state transformer applications. J. Electr. Eng. Tech. 11(5), 1266–1273 (2016)">
             7
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d26503369e386_2" title="Jeong, D., Ryu, M., Kim, H., Kim, H.: Optimized design of bi-directional dual active bridge converter for low-voltage battery charger. J. Power Electron. 14(3), 468–477 (2014). 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d102388828e386_2" title="Jeong, D., Ryu, M., Kim, H., Kim, H.: Optimized design of bi-directional dual active bridge converter for low-voltage battery charger. J. Power Electron. 14(3), 468–477 (2014). 
 https://doi.org/10.6113/JPE.2014.14.3.468
 
 
@@ -627,23 +627,23 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             8
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d26503369e386_3" title="Yao, Y., Xu, S., Sun, W., Lu, S.: A novel compensator for eliminating DC magnetizing current bias in hybrid modulated dual active bridge converters. J. Power Electron. 16(5), 1650–1660 (2016)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d102388828e386_3" title="Yao, Y., Xu, S., Sun, W., Lu, S.: A novel compensator for eliminating DC magnetizing current bias in hybrid modulated dual active bridge converters. J. Power Electron. 16(5), 1650–1660 (2016)">
             9
            </a>
            ,
-           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR10" id="ref-link-section-d26503369e389" title="Naayagi, R.T., Forsyth, A.J., Shuttleworth, R.: High-power bidirectional dc-dc converter for aerospace applications. IEEE Trans. Power Electron. 27(11), 4366–4379 (2012)">
+           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR10" id="ref-link-section-d102388828e389" title="Naayagi, R.T., Forsyth, A.J., Shuttleworth, R.: High-power bidirectional dc-dc converter for aerospace applications. IEEE Trans. Power Electron. 27(11), 4366–4379 (2012)">
             10
            </a>
            ]. However, the SP-DAB converter is not effective in terms of power density in high power applications. In the case of the SP-DAB converter, high capacitive filters are required for high power or high current operations, which makes the issue of volume a practical matter [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d26503369e392" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR6" id="ref-link-section-d102388828e392" title="Krismer, F., Kolar, J.W.: Efficiency-optimized high-current dual active bridge converter for automotive applications. IEEE Trans. Industr. Electron. 59(7), 2745–2760 (2012)">
             6
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d26503369e392_1" title="Choi, H.-J., Jung, J.-H.: Practical design of dual active bridge converter as isolated bi-directional power interface for solid state transformer applications. J. Electr. Eng. Tech. 11(5), 1266–1273 (2016)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d102388828e392_1" title="Choi, H.-J., Jung, J.-H.: Practical design of dual active bridge converter as isolated bi-directional power interface for solid state transformer applications. J. Electr. Eng. Tech. 11(5), 1266–1273 (2016)">
             7
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d26503369e392_2" title="Jeong, D., Ryu, M., Kim, H., Kim, H.: Optimized design of bi-directional dual active bridge converter for low-voltage battery charger. J. Power Electron. 14(3), 468–477 (2014). 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d102388828e392_2" title="Jeong, D., Ryu, M., Kim, H., Kim, H.: Optimized design of bi-directional dual active bridge converter for low-voltage battery charger. J. Power Electron. 14(3), 468–477 (2014). 
 https://doi.org/10.6113/JPE.2014.14.3.468
 
 
@@ -651,15 +651,15 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             8
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d26503369e392_3" title="Yao, Y., Xu, S., Sun, W., Lu, S.: A novel compensator for eliminating DC magnetizing current bias in hybrid modulated dual active bridge converters. J. Power Electron. 16(5), 1650–1660 (2016)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR9" id="ref-link-section-d102388828e392_3" title="Yao, Y., Xu, S., Sun, W., Lu, S.: A novel compensator for eliminating DC magnetizing current bias in hybrid modulated dual active bridge converters. J. Power Electron. 16(5), 1650–1660 (2016)">
             9
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d26503369e392_4" title="Naayagi, R.T., Forsyth, A.J., Shuttleworth, R.: High-power bidirectional dc-dc converter for aerospace applications. IEEE Trans. Power Electron. 27(11), 4366–4379 (2012)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR10" id="ref-link-section-d102388828e392_4" title="Naayagi, R.T., Forsyth, A.J., Shuttleworth, R.: High-power bidirectional dc-dc converter for aerospace applications. IEEE Trans. Power Electron. 27(11), 4366–4379 (2012)">
             10
            </a>
            ,
-           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR11" id="ref-link-section-d26503369e396" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
+           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR11" id="ref-link-section-d102388828e396" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
             11
            </a>
            ].
@@ -670,55 +670,55 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             2
            </a>
            has the same advantages as the SP-DAB converter. In addition, the 3P-DAB converter has additional advantages when compared to the SP-DAB converter. Due to its interleaved structure, the 3P-DAB converter can reduce the conduction losses of high-power/high-current applications. In addition, the 3P-DAB converter can obtain a higher effective operating frequency than the SP-DAB converter, which can improve power density. Typically, the effective operating frequency of the 3P-DAB converter is three times higher than the switching frequency [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d26503369e405" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d102388828e405" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
             11
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d26503369e405_1" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d102388828e405_1" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
             12
            </a>
            ,
-           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR13" id="ref-link-section-d26503369e408" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
+           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR13" id="ref-link-section-d102388828e408" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
             13
            </a>
            ]. However, like the SP-DAB converter, this topology has the disadvantages of practical limitations such as ZVS failure under the light load conditions [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d26503369e411" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d102388828e411" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
             12
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d26503369e411_1" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d102388828e411_1" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
             13
            </a>
            ,
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d26503369e414" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d102388828e414" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
             14
            </a>
            ]. For the ZVS condition, the minimum negative current is necessary. However, the current under light load conditions is not sufficient to obtain ZVS, which results in hard commutations of the power switches. This is due to the fact that the parasitic output capacitors of power switches exist in practice. Several modulation strategies have been studied to overcome the disadvantages of the 3P-DAB converter. Triangle modulation and trapezoidal modulation are introduced for 3P-DAB converters by connecting two of the three bridges in parallel [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d26503369e418" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d102388828e418" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
             12
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d26503369e418_1" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d102388828e418_1" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
             13
            </a>
            ,
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d26503369e421" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d102388828e421" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
             14
            </a>
            ]. Although these methods can improve power conversion efficiency under several load conditions, the 3P-DAB converter only operates as an SP-DAB converter with an interleaved structure, which has limitations in terms of performance and size [
-           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR15" id="ref-link-section-d26503369e424" title="J. Huang, Y. Wang, Z. Li, Y. Jiang (2015) Simultaneous pwm control to operate the three-phase dual active bridge converter under soft switching in the whole load range. In Applied Power Electronics Conference and Exposition (APEC), IEEE, pp. 2885–2891.">
+           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR15" id="ref-link-section-d102388828e424" title="J. Huang, Y. Wang, Z. Li, Y. Jiang (2015) Simultaneous pwm control to operate the three-phase dual active bridge converter under soft switching in the whole load range. In Applied Power Electronics Conference and Exposition (APEC), IEEE, pp. 2885–2891.">
             15
            </a>
            ]. In [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR16" id="ref-link-section-d26503369e427" title="J. Hu, N. Soltau, R. W. De Doncker (2016) Asymmetrical duty-cycle control of three-phase dual-active bridge converter for soft-switching range extension. IEEE Energy Conversion Congress and Exposition (ECCE), pp. 1–8">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR16" id="ref-link-section-d102388828e427" title="J. Hu, N. Soltau, R. W. De Doncker (2016) Asymmetrical duty-cycle control of three-phase dual-active bridge converter for soft-switching range extension. IEEE Energy Conversion Congress and Exposition (ECCE), pp. 1–8">
             16
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR17" id="ref-link-section-d26503369e427_1" title="H.-J. Choi, S-h Jung, J-H Jung () A Novel Switching Algorithm to improve Efficiency at light load conditions for Three-Phase DAB Converter in LVDC Application. pp. 383–387. 10.23919/IPEC.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR17" id="ref-link-section-d102388828e427_1" title="H.-J. Choi, S-h Jung, J-H Jung () A Novel Switching Algorithm to improve Efficiency at light load conditions for Three-Phase DAB Converter in LVDC Application. pp. 383–387. 10.23919/IPEC.">
             17
            </a>
            ,
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR18" id="ref-link-section-d26503369e430" title="Noah, M., et al.: Magnetic design and experimental evaluation of a commercially available single integrated transformer in three-phase LLC resonant converter. IEEE Trans. Ind. Appl. 54(6), 6190–6204 (2018)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR18" id="ref-link-section-d102388828e430" title="Noah, M., et al.: Magnetic design and experimental evaluation of a commercially available single integrated transformer in three-phase LLC resonant converter. IEEE Trans. Ind. Appl. 54(6), 6190–6204 (2018)">
             18
            </a>
            ], a simultaneous duty-cycle control with the phase-shift modulation (PSM) and asymmetrical duty-cycle control have been proposed. Even if overall efficiency can be improved, these control algorithms are too complex to implement in a practical manner, since the degree of freedoms (DoFs) are simultaneously controlled to regulate the output voltage and to deliver the power.
@@ -822,19 +822,19 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             </i>
            </sub>
            . Each leg of the active bridge has a 120° phase shift on both sides. The bridge leg produces a six-step square quasi-AC waveform that can reduce the size of the passive components [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d26503369e489" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR11" id="ref-link-section-d102388828e489" title="De Doncker, R.W.A.A., Divan, D.M., Kheraluwala, M.H.: “A three-phase soft-switched high-power density DC/DC converter for high-power applications”. IEEE Trans Ind. Appl. 27(1), 63–73 (1991)">
             11
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d26503369e489_1" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR12" id="ref-link-section-d102388828e489_1" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
             12
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d26503369e489_2" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR13" id="ref-link-section-d102388828e489_2" title="van Hoek, H., Neubert, M., De Doncker, R.: Enhanced modulation strategy for a three-phase dual active bridge-boosting efficiency of an electric vehicle converter. Power Electronics, IEEE Transactions on 28(12), 5499–5507 (2013)">
             13
            </a>
            ,
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d26503369e493" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR14" id="ref-link-section-d102388828e493" title="Kheraluwala, M.N., Gascoigne, R.W., Divan, D.M., Baumann, E.D.: Performance characterization of a high-power dual active bridge DC-to-DC converter. IEEE Trans. Ind. Appl. 28(6), 1294–1301 (1992)">
             14
            </a>
            ]. A waveform of the phase current is determined by the difference in the phase voltage between the HVS and the LVS, as shown in Fig.
@@ -880,11 +880,11 @@ https://doi.org/10.6113/JPE.2014.14.3.468
           </div>
           <p>
            In this paper, discrete transformers are adopted to verify the feasibility of the proposed structure. Although the integrated transformer can improve efficiency and power density, it is very difficult to design the integrated magnetics using single EE or EIR cores [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR18" id="ref-link-section-d26503369e509" title="Noah, M., et al.: Magnetic design and experimental evaluation of a commercially available single integrated transformer in three-phase LLC resonant converter. IEEE Trans. Ind. Appl. 54(6), 6190–6204 (2018)">
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR18" id="ref-link-section-d102388828e509" title="Noah, M., et al.: Magnetic design and experimental evaluation of a commercially available single integrated transformer in three-phase LLC resonant converter. IEEE Trans. Ind. Appl. 54(6), 6190–6204 (2018)">
             18
            </a>
            ]. In particular, the integrated core of the high-frequency three-phase for high-power applications is expensive. The performance and functionality of the discrete transformer are not different from the integrated one in terms of the proposed hybrid modulation algorithm. In the case of the transformer connection of the 3P-DAB converter, the Y–Y structure is used to reduce the imbalance of the phase current when compared with Y–Δ/Δ–Y connections [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR19" id="ref-link-section-d26503369e512" title="Baars, N.H., Everts, J., Wijnands, C.G.E., Lomonova, E.A.: Performance evaluation of a three-phase dual active bridge DC–DC converter with different transformer winding configurations. IEEE Trans. Power Electron. 31(10), 6814–6823 (2016)">
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR19" id="ref-link-section-d102388828e512" title="Baars, N.H., Everts, J., Wijnands, C.G.E., Lomonova, E.A.: Performance evaluation of a three-phase dual active bridge DC–DC converter with different transformer winding configurations. IEEE Trans. Power Electron. 31(10), 6814–6823 (2016)">
             19
            </a>
            ].
@@ -1056,7 +1056,7 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             </i>
            </sub>
            based on the PSM can be expressed using the phase voltage and current [
-           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR12" id="ref-link-section-d26503369e761" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
+           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR12" id="ref-link-section-d102388828e761" title="H. Choi, B. Seo, M. Ryu, Y. Cho, J. Jung, “Effective magnetic component design of three phase dual active bridge converter for LVDC distribution system,” in IEEE Transactions on Industrial Electronics.">
             12
            </a>
            ]:
@@ -1141,7 +1141,7 @@ https://doi.org/10.6113/JPE.2014.14.3.468
             3
            </a>
            . Since the current is commutated by the anti-parallel diode before the switches turn-on, the inequality to achieve the ZVS can be derived as (4) [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR20" id="ref-link-section-d26503369e989" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR20" id="ref-link-section-d102388828e989" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
 https://doi.org/10.6113/JPE.2018.18.1.45
 
 
@@ -1162,7 +1162,7 @@ https://doi.org/10.6113/JPE.2018.18.1.45
           </div>
           <p>
            In [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR20" id="ref-link-section-d26503369e1083" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR20" id="ref-link-section-d102388828e1083" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
 https://doi.org/10.6113/JPE.2018.18.1.45
 
 
@@ -1956,7 +1956,7 @@ https://doi.org/10.6113/JPE.2018.18.1.45
           </h3>
           <p>
            In terms of the SP-DAB converter, several modulation strategies are presented, such as a PWM plus phase-shift (PPS), a dual phase-shift (DPS) and a triple phase-shift (TPS) to improve the power conversion efficiency under light load conditions [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR20" id="ref-link-section-d26503369e2030" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR20" id="ref-link-section-d102388828e2030" title="Jiang, L., Sun, Y., Su, M., Wang, H., Dan, H.: Optimized operation of dual-active-bridge DC–DC converters in the soft-switching area with triple-phase-shift control at light loads. J. Power Electron. 18(1), 45–55 (2018). 
 https://doi.org/10.6113/JPE.2018.18.1.45
 
 
@@ -1964,11 +1964,11 @@ https://doi.org/10.6113/JPE.2018.18.1.45
             20
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR21" id="ref-link-section-d26503369e2030_1" title="Byen, B., Jeong, B., Choe, G.: Single pulse-width-modulation strategy for dual-active bridge converters. J. Power Electron. 18(1), 137–146 (2018)">
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR21" id="ref-link-section-d102388828e2030_1" title="Byen, B., Jeong, B., Choe, G.: Single pulse-width-modulation strategy for dual-active bridge converters. J. Power Electron. 18(1), 137–146 (2018)">
             21
            </a>
            ,
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR22" id="ref-link-section-d26503369e2033" title="Wen, H., Su, B.: Reactive power and soft-switching capability analysis of dual-active-bridge DC–DC converters with dual-phase-shift control. J. Power Electron. 15(1), 18–30 (2015)">
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s43236-020-00079-7#ref-CR22" id="ref-link-section-d102388828e2033" title="Wen, H., Su, B.: Reactive power and soft-switching capability analysis of dual-active-bridge DC–DC converters with dual-phase-shift control. J. Power Electron. 15(1), 18–30 (2015)">
             22
            </a>
            ]. However, in the case of the 3P-DAB converter, since this topology already has a 120° phase-shift angle between the three-phase bridges, it is relatively difficult to modify switching algorithms such as the DPS and TPS in the steady-state operation.

@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="2138a7b1-176a-42db-b33e-238b095b4aa6" lang="en">
+<html class="pb-page" data-request-id="c1f4f410-d90e-44fe-af77-34915d92c7a5" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";requestedJournal:journal:amlcef;page:string:Article/Chapter View;ctype:string:Journal Content;subPage:string:Abstract;journal:journal:amlcef;article:article:10.1021/acsmaterialslett.9b00512;wgroup:string:ACHS website Group;issue:issue:10.1021/amlcef.2020.2.issue-4;website:website:acspubs;pageGroup:string:Publication Pages" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -202,7 +202,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'ebee2744-3de6-47c1-8247-751ce864d681'
+                            eventGroupKey: 'e91ebe73-ea0f-4785-b42d-fee6e0d6ca2b'
                         }
 
                     }).done(function (status) {
@@ -1651,8 +1651,8 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#f79c80949f98b78798848392949fd99694d99c85">
-                  <span class="__cf_email__" data-cfemail="5e35293d36311e2e312d2a3b3d36703f3d70352c">
+                 <a href="/cdn-cgi/l/email-protection#b5dec2d6dddaf5c5dac6c1d0d6dd9bd4d69bdec7">
+                  <span class="__cf_email__" data-cfemail="fa918d999295ba8a95898e9f9992d49b99d49188">
                    [email protected]
                   </span>
                  </a>
@@ -1705,7 +1705,7 @@
                   *
                  </strong>
                  E-mail:
-                 <a href="/cdn-cgi/l/email-protection#7f1d1e051e113f1c171a12510a1c0c1d511a1b0a">
+                 <a href="/cdn-cgi/l/email-protection#6705061d060927040f020a491204140549020312">
                   <span class="__cf_email__" data-cfemail="6d0f0c170c032d0e05080043180e1e0f43080918">
                    [email protected]
                   </span>
@@ -4401,7 +4401,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad7f4cef5f12d6","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb199329862e9f4","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

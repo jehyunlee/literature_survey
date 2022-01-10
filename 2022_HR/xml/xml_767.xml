@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html class="pb-page" data-request-id="b3c777f1-4abe-487d-ab4a-cc4a6b089b3d" lang="en">
+<html class="pb-page" data-request-id="d58d366c-9c2a-441d-bf1f-73b534c53a36" lang="en">
  <head data-pb-dropzone="head">
   <meta content=";issue:issue:10.1021/aamick.2020.12.issue-24;article:article:10.1021/acsami.0c06009;page:string:Article/Chapter View;ctype:string:Journal Content;requestedJournal:journal:aamick;wgroup:string:ACHS website Group;website:website:acspubs;journal:journal:aamick;pageGroup:string:Publication Pages;subPage:string:Full Text" name="pbContext"/>
   <link href="http://purl.org/DC/elements/1.0/" rel="schema.DC"/>
@@ -199,7 +199,7 @@
                             doi: doi,
                             entityid: entityId,
                             entityTitle: entityTitle,
-                            eventGroupKey: 'acc4da0a-93be-4507-bdb9-b15e189707e7'
+                            eventGroupKey: '42390742-51eb-43b5-a19d-4472dba3ff3c'
                         }
 
                     }).done(function (status) {
@@ -1557,8 +1557,8 @@
                   *
                  </strong>
                  Email:
-                 <a href="/cdn-cgi/l/email-protection#762119181419181158151e191f3603180258131203">
-                  <span class="__cf_email__" data-cfemail="693e06070b06070e470a010600291c071d470c0d1c">
+                 <a href="/cdn-cgi/l/email-protection#45122a2b272a2b226b262d2a2c05302b316b202130">
+                  <span class="__cf_email__" data-cfemail="4d1a22232f22232a632e2522240d38233963282938">
                    [email protected]
                   </span>
                  </a>
@@ -2257,14 +2257,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_67451" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_21314" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_67451">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_21314">
                   </div>
                  </div>
                 </div>
@@ -2480,14 +2480,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_76787" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_55611" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_76787">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_55611">
                   </div>
                  </div>
                 </div>
@@ -2688,14 +2688,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_28647" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_30685" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_28647">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_30685">
                   </div>
                  </div>
                 </div>
@@ -3924,14 +3924,14 @@
                   ARTICLE SECTIONS
                  </span>
                  <div class="article_sections-dropBlock">
-                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_33833" href="#">
+                  <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_38664" href="#">
                    <span>
                     Jump To
                    </span>
                    <i class="icon-angle-down">
                    </i>
                   </a>
-                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_33833">
+                  <div class="dropBlock__holder" data-db-target-of="sectionsDB_38664">
                   </div>
                  </div>
                 </div>
@@ -3992,14 +3992,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_33748" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_74418" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_33748">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_74418">
                    </div>
                   </div>
                  </div>
@@ -4067,14 +4067,14 @@
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_74753" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_42450" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_74753">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_42450">
                    </div>
                   </div>
                  </div>
@@ -4114,8 +4114,8 @@ of North Texas, Denton, Texas 76203, United States
                     </span>
                     <span class="author-email">
                      Email:
-                     <a href="/cdn-cgi/l/email-protection#03546c6d616c6d642d606b6c6a43766d772d666776">
-                      <span class="__cf_email__" data-cfemail="d087bfbeb2bfbeb7feb3b8bfb990a5bea4feb5b4a5">
+                     <a href="/cdn-cgi/l/email-protection#f2a59d9c909d9c95dc919a9d9bb2879c86dc979687">
+                      <span class="__cf_email__" data-cfemail="f3a49c9d919c9d94dd909b9c9ab3869d87dd969786">
                        [email protected]
                       </span>
                      </a>
@@ -4244,14 +4244,14 @@ of North Texas, Denton, Texas 76203, United States
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_30555" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_21270" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_30555">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_21270">
                    </div>
                   </div>
                  </div>
@@ -4275,14 +4275,14 @@ of North Texas, Denton, Texas 76203, United States
                    ARTICLE SECTIONS
                   </span>
                   <div class="article_sections-dropBlock">
-                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_25027" href="#">
+                   <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_87841" href="#">
                     <span>
                      Jump To
                     </span>
                     <i class="icon-angle-down">
                     </i>
                    </a>
-                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_25027">
+                   <div class="dropBlock__holder" data-db-target-of="sectionsDB_87841">
                    </div>
                   </div>
                  </div>
@@ -4424,7 +4424,7 @@ of North Texas, Denton, Texas 76203, United States
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZwDymuubZm7Vg90H21EOLACvtfcHk0ljCEBVwRkIyIA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZwDymuubZm7Vg90H21EOLACvtfcHk0lgjaVh3AgGUMw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -4826,7 +4826,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMjQ_73chDcbVg90H21EOLACvtfcHk0ljmI1k6FuSdww" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMjQ_73chDcbVg90H21EOLACvtfcHk0liXgN4cj2CNuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5001,7 +5001,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfMByR4fxxybVg90H21EOLACvtfcHk0ljmI1k6FuSdww" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfMByR4fxxybVg90H21EOLACvtfcHk0liXgN4cj2CNuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5151,7 +5151,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp-bAnpiwJnELVg90H21EOLACvtfcHk0ljmI1k6FuSdww" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp-bAnpiwJnELVg90H21EOLACvtfcHk0liXgN4cj2CNuQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5303,7 +5303,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp4g5mmj7nzLVg90H21EOLACvtfcHk0lgtSVHBESJxPA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp4g5mmj7nzLVg90H21EOLACvtfcHk0lj68qXpir_UJQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5658,7 +5658,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrdhAYyb2kVabVg90H21EOLACvtfcHk0lgtSVHBESJxPA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrdhAYyb2kVabVg90H21EOLACvtfcHk0lgq9Xyf_ZEX6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -5838,7 +5838,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpw5gNTWAIAQLVg90H21EOLACvtfcHk0lgtSVHBESJxPA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpw5gNTWAIAQLVg90H21EOLACvtfcHk0lgq9Xyf_ZEX6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6032,7 +6032,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoADvxGJOm_vLVg90H21EOLACvtfcHk0lgfTLeR32wz-w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoADvxGJOm_vLVg90H21EOLACvtfcHk0lgq9Xyf_ZEX6w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6271,7 +6271,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrWQ0k6ST51BrVg90H21EOLACvtfcHk0lgfTLeR32wz-w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrWQ0k6ST51BrVg90H21EOLACvtfcHk0ljSZZoLI6NOGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6405,7 +6405,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyZli9uAbECbVg90H21EOLACvtfcHk0ljgHeSqRJwCDg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyZli9uAbECbVg90H21EOLACvtfcHk0ljSZZoLI6NOGw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6671,7 +6671,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTU7JfoXcmWiMuCWE5mhx1RfW6udTcc2eZHQmgYEGeZsLntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTU7JfoXcmWiMuCWE5mhx1RfW6udTcc2eaDdTCv1nDG2bntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6803,7 +6803,7 @@ Commodity Summaries
                      </span>
                      <div class="casTitle">
                       <span class="NLM_cas:atitle">
-                       <a class="__cf_email__" data-cfemail="4c01227f03780c020f" href="/cdn-cgi/l/email-protection">
+                       <a class="__cf_email__" data-cfemail="8bc6e5b8c4bfcbc5c8" href="/cdn-cgi/l/email-protection">
                         [email protected]
                        </a>
                        Composite Nanorods as a Cathode for Rechargeable Aqueous Zn-Ion Batteries
@@ -6851,22 +6851,22 @@ Commodity Summaries
                      </div>
                      <div class="casAbstract">
                       Rechargeable aq. zinc-ion batteries (ZIBs) have attracted escalating attention recently, owing to their energy d., decreasing cost, advanced safety, and environmental benignity.  Nevertheless, ZIBs still lack suitable cathode materials with stable cycling performance, owing to the high polarization of zinc ion.  Therefore, developing candidate materials with excellent properties remains a great challenge.  Herein, we successfully synthesize a novel
-                      <a class="__cf_email__" data-cfemail="e2af8cd1add6a2accf868d928786" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="98d5f6abd7acd8d6b5fcf7e8fdfc" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       carbon matrix composite nanorods (
-                      <a class="__cf_email__" data-cfemail="c28facf18df6828c81" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="8fc2e1bcc0bbcfc1cc" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       Nrs) by using MnOOH nanorods (the self-sacrifice templates) and polypyrrole (carbon and nitrogen source).  Benefiting from the N-doped carbon shell and the synergetic effect of Zn2+ and Mn2+ in the electrolyte, the
-                      <a class="__cf_email__" data-cfemail="236e4d106c17636d60" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="3c71520f73087c727f" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       Nrs show superior cycling stability and long cycling features for ZIBs.  Specifically, the zinc cell conducts a high reversible capacity of 280 mAh g-1 at 100 mA g-1 and retains a high reversible capacity of 97 mAh g-1 at 1000 mA g-1 after 700 cycles.  In addn., the work provides a new approach to fabricate long-term and high-rate capability cathodes for ZIBs.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqF7GE4OlvePLVg90H21EOLACvtfcHk0ljgHeSqRJwCDg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqF7GE4OlvePLVg90H21EOLACvtfcHk0lgCHRHxlnT7pg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -6994,7 +6994,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGplR4ufDvi-sLVg90H21EOLACvtfcHk0liwr9WHrQSR9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGplR4ufDvi-sLVg90H21EOLACvtfcHk0lgCHRHxlnT7pg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7151,7 +7151,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGEw_xTr4_PbVg90H21EOLACvtfcHk0liwr9WHrQSR9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGEw_xTr4_PbVg90H21EOLACvtfcHk0lgCHRHxlnT7pg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7325,7 +7325,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoq6lsXQuXDE7Vg90H21EOLACvtfcHk0liwr9WHrQSR9g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoq6lsXQuXDE7Vg90H21EOLACvtfcHk0liGcywuwGf-2Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7721,7 +7721,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrO7wxfKn3CwLVg90H21EOLACvtfcHk0lgcqvKqx4zjEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrO7wxfKn3CwLVg90H21EOLACvtfcHk0liGcywuwGf-2Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -7883,7 +7883,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMeI99S8gbuLVg90H21EOLACvtfcHk0lgcqvKqx4zjEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMeI99S8gbuLVg90H21EOLACvtfcHk0ljXZpc2e1-M4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8043,7 +8043,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEBL_T22NHp7Vg90H21EOLACvtfcHk0lgcqvKqx4zjEw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEBL_T22NHp7Vg90H21EOLACvtfcHk0ljXZpc2e1-M4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8189,7 +8189,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoSJC7HctslwrVg90H21EOLACvtfcHk0lgH_93FKd1Ong" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoSJC7HctslwrVg90H21EOLACvtfcHk0ljXZpc2e1-M4A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8352,7 +8352,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotKcxohqMPILVg90H21EOLACvtfcHk0lgH_93FKd1Ong" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotKcxohqMPILVg90H21EOLACvtfcHk0lgyvHlDlWvF_A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8496,7 +8496,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGozX5uH_0WiULVg90H21EOLACvtfcHk0lgH_93FKd1Ong" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGozX5uH_0WiULVg90H21EOLACvtfcHk0lgyvHlDlWvF_A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8746,7 +8746,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDHlSzjEs2u7Vg90H21EOLACvtfcHk0lgH_93FKd1Ong" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDHlSzjEs2u7Vg90H21EOLACvtfcHk0lgyvHlDlWvF_A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -8897,7 +8897,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpm6m9CxaeavLVg90H21EOLACvtfcHk0lhKx6equmx6jQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpm6m9CxaeavLVg90H21EOLACvtfcHk0lgyvHlDlWvF_A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9052,7 +9052,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGonMQgTZSQb47Vg90H21EOLACvtfcHk0lhKx6equmx6jQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGonMQgTZSQb47Vg90H21EOLACvtfcHk0lgg9idrVGcv7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9191,7 +9191,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp6kyQ6MfJxLVg90H21EOLACvtfcHk0lhKx6equmx6jQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp6kyQ6MfJxLVg90H21EOLACvtfcHk0lgg9idrVGcv7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9329,7 +9329,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLkPAq0qFsPrVg90H21EOLACvtfcHk0lhG7fHHU9nTlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLkPAq0qFsPrVg90H21EOLACvtfcHk0lgg9idrVGcv7Q" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9490,7 +9490,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGres8IiDyYDKrVg90H21EOLACvtfcHk0lhG7fHHU9nTlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGres8IiDyYDKrVg90H21EOLACvtfcHk0lh8wS9owhZchg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9653,7 +9653,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVPJpIcbtgaLVg90H21EOLACvtfcHk0lhG7fHHU9nTlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVPJpIcbtgaLVg90H21EOLACvtfcHk0lh8wS9owhZchg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -9840,7 +9840,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq2-thkdoGCQLVg90H21EOLACvtfcHk0lhG7fHHU9nTlw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq2-thkdoGCQLVg90H21EOLACvtfcHk0lh8wS9owhZchg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10066,7 +10066,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp735Aq1WcyArVg90H21EOLACvtfcHk0li_vyNq1y_rAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp735Aq1WcyArVg90H21EOLACvtfcHk0liSM6pD_16EoQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10235,7 +10235,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoOoV-RpGyx_bVg90H21EOLACvtfcHk0li_vyNq1y_rAA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoOoV-RpGyx_bVg90H21EOLACvtfcHk0liSM6pD_16EoQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10403,7 +10403,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq6rp62ZH6sebVg90H21EOLACvtfcHk0lilhWyswMLSGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq6rp62ZH6sebVg90H21EOLACvtfcHk0liSM6pD_16EoQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10580,14 +10580,14 @@ Commodity Summaries
                      </div>
                      <div class="casAbstract">
                       Newly-developed Li-S batteries (LSBs) probably are extremely promising devices as they deliver a high theor. energy of 2600 W h kg-1.  Using S as the cathode material is advantageous due to its low price, nontoxicity, and abundant resources.  The main bottleneck hindering the practical application of LSBs is their poor cycling performance due to the shuttling of sol. Li polysulfides (LiPSs), poor cond., and sluggish redox reaction.  Herein, the authors prepd. a new type of p-n heterostructure embedded into C hollow nanosheet arrays grown on C cloth by subsequent sulfidation and nitridation.  The hollow heterostructures can sufficiently restrict the dissoln. of LiPSs due to the polar chemisorption and phys. confinement, and facilitate polysulfide redox kinetics (Li2Sx → Li2S, 2 ≤ x ≤ 8).  The abundant active sites and boundary defects constructed by the Co9S8-Co4N heterostructures improve the nucleation/conversion redox kinetics of Li2S.  Also, the hollow structure can increase the S loading and supply enough space for relieving the vol. expansion during the whole cycling process.  After melting the diffused S of the nanocomposites, the resulting free-standing S/
-                      <a class="__cf_email__" data-cfemail="61222221220e5832594c220e552f" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="2f6c6c6f6c40167c17026c401b61" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       electrode exhibits a highly stable cycling rate with an ultralow capacity fading rate of 0.027% per cycle at 5.0 C over 1000 cycles.  The authors' work provides a potential avenue for constructing heterostructured materials for LSBs with high performance.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv5Q_4vlBRR7Vg90H21EOLACvtfcHk0lilhWyswMLSGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv5Q_4vlBRR7Vg90H21EOLACvtfcHk0ljxnjtnzeEmKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10790,18 +10790,18 @@ Commodity Summaries
                      </div>
                      <div class="casAbstract">
                       Due to unprecedented features including high-energy d., low cost, and light wt., lithium-sulfur batteries have been proposed as a promising successor of lithium-ion batteries.  However, unresolved detrimental low Li-ion transport rates in traditional carbon materials lead to large energy barrier in high sulfur loading batteries, which prevents the lithium-sulfur batteries from commercialization.  In this report, to overcome the challenge of increasing both the cycling stability and areal capacity, a metallic oxide composite (
-                      <a class="__cf_email__" data-cfemail="baf4d3f9d588f58efac8fdf5" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="236d4a604c116c176351646c" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       ) is designed to enable a robust separator with low energy barrier for Li-ion diffusion and simultaneously provide abundant active sites for the catalytic conversion of the polar polysulfides.  With a high sulfur-loading of 6 mg cm-2 and low sulfur/electrolyte ratio of 10, the assembled batteries deliver an initial capacity of 5.04 mAh cm-2 as well as capacity retention of 92% after 400 cycles.  The metallic oxide composite
-                      <a class="__cf_email__" data-cfemail="024c6b416d304d364270454d" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="743a1d371b463b403406333b" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       /PP separator with low Li-ion diffusion energy barrier opens up the opportunity for lithium-sulfur batteries to achieve long-cycle, cost-effective operation toward wide applications in elec. vehicles and electronic devices.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrbfjLVfWiLvbVg90H21EOLACvtfcHk0lilhWyswMLSGg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrbfjLVfWiLvbVg90H21EOLACvtfcHk0ljxnjtnzeEmKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -10945,7 +10945,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYvpbf9BgeiLVg90H21EOLACvtfcHk0lijaZTXGpOX3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYvpbf9BgeiLVg90H21EOLACvtfcHk0ljxnjtnzeEmKQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11085,7 +11085,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmwVLiznWn0bVg90H21EOLACvtfcHk0lijaZTXGpOX3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmwVLiznWn0bVg90H21EOLACvtfcHk0ljzJsZqm5Gwiw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11236,7 +11236,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZjnAtLG55vLVg90H21EOLACvtfcHk0lijaZTXGpOX3A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZjnAtLG55vLVg90H21EOLACvtfcHk0ljzJsZqm5Gwiw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11495,7 +11495,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrx3dpX_T7rAbVg90H21EOLACvtfcHk0lhlC2qZu2vTnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrx3dpX_T7rAbVg90H21EOLACvtfcHk0ljzJsZqm5Gwiw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11676,18 +11676,18 @@ Commodity Summaries
                      </div>
                      <div class="casAbstract">
                       Binary transition metal oxides (BTMOs) have been regarded as one of the most hopeful anode materials for lithium-ion batteries (LIBs) owing to their high theor. capacity, excellent electrochem. activity and abundant electrochem. reactions.  However, BTMOs still suffer from two main problems, which are poor cond. and large vol. expansion during the charge/discharge processes.  In order to address the above-mentioned problems, mesoporous
-                      <a class="__cf_email__" data-cfemail="d895b69ebdea97ec989b" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="b6fbd8f0d384f982f6f5" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       nanorods have been successfully synthesized in this work.  The synergistic effect of the cross-linked carbon framework and mesoporous structure greatly improves the electrochem. performances.  As expected, the mesoporous
-                      <a class="__cf_email__" data-cfemail="6f2201290a5d205b2f2c" href="/cdn-cgi/l/email-protection">
+                      <a class="__cf_email__" data-cfemail="c18caf87a4f38ef58182" href="/cdn-cgi/l/email-protection">
                        [email protected]
                       </a>
                       electrode manifests discharge capacities of 987.5 and 816.6 mA h g-1 at the current densities of 100 and 2000 mA g-1, resp., with the capacity retention ratio of 82.7%, exerting distinguished rate capabilities for LIBs.
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqYc61qVelCdrVg90H21EOLACvtfcHk0lhlC2qZu2vTnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqYc61qVelCdrVg90H21EOLACvtfcHk0lgXiKEDdTwEUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -11880,7 +11880,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBBjoLAVEn0rVg90H21EOLACvtfcHk0lhlC2qZu2vTnQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBBjoLAVEn0rVg90H21EOLACvtfcHk0lgXiKEDdTwEUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -12055,7 +12055,7 @@ Commodity Summaries
                      </div>
                     </div>
                     <div class="moreSciFi">
-                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7CIhYyAu1rbVg90H21EOLACvtfcHk0lhDpmRsXfb1mA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                     <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7CIhYyAu1rbVg90H21EOLACvtfcHk0lgXiKEDdTwEUg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                       &gt;&gt; More from SciFinder
                       <sup>
                        ®
@@ -13046,7 +13046,7 @@ Commodity Summaries
                    </span>
                    <span class="cited-content_cbyCitation_article-title">
                     Ultra-pressure-resistant
-                    <a class="__cf_email__" data-cfemail="24774d6b67646751167741" href="/cdn-cgi/l/email-protection">
+                    <a class="__cf_email__" data-cfemail="fcaf95b3bfbcbf89ceaf99" href="/cdn-cgi/l/email-protection">
                      [email protected]
                     </a>
                     3D printed cathode for aqueous zinc-ion batteries.
@@ -14454,14 +14454,14 @@ Commodity Summaries
                       ARTICLE SECTIONS
                      </span>
                      <div class="article_sections-dropBlock">
-                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_37476" href="#">
+                      <a class="" data-db-switch="icon-angle-up" data-db-target-for="sectionsDB_13830" href="#">
                        <span>
                         Jump To
                        </span>
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_37476">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_13830">
                       </div>
                      </div>
                     </div>
@@ -14603,7 +14603,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZwDymuubZm7Vg90H21EOLACvtfcHk0lh3jGg5ipXcyw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZwDymuubZm7Vg90H21EOLACvtfcHk0lhUjtg16dF0Bw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15005,7 +15005,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMjQ_73chDcbVg90H21EOLACvtfcHk0lgBSBb_zA_Edg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMjQ_73chDcbVg90H21EOLACvtfcHk0lhUjtg16dF0Bw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15180,7 +15180,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfMByR4fxxybVg90H21EOLACvtfcHk0lgBSBb_zA_Edg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpfMByR4fxxybVg90H21EOLACvtfcHk0lgxKMkV8PPOhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15330,7 +15330,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp-bAnpiwJnELVg90H21EOLACvtfcHk0liG9FQLPKY48w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp-bAnpiwJnELVg90H21EOLACvtfcHk0lgxKMkV8PPOhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15482,7 +15482,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp4g5mmj7nzLVg90H21EOLACvtfcHk0liG9FQLPKY48w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp4g5mmj7nzLVg90H21EOLACvtfcHk0lgxKMkV8PPOhQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -15837,7 +15837,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrdhAYyb2kVabVg90H21EOLACvtfcHk0lj6AAzqTHW--w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrdhAYyb2kVabVg90H21EOLACvtfcHk0ljkl7HV-ZDMLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16017,7 +16017,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpw5gNTWAIAQLVg90H21EOLACvtfcHk0lj6AAzqTHW--w" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpw5gNTWAIAQLVg90H21EOLACvtfcHk0ljkl7HV-ZDMLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16211,7 +16211,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoADvxGJOm_vLVg90H21EOLACvtfcHk0ljwtDfGmjGX7A" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoADvxGJOm_vLVg90H21EOLACvtfcHk0ljkl7HV-ZDMLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16450,7 +16450,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrWQ0k6ST51BrVg90H21EOLACvtfcHk0lgF_qkuJM4iLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrWQ0k6ST51BrVg90H21EOLACvtfcHk0lgW-RegQLHGjw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16584,7 +16584,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyZli9uAbECbVg90H21EOLACvtfcHk0lgF_qkuJM4iLw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpyZli9uAbECbVg90H21EOLACvtfcHk0lgW-RegQLHGjw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16850,7 +16850,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTU7JfoXcmWiMuCWE5mhx1RfW6udTcc2eZMECLDwf20Vbntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=LOZGTtr2ZcTU7JfoXcmWiMuCWE5mhx1RfW6udTcc2eY8E2aFTFYeC7ntkvexoksv" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -16982,7 +16982,7 @@ Commodity Summaries
                         </span>
                         <div class="casTitle">
                          <span class="NLM_cas:atitle">
-                          <a class="__cf_email__" data-cfemail="8ec3e0bdc1bacec0cd" href="/cdn-cgi/l/email-protection">
+                          <a class="__cf_email__" data-cfemail="2b664518641f6b6568" href="/cdn-cgi/l/email-protection">
                            [email protected]
                           </a>
                           Composite Nanorods as a Cathode for Rechargeable Aqueous Zn-Ion Batteries
@@ -17030,22 +17030,22 @@ Commodity Summaries
                         </div>
                         <div class="casAbstract">
                          Rechargeable aq. zinc-ion batteries (ZIBs) have attracted escalating attention recently, owing to their energy d., decreasing cost, advanced safety, and environmental benignity.  Nevertheless, ZIBs still lack suitable cathode materials with stable cycling performance, owing to the high polarization of zinc ion.  Therefore, developing candidate materials with excellent properties remains a great challenge.  Herein, we successfully synthesize a novel
-                         <a class="__cf_email__" data-cfemail="c588abf68af1858be8a1aab5a0a1" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="266b4815691266680b4249564342" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          carbon matrix composite nanorods (
-                         <a class="__cf_email__" data-cfemail="74391a473b40343a37" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="1c51722f53285c525f" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          Nrs) by using MnOOH nanorods (the self-sacrifice templates) and polypyrrole (carbon and nitrogen source).  Benefiting from the N-doped carbon shell and the synergetic effect of Zn2+ and Mn2+ in the electrolyte, the
-                         <a class="__cf_email__" data-cfemail="b6fbd885f982f6f8f5" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="4805267b077c08060b" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          Nrs show superior cycling stability and long cycling features for ZIBs.  Specifically, the zinc cell conducts a high reversible capacity of 280 mAh g-1 at 100 mA g-1 and retains a high reversible capacity of 97 mAh g-1 at 1000 mA g-1 after 700 cycles.  In addn., the work provides a new approach to fabricate long-term and high-rate capability cathodes for ZIBs.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqF7GE4OlvePLVg90H21EOLACvtfcHk0li-mnpZgcTwaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqF7GE4OlvePLVg90H21EOLACvtfcHk0lguvmshaHy7CA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17173,7 +17173,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGplR4ufDvi-sLVg90H21EOLACvtfcHk0li-mnpZgcTwaw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGplR4ufDvi-sLVg90H21EOLACvtfcHk0lguvmshaHy7CA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17330,7 +17330,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGEw_xTr4_PbVg90H21EOLACvtfcHk0ljpDkpTcXz-aw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqGEw_xTr4_PbVg90H21EOLACvtfcHk0lguvmshaHy7CA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17504,7 +17504,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoq6lsXQuXDE7Vg90H21EOLACvtfcHk0ljpDkpTcXz-aw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoq6lsXQuXDE7Vg90H21EOLACvtfcHk0lgxh6jALS2xtg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -17900,7 +17900,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrO7wxfKn3CwLVg90H21EOLACvtfcHk0ljHlg5MjXvLrw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrO7wxfKn3CwLVg90H21EOLACvtfcHk0lgxh6jALS2xtg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18062,7 +18062,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMeI99S8gbuLVg90H21EOLACvtfcHk0ljHlg5MjXvLrw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqMeI99S8gbuLVg90H21EOLACvtfcHk0lgxh6jALS2xtg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18222,7 +18222,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEBL_T22NHp7Vg90H21EOLACvtfcHk0ljHlg5MjXvLrw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoEBL_T22NHp7Vg90H21EOLACvtfcHk0lib9Ct5XigTqQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18368,7 +18368,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoSJC7HctslwrVg90H21EOLACvtfcHk0lg9exGX6paNsw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoSJC7HctslwrVg90H21EOLACvtfcHk0lib9Ct5XigTqQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18531,7 +18531,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotKcxohqMPILVg90H21EOLACvtfcHk0lg9exGX6paNsw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGotKcxohqMPILVg90H21EOLACvtfcHk0ljRZN7PKuItFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18675,7 +18675,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGozX5uH_0WiULVg90H21EOLACvtfcHk0lg9exGX6paNsw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGozX5uH_0WiULVg90H21EOLACvtfcHk0ljRZN7PKuItFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -18925,7 +18925,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDHlSzjEs2u7Vg90H21EOLACvtfcHk0lip8JqjGuaWzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpDHlSzjEs2u7Vg90H21EOLACvtfcHk0ljRZN7PKuItFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19076,7 +19076,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpm6m9CxaeavLVg90H21EOLACvtfcHk0lip8JqjGuaWzQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGpm6m9CxaeavLVg90H21EOLACvtfcHk0li4Sd8isoCXFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19231,7 +19231,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGonMQgTZSQb47Vg90H21EOLACvtfcHk0ljf47dkFLWKrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGonMQgTZSQb47Vg90H21EOLACvtfcHk0li4Sd8isoCXFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19370,7 +19370,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp6kyQ6MfJxLVg90H21EOLACvtfcHk0ljf47dkFLWKrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrp6kyQ6MfJxLVg90H21EOLACvtfcHk0li4Sd8isoCXFw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19508,7 +19508,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLkPAq0qFsPrVg90H21EOLACvtfcHk0ljf47dkFLWKrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoLkPAq0qFsPrVg90H21EOLACvtfcHk0liWll9HjQhxkw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19669,7 +19669,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGres8IiDyYDKrVg90H21EOLACvtfcHk0ljf47dkFLWKrg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGres8IiDyYDKrVg90H21EOLACvtfcHk0liWll9HjQhxkw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -19832,7 +19832,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVPJpIcbtgaLVg90H21EOLACvtfcHk0lgjbRlhMrSr1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrVPJpIcbtgaLVg90H21EOLACvtfcHk0liWll9HjQhxkw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20019,7 +20019,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq2-thkdoGCQLVg90H21EOLACvtfcHk0lgjbRlhMrSr1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq2-thkdoGCQLVg90H21EOLACvtfcHk0liiK-YTq1MjdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20245,7 +20245,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp735Aq1WcyArVg90H21EOLACvtfcHk0lgjbRlhMrSr1g" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGp735Aq1WcyArVg90H21EOLACvtfcHk0liiK-YTq1MjdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20414,7 +20414,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoOoV-RpGyx_bVg90H21EOLACvtfcHk0lizazuxTf-9sg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoOoV-RpGyx_bVg90H21EOLACvtfcHk0liiK-YTq1MjdA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20582,7 +20582,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq6rp62ZH6sebVg90H21EOLACvtfcHk0lizazuxTf-9sg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGq6rp62ZH6sebVg90H21EOLACvtfcHk0lj-MRBJrQFkpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20759,14 +20759,14 @@ Commodity Summaries
                         </div>
                         <div class="casAbstract">
                          Newly-developed Li-S batteries (LSBs) probably are extremely promising devices as they deliver a high theor. energy of 2600 W h kg-1.  Using S as the cathode material is advantageous due to its low price, nontoxicity, and abundant resources.  The main bottleneck hindering the practical application of LSBs is their poor cycling performance due to the shuttling of sol. Li polysulfides (LiPSs), poor cond., and sluggish redox reaction.  Herein, the authors prepd. a new type of p-n heterostructure embedded into C hollow nanosheet arrays grown on C cloth by subsequent sulfidation and nitridation.  The hollow heterostructures can sufficiently restrict the dissoln. of LiPSs due to the polar chemisorption and phys. confinement, and facilitate polysulfide redox kinetics (Li2Sx → Li2S, 2 ≤ x ≤ 8).  The abundant active sites and boundary defects constructed by the Co9S8-Co4N heterostructures improve the nucleation/conversion redox kinetics of Li2S.  Also, the hollow structure can increase the S loading and supply enough space for relieving the vol. expansion during the whole cycling process.  After melting the diffused S of the nanocomposites, the resulting free-standing S/
-                         <a class="__cf_email__" data-cfemail="ecafafacaf83d5bfd4c1af83d8a2" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="53101013103c6a006b7e103c671d" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          electrode exhibits a highly stable cycling rate with an ultralow capacity fading rate of 0.027% per cycle at 5.0 C over 1000 cycles.  The authors' work provides a potential avenue for constructing heterostructured materials for LSBs with high performance.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv5Q_4vlBRR7Vg90H21EOLACvtfcHk0lizazuxTf-9sg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqv5Q_4vlBRR7Vg90H21EOLACvtfcHk0lj-MRBJrQFkpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -20969,18 +20969,18 @@ Commodity Summaries
                         </div>
                         <div class="casAbstract">
                          Due to unprecedented features including high-energy d., low cost, and light wt., lithium-sulfur batteries have been proposed as a promising successor of lithium-ion batteries.  However, unresolved detrimental low Li-ion transport rates in traditional carbon materials lead to large energy barrier in high sulfur loading batteries, which prevents the lithium-sulfur batteries from commercialization.  In this report, to overcome the challenge of increasing both the cycling stability and areal capacity, a metallic oxide composite (
-                         <a class="__cf_email__" data-cfemail="d29cbb91bde09de692a0959d" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="612f08220e532e552113262e" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          ) is designed to enable a robust separator with low energy barrier for Li-ion diffusion and simultaneously provide abundant active sites for the catalytic conversion of the polar polysulfides.  With a high sulfur-loading of 6 mg cm-2 and low sulfur/electrolyte ratio of 10, the assembled batteries deliver an initial capacity of 5.04 mAh cm-2 as well as capacity retention of 92% after 400 cycles.  The metallic oxide composite
-                         <a class="__cf_email__" data-cfemail="a9e7c0eac69be69de9dbeee6" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="89c7e0cae6bbc6bdc9fbcec6" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          /PP separator with low Li-ion diffusion energy barrier opens up the opportunity for lithium-sulfur batteries to achieve long-cycle, cost-effective operation toward wide applications in elec. vehicles and electronic devices.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrbfjLVfWiLvbVg90H21EOLACvtfcHk0lh2g2QmdvhXig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrbfjLVfWiLvbVg90H21EOLACvtfcHk0lj-MRBJrQFkpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21124,7 +21124,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYvpbf9BgeiLVg90H21EOLACvtfcHk0lh2g2QmdvhXig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGoYvpbf9BgeiLVg90H21EOLACvtfcHk0lj-MRBJrQFkpA" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21264,7 +21264,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmwVLiznWn0bVg90H21EOLACvtfcHk0lh2g2QmdvhXig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrmwVLiznWn0bVg90H21EOLACvtfcHk0lj9Z6OjI08CPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21415,7 +21415,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZjnAtLG55vLVg90H21EOLACvtfcHk0lh2g2QmdvhXig" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrZjnAtLG55vLVg90H21EOLACvtfcHk0lj9Z6OjI08CPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21674,7 +21674,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrx3dpX_T7rAbVg90H21EOLACvtfcHk0lhJl8FYBsLxHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGrx3dpX_T7rAbVg90H21EOLACvtfcHk0lj9Z6OjI08CPg" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -21855,18 +21855,18 @@ Commodity Summaries
                         </div>
                         <div class="casAbstract">
                          Binary transition metal oxides (BTMOs) have been regarded as one of the most hopeful anode materials for lithium-ion batteries (LIBs) owing to their high theor. capacity, excellent electrochem. activity and abundant electrochem. reactions.  However, BTMOs still suffer from two main problems, which are poor cond. and large vol. expansion during the charge/discharge processes.  In order to address the above-mentioned problems, mesoporous
-                         <a class="__cf_email__" data-cfemail="eaa784ac8fd8a5deaaa9" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="f7ba99b192c5b8c3b7b4" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          nanorods have been successfully synthesized in this work.  The synergistic effect of the cross-linked carbon framework and mesoporous structure greatly improves the electrochem. performances.  As expected, the mesoporous
-                         <a class="__cf_email__" data-cfemail="3c71527a590e73087c7f" href="/cdn-cgi/l/email-protection">
+                         <a class="__cf_email__" data-cfemail="ca87a48caff885fe8a89" href="/cdn-cgi/l/email-protection">
                           [email protected]
                          </a>
                          electrode manifests discharge capacities of 987.5 and 816.6 mA h g-1 at the current densities of 100 and 2000 mA g-1, resp., with the capacity retention ratio of 82.7%, exerting distinguished rate capabilities for LIBs.
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqYc61qVelCdrVg90H21EOLACvtfcHk0lhJl8FYBsLxHw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqYc61qVelCdrVg90H21EOLACvtfcHk0liLoAVytTZdFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22059,7 +22059,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBBjoLAVEn0rVg90H21EOLACvtfcHk0lidzgPPI_Vslw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGqBBjoLAVEn0rVg90H21EOLACvtfcHk0liLoAVytTZdFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22234,7 +22234,7 @@ Commodity Summaries
                         </div>
                        </div>
                        <div class="moreSciFi">
-                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7CIhYyAu1rbVg90H21EOLACvtfcHk0lidzgPPI_Vslw" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
+                        <a href="https://scifinder.cas.org/scifinder/view/link_v1/reference.jsf?l=BmxxGlm8wGo7CIhYyAu1rbVg90H21EOLACvtfcHk0liLoAVytTZdFQ" title="Retrieve detailed record, substances, reactions and more for this article from SciFinder ®">
                          &gt;&gt; More from SciFinder
                          <sup>
                           ®
@@ -22278,7 +22278,7 @@ Commodity Summaries
                        <i class="icon-angle-down">
                        </i>
                       </a>
-                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_50108">
+                      <div class="dropBlock__holder" data-db-target-of="sectionsDB_61634">
                       </div>
                      </div>
                     </div>
@@ -23324,7 +23324,7 @@ $(".citationLinks > a").click(function(e){
   </script>
   <script src="/wro/ku10~product.js" type="text/javascript">
   </script>
-  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cad6e6f6dc6e9fc","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
+  <script crossorigin="anonymous" data-cf-beacon='{"rayId":"6cb18aa83bdd619b","token":"d4e766cffbf14806ad37e095398b9c5f","version":"2021.12.0","si":100}' defer="" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194">
   </script>
  </body>
 </html>

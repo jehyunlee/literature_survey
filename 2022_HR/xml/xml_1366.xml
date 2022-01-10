@@ -1,0 +1,1707 @@
+<!DOCTYPE html>
+<html lang="ko">
+ <head>
+  <!-- Meta, title, CSS, favicons, etc. -->
+  <meta charset="utf-8"/>
+  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
+  <title>
+   Activating needle coke to develop anode catalyst for direct methanol fuel cell
+				-Carbon letters
+			
+		
+	 | Korea Science
+  </title>
+  <meta content="width=device-width, initial-scale=1.0" name="viewport"/>
+  <link href="/favicon.png" rel="shortcut icon" type="image/x-icon"/>
+  <link href="/favicon.png" rel="icon" type="image/x-icon"/>
+  <!-- Google Fonts
+	<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Noto+Sans+KR:300,400,500,700">
+	-->
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:400,500,600,700" rel="stylesheet" type="text/css"/>
+  <!-- CSS Global Compulsory -->
+  <link href="/fontawesome/css/all.min.css" rel="stylesheet" type="text/css"/>
+  <link href="/css/helper.css" rel="stylesheet" type="text/css"/>
+  <!-- Polyfill or Shim -->
+  <!--[if lt IE 10]>
+	<script src="/js/shim/es5-shim.min.js"></script>
+	<script src="/js/shim/es5-sham.min.js"></script>
+	<script src="/js/shim/json3.min.js"></script>
+	<![endif]-->
+  <!--[if gt IE 8]><!-->
+  <script src="/jquery/jquery-2.2.4.min.js">
+  </script>
+  <!--<![endif]-->
+  <!--[if lte IE 8]>
+	<script src="/jquery/jquery-1.12.4.min.js"></script>
+	<![endif]-->
+  <script src="/jquery/jquery.cookie.js">
+  </script>
+  <script src="/jquery/jquery.tmpl.min.js">
+  </script>
+  <script src="/js/jquery.apply-tmpl.js">
+  </script>
+  <link href="/jquery/sweetalert/sweetalert.css" rel="stylesheet" type="text/css"/>
+  <script src="/jquery/sweetalert/sweetalert.min.js">
+  </script>
+  <!--[if lt IE 10]>
+	<style type="text/css">.placeholder { color: #aaa; }</style>
+	<script src="/jquery/jquery.placeholder.min.js"></script>
+	<script>$(function() { $('input, textarea').placeholder(); });</script>
+	<![endif]-->
+  <script src="/js/native.js">
+  </script>
+  <script src="/js/alert.js">
+  </script>
+  <script src="/js/config.js.jsp">
+  </script>
+  <script src="/js/init.js">
+  </script>
+  <script src="/unify/assets/vendor/popper.js/index.js">
+  </script>
+  <!--[if gte IE 9]><!-->
+  <link href="/css/bootstrap/css/bootstrap.min.css" rel="stylesheet" type="text/css"/>
+  <script src="/css/bootstrap/js/bootstrap.min.js">
+  </script>
+  <!--<![endif]-->
+  <!--[if IE 9]>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap4-ie9.min.css">
+	<script src="/js/bootstrap4-ie9.js"></script>
+	<![endif]-->
+  <!--[if lte IE 8]>
+	<link rel="stylesheet" type="text/css" href="/css/bootstrap4-ie8.min.css">
+	<script src="/js/bootstrap4-ie8.js"></script>
+    <script src="/css/bootstrap/js/bootstrap.js"></script>
+	<![endif]-->
+  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+  <!--[if lt IE 9]>
+	<script src="/js/shim/html5shiv.min.js"></script>
+	<script src="/js/shim/html5shiv-printshiv.min.js"></script>
+	<script src="/js/shim/respond.min.js"></script>
+	<![endif]-->
+  <!-- CSS Implementing Plugins -->
+  <link href="/unify/assets/vendor/icon-line-pro/style.css" rel="stylesheet"/>
+  <link href="/unify/assets/vendor/slick-carousel/slick/slick.css" rel="stylesheet"/>
+  <link href="/unify/assets/vendor/icon-hs/style.css" rel="stylesheet"/>
+  <link href="/unify/assets/vendor/hamburgers/hamburgers.min.css" rel="stylesheet"/>
+  <link href="/unify/assets/vendor/hs-megamenu/src/hs.megamenu.css" rel="stylesheet"/>
+  <link href="/unify/assets/vendor/animate.css" rel="stylesheet"/>
+  <!-- CSS Unify Theme -->
+  <!--
+    <link rel="stylesheet" href="/unify/e-commerce/assets/css/styles.e-commerce.css">
+     -->
+  <link href="/unify/blog-magazine/assets/css/styles.bm-classic.css" rel="stylesheet"/>
+  <link href="/css/base.css" rel="stylesheet" type="text/css"/>
+  <meta content="index, nofollow" name="robots"/>
+  <meta content="Carbon letters" name="citation_journal_title"/>
+  <meta content="20" name="citation_volume"/>
+  <meta content="" name="citation_issue"/>
+  <meta content="2016" name="citation_date"/>
+  <meta content="47" name="citation_firstpage"/>
+  <meta content="52" name="citation_lastpage"/>
+  <meta content="Korean Carbon Society" name="citation_publisher"/>
+  <meta content="10.5714/CL.2016.20.047" name="citation_doi"/>
+  <meta content="Activating needle coke to develop anode catalyst for direct methanol fuel cell" name="citation_title"/>
+  <meta content="Park, Young Hun;Im, Ui-Su;Lee, Byung-Rok;Peck, Dong-Hyun;Kim, Sang-Kyung;Rhee, Young Woo;Jung, Doo-Hwan;" name="citation_author"/>
+  <meta content="eng" name="citation_language"/>
+  <meta content=";needle coke;activated carbon;porous carbon;surface areas" name="citation_keywords"/>
+  <meta content="1976-4251" name="citation_issn"/>
+  <meta content="http://koreascience.or.kr:80/article/JAKO201634864482763.pdf" name="citation_pdf_url"/>
+  <meta content="
+
+Physical and electrochemical qualities were analyzed after KOH activation of a direct methanol fuel cell using needle coke as anode supporter. The results of research on support loaded with platinum-ruthenium suggest that an activated KOH needle coke container has the lowest onset potential and the highest degree of catalyst activity among all commercial catalysts. Through an analysis of the CO stripping voltammetry, we found that KOH activated catalysis showed a 21% higher electrochemical active surface area (ECSA), with a value of 31.37 m&lt;sup&gt;2&lt;/sup&gt; /g, than the ECSA of deactivated catalyst (25.82 m&lt;sup&gt;2&lt;/sup&gt; /g). The latter figure was 15% higher than the value of one specific commercial catalyst (TEC86E86)." name="description"/>
+  <link href="/css/bootstrap-helper.css" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   html{
+		scroll-behavior: smooth;
+		top: 100px;
+	}
+	/*
+	*/
+	div.fullTextHtml h1{
+		font-family: inherit;
+		font-size: 1.65rem;
+	}
+	div.fullTextHtml h2{
+		font-family: inherit;
+		font-size: 1.4rem;
+	}
+	div.fullTextHtml h3{
+		font-family: inherit;
+		font-size: 1.2rem;
+	}
+	div.fullTextHtml h4{
+		font-family: inherit;
+		font-size: 1.1rem;
+	}
+	div.fullTextHtml p{
+		color:black;
+	}
+
+	div.fullTextHtml a{
+		color:#007bff;;
+	}
+	figure.image {
+		margin: 10px;
+	}
+	div.article-content{
+		height: auto;
+	}
+	.contents-table {
+		position: -webkit-sticky; /* 사파리 브라우저 지원 */
+    	position: sticky;
+    	top : 100px;
+	}
+
+	.content-list  {
+		width : auto;
+		overflow:hidden;
+      	text-overflow:ellipsis;
+    	white-space: nowrap;
+
+	}
+	.content-list h1{
+		font-size: 1.2em;
+	}
+	.content-list h2{
+		text-indent: 10px;
+		font-size: 1.1em;
+	}
+	.article-body h1{
+		font-size: 1.1em;
+	}
+	.content-list h3{
+		font-size: 0.9em;
+	}
+	.content-list h4{
+		font-size: 0.9em;
+	}
+
+	.article-title-row{
+		background-color: white;
+		z-index: 500;
+		top: 0px;
+	}
+
+	/* 수식이 보여주는 너비를 넘어갔을 때, 수평스크롤이 보이도록. */
+	.math-tex {
+		display: inline-block;
+		max-width: 95%;
+		overflow: hidden;
+		overflow-x: auto;
+		vertical-align: middle;
+		padding-left: 5px;
+		padding-right: 5px;
+		margin-left: -5px;
+		margin-right: -5px;
+	}
+  </style>
+  <script src="//cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-MML-AM_CHTML" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   MathJax.Hub.Config({
+		showMathMenu: false,
+		tex2jax: {
+			inlineMath: [ ['$','$'], ['\\(','\\)'] ]
+		}
+	});
+  </script>
+  <link href="https://fonts.googleapis.com/css?family=Nanum+Myeongjo:400,700,800" rel="stylesheet"/>
+  <link href="https://fonts.googleapis.com/css?family=Montserrat:300,400,500,600,700" rel="stylesheet"/>
+  <style type="text/css">
+   .footer {
+		left: 0;
+		bottom: 0;
+		width:100%;
+	}
+
+	.topbar {
+		font-family: "Roboto", sans-serif;
+		font-size: 0.93rem;
+		padding: 0;
+	}
+
+	.navbar-light .navbar-nav .nav-link {
+		color: black;
+		font-weight: 500;
+	}
+
+	.navbar .navbar-brand,
+	.navbar .navbar-brand h1 {
+		font-weight: bold;
+		font-family: "Open Sans";
+		font-size: 1.85rem;
+	}
+
+	.navbar.bg-dark {
+		background-color:#1b3769 !important;
+	/* background-image: linear-gradient(-90deg, #1d2263, #3f83ff); */
+		padding:0; line-height: .85em
+	}
+
+	#main-menu .form-control,
+	#main-menu .btn,
+	#main-menu .input-group-text {
+		height: 45px;
+	}
+
+	#main-menu .input-group:focus .form-control,
+	#main-menu .input-group:focus .btn,
+	#main-menu .input-group:focus .input-group-text {
+	}
+
+	.u-header .navbar [aria-labelledby] {
+		opacity: 1;
+	}
+
+	.navbar .dropdown-menu {
+		min-width: 10rem;
+	}
+
+	.modal-dialog {
+		max-width: 830px;
+		margin: 10rem auto;
+	}
+
+	.table th {
+		border: none;
+		text-align: left !important;
+		margin-bottom: 1px;
+	}
+	.table td {
+		border: none;
+		text-align: center;
+		padding-top: 5px;
+	}
+	.openlsite {
+		width: 200px;
+		position: absolute;
+		bottom: 62px;
+		right: 75px;
+		border: solid 1px #706a64;
+	}
+
+	#logo-text {
+		font-family: 'Montserrat', sans-serif;
+		margin-bottom: -10px;
+		font-weight: 700;
+		letter-spacing: -1px;
+		font-size: 32px;
+		color: #1b3769;
+		padding: 2px 20px 6px 0px;
+	}
+
+
+	.btn-secondary {background-color:#535353; border-color: #535353;}
+	.btn-secondary:hover {background-color:#353535; border:1px solid #353535;}
+	.hd-srch {background-color:#3f83ff; border-color:#3f83ff;}
+	.hd-srch:hover {background-color:#007bff; border:1px solid #007bff;}
+	.hd-srch i {color:#fff;}
+	.topbar .list-inline-item a, .topbar .list-inline-item i {color:rgba(255,255,255,.75);}
+	.topbar .list-inline-item:hover a,topbar .list-inline-itemi:hover i {color:rgba(255,255,255,1);}
+	.topbar a.dropdown-item,.topbar a.dropdown-item:hover {color:#333;}
+
+	.fot_logo a {
+		display: block;
+		text-indent: -999px;
+		overflow: hidden;
+		background: url('/image/fot_logo_ty2.png') no-repeat 0 0;
+		width: 88px;
+		height: 50px;
+		background-size: auto;
+	}
+
+	.bd-example-modal-lg .modal-dialog{
+		display: table;
+		position: relative;
+		margin: 0 auto;
+		top: calc(50% - 24px);
+	}
+
+	.bd-example-modal-lg .modal-dialog .modal-content{
+		background-color: transparent;
+		border: none;
+	}
+	.navbar-nav {
+	-ms-flex-direction: initial !important;
+	flex-direction: initial !important;
+	}
+	#searchSelect {
+		font-size: 1.25rem;line-height: 1.5;padding: .5rem 1rem;
+	}
+
+	.about-dropdown {
+		top: 120%;
+	}
+  </style>
+  <script>
+   window.config.language = 'en';
+  </script>
+ </head>
+ <body class="">
+  <input id="reqUri" type="hidden" value="/article/JAKO201634864482763"/>
+  <header class="u-header u-header--static">
+   <nav class="navbar navbar-expand-lg topbar navbar-dark bg-dark">
+    <div class="container align-items-center">
+     <ul class="list-unstyled pv8 m0 mr-3 mr-md-5">
+      <li class="list-inline-item">
+       <a class="px-2" href="https://www.facebook.com/withKISTI/" target="_blank" title="Go to facebook page">
+        <i class="fab fa-facebook-f">
+        </i>
+       </a>
+      </li>
+      <li class="list-inline-item">
+       <a class="g-pa-3" href="https://twitter.com/withKISTI" target="_blank" title="Go to twitter page">
+        <i class="fab fa-twitter">
+        </i>
+       </a>
+      </li>
+     </ul>
+     <ul class="list-unstyled pv8 m0">
+      <li class="list-inline-item">
+       <a href="tel:0428691760">
+        <i class="fal fa-phone u-line-icon-pro g-font-size-15 g-valign-middle g-mr-5 g-mt-minus-2">
+        </i>
+       </a>
+       <a class="d-none d-md-inline" href="tel:0428691760">
+        042)869-1760
+       </a>
+      </li>
+      <li class="list-inline-item">
+       <a href="mailto:koreascience@kisti.re.kr">
+        <i class="fal fa-envelope u-line-icon-pro g-font-size-15 g-valign-middle g-mr-5 g-mt-minus-2">
+        </i>
+       </a>
+       <a class="d-none d-md-inline" href="mailto:koreascience@kisti.re.kr">
+        koreascience@kisti.re.kr
+       </a>
+      </li>
+     </ul>
+     <ul class="navbar-nav ml-auto m0 login-ul">
+      <li class="nav-item dropdown pv8">
+       <a class="g-color-white-opacity-0_8 g-color-primary--hover g-pa-3 nav-link w70 login-a" href="/login.page?requestUri=/article/JAKO201634864482763.page" id="chooseLanguageDropdownMenuLink" title="Login">
+        Login
+       </a>
+      </li>
+      <li class="nav-item dropdown pv8">
+       <a aria-expanded="false" aria-haspopup="true" class="g-color-white-opacity-0_8 g-color-primary--hover g-pa-3 nav-link dropdown-toggle w70" data-toggle="dropdown" href="#" id="chooseLanguageDropdownMenuLink" role="button" title="Change language">
+        English
+       </a>
+       <div aria-labelledby="chooseLanguageDropdownMenuLink" class="dropdown-menu u-shadow-v29 u-dropdown--css-animation" style="top: 31px">
+        <a class="dropdown-item pv5" href="/article/JAKO201634864482763.page?&amp;lang=ko">
+         한국어
+        </a>
+        <a class="dropdown-item pv5" href="/article/JAKO201634864482763.page?&amp;lang=en">
+         English
+        </a>
+       </div>
+      </li>
+     </ul>
+    </div>
+   </nav>
+   <nav class="navbar navbar-expand-lg navbar-light bg-white">
+    <div class="container pv10">
+     <a class="navbar-brand py-0 pl10" href="/">
+      <h2 class="h2" id="logo-text">
+       Korea
+       <span class="text-danger">
+        Science
+       </span>
+      </h2>
+     </a>
+     <button aria-controls="main-menu" aria-expanded="false" aria-label="Toggle navigation" class="navbar-toggler b0 ml-auto" data-target="#main-menu" data-toggle="collapse" type="button">
+      <span class="navbar-toggler-icon">
+      </span>
+     </button>
+     <div class="collapse navbar-collapse" id="main-menu">
+      <form class="flex-fill my-2 mx-2 mx-md-5" method="get" name="allSearchForm">
+       <div class="input-group input-group-lg g-brd-primary--focus">
+        <div class="input-group-prepend">
+         <select class="form-control form-control-md form-control-sm rounded-0" id="searchSelect">
+          <option selected="" value="articleSearch">
+           Article
+          </option>
+          <option value="figureSearch">
+           Figure
+          </option>
+          <option value="thesaurusSearch">
+           Thesaurus
+          </option>
+         </select>
+        </div>
+        <input class="form-control border-right-0" name="keywords" placeholder="Type keyword(s)" type="text" value=""/>
+        <div class="input-group-append">
+         <button class="btn btn-default border-left-0 hd-srch" type="submit">
+          <i class="far fa-search">
+          </i>
+         </button>
+        </div>
+        <div class="input-group-append d-none d-md-block advSrchDiv">
+         <a class="btn btn-secondary pt10" data-toggle="modal" href="#advanced-search-modal" id="advSrchBtn" title="자세히 찾기">
+          <i class="fal fa-sliders-v fa-fw">
+          </i>
+         </a>
+        </div>
+        <div class="input-group-append d-none imgSrchDiv">
+         <a class="btn btn-secondary pt10" data-toggle="modal" href="#image-search-modal" id="imgSrchBtn" title="이미지 찾기">
+          <i class="fal fa-image fa-fw">
+          </i>
+         </a>
+        </div>
+       </div>
+      </form>
+      <ul class="navbar-nav" style="white-space:nowrap;flex-direction:row;">
+       <li class="nav-item g-ml-10--lg flex-fill">
+        <a class="nav-link g-color-primary--hover g-font-size-18 g-px-5 g-py-17" href="/journal.page">
+         Publications
+        </a>
+       </li>
+       <li class="nav-item g-ml-10--lg flex-fill">
+        <a class="nav-link g-color-primary--hover g-font-size-18 g-px-5 g-py-17" href="/publisher.page">
+         Publishers
+        </a>
+       </li>
+       <li class="nav-item g-ml-10--lg flex-fill">
+        <div class="dropdown">
+         <a aria-expanded="false" aria-haspopup="true" class="btn btn-outline-white dropdown-toggle nav-link g-color-primary--hover g-font-size-18 g-px-5 g-py-17" data-toggle="dropdown" href="#" id="dropdownMenuLink" role="button" style="background: white">
+          About
+         </a>
+         <div aria-labelledby="dropdownMenuLink" class="dropdown-menu about-dropdown dropdown-menu-right">
+          <a class="dropdown-item" href="/about/about.page">
+           KoreaScience?
+          </a>
+          <a class="dropdown-item" href="/statistics/org-reg.page">
+           Statistics
+          </a>
+          <a class="dropdown-item" href="/article/article-week-view.page">
+           Contents
+          </a>
+         </div>
+        </div>
+       </li>
+      </ul>
+     </div>
+    </div>
+   </nav>
+  </header>
+  <input name="atclCtrlNo" type="hidden" value="JAKO201634864482763"/>
+  <nav aria-label="breadcrumb" class="sub-visual d-none d-md-block">
+   <div class="container d-sm-flex">
+    <div class="align-self-center">
+     <h1 class="h3 sub-visual-title">
+      Article Info.
+     </h1>
+    </div>
+    <ol class="list-inline align-self-center ml-auto mb0">
+     <li class="list-inline-item">
+      <a class="u-link-v5 g-color-text" href="/">
+       Home
+      </a>
+      <i class="g-color-gray-light-v2 g-ml-5 fa fa-angle-right">
+      </i>
+     </li>
+     <li aria-current="page" class="list-inline-item g-color-primary">
+      <span>
+       Article Info.
+      </span>
+     </li>
+    </ol>
+   </div>
+  </nav>
+  <main class="mt-4" role="main">
+   <div class="container" id="article-view">
+    <!-- Weekly News -->
+    <div class="g-mb-60 mt50">
+     <!-- Articles -->
+     <div class="row article-info article-second">
+      <!-- Article Content -->
+      <div class="col-md-11 align-self-center">
+       <h3 class="h5 g-mb-15">
+        <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover article-title-txt" href="/journal/HGTSB6.page">
+         Carbon letters
+        </a>
+       </h3>
+       <!-- 권호정보 -->
+       <ul class="list-inline">
+        <li class="list-inline-item">
+         <a class="u-link-v5 g-color-gray-dark-v1 g-color-primary--hover" href="/journal/HGTSB6/v20.page">
+          Volume 20
+         </a>
+        </li>
+        <li class="list-inline-item">
+         /
+        </li>
+        <li class="list-inline-item">
+         Pages.47-52
+        </li>
+        <li class="list-inline-item">
+         /
+        </li>
+        <li class="list-inline-item">
+         2016
+        </li>
+        <li class="list-inline-item">
+         /
+        </li>
+        <li class="list-inline-item">
+         1976-4251(pISSN)
+        </li>
+        <li class="list-inline-item">
+         /
+        </li>
+        <li class="list-inline-item">
+         2233-4998(eISSN)
+        </li>
+       </ul>
+       <a class="u-link-v5 g-color-secondary-dark-v1 g-color-primary--hover" href="/publisher/kcs1.page">
+        Korean Carbon Society
+							
+							
+								(한국탄소학회)
+       </a>
+      </div>
+      <div class="col-md-1 d-none d-md-block">
+       <figure class="u-shadow-v25 g-pos-rel g-mb-20 g-mb-0--lg">
+        <img alt="권호 표지" class="img-fluid w-100" onerror="this.src='/image/default_image.gif' " src="/journal/HGTSB6/v20/cover/thumb.image"/>
+       </figure>
+      </div>
+     </div>
+     <!-- End Articles -->
+     <div class="contenting">
+      <div class="row contents-table article-title-row">
+       <div class="col-md-12">
+        <div class="float-right d-none d-md-block qr-tag" style="margin-top: -.5em">
+         <img alt="DOI QR코드" onerror="$(this).parent().remove()" src="http://data.doi.or.kr/qr/10.5714/CL.2016.20.047" style="width: 100px" title="https://doi.org/10.5714/CL.2016.20.047"/>
+         <p class="text-center" style="margin-top:-10px">
+          DOI QR Code
+         </p>
+        </div>
+        <h1 class="h2 article-title" g-mb-15"="" id="h-0" style="font-size: 2em;" title="Activating needle coke to develop anode catalyst for direct methanol fuel cell">
+         Activating needle coke to develop anode catalyst for direct methanol fuel cell
+        </h1>
+       </div>
+       <!-- col -->
+      </div>
+      <!-- row -->
+      <div class="row">
+       <div class="col-md-12">
+        <ul class="list-inline g-color-gray-dark-v2 m0">
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER8900110400" target="_blank">
+           Park, Young Hun
+          </a>
+          (Department of Energy Science and Technology, Graduate School of Energy Science and Technology, Chungnam National University)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER8900957581" target="_blank">
+           Im, Ui-Su
+          </a>
+          (Advanced Energy Technology, University of Science and Technology)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER0000096511" target="_blank">
+           Lee, Byung-Rok
+          </a>
+          <a href="http://nl.go.kr/isni/0000000463401389" target="_blank" title="ISNI:0000000463401389">
+           <img src="/image/isni-logo2-xs.png"/>
+          </a>
+          (New &amp; Renewable Energy Research Division, Korea Institute of Energy Research)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER0000014448" target="_blank">
+           Peck, Dong-Hyun
+          </a>
+          <a href="http://nl.go.kr/isni/0000000475278760" target="_blank" title="ISNI:0000000475278760">
+           <img src="/image/isni-logo2-xs.png"/>
+          </a>
+          (New &amp; Renewable Energy Research Division, Korea Institute of Energy Research)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER0000045508" target="_blank">
+           Kim, Sang-Kyung
+          </a>
+          <a href="http://nl.go.kr/isni/0000000463380143" target="_blank" title="ISNI:0000000463380143">
+           <img src="/image/isni-logo2-xs.png"/>
+          </a>
+          (New &amp; Renewable Energy Research Division, Korea Institute of Energy Research)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER0000129843" target="_blank">
+           Rhee, Young Woo
+          </a>
+          (Department of Energy Science and Technology, Graduate School of Energy Science and Technology, Chungnam National University)
+		 										
+		  										;
+         </li>
+         <li class="list-inline-item">
+          <a href="http://doi.or.kr/10.PSN/ADPER6800957734" target="_blank">
+           Jung, Doo-Hwan
+          </a>
+          (Advanced Energy Technology, University of Science and Technology)
+         </li>
+        </ul>
+        <ul class="list-inline">
+         <li class="list-inline-item">
+          Received : 2016.03.26
+         </li>
+         <li class="list-inline-item">
+          Accepted : 2016.05.23
+         </li>
+         <li class="list-inline-item">
+          Published : 2016.10.31
+         </li>
+        </ul>
+        <ul class="list-inline">
+         <li class="list-inline-item">
+          <p class="g-color-gray-dark-v2" style="white-space: normal">
+           <a class="btn btn-link pl0" href="https://doi.org/10.5714/CL.2016.20.047" target="_blank">
+            https://doi.org/10.5714/CL.2016.20.047
+           </a>
+           <button class="btn btn-sm btn-outline-secondary func-copy" onclick="copyToClipboard($(this).prev('a').get(0), 'Copied DOI link to clipboard.')" type="button">
+            Copy
+           </button>
+           <a class="btn btn-sm btn-outline-success" href="http://data.doi.or.kr/cite/10.5714/CL.2016.20.047" target="_blank">
+            Citation
+           </a>
+           <a class="d-lg-none btn btn-sm btn-outline-danger" href="/article/JAKO201634864482763.pdf" target="_blank">
+            PDF
+           </a>
+           <a class="btn btn-sm btn-outline-primary" href="http://ksci.kisti.re.kr/search/article/articleView.ksci?articleBean.atclMgntNo=HGTSB6_2016_v20_47" target="_blank">
+            KSCI
+           </a>
+           <a class="btn btn-sm btn-outline-info" href="http://www.kpubs.org/article/articleMain.kpubs?articleANo=HGTSB6_2016_v20_47" target="_blank">
+            KPUBS
+           </a>
+           <a class="btn btn-sm btn-outline-success" href="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=popup&amp;jats=HGTSB6_2016_v20_47" target="_blank">
+            JATS XML
+           </a>
+           <a class="btn btn-sm btn-outline-secondary mr5" href="/article/JAKO201634864482763.page#full-text-html">
+            HTML
+           </a>
+          </p>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- another part -->
+      <hr/>
+      <div class="row">
+       <!-- 목차 -->
+       <div class="d-none d-lg-block col-lg-4 order-lg-2">
+        <div class="contents-table" id="content-div">
+         <a class="col btn btn-outline-danger btn-block btn-lg" href="/article/JAKO201634864482763.pdf" target="_blank">
+          <i class="far fa-file-pdf">
+          </i>
+          Download PDF
+         </a>
+         <div class="pt5 clearfix">
+          <a class="btn btn-outline-secondary btn-lg float-left w100" href="/article/JAKO201634864482673.page" title="
+											Previous : Effects of maleic anhydride content on mechanical properties of carbon fibers-reinforced maleic anhydride-grafted-poly-propylene matrix composites" type="button">
+           <!-- ?queryString -->
+           ⟨ Previous
+          </a>
+          <a class="btn btn-outline-secondary btn-lg float-right w100" href="/article/JAKO201634864482835.page" title="
+											Next : Improving dispersion of multi-walled carbon nanotubes and graphene using a common non-covalent modifier" type="button">
+           Next ⟩
+          </a>
+         </div>
+         <div class="row article-box article-info">
+          <section class="ml0 g-color-gray-dark-v2 content-list">
+          </section>
+         </div>
+        </div>
+       </div>
+       <!-- col-lg-4 -->
+       <!-- 본문 -->
+       <div class="col-12 col-lg-8">
+        <div class="article-box">
+         <h4 class="h4 g-mb-15 article-con-title">
+          Abstract
+         </h4>
+         <p class="g-color-gray-dark-v2 text-justify">
+          Physical and electrochemical qualities were analyzed after KOH activation of a direct methanol fuel cell using needle coke as anode supporter. The results of research on support loaded with platinum-ruthenium suggest that an activated KOH needle coke container has the lowest onset potential and the highest degree of catalyst activity among all commercial catalysts. Through an analysis of the CO stripping voltammetry, we found that KOH activated catalysis showed a 21% higher electrochemical active surface area (ECSA), with a value of 31.37 m
+          <sup>
+           2
+          </sup>
+          /g, than the ECSA of deactivated catalyst (25.82 m
+          <sup>
+           2
+          </sup>
+          /g). The latter figure was 15% higher than the value of one specific commercial catalyst (TEC86E86).
+         </p>
+        </div>
+        <div class="article-box">
+         <h4 class="h4 g-mb-15 article-con-title">
+          Keywords
+         </h4>
+         <p class="g-color-gray-dark-v2">
+         </p>
+         <ul class="list-inline">
+          <li class="list-inline-item">
+           <a href="/search.page?keywords=needle+coke" title="Search with 'needle coke'">
+            needle coke
+           </a>
+           ;
+          </li>
+          <li class="list-inline-item">
+           <a href="/search.page?keywords=activated+carbon" title="Search with 'activated carbon'">
+            activated carbon
+           </a>
+           ;
+          </li>
+          <li class="list-inline-item">
+           <a href="/search.page?keywords=porous+carbon" title="Search with 'porous carbon'">
+            porous carbon
+           </a>
+           ;
+          </li>
+          <li class="list-inline-item">
+           <a href="/search.page?keywords=surface+areas" title="Search with 'surface areas'">
+            surface areas
+           </a>
+          </li>
+         </ul>
+         <ul class="list-inline">
+         </ul>
+         <p>
+         </p>
+        </div>
+        <!-- 기사 본문. -->
+        <div class="article-content">
+         <h4 class="h4 g-mb-15 article-con-title text-right" id="full-text-html">
+          <input id="openYn" type="hidden" value="Y"/>
+         </h4>
+         <div class="article-box">
+          <div class="fullTextHtml text-justify">
+           <h1>
+            1. Introduction
+           </h1>
+           <p>
+            Faced with the problems of the depletion of fossil energy and increasing environmental pollution, researchers are putting fuel cells in the spotlight as an alternative energy source for the future. Fuel cells are environmentally-friendly and have a long life [1,2]. Fuel cells can be made using an inverse water electrolysis reaction, in which an electric cell generates a direct current by combining the hydrogen in the fuel and oxygen in the air into electrical energy through an electrochemical redox-reaction. As the fuel is directly changed into electrical energy, its energy conversion efficiency is higher than that possible when using existing generating devices. In addition, as long as the fuel is supplied, the cell can continue to generate energy, and has lower impact on the environment in terms of air contaminants (such as NOx and Sox), because they are not emitted during operation of fuel cells. Moreover such devices are inclined to be less noisy. For these reasons, fuel cells have been intensively researched for use in military and leisure applications, as power supply for robotic automation and precision instruments, and in the transportation and aerospace defense industries, including high-tech aircraft and rockets or missiles [3].
+           </p>
+           <p>
+            A recent trend shows that studies are beginning to focus on polymer electrolyte membrane fuel cells, which use hydrogen as a fuel, and direct methanol fuel cells (DMFCs) which use methanol as a fuel. DMFCs have the following strengths: the methanol used as fuel has a high energy density (hydrogen 658 kcal/L and methanol 3800 kcal/L); device production costs are low; and the supply and transport is easy. At the same time, because no fuel reforming device is necessary thanks to the structure of the system, the system can be miniaturized, which has propelled DMFCs into the limelight for use in next-generation mobile devices. Due to these advantages, DMFCs are receiving attention as an optimal power source that could be used to replace primary and secondary cells, which emit environmental pollution when discarded [4,5].
+           </p>
+           <p>
+            For the commercialization of DMFCs, fewer crossovers in the methanol and higher activity of the catalysts are required [6]. Especially, Pak et al. [7] have pointed out the cost problem and the problem of activity degradation due to CO-deposited platinum film, as shortcomings of the excessive use of an expensive platinum catalyst [8].
+           </p>
+           <p>
+            To enhance the efficiency of the usage of Pt, Nam et al. [9] have suggested that a support made by the template method could enhance the catalytic activity so that active carbon, which is mesoporous, could increase the oxidation speed of the methanol [10].
+           </p>
+           <p>
+            Ryoo et al. [11] produced sets of porous carbons by combining carbon precursor with various types of silica, carbonizing the mixture, and then etching the silica at the end of the process. Chai et al. [12] used phenol and formaldehyde as carbon precursor, mixing these materials and carbonizing them with silica to produce porous carbons, which were then used as catalyst support. As a result, the process of methanol oxidation became more active. Qiao et al. [13] observed improved electric conductivity followed by the increase of specific surface area of a device that utilized activated carbon produced through KOH activation with needle coke [14-17].
+           </p>
+           <p>
+            Therefore, in this research, porous support was produced with needle coke, into which platinum-ruthenium was loaded. The activation of the anode catalyst was then examined. The structural chemical qualities of the support and the catalyst were examined using a set of procedures including energy dispersive X-ray spectroscopy (EDS) and X-ray diffraction (XRD). Methods such as cyclic voltammetry (CV), methanol oxidation, and CO stripping voltammetry were applied to analyze the electrochemical active surface area (ECSA) and the activation of the catalyst during methanol oxidation.
+           </p>
+           <p>
+           </p>
+           <h1>
+            2. Experimental
+           </h1>
+           <h2>
+            2.1. Production of catalyst support
+           </h2>
+           <p>
+            The catalyst support that was used in the research was made with needle coke produced by refining coal tar (POSCO Chemtech Co., Seoul, Korea), by heat processing it at 500℃. The structural quality of the needle coke is shown in Fig. 1.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f001.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 1.
+            </b>
+            Polarization microscope analysis images of anisotropic textures of needle coke.
+           </p>
+           <p>
+            Fig. 2 shows the production procedure for the catalyst support. The needle coke was pulverized three times (30 min/set), into 100–150 µm sized particles; then powder was combined with KOH and activated for 1 h at 800℃ using nitrogen gas as a carrier. After the activation, the product was made into porous activated carbon, neutralized with HCl, and washed with distilled water. Then it was dehydrated for 24 h at 110℃.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f002.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 2.
+            </b>
+            Schematic diagram for the preparation of porous carbon from needle coke.
+           </p>
+           <h2>
+            2.2. Catalyst loading
+           </h2>
+           <p>
+            The catalyst was loaded into the carbonized powder coke support and KOH activated needle-shaped carbon support using H2PtCl6·H2O (Aldrich) and RuCl3·3H2O (Aldrich) as the catalyst precursors. To load the catalyst, suitable amounts of ultrapure water and activated carbon were put into an ultrasonic generator for 30 min and agitated for 12 h. The mixture was agitated with the catalyst precursor mixture of H2PtCl6·H2O (Aldrich) and RuCl3·3H2O (Aldrich), dissolved in water at a 1:1 mole ratio for 24 h. Then it was loaded with the metal catalyst (0.5 M NaBH4) using the reduction method [18]. The catalysts loaded into the activated carbon were washed with distilled water for 3 h and dehydrated for 24 h at 80℃ to produce a 60 wt% Pt-Ru/porous carbon anode catalyst.
+           </p>
+           <h2>
+            2.3. Analysis of shape and electrochemical quality of the catalyst
+           </h2>
+           <p>
+            The pore distribution and specific area of the produced catalyst were analyzed with a BELSORP-mini II (Microtrac). The specific area was calculated using the Vm value with the slope and the intercept values as determined using the Brunauer-Em-mett-Teller (BET) method. The volume and size of the pores were examined using the Barrett-Joyner-Halenda (BJH) method, which is an application of the Kelvin method [19].
+           </p>
+           <p>
+            The crystallizability of the produced catalyst was examined by XRD (Dmax-2500pc; Rigaku) analysis, while the composition was determined by EDS analysis (Table 1). The methanol oxidation quality of the catalyst was examined by the CV method using an electrochemical examiner (PGSTAT204; Metrohm Autolab, Utrecht, the Netherlands). In this analysis, 0.5 M methanol was combined with 0.5 M H2SO4 and scanned at 50 mV/s. Ag/AgCl was used as a reference electrode, and a threeelectrode system was employed as the Pt counter-electrode. The catalyst loaded into the activated carbon was mixed with Nafion and applied to glassy carbon. A drop of 10 μL catalyst ink was dehydrated. Potentiostat (AFCBP1; Pine Instrument Co., Grove City, PA, USA) was employed and the remaining oxygen was removed by purging nitrogen gas into a 30℃ water jacket for 1 h while the 0.5 M H2SO4 was continuously replenished.
+           </p>
+           <p>
+            <b>
+             Table 1.
+            </b>
+            EDS, energy dispersive X-ray spectroscopy; NKC, non-KOH activated carbon; KC, KOH activated carbon.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_t001.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+           </p>
+           <p>
+            CO stripping was performed with 0.5 M H2SO4 aqueous solution and scanning at 50 mV/s under 0.0–1.0 V electric potential. We put carbon monoxide into the deoxidized aqueous solution so that the surface of the catalyst would absorb carbon monoxide atoms. To keep the carbon monoxide absorbed on the surface, we applied and maintained the same voltage and introduced nitrogen gas for 20 min to remove carbon monoxide gas in the solution so that we could proceed with the voltammetry method.
+           </p>
+           <p>
+           </p>
+           <h1>
+            3. Results and Discussion
+           </h1>
+           <h2>
+            3.1. Analysis of the physical qualities of catalyst and support
+           </h2>
+           <p>
+            Table 2 shows the results for the specific area, the total volume of pores, and the analysis of the mesoporous pores on the catalyst support-KOH activated needle coke. The results were obtained using a surface area measuring set (BELSORP-mini II; Microtrac). As can be seen in the table, the specific area of KOH increased from 101.1 m2/g before treatment (non-KOH activated carbon or NKC), to 2560.6 m2/g after treatment (KOH activated carbon or KC). The total volume of pores was measured and found to have increased approximately 10 times from 0.1263 to 1.4235 cm3/g. In addition, the total volume of mesoporous pores increased about seven times from 0.1043 cm3/g in the untreated sample to 0.7235 cm3/g after treatment. These results suggest that KOH activation develops micro pores and mesoporous pores to a dramatic degree.
+           </p>
+           <p>
+            <b>
+             Table 2.
+            </b>
+            NKC, non-KOH activated carbon; KC, KOH activated carbon.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_t002.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+           </p>
+           <p>
+            The results of XRD analysis for the catalyst in which Pt-Ru was loaded into active carbon are shown in Fig. 3. For comparison, we also analyzed the commercial catalyst-TANAKA PtRu/C (TEC86E86; TANAKA Holdings Co., Tokyo, Japan) under the same conditions. The results for this catalyst are shown in Fig. 3 as well. As can be seen in the figure, peaks at about 40°, 46°, and 68° (the characteristic peaks of FCC metal [111], [200], and [220]) could be observed for the PtRu/C loaded catalyst. The peak at 26°, which represents the crystallizability of carbon, suggests that the KC-PtRu/C and NKC-PtRuC catalysts were well crystallized compared to the Tanaka catalyst, which used carbon black as its support. KC-PtRu/C, in particular, showed the best carbon crystallizability. This is why needle coke became the primary carbon structure after heat treatment at 1200℃. However, when carbon was KOH activated, KC-PtRu/C showed lower crystallizability than that of NKC-PtRu/C because the KOH treatment caused the coke carbon structure to become amorphous. The same result has been reported in previous research by Qiao et al. [13].
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f003.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 3.
+            </b>
+            X-ray diffraction patterns of the electrodeposited samples. (1) TANAKA-Pt-Ru/C, (2) NKC-Pt-Ru/C, and (3) KC-Pt-Ru/C. NKC, non-KOH activated carbon; KC, KOH activated carbon.
+           </p>
+           <h2>
+            3.2. Analysis of electrochemical quality
+           </h2>
+           <h3>
+            3.2.1. CV analysis of catalysts
+           </h3>
+           <p>
+            CV was used not only to analyze the interaction between hydrogen and oxygen but also to examine the electrochemical stability. Fig. 4 shows the results of the CV analysis. Reaction peaks against absorption and desorption of H+ , were observed when we examined PtRu/C within the range of 0.0–0.2 V. In the range 0.6–0.8 V, H2O dropped from Pt(OH)2, which thereby became Pt-O, while O2 was desorbed from H2O within the range 0.8–1.0 V. Within the range 0.4–0.5 V, the cathodic current increased during the H+ desorption of oxygen from Pt-O. CV was used not only to analyze the interaction between hydrogen and oxygen but also to examine the electrochemical stability.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f004.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 4.
+            </b>
+            Cyclic voltammogram of TANAKA-PtRu/C, NKC-PtRu/C, and KCPtRu/C. Currents were normalized to the loading of metal. NKC, non-KOH activated carbon; KC, KOH activated carbon; NHE, normal hydrogen electrode.
+           </p>
+           <p>
+            The peaks of the current density are not only affected by the activation of the catalysts themselves but also by the surface area of activation. The ECSA of Pt in the catalysts can be determined using the measured hydrogen absorption area of the CV according to the following equation:
+           </p>
+           <p>
+           </p>
+           <p>
+            In this formula, QH represents the quantity of electrical charge in the hydrogen oxidation reaction absorbed on the surface of Pt, MPt represents the mass of loaded Pt, and QH ref is assumed to be 0.21 mC/cm2 [20]. The calculated active surface areas are shown in Table 3. The results for TANAKA-PtRu/C, NKC-PtRu/C, and KC-PtRu/C were 22.34, 20.78, and 45.51 m2/g, respectively. KC-PtRu/C, which has the widest current density peak area, had the highest ECSA value; therefore, these results suggest that the current density and the active surface area are closely related.
+           </p>
+           <p>
+            <b>
+             Table 3.
+            </b>
+            XRD, X-ray diffraction; ECSA, electrochemical active surface area; CV, cyclic voltammetry; NKC, non-KOH activated carbon; KC, KOH activated carbon.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_t003.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+           </p>
+           <h3>
+            3.2.2. CO Stripping analysis of catalysts
+           </h3>
+           <p>
+            To examine the activity in carbon monoxide oxidation of the synthesized catalysts, CO stripping voltammetry analysis was conducted and the results are shown in the voltage current curve provided in Fig. 5. In the first cycle, a needle shaped oxidation peak can be observed within the range of 0.4–0.8 V. In the second cycle, a peak was observed for unabsorbed carbon monoxide. It can be inferred from these results that carbon monoxide absorbed on the surface of the catalyst was completely oxidized in the first cycle. The Pt surface area was calculated using the wide peak area within the range 0.4–0.8 V. The ECSA value can be found using the following equation with the quantities of electrical charge divided into two sections: Qco-absorption and Qco-desorption.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f005.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 5.
+            </b>
+            CO stripping of the prepared catalysts. TANAKA-PtRu/C, NKC-PtRu/C, and KC-PtRu/C (electrolyte: 0.5 M H2SO4, 30℃, scan rate: 50 mV/s). NKC, non-KOH activated carbon; KC, KOH activated carbon.
+           </p>
+           <p>
+           </p>
+           <p>
+            The 0.42 (mC/gPt) value in the formula is known as the electrical charge value when hydrogen is absorbed in a single layer on the surface of platinum. Pt loading (g/cm2) indicates the quantity of platinum per unit area of the electrode. In this study, ECSA was calculated using the electrical charge value of CO desorption. As a result, the sizes of the surface areas were found to occur in the order of KC-PtRu/C &gt; TANAKA-PtRu/C &gt; NKC-PtRu/C (Table 3). KC-PtRu/C catalyst loaded into porous carbon had a wider effective surface area and higher activity than those characteristic of TANAKA-Pt/Ru/C, the commercial catalyst, or NKC-PtRu/C (the last of which is non-KOH activated).
+           </p>
+           <h3>
+            3.2.3. Methanol oxidation reaction
+           </h3>
+           <p>
+            To examine the stability of an electrode synthesized by methanol oxidation, the electrostatic potential of a 0.5 M CH3OH + 0.5 M H2SO4 solution was scanned at 50 mV/s (Fig. 6). The activity of the platinum electrode catalyst was evaluated according to the peak of the forward current density. In the oxygen absorption session within a range of 0.6–0.8 V, KC-PtRu/C was 1.7 times and 3 times more active than NKCPtRu/C and TANAKA-PtRu/C, respectively. Meanwhile, all three of the samples showed similar peaks for absorption/desorption area within the range 0.0–0.2 V. KOH activated KC-PtRu/C, which used porous carbon as its support, showed a wider electrochemical catalyst area compared to those of the non-KOH activated NKC-PtRu/C or TANAKA-PtRu/C. This means that KOH activated KC-PtRu/C has the best activity against methanol oxidation.
+           </p>
+           <p>
+            <img src="http://society.kisti.re.kr/sv/SV_svjscj03L.do?method=imgWrite&amp;jats=HGTSB6_2016_v20_47_f006.jpg" style="width:60%;height:60%;"/>
+           </p>
+           <p>
+            <b>
+             Fig. 6.
+            </b>
+            Linear sweep voltammogram of catalysts. TANAKA-PtRu/C, NKC-PtRu/C, and KC-PtRu/C 40 (electrolyte: 0.5 M H2SO4 + 0.5 M methanol, 30℃, scan rate: 50 mV/s). NKC, non-KOH activated carbon; KC, KOH activated carbon; NHE, normal hydrogen electrode.
+           </p>
+           <h3>
+            3.2.4. Onset potential
+           </h3>
+           <p>
+            The onset potential is shown in Table 3. The onset potential of NKC-PtRu/C (0.571 vs. NHE) was higher than that of PtRu/C (0.543V vs. NHE). The potentials were examined and found to decrease in the order NKC-PtRu/C &gt; TANAKA-PtRu/C &gt; KC-PtRu/C.
+           </p>
+           <p>
+            These results suggest that mesoporous carbon produced by KOH activation affects the catalyst activity [13]; therefore, KC-PtRu/C (0.7232 cm3/g), of which the mesoporous structure is relatively wide, has a lower onset potential than that of NKC-PtRu/C (0.1043 cm3/g), which has a smaller mesoporous structure.
+           </p>
+           <p>
+           </p>
+           <h1>
+            4. Conclusions
+           </h1>
+           <p>
+            In this research, PtRu was synthesized using the impregnation method and its support was produced using refined, heat-treated needle coke. We examined the anisotropic structure with a polarization microscope. After the activation of KOH, the sample of KC-PtRu/C (2560.6 m2 /g), into which Pt-Ru catalyst has been loaded, showed a wider specific area than that of NKC-PtRu/C (101.1 m2 /g), which is a non-KOH activated, Pt-Ru loaded sample. In it, an increased number of mesopores was observed. Changes of the XRD pattern at the 26° carbon peak, suggest that the KOH activation brought relevant changes to the structure, which led to an increase of the metal crystallizability. We confirmed through EDS analysis of the precursor that this reduction had been accomplished at the intended Pt/Ru ratio. Through ECSA examination with CV and CO stripping, we confirmed that KC-PtRu/C has a wider effective area than those of the other catalysts. In the methanol oxidation reaction, KC-PtRu showed a higher currency density that those of the other two catalysts (NKC-PtRu/C, TANAKA-PtRu/C). The lowest onset potential was observed for KC-PtRu/C.
+           </p>
+          </div>
+         </div>
+         <div class="article-box">
+          <h4 class="h4 g-mb-15 article-con-title">
+           References
+          </h4>
+          <ol class="ml0 pl25" style="word-break:unset">
+           <li class="g-color-gray-dark-v2 mb10" id="ref-1">
+            <span class="ref-text">
+             Rauhe BR, McLarnon FR, Cairns EJ. Direct anodic oxidation of methanol on supported platinum/uuthenium catalyst in aqueous cesium carbonate. J Electrochem Soc,
+             <bold>
+              142
+             </bold>
+             , 1073 (1995). http://dx.doi.org/10.1149/1.2044547.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-2">
+            <span class="ref-text">
+             Jung DH, Hong SH, Peck DH, Song RH, Shin DR, Kim HN. Development of two-layer electrode for direct methanol fuel cell. J Korean Electrochem Soc,
+             <bold>
+              6
+             </bold>
+             , 68 (2003). http://dx.doi.org/10.5229/JKES.2003.6.1.068.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-3">
+            <span class="ref-text">
+             Ren X, Zelenay P, Thomas S, Davey J, Gottesfeld S. Recent advances in direct methanol fuel cells at Los Alamos National Laboratory. J Power Sources,
+             <bold>
+              86
+             </bold>
+             , 111 (2000). http://dx.doi.org/10.1016/S0378-7753(99)00407-3.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-4">
+            <span class="ref-text">
+             Jeong KJ, Miesse CM, Choi JH, Lee J, Han J, Yoon SP, Nam SW, Lim TH, Lee TG. Fuel crossover in direct formic acid fuel cells. J Power Sources,
+             <bold>
+              168
+             </bold>
+             , 119 (2007). http://dx.doi.org/10.1016/j.jpowsour.2007.02.062.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-5">
+            <span class="ref-text">
+             Cacciola G, Antonucci V, Freni S. Technology up date and new strategies on fuel cells. J Power Sources,
+             <bold>
+              100
+             </bold>
+             , 67 (2001). http://dx.doi.org/10.1016/S0378-7753(01)00884-9.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-6">
+            <span class="ref-text">
+             Jung DH, Jung JH, Hong SH, Peck DH, Shin DR, Kim E. Characteristics of Pt-Ru catalyst supported on activated carbon for direct methanol fuel cell. Carbon Lett,
+             <bold>
+              4
+             </bold>
+             , 121, (2003).
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-7">
+            <span class="ref-text">
+             Lee JS, Han KI, Park SO, Kim HN, Kim H. Performance and impedance under various catalyst layer thicknesses in DMFC. Electrochim Acta,
+             <bold>
+              50
+             </bold>
+             , 807 (2004). http://dx.doi.org/10.1016/j.electacta.2004.01.116.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-8">
+            <span class="ref-text">
+             Pak C, Lee SJ, Lee SA, Chang H. The effect of two-layer cathode on the performance of the direct methanol fuel cell. Korean J Chem Eng,
+             <bold>
+              22
+             </bold>
+             , 214 (2005). http://dx.doi.org/10.1007/BF02701487.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-9">
+            <span class="ref-text">
+             Baeck SH, Choi KS, Jaramillo TF, Stucky GD, McFaland EW. Enhancement of photocatalytic and electrochromic properties of electrochemically fabricated mesoporous WO
+             <sub>
+              3
+             </sub>
+             thin films. Adv Mater,
+             <bold>
+              15
+             </bold>
+             , 1269 (2003). http://dx.doi.org/10.1002/adma.200304669.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-10">
+            <span class="ref-text">
+             Nam KD, Kim SK, Lim SY, Peck DH, Lee BR, Jung DH. Preparation of porous carbon fiber by using MgO powder and its characteristics of catalysts for fuel cell. Korean Chem Eng Res,
+             <bold>
+              46
+             </bold>
+             , 1142 (2008).
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-11">
+            <span class="ref-text">
+             Ryoo R, Joo SH, Kruk M, Jaroniec M. Ordered mesoporous carbons. Adv Mater,
+             <bold>
+              13
+             </bold>
+             , 677 (2001). http://dx.doi.org/10.1002/1521-4095(200105)13:9&lt;677::AID-ADMA677&gt;3.3.CO;2-3.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-12">
+            <span class="ref-text">
+             Chai G, Yoon SB, Kang S, Choi JH, Sung YE, Ahn YS, Kim HS, Yu JS. Ordered uniform porous carbons as a catalyst support in a direct methanol fuel cell. Electrochim Acta,
+             <bold>
+              50
+             </bold>
+             , 823 (2004). http://dx.doi.org/10.1016/j.electacta.2003.11.041.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-13">
+            <span class="ref-text">
+             Qiao W, Yoon SH, Mochida I. KOH activation of needle coke to develop activated carbons for high-performance EDLC. Energy Fuels,
+             <bold>
+              20
+             </bold>
+             , 1680 (2006). http://dx.doi.org/ 10.1021/ef050313l.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-14">
+            <span class="ref-text">
+             Marsh H, Crawford D, O’Drady TM, Wennerberg A. Carbons of high surface area: a study by adsorption and high resolution electron microscopy. Carbon,
+             <bold>
+              20
+             </bold>
+             , 419 (1982). http://dx.doi.org/10.1016/0008-6223(82)90042-2.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-15">
+            <span class="ref-text">
+             Otawa T, Tanibata R, Itoh M. Production and adsorption characteristics of MAXSORB: high-surface-area active carbon. Gas Sep Purif,
+             <bold>
+              7
+             </bold>
+             , 241 (1993). http://dx.doi.org/10.1016/0950-4214(93)80024-Q.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-16">
+            <span class="ref-text">
+             Lillo-Ródenas MA, Lozano-Castelló D, Cazorla-Amorós D, Linares-Solano A. Preparation of activated carbons from Spanish anthracite: II. activation by NaOH. Carbon,
+             <bold>
+              39
+             </bold>
+             , 751 (2001). http://dx.doi.org/10.1016/S0008-6223(00)00186-X.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-17">
+            <span class="ref-text">
+             Mochida I, Fujimoto K, Oyama T. Chemistry and Physics of Carbon, Marcel Decker, New York (1994).
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-18">
+            <span class="ref-text">
+             Chou KS, Ren CY. Synthesis of nanosized silver particles by chemical reduction method. Mater Chem Phys,
+             <bold>
+              64
+             </bold>
+             , 241 (2000). http://dx.doi.org/10.1016/S0254-0584(00)00223-6.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-19">
+            <span class="ref-text">
+             Coasne B, Gubbins KE, Pellenq RJM. A grand canonical Monte Carlo study of adsorption and capillary phenomena in nanopores of various morphologies and topologies: testing the BET and BJH characterization methods. Part Part Syst Charact,
+             <bold>
+              21
+             </bold>
+             , 149 (2004). http://dx.doi.org/10.1002/ppsc.200400928.
+            </span>
+           </li>
+           <li class="g-color-gray-dark-v2 mb10" id="ref-20">
+            <span class="ref-text">
+             Han DM, Guo ZP, Zeng R, Kim CJ, Meng YZ, Liu HK. Multiwalled carbon nanotube-supported Pt/Sn and Pt/Sn/PMo
+             <sub>
+              12
+             </sub>
+             electrocatalysts for methanol electro-oxidation. Int J Hydrogen Energy,
+             <bold>
+              34
+             </bold>
+             , 2426 (2009). http://dx.doi.org/10.1016/j.ijhydene.2008.12.073.
+            </span>
+           </li>
+          </ol>
+         </div>
+        </div>
+        <!-- 기사본문 -->
+       </div>
+      </div>
+     </div>
+     <!-- col-md-12 -->
+    </div>
+    <!-- End Weekly News -->
+   </div>
+  </main>
+  <script type="text/javascript">
+  </script>
+  <script src="/article/article-view.js" type="text/javascript">
+  </script>
+  <footer class="footer bg-dark py-1 py-md-4 mt100">
+   <div class="container">
+    <div class="pt-3">
+     <a class="ft-logo float-left d-none d-md-inline-block" href="http://www.kisti.re.kr/">
+     </a>
+     <ul class="list-inline">
+      <li class="list-inline-item mr20">
+       <a data-target="#termsOfService" data-toggle="modal" href="#">
+        Terms
+       </a>
+      </li>
+      <li class="list-inline-item mr20">
+       <a href="https://www.kisti.re.kr/intro/directions/pageView/20" target="_blank">
+        Visiting
+       </a>
+      </li>
+      <li class="list-inline-item mr20">
+       <a href="http://www.kisti.re.kr/intro/introduce/pageView/14" target="_blank">
+        About
+       </a>
+      </li>
+      <li class="list-inline-item float-right d-none d-md-inline-block">
+       <div class="dropdown form-group">
+        <a aria-expanded="false" aria-haspopup="true" class="last dropdown-toggle" data-toggle="dropdown" href="">
+         Related Link
+        </a>
+        <div aria-labelledby="dropdownMenuButton" class="dropdown-menu" id="firstDropdown">
+         <a class="dropdown-item" href="http://www.kisti.re.kr" target="_blank">
+          KISTI
+         </a>
+         <a class="dropdown-item" href="http://www.ndsl.kr" target="_blank">
+          NDSL
+         </a>
+         <a class="dropdown-item" href="http://ksci.kisti.re.kr" target="_blank">
+          KJCR
+         </a>
+         <a class="dropdown-item" href="http://kpubs.org" target="_blank">
+          KPubs
+         </a>
+         <a class="dropdown-item" href="http://kjcr.kisti.re.kr/main.do" target="_blank">
+          KSCI
+         </a>
+         <a class="dropdown-item" href="http://koreantk.com" target="_blank">
+          KTKP
+         </a>
+        </div>
+       </div>
+      </li>
+     </ul>
+     <address>
+      (34141) Korea Institute of Science and Technology Information, 245, Daehak-ro, Yuseong-gu, Daejeon TEL
+      <a href="tel:0428691004" style="color:#969696">
+       042)869-1004
+      </a>
+      <br/>
+      Copyright (C) KISTI. All Rights Reserved.
+     </address>
+    </div>
+   </div>
+  </footer>
+  <script>
+   window.Form || document.write('<script src="/js/Form.js"><\/script>');
+  </script>
+  <script src="/main-layout.js">
+  </script>
+  <div class="modal fade" id="waitingModal">
+   <div class="modal-dialog" style="margin-top: 17%; width:330px; opacity: 0.7">
+    <div class="modal-content">
+     <div class="modal-body text-center py-4">
+      <span class="far fa-spinner fa-spin fa-fw fa-5x text-secondary">
+      </span>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="modal fade" id="emailCrawlering">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <!-- header -->
+     <div class="modal-header">
+      <!-- header title -->
+      <h4 class="modal-title">
+       이메일무단수집거부
+      </h4>
+      <!-- 닫기(x) 버튼 -->
+      <button class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+     </div>
+     <div class="modal-body flex-fill my-2 my-md-0 ml30 mr-5">
+      <div class="row g-mb-30">
+       <div class="col-md-12">
+        <ul class="ml0 pl25">
+         <li class="g-color-gray-dark-v2 mb10">
+          본 웹사이트에 게시된 이메일 주소가 전자우편 수집 프로그램이나
+	그 밖의 기술적 장치를 이용하여 무단으로 수집되는 것을 거부하며,
+	이를 위반시 정보통신망법에 의해 형사 처벌됨을 유념하시기 바랍니다.
+         </li>
+         <li class="g-color-gray-dark-v2 mb10">
+          [게시일 2004년 10월 1일]
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="modal fade" id="termsOfService">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <!-- header -->
+     <div class="modal-header">
+      <!-- header title -->
+      <h4 class="modal-title">
+       이용약관
+      </h4>
+      <!-- 닫기(x) 버튼 -->
+      <button class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+     </div>
+     <div class="modal-body" style="overflow:auto; max-height:500px">
+      <ul class="pl25 m30">
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 1 장 총칙
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 1 조 (목적)
+							이 이용약관은 KoreaScience 홈페이지(이하 “당 사이트”)에서 제공하는 인터넷 서비스(이하 '서비스')의 가입조건 및 이용에 관한 제반 사항과 기타 필요한 사항을 구체적으로 규정함을 목적으로 합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 2 조 (용어의 정의)
+							①  "이용자"라 함은 당 사이트에 접속하여 이 약관에 따라 당 사이트가 제공하는 서비스를 받는 회원 및 비회원을
+								말합니다.
+							②  "회원"이라 함은 서비스를 이용하기 위하여 당 사이트에 개인정보를 제공하여 아이디(ID)와 비밀번호를 부여
+								받은 자를 말합니다.
+							③  "회원 아이디(ID)"라 함은 회원의 식별 및 서비스 이용을 위하여 자신이 선정한 문자 및 숫자의 조합을
+								말합니다.
+							④  "비밀번호(패스워드)"라 함은 회원이 자신의 비밀보호를 위하여 선정한 문자 및 숫자의 조합을 말합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 3 조 (이용약관의 효력 및 변경)
+							①  이 약관은 당 사이트에 게시하거나 기타의 방법으로 회원에게 공지함으로써 효력이 발생합니다.
+							②  당 사이트는 이 약관을 개정할 경우에 적용일자 및 개정사유를 명시하여 현행 약관과 함께 당 사이트의
+								초기화면에 그 적용일자 7일 이전부터 적용일자 전일까지 공지합니다. 다만, 회원에게 불리하게 약관내용을
+								변경하는 경우에는 최소한 30일 이상의 사전 유예기간을 두고 공지합니다. 이 경우 당 사이트는 개정 전
+								내용과 개정 후 내용을 명확하게 비교하여 이용자가 알기 쉽도록 표시합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 4 조(약관 외 준칙)
+							①  이 약관은 당 사이트가 제공하는 서비스에 관한 이용안내와 함께 적용됩니다.
+							②  이 약관에 명시되지 아니한 사항은 관계법령의 규정이 적용됩니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 2 장 이용계약의 체결
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 5 조 (이용계약의 성립 등)
+							①  이용계약은 이용고객이 당 사이트가 정한 약관에 「동의합니다」를 선택하고, 당 사이트가 정한
+								온라인신청양식을 작성하여 서비스 이용을 신청한 후, 당 사이트가 이를 승낙함으로써 성립합니다.
+							②  제1항의 승낙은 당 사이트가 제공하는 과학기술정보검색, 맞춤정보, 서지정보 등 다른 서비스의 이용승낙을
+								포함합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 6 조 (회원가입)
+							서비스를 이용하고자 하는 고객은 당 사이트에서 정한 회원가입양식에 개인정보를 기재하여 가입을 하여야 합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 7 조 (개인정보의 보호 및 사용)
+							당 사이트는 관계법령이 정하는 바에 따라 회원 등록정보를 포함한 회원의 개인정보를 보호하기 위해 노력합니다. 회원 개인정보의 보호 및 사용에 대해서는 관련법령 및 당 사이트의 개인정보 보호정책이 적용됩니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 8 조 (이용 신청의 승낙과 제한)
+							①  당 사이트는 제6조의 규정에 의한 이용신청고객에 대하여 서비스 이용을 승낙합니다.
+							②  당 사이트는 아래사항에 해당하는 경우에 대해서 승낙하지 아니 합니다.
+								- 이용계약 신청서의 내용을 허위로 기재한 경우
+								- 기타 규정한 제반사항을 위반하며 신청하는 경우
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 9 조 (회원 ID 부여 및 변경 등)
+							①  당 사이트는 이용고객에 대하여 약관에 정하는 바에 따라 자신이 선정한 회원 ID를 부여합니다.
+							②  회원 ID는 원칙적으로 변경이 불가하며 부득이한 사유로 인하여 변경 하고자 하는 경우에는 해당 ID를
+								해지하고 재가입해야 합니다.
+							③  기타 회원 개인정보 관리 및 변경 등에 관한 사항은 서비스별 안내에 정하는 바에 의합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 3 장 계약 당사자의 의무
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 10 조 (KISTI의 의무)
+							①  당 사이트는 이용고객이 희망한 서비스 제공 개시일에 특별한 사정이 없는 한 서비스를 이용할 수 있도록
+								하여야 합니다.
+							②  당 사이트는 개인정보 보호를 위해 보안시스템을 구축하며 개인정보 보호정책을 공시하고 준수합니다.
+							③  당 사이트는 회원으로부터 제기되는 의견이나 불만이 정당하다고 객관적으로 인정될 경우에는 적절한 절차를
+								거쳐 즉시 처리하여야 합니다. 다만, 즉시 처리가 곤란한 경우는 회원에게 그 사유와 처리일정을 통보하여야
+								합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 11 조 (회원의 의무)
+							①  이용자는 회원가입 신청 또는 회원정보 변경 시 실명으로 모든 사항을 사실에 근거하여 작성하여야 하며,
+								허위 또는 타인의 정보를 등록할 경우 일체의 권리를 주장할 수 없습니다.
+							②  당 사이트가 관계법령 및 개인정보 보호정책에 의거하여 그 책임을 지는 경우를 제외하고 회원에게 부여된
+								ID의 비밀번호 관리소홀, 부정사용에 의하여 발생하는 모든 결과에 대한 책임은 회원에게 있습니다.
+							③  회원은 당 사이트 및 제 3자의 지적 재산권을 침해해서는 안 됩니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 4 장 서비스의 이용
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 12 조 (서비스 이용 시간)
+							①  서비스 이용은 당 사이트의 업무상 또는 기술상 특별한 지장이 없는 한 연중무휴, 1일 24시간 운영을
+								원칙으로 합니다. 단, 당 사이트는 시스템 정기점검, 증설 및 교체를 위해 당 사이트가 정한 날이나 시간에
+								서비스를 일시 중단할 수 있으며, 예정되어 있는 작업으로 인한 서비스 일시중단은 당 사이트 홈페이지를
+								통해 사전에 공지합니다.
+							②  당 사이트는 서비스를 특정범위로 분할하여 각 범위별로 이용가능시간을 별도로 지정할 수 있습니다. 다만
+								이 경우 그 내용을 공지합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 13 조 (홈페이지 저작권)
+							①  NDSL에서 제공하는 모든 저작물의 저작권은 원저작자에게 있으며, KISTI는 복제/배포/전송권을 확보하고
+								있습니다.
+							②  NDSL에서 제공하는 콘텐츠를 상업적 및 기타 영리목적으로 복제/배포/전송할 경우 사전에 KISTI의 허락을
+								받아야 합니다.
+							③  NDSL에서 제공하는 콘텐츠를 보도, 비평, 교육, 연구 등을 위하여 정당한 범위 안에서 공정한 관행에
+								합치되게 인용할 수 있습니다.
+							④  NDSL에서 제공하는 콘텐츠를 무단 복제, 전송, 배포 기타 저작권법에 위반되는 방법으로 이용할 경우
+								저작권법 제136조에 따라 5년 이하의 징역 또는 5천만 원 이하의 벌금에 처해질 수 있습니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 14 조 (유료서비스)
+							①  당 사이트 및 협력기관이 정한 유료서비스(원문복사 등)는 별도로 정해진 바에 따르며, 변경사항은 시행 전에
+								당 사이트 홈페이지를 통하여 회원에게 공지합니다.
+							②  유료서비스를 이용하려는 회원은 정해진 요금체계에 따라 요금을 납부해야 합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 5 장 계약 해지 및 이용 제한
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 15 조 (계약 해지)
+							회원이 이용계약을 해지하고자 하는 때에는 [가입해지] 메뉴를 이용해 직접 해지해야 합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 16 조 (서비스 이용제한)
+							①  당 사이트는 회원이 서비스 이용내용에 있어서 본 약관 제 11조 내용을 위반하거나, 다음 각 호에 해당하는
+								경우 서비스 이용을 제한할 수 있습니다.
+								- 2년 이상 서비스를 이용한 적이 없는 경우
+								- 기타 정상적인 서비스 운영에 방해가 될 경우
+							②  상기 이용제한 규정에 따라 서비스를 이용하는 회원에게 서비스 이용에 대하여 별도 공지 없이 서비스 이용의
+								일시정지, 이용계약 해지 할 수 있습니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 17 조 (전자우편주소 수집 금지)
+							회원은 전자우편주소 추출기 등을 이용하여 전자우편주소를 수집 또는 제3자에게 제공할 수 없습니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        <h5>
+         제 6 장 손해배상 및 기타사항
+        </h5>
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 18 조 (손해배상)
+							당 사이트는 무료로 제공되는 서비스와 관련하여 회원에게 어떠한 손해가 발생하더라도 당 사이트가 고의 또는 과실로 인한 손해발생을 제외하고는 이에 대하여 책임을 부담하지 아니합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        제 19 조 (관할 법원)
+							서비스 이용으로 발생한 분쟁에 대해 소송이 제기되는 경우 민사 소송법상의 관할 법원에 제기합니다.
+       </li>
+       <li class="g-color-gray-dark-v2 mb10">
+        [부 칙]
+							1. (시행일) 이 약관은 2016년 9월 5일부터 적용되며, 종전 약관은 본 약관으로 대체되며, 개정된 약관의 적용일 이전 가입자도 개정된 약관의 적용을 받습니다.
+       </li>
+      </ul>
+     </div>
+    </div>
+   </div>
+  </div>
+  <div class="modal fade" id="advanced-search-modal">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <!-- header -->
+     <div class="modal-header">
+      <!-- header title -->
+      <h4 class="modal-title">
+       Detail Search
+      </h4>
+      <!-- 닫기(x) 버튼 -->
+      <button class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+     </div>
+     <!-- body -->
+     <form action="/search/advanced.page" method="get">
+      <input name="pageNo" type="hidden" value="1"/>
+      <input name="pageSize" type="hidden" value="10"/>
+      <div class="modal-body flex-fill my-2 my-md-0 ml30 mr-5">
+       <div class="form-row">
+        <div class="col-sm-12">
+         <div class="form-group">
+          <label>
+           Title,
+											Summary,
+											Keyword
+          </label>
+          <input class="form-control b0 bb1" id="keywords" name="keywords" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-8">
+         <div class="form-group">
+          <label>
+           Publications
+          </label>
+          <input class="form-control b0 bb1" id="jnl" name="jnl" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="form-group">
+          <label>
+           Publication Year
+          </label>
+          <input class="form-control b0 bb1" id="pubYear" name="pubYear" placeholder="ex) 2015 or 2001-2000" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="form-group">
+          <label>
+           Volume
+          </label>
+          <input class="form-control b0 bb1" id="vol" name="vol" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="form-group">
+          <label>
+           Issue
+          </label>
+          <input class="form-control b0 bb1" id="iss" name="iss" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-4">
+         <div class="form-group">
+          <label>
+           Page
+          </label>
+          <input class="form-control b0 bb1" id="page" name="page" placeholder="ex) 23 or 1-35" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-6">
+         <div class="form-group">
+          <label>
+           Author
+          </label>
+          <input class="form-control b0 bb1" id="aut" name="aut" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-6">
+         <div class="form-group">
+          <label>
+           Affiliation
+          </label>
+          <input class="form-control b0 bb1" id="autOrg" name="autOrg" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-6">
+         <div class="form-group">
+          <label>
+           Publisher
+          </label>
+          <input class="form-control b0 bb1" id="pubs" name="pubs" type="text" value=""/>
+         </div>
+        </div>
+        <div class="col-sm-6">
+         <div class="form-group">
+          <label>
+           DOI
+          </label>
+          <input class="form-control b0 bb1" id="doi" name="doi" placeholder="10.nnnn/XXXXXXXXXX 형식" type="text" value=""/>
+         </div>
+        </div>
+       </div>
+       <div class="form-row">
+        <div class="form-group col">
+         <label class="col-form-label">
+          Publication Type
+         </label>
+         <div class="form-row">
+          <div class="col-sm-4">
+           <div class="form-check">
+            <input class="form-check-input" id="advanced-search.contentType-1" name="contentType" type="checkbox" value="JOURNAL"/>
+            <label class="form-check-label" for="advanced-search.contentType-1">
+             Journal
+            </label>
+           </div>
+          </div>
+          <div class="col-sm-5">
+           <div class="form-check">
+            <input class="form-check-input" id="advanced-search.contentType-2" name="contentType" type="checkbox" value="PROCEEDING"/>
+            <label class="form-check-label" for="advanced-search.contentType-2">
+             Conference Proceeding Paper
+            </label>
+           </div>
+          </div>
+          <div class="col-sm-3">
+           <div class="form-check">
+            <input class="form-check-input" id="advanced-search.contentType-3" name="contentType" type="checkbox" value="MAGAZINE"/>
+            <label class="form-check-label" for="advanced-search.contentType-3">
+             Magazine
+            </label>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- Footer -->
+      <div class="modal-footer">
+       <button class="btn btn-primary btn-md w100" type="submit">
+        Search
+       </button>
+       <button class="btn btn-default btn-md w100" data-dismiss="modal" type="button">
+        Close
+       </button>
+      </div>
+     </form>
+    </div>
+   </div>
+  </div>
+  <script>
+   window.jQuery || document.write('<script src="/jquery/jquery-2.2.4.min.js"><\/script>');
+  </script>
+  <script>
+   window.Form || document.write('<script src="/js/Form.js"><\/script>');
+  </script>
+  <script src="/advanced-search-modal.js">
+  </script>
+  <div class="modal fade" id="image-search-modal">
+   <div class="modal-dialog">
+    <div class="modal-content">
+     <!-- header -->
+     <div class="modal-header">
+      <!-- header title -->
+      <h4 class="modal-title">
+       Image Search
+       <span class="text-danger">
+        (β)
+       </span>
+      </h4>
+      <!-- 닫기(x) 버튼 -->
+      <button class="close" data-dismiss="modal" type="button">
+       ×
+      </button>
+     </div>
+     <!-- body -->
+     <div class="modal-body">
+      <form name="imageSearchParamForm">
+       <input accept=".png,.jpg,.jpeg,.gif" class="disp-none" name="imageFile" type="file"/>
+       <div class="source-image-zone border p-3 d-flex align-items-center justify-content-md-center" style="height:400px;cursor:pointer">
+        <p class="h2 text-muted text-center m-0">
+         Click here to choose a searching target image
+         <br/>
+         or drag and drop a searching target image.
+        </p>
+        <script type="text/x-jquery-tmpl">
+         <img class="source-image align-items-center"
+										alt="검색 대상 이미지"
+										src=""
+										onload="handleImageOnLoad(this)"
+										crossorigin="*">
+        </script>
+       </div>
+      </form>
+     </div>
+     <!-- Footer -->
+     <form action="/search/search-similar-figure.page" class="modal-footer" method="post" name="imageSearchForm">
+      <input name="dataURI" type="hidden"/>
+      <button class="btn btn-primary btn-md w100" type="submit">
+       Search
+      </button>
+      <button class="btn btn-default btn-md w100" data-dismiss="modal" type="button">
+       Close
+      </button>
+     </form>
+    </div>
+   </div>
+  </div>
+  <script>
+   window.jQuery || document.write('<script src="/jquery/jquery-2.2.4.min.js"><\/script>');
+  </script>
+  <script src="/image-search-modal.js">
+  </script>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+  <script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-92992329-8">
+  </script>
+  <script>
+   window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+	gtag('config', 'UA-92992329-8');
+  </script>
+ </body>
+</html>

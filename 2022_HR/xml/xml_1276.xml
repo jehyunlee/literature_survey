@@ -1,373 +1,237 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en-US"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en-US"> <![endif]-->
+<!--[if gt IE 8]><!-->
+<html class="no-js" lang="en-US">
+ <!--<![endif]-->
  <head>
-  <meta charset="utf-8"/>
-  <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
-  <meta content="width=device-width, initial-scale=1" name="viewport"/>
   <title>
-   Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells - Archives of Metallurgy and Materials - PAS Journals Repository
+   Please Wait... | Cloudflare
   </title>
-  <meta content="Polish Academy of Sciences" name="Description"/>
-  <meta content="https://journals.pan.pl/dlibra/publication/133203/edition/116368/content" property="og:url"/>
-  <meta content="Object" property="og:type"/>
-  <meta content="Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells - Archives of Metallurgy and Materials - PAS Journals Repository" property="og:title"/>
-  <meta content="Polish Academy of Sciences" property="og:description"/>
-  <meta content="https://journals.pan.pl/style/dlibra/default/images/base/items/book-without-img.svg" property="og:image"/>
-  <link href="https://journals.pan.pl/style/common/img/icons/favicon.png" rel="icon" sizes="16x16" type="image/png"/>
-  <link href="https://journals.pan.pl/style/common/img/icons/apple-touch-icon.png" rel="apple-touch-icon"/>
-  <link href="https://journals.pan.pl/style/dlibra/default/css/libs.css?@HASH-TOKEN@" rel="stylesheet"/>
-  <link href="https://journals.pan.pl/style/dlibra/default/css/main.css?@HASH-TOKEN@" rel="stylesheet"/>
-  <link href="apple-touch-icon.png" rel="apple-touch-icon"/>
-  <!-- Place favicon.ico in the root directory -->
-  <link href="https://journals.pan.pl/style/dlibra/default/css/main.css" rel="stylesheet"/>
-  <link href="https://journals.pan.pl/dlibra/rdf.xml?type=e&amp;id=116368" rel="meta" type="application/rdf+xml"/>
-  <link href="http://purl.org/dc/elements/1.1/" rel="schema.DC"/>
-  <!--type is "document" for import all tags into zotero-->
-  <meta content="document" name="DC.type"/>
-  <meta content="https://journals.pan.pl/publication/133203" name="DC.identifier"/>
-  <meta content="2020" name="DC.date"/>
-  <meta content="10.24425/amm.2020.133203" name="DC.identifier"/>
-  <meta content="http://journals.pan.pl/Content/116368/PDF/AMM-2020-3-01-Sung-Soo%20Ryu.pdf" name="DC.identifier"/>
-  <meta content="Jeong, Hyeondeok" name="DC.creator"/>
-  <meta content="Ryu, Sung-Soo" name="DC.creator"/>
-  <meta content="Si solar cell" name="DC.subject"/>
-  <meta content="Al paste" name="DC.subject"/>
-  <meta content="glass coating" name="DC.subject"/>
-  <meta content="Al back contact" name="DC.subject"/>
-  <meta content="back-surface field" name="DC.subject"/>
-  <meta content="Institute of Metallurgy and Materials Science of Polish Academy of Sciences" name="DC.publisher"/>
-  <meta content="Commitee on Metallurgy of Polish Academy of Sciences" name="DC.publisher"/>
-  <meta content="Archives of Metallurgy and Materials; 2020; vol. 65; No 3; 989-992" name="DC.source"/>
-  <meta content="Article" name="DC.type"/>
-  <meta content="2020" name="DC.issued"/>
-  <meta content="Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells" name="DC.title"/>
-  <meta content="989-992" name="citation_firstpage"/>
-  <meta content="Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells" name="citation_title"/>
-  <meta content="Archives of Metallurgy and Materials" name="citation_journal_title"/>
-  <meta content="Jeong, Hyeondeok" name="citation_author"/>
-  <meta content="Ryu, Sung-Soo" name="citation_author"/>
-  <meta content="http://journals.pan.pl/Content/116368/PDF/AMM-2020-3-01-Sung-Soo%20Ryu.pdf" name="citation_pdf_url"/>
-  <meta content="2020" name="citation_date"/>
-  <meta content="989-992" name="citation_lastpage"/>
-  <meta content="2020/04/21" name="citation_online_date"/>
- </head>
- <body class="fixed show-content">
-  <div data-editionid="116368" data-formatid="1" data-oaiurl="https://journals.pan.pl/dlibra/oai-pmh-repository.xml?verb=GetRecord&amp;metadataPrefix=mets&amp;identifier=oai:journals.pan.pl:116368" id="show-content">
-   <div>
-    <aside class="show-content__top-container" js-top="">
-     <div class="show-content__details-container">
-      <div class="show-content__close-container">
-       <a class="info-back" href="https://journals.pan.pl/amm/133203">
-        <i class="icon-chevron_left">
-        </i>
-        Go to contents table
-       </a>
-       <div class="show-content__header-buttons visible-xs visible-sm">
-        <div class="a2a_kit a2a_kit--show-content a2a_kit_size_32 a2a_default_style show-content__icon--share">
-         <a class="show-content__header-icon a2a_dd btn btn--object-share dropdown-toggle" href="https://www.addtoany.com/share" title="Share">
-          <i class="icon-share">
-          </i>
-         </a>
-        </div>
-        <script>
-         var a2a_config = a2a_config || {};
-												a2a_config.onclick = 1;
-												a2a_config.locale = "pl";
-												a2a_config.color_main = "D7E5ED";
-												a2a_config.color_border = "9D9D9D";
-												a2a_config.color_link_text = "ffffff";
-												a2a_config.color_link_text_hover = "ffffff";
-												a2a_config.color_bg = "d9d9d9";
-												a2a_config.icon_color = "#4e4e4e";
-												a2a_config.exclude_services = ["dihitt", "delicious", "whatsapp", "dzone", "sms", "stumpedia", "viber", "yahoo_messenger", "google_plus"];
-        </script>
-        <script async="" src="https://static.addtoany.com/menu/page.js">
-        </script>
-        <a class="show-content__header-icon show-content__icon--share" href="https://journals.pan.pl/dlibra/report-problem?id=116368" title="Report an error">
-         <i class="icon-remark">
-         </i>
-        </a>
-        <a class="show-content__header-icon show-content__icon--ris" href="https://journals.pan.pl/dlibra/dlibra.ris?type=e&amp;id=116368" title="Download RIS">
-         <i class="icon-object-ris">
-         </i>
-        </a>
-        <a class="show-content__header-icon show-content__icon--bib" href="https://journals.pan.pl/dlibra/dlibra.bib?type=e&amp;id=116368" title="Download Bibtex">
-         <i class="icon-object-bib">
-         </i>
-        </a>
-        <span class="show-content__header-text" data-close="Hide details" data-show="Show details" js-toggle-info="">
-         Hide details
-        </span>
-       </div>
-       <div>
-        <button class="show-content__close-panel--left show-content__toggle visible-xs visible-sm info-close opened" js-toggle-info="">
-         <span class="show-content__close-panel--info">
-          Details
-         </span>
-        </button>
-       </div>
-      </div>
-     </div>
-     <div class="show-content__title-container">
-      <div>
-       <h1 class="show-content__main-header">
-        | Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells
-       </h1>
-       <h2 class="show-content__subheader">
-        Jeong, Hyeondeok; 																	Ryu, Sung-Soo
-       </h2>
-      </div>
-      <ul class="show-content__object-navigation" data-pageid="116368">
-       <li class="object-navigation__item show-content__close">
-        <a href="https://journals.pan.pl/dlibra" title="Close">
-        </a>
-       </li>
-      </ul>
-     </div>
-    </aside>
-   </div>
-   <div>
-    <article>
-     <button class="show-content__show-panel--left show-content__toggle hidden-xs hidden-sm info-close" js-toggle-info="">
-     </button>
-     <section class="show-content__details-column opened" js-details-column="">
-      <div class="show-content__details--top-container">
-       <h3 class="show-content__details--title">
-        Details
-       </h3>
-       <div class="show-content__header-buttons hidden-xs hidden-sm">
-        <div class="a2a_kit a2a_kit--show-content a2a_kit_size_32 a2a_default_style show-content__icon--share">
-         <a class="show-content__header-icon a2a_dd btn btn--object-share dropdown-toggle" href="https://www.addtoany.com/share" title="Share">
-          <i class="icon-share">
-          </i>
-         </a>
-        </div>
-        <script>
-         var a2a_config = a2a_config || {};
-											a2a_config.onclick = 1;
-											a2a_config.locale = "pl";
-											a2a_config.color_main = "D7E5ED";
-											a2a_config.color_border = "9D9D9D";
-											a2a_config.color_link_text = "ffffff";
-											a2a_config.color_link_text_hover = "ffffff";
-											a2a_config.color_bg = "d9d9d9";
-											a2a_config.icon_color = "#4e4e4e";
-											a2a_config.exclude_services = ["dihitt", "delicious", "whatsapp", "dzone", "sms", "stumpedia", "viber", "yahoo_messenger", "google_plus"];
-        </script>
-        <script async="" src="https://static.addtoany.com/menu/page.js">
-        </script>
-        <a class="show-content__header-icon show-content__icon--share" href="https://journals.pan.pl/dlibra/report-problem?id=116368" title="Report an error">
-         <i class="icon-remark">
-         </i>
-        </a>
-       </div>
-      </div>
-      <button class="show-content__close-panel--left hidden-xs hidden-sm info-close opened" js-details-close="">
-       <span class="show-content__close-panel--info">
-        Details
-       </span>
-      </button>
-      <div class="tab-content details__tabs-content">
-       <div class="tab-pane details__tabs-pane active" id="metadata">
-        <div class="show-content__header-buttons download">
-         <a class="show-content__header-icon show-content__icon--download js-publication-download js-analytics-content" download="116368" href="https://journals.pan.pl/Content/116368?format_id=1" title="Download PDF">
-          <i class="icon-download">
-          </i>
-          PDF
-         </a>
-         <a class="show-content__header-icon show-content__icon--download" download="116368.bib" href="https://journals.pan.pl/dlibra/dlibra.bib?type=e&amp;id=116368" target="_blank" title="Download BIBTEX">
-          <i class="icon-object-bib">
-          </i>
-          BIBTEX
-         </a>
-         <a class="show-content__header-icon show-content__icon--download" download="116368.ris" href="https://journals.pan.pl/dlibra/dlibra.ris?type=e&amp;id=116368" target="_blank" title="Download RIS">
-          <i class="icon-object-ris">
-          </i>
-          RIS
-         </a>
-        </div>
-        <div class="clearfix">
-        </div>
-        <div>
-         <h4 class="show-content__details--header">
-          Title
-         </h4>
-         <span class="show-content__details--desc">
-          Effect of Glass-Coated Al Paste on Back-Surface Field Formation in Si Solar Cells
-         </span>
-         <h4 class="show-content__details--header">
-          Journal title
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=JournalTitle:%22Archives+of+Metallurgy+and+Materials%22">
-           Archives of Metallurgy and Materials
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Yearbook
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Yearbook:%222020%22">
-           2020
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Volume
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Volume:%22vol.+65%22">
-           vol. 65
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Issue
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Issue:%22No+3%22">
-           No 3
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Authors
-         </h4>
-         <p class="show-content__author">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Creator:%22Jeong%2C+Hyeondeok%22">
-           Jeong, Hyeondeok
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Creator:%22Ryu%2C+Sung%5C-Soo%22">
-           Ryu, Sung-Soo
-          </a>
-         </p>
-         <h4 class="show-content__details--header">
-          Keywords
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Subject:%22Si+solar+cell%22">
-           Si solar cell
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Subject:%22Al+paste%22">
-           Al paste
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Subject:%22glass+coating%22">
-           glass coating
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Subject:%22Al+back+contact%22">
-           Al back contact
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Subject:%22back%5C-surface+field%22">
-           back-surface field
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Divisions of PAS
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=BranchOfScience:%22Nauki+Techniczne%22">
-           Nauki Techniczne
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Coverage
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Coverage:%22989%5C-992%22">
-           989-992
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Publisher
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Publisher:%22Institute+of+Metallurgy+and+Materials+Science+of+Polish+Academy+of+Sciences%22">
-           Institute of Metallurgy and Materials Science of Polish Academy of Sciences
-          </a>
-          ;
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Publisher:%22Commitee+on+Metallurgy+of+Polish+Academy+of+Sciences%22">
-           Commitee on Metallurgy of Polish Academy of Sciences
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Date
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Date:%222020.07.08%22">
-           2020.07.08
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Type
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Type:%22Article%22">
-           Article
-          </a>
-         </span>
-         <h4 class="show-content__details--header">
-          Identifier
-         </h4>
-         <span class="show-content__details--desc">
-          <span>
-           DOI: 10.24425/amm.2020.133203
-          </span>
-         </span>
-         <h4 class="show-content__details--header">
-          Source
-         </h4>
-         <span class="show-content__details--desc">
-          <a href="https://journals.pan.pl//dlibra/results?action=AdvancedSearchAction&amp;type=-3&amp;val1=Source:%22Archives+of+Metallurgy+and+Materials%5C%3B+2020%5C%3B+vol.+65%5C%3B+No+3%5C%3B+989%5C-992%22">
-           Archives of Metallurgy and Materials; 2020; vol. 65; No 3; 989-992
-          </a>
-         </span>
-        </div>
-       </div>
-      </div>
-     </section>
-     <section class="show-content__iframe">
-      <div class="show-content__iframe-wrapper opened" js-iframe-wrapper="">
-       <iframe height="100%" id="js-main-frame" src="https://journals.pan.pl//Content/116368/PDF/AMM-2020-3-01-Sung-Soo%20Ryu.pdf" width="100%">
-        &lt;div class="test"&gt;&lt;/div&gt;
-       </iframe>
-      </div>
-     </section>
-    </article>
-   </div>
-  </div>
+  <meta id="captcha-bypass" name="captcha-bypass"/>
+  <meta charset="utf-8"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="IE=Edge,chrome=1" http-equiv="X-UA-Compatible"/>
+  <meta content="noindex, nofollow" name="robots"/>
+  <meta content="width=device-width,initial-scale=1" name="viewport"/>
+  <link href="/cdn-cgi/styles/cf.errors.css" id="cf_styles-css" media="screen,projection" rel="stylesheet" type="text/css"/>
+  <!--[if lt IE 9]><link rel="stylesheet" id='cf_styles-ie-css' href="/cdn-cgi/styles/cf.errors.ie.css" type="text/css" media="screen,projection" /><![endif]-->
+  <style type="text/css">
+   body{margin:0;padding:0}
+  </style>
+  <!--[if gte IE 10]><!-->
   <script>
-   var a2a_config = a2a_config || {};
-  a2a_config.onclick = 1;
-  a2a_config.locale = "pl";
-  a2a_config.color_main = "404040";
-  a2a_config.color_border = "525252";
-  a2a_config.color_link_text = "f1f1f1";
-  a2a_config.color_link_text_hover = "f1f1f1";
-  a2a_config.color_bg = "353535";
-  a2a_config.icon_color = "#4e4e4e";
-  a2a_config.exclude_services = ["dihitt", "delicious", "whatsapp", "dzone", "sms", "stumpedia", "viber", "yahoo_messenger", "google_plus"];
+   if (!navigator.cookieEnabled) {
+    window.addEventListener('DOMContentLoaded', function () {
+      var cookieEl = document.getElementById('cookie-alert');
+      cookieEl.style.display = 'block';
+    })
+  }
   </script>
-  <script async="" src="https://static.addtoany.com/menu/page.js">
+  <!--<![endif]-->
+  <script type="text/javascript">
+   //<![CDATA[
+    (function(){
+      window._cf_chl_opt={
+        cvId: "2",
+        cType: "managed",
+        cNounce: "70218",
+        cRay: "6cb1c9f28f400fb5",
+        cHash: "69cb0fb1f9d96e4",
+        cPMDTk: "",
+        cFPWv: "g",
+        cTTimeMs: "1000",
+        cLt: "n",
+        cRq: {
+          ru: "aHR0cHM6Ly93d3cubWRwaS5jb20vMjA3Ni0zNDE3LzEwLzYvMjA1MQ==",
+          ra: "cHl0aG9uLXJlcXVlc3RzLzIuMjMuMA==",
+          rm: "R0VU",
+          d: "zpGYZDd/qxIb9vWZx8FwpItDwByufDeOHAurtTELo/pXJRNKGEWsQOnRU1SUAZLyBsKCeUTaGJvyXYwOo3H8/xPR2383LaP29nTGLSdVIZs+Mvc6xwRmDbGjz3tj4LeK0oBfl8R4cHxLxMcqz84Hxx/r1JOa+PyI7ic3YalCWPgfySeFhQf+oDddAqiWQ/mFip7LGbKMIX+ATC5F90/w8B665fk4toSHHklJ8hPt71TZIzMI/TBboqls8cfWbMNshF4q146y34w5T0za1B5m0zVWHI2BcrP8SpJPtikIefETDMaWV7G4/+e5my5mwViyaUJv8Hg8r6O/NompIPc0/ww8wURYSzd0zGByREsEWUUTwFf1LjLOpNVFkLamifd6QKu1c/tZ+5CApInuCykQBhkmE9XBVM4IzqdgaXw0N5cotCDkHVYVvboHDFyP7F1yyaGcJeXfJ2ravhzjOMNA2ZXZ/L2nnma2VjOQ9mCqTcYZN/DKKZJ31TCFOnCM4UMHYjhsM6jfTuBY/ncaRIZ3O5KGKp3iIs1sZr6ZtXw8jJSs1pGjzo5LxXtYp8EMAWIxJAPoRQ2q+E/MTuBHgazTcMtlQ28SCooSXtXU6bnUZ93xGzfiJb2l1ja+v3Jzv4LY",
+          t: "MTY0MTc3NDU0My43NzMwMDA=",
+          m: "ijnACNkKu+FKq2e1k9jPgubcRu+J0isdnrYkG7JvBwQ=",
+          i1: "tZvsH/W6pJBJ6Re7jyWRSQ==",
+          i2: "N+SgO/+yqV8T9/5QspW4Cg==",
+          zh: "9NUliRXLiE3ATs1lAb5y+wcvyNCp5HovqhXA07ahqik=",
+          uh: "7miS0Xxj9JuMfUL1dJ1m1OOYUPnyhcctTsOqdlLYMgc=",
+          hh: "KINTABW3ayXfTbzNHKRumlz5b1ii0/RqC6b09G86K5Q=",
+        }
+      };
+    }());
+    //]]>
   </script>
-  <div class="__modalBox sendBug">
-   <div class="__modalBoxVertical">
-    <div class="__modalBoxInner">
-     <div class="__modalBoxContent mCustomScrollbar mCustomScrollbar--dark" data-mcs-theme="inset-2-dark">
-      <!-- <h5 class="viewMode__title">Zgłoś błąd</h5> -->
-      <div class="viewMode__container">
+  <style type="text/css">
+   #cf-wrapper #spinner {width:69px; margin:  auto;}
+  #cf-wrapper #cf-please-wait{text-align:center}
+  .attribution {margin-top: 32px;}
+  .bubbles { background-color: #f58220; width:20px; height: 20px; margin:2px; border-radius:100%; display:inline-block; }
+  #cf-wrapper #challenge-form { padding-top:25px; padding-bottom:25px; }
+  #cf-hcaptcha-container { text-align:center;}
+  #cf-hcaptcha-container iframe { display: inline-block;}
+  @keyframes fader     { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-wrapper #cf-bubbles { width:69px; }
+  @-webkit-keyframes fader { 0% {opacity: 0.2;} 50% {opacity: 1.0;} 100% {opacity: 0.2;} }
+  #cf-bubbles > .bubbles { animation: fader 1.6s infinite;}
+  #cf-bubbles > .bubbles:nth-child(2) { animation-delay: .2s;}
+  #cf-bubbles > .bubbles:nth-child(3) { animation-delay: .4s;}
+  </style>
+ </head>
+ <body>
+  <div id="cf-wrapper">
+   <div class="cf-alert cf-alert-error cf-cookie-error" data-translate="enable_cookies" id="cookie-alert">
+    Please enable cookies.
+   </div>
+   <div class="cf-error-details-wrapper" id="cf-error-details">
+    <div class="cf-wrapper cf-header cf-error-overview">
+     <h1 data-translate="managed_challenge_headline">
+      Please wait...
+     </h1>
+     <h2 class="cf-subheadline">
+      <span data-translate="managed_checking_msg">
+       We are checking your browser...
+      </span>
+      www.mdpi.com
+     </h2>
+    </div>
+    <div class="cf-section cf-highlight cf-captcha-container">
+     <div class="cf-wrapper">
+      <div class="cf-columns two">
+       <div class="cf-column">
+        <div class="cf-highlight-inverse cf-form-stacked">
+         <form action="/2076-3417/10/6/2051?__cf_chl_managed_tk__=7sPD6B5hTEN4zg3fZ_kJCrukDja0O1zRrS.xfhttrbE-1641774543-0-gaNycGzNBxE" class="challenge-form managed-form" enctype="application/x-www-form-urlencoded" id="challenge-form" method="POST">
+          <div id="cf-please-wait">
+           <div id="spinner">
+            <div id="cf-bubbles">
+             <div class="bubbles">
+             </div>
+             <div class="bubbles">
+             </div>
+             <div class="bubbles">
+             </div>
+            </div>
+           </div>
+           <p data-translate="please_wait" id="cf-spinner-please-wait">
+            Please stand by, while we are checking your browser...
+           </p>
+           <p data-translate="redirecting" id="cf-spinner-redirecting" style="display:none">
+            Redirecting...
+           </p>
+          </div>
+          <input name="md" type="hidden" value="5lSJAYuI.6aM2ebwdpiMteAeVnu.LAX53IfUvbbRLEw-1641774543-0-AZj8l3Pz7ED-gt1re_jR8yJP6fNUBO5Vdnb9B0fWp-X9Md-9JqrNvKfx6PP9u5S3a_Jf06ns6Zc2sD3bc-Zx81dOdtUCorexyZXdQ8IwFi6ZtayimenxdmL_1gDVMK4Y9ptlzoYxJLiDeF6R5hO84ws_4zzSKUPDUBsuC2wJiS2MVzPa6BkJQQZbNuxsanb9JyZV9GBb9YILHOpzdB0wqVlnK4iozS_hqBfZUDeWUxSlVfbVdaRN_VNozpwfwnW7tbeFOQJRO9b2p_VavUTFdwwd1HdnpO0Paq4gvUHVqAzdJp1AGnXo3tvP7fbyo2KAdPJnsSC2GVNkvoaGsx2W_Kv2RVdZiRzHi6ofI5aTC-K0kizml4yJ3nlkqWW4HgIlIc63fIN1FZ-Y6ni9xpyfDtpxpwGjUyHOhFrjJuXog7DhX7ZHrkDG8RNtM6qelyHZB2d5l3E-kmB3-arnQ7xo3DZA4nfjIgWJu-R0DIiXroamiCXg7ve-j36bQHx01GhWYATIYBe73EcavLhS2sAz87HssMFre23LA6kvDQPgl98rmPPmKyeM2mZPFwboe3VTqjDGNhYfqbBkZttykJZHxHH_sVvSqZAcCbT4pZZgt7gBAn8iMwzhV5CmzWapz_6sZbZznhu-Awh9Y0lEmSmR5lhzdCvZqNBwQoZq2pT8DmUDYdrDOPIuLEt1lxrSmIzLznt52Ajy91p3zvBrn3AOGaToIZYcTiHiZ4J7elKy9M9gr2W3CfAIdL_iA4hciU1Vkzeiizx1hiUfZRrgYUVNEs-aLCYa5VxxEqxDv5FzE7Syg38cT0BNHGSIGC4Jx1AseryqLRD3Gw8Ie0SpUBiVzwlyMWueLpuvv3rOlz1XephU1hM6O9AtJR_-7zbs0v5x8A"/>
+          <input name="r" type="hidden" value="y9BZUNS55VWT189y24HBuKYcsqRlgwCQsFxeYfcQaQc-1641774543-0-AW1ORWPz62G9tJq9quWdx0med5E/5aTV1tg2Pfpw5a+mNjL6eO6HfJaocCCxYi0uWGKnaAblJRJGihgPL/bPCCenK2ARbsu0S8fjYJdKMAahjCRvUHQ1Q7SoOueGhJwAVoZujx6sF84n1EO1cxt2Dg32RPRowv8iCThuN++2BuPOwIihnTriBRmOes9WJ8/DEMNh+hCZs4vZ1hG5L+vMulDcbq+YtU073UxAcK/DED4VvRpndewrOTjJtH/fjYk1A1VGHMxTQsBtd0c/YnHrGCrvH/acchWT7e9mlsvmOXd4iGbPDL7bn2i/w2ct18bTIv7eUnuJgMaIQs6SRZgvzk4Huj3KOl9T6A+oICHWRymgLgE4WOdizYj/nw01zXHeCEh7oyMNP0AqxkwUpQB51p0MeWFYV3c5RWqVL6LbY6A4O2DaGmtk+/2HON+Kvmy1rWMdnT5z+ryWpctpneZAqonIdPIAx7RTCeWOgN/oIB/9vQjioYKRZ3gPx+Ocec2VK7D5oEVTUDmImbpJbyOCkBlgeXE6N3ZlQ1s+usToW41Qmn7K7CUAZXquI+dzMgyh60S0xo96e3qFeIefrOrCqHkvNsK6CQGQhnwPwwHkoDHzinKtAYUAa37FdJodgTlrxCgCUEEpqRbX6r8n/10julbZrdo76FQMWqZMff2BPKpl9FziEv6TQp8Mx0i8mgZiFSMTPo3aG8sJ31CzNm8TNjULnInlUpr27UTei5WhJo9OGzPIvKGmpH5FV9q3eD0GNZxL2Ow27w0VmGJPI7mqlmx/Zt1FQAfmVeIe6VleDJ3RBCa3lU5eOYeOX+D165y9Kbla2pdXDfhZSrKVKfql2vXlPEtcCH29Z7DdZhvnr0kzLlFkyU/kJHnnc17sszJKWPAlVF8vS0zW+HfkGDsddXlyFKxraRg+UxT2mRBn6G7zgokj14MzMmuPw9/Fho/ugcJOGNzE5gIwd3YKMqbxCZgjDjDjmZsbj9KFushy+dzxzL7glrvBlBeGv6Vuz+PeTQWzYQc4UNeUWU5o+wqPtyE5GseXnvzceArETZGlek6jxmMyu42iY9QUKnloUwSrStE4lIsxyy7ZR15DZKicljViOj+2VO9bx/3zaGR0fQxvDmvLjG8+U5/r5RrERqjk4l2/pRazWoRFaM+Cy2BbX3Qwbr3m3IysuirS13Y6kz7kIzp27PVFBZy0mvyknS2QzBbbDfTICUouxa6SNJIEZ+vFfrAi8hgCmhlQFeqAbmJBzzxZkj3l7RYxT70EN/tv4qT1IF6FaL5spo4+RDssmpLLZD2DhYrPT4+BX25VwgMK1tqLsB85+7LW93iEKvbn4xCWTXaZnqhKFlofJ3qC/Pb3U827DOwYTHO3n0qSNj4JS0yGlx+0UyVw3Xdb4Wb0anw+J3XbJVFOQBpul5Fwp7UUpqDjMb2CGouEY8rtoLRffep3sIFnfhdfcfzBIkfRMM4fyILUkS9Hxoh+jsJisVuT7OmDp4p3jzQ6LgpQc8gKKvPNZGKbdtDdDewHQNDqYa8ZHB1ubejY2py9R8GI90lS+F9Wqr4q6lSx9O/fSLATR9RAeAL7lseUytc4FMMf//Bp+NmwE6g8FVTQjMd5irgIFtHAVg8uxu/PCYqNFX+OxIbN/FdgRdrrjBjY5z7SAHSpDP7clQaAObdxnegXrZhPtm8bS8esPYmVz2MbebvByiee9rHESJa3I5KMCQkuq1j5I1k5YG1JpHqEYxj56I8="/>
+          <input name="cf_captcha_kind" type="hidden" value="h"/>
+          <input name="vc" type="hidden" value="ad31bfc60e4e2db6fb9690729718807f"/>
+          <noscript class="cf-captcha-info" id="cf-captcha-bookmark">
+           <h1 data-translate="turn_on_js" style="color:#bd2426;">
+            Please turn JavaScript on and reload the page.
+           </h1>
+          </noscript>
+          <div class="cookie-warning" data-translate="turn_on_cookies" id="no-cookie-warning" style="display:none">
+           <p data-translate="turn_on_cookies" style="color:#bd2426;">
+            Please enable Cookies and reload the page.
+           </p>
+          </div>
+          <script type="text/javascript">
+           //<![CDATA[
+    var a = function() {try{return !!window.addEventListener} catch(e) {return !1} },
+      b = function(b, c) {a() ? document.addEventListener("DOMContentLoaded", b, c) : document.attachEvent("onreadystatechange", b)};
+      b(function(){
+        var cookiesEnabled=(navigator.cookieEnabled)? true : false;
+        if(!cookiesEnabled){
+          var q = document.getElementById('no-cookie-warning');q.style.display = 'block';
+        }
+      });
+  //]]>
+          </script>
+          <div id="trk_captcha_js" style="background-image:url('/cdn-cgi/images/trace/captcha/nojs/h/transparent.gif?ray=6cb1c9f28f400fb5')">
+          </div>
+         </form>
+         <script type="text/javascript">
+          //<![CDATA[
+    (function(){
+        var isIE = /(MSIE|Trident\/|Edge\/)/i.test(window.navigator.userAgent);
+        var trkjs = isIE ? new Image() : document.createElement('img');
+        trkjs.setAttribute("src", "/cdn-cgi/images/trace/managed/js/transparent.gif?ray=6cb1c9f28f400fb5");
+        trkjs.id = "trk_managed_js";
+        trkjs.setAttribute("alt", "");
+        document.body.appendChild(trkjs);
+        var cpo=document.createElement('script');
+        cpo.type='text/javascript';
+        cpo.src="/cdn-cgi/challenge-platform/h/g/orchestrate/managed/v1?ray=6cb1c9f28f400fb5";
+        
+        document.getElementsByTagName('head')[0].appendChild(cpo);
+    }());
+    //]]>
+         </script>
+        </div>
+       </div>
+       <div class="cf-column">
+        <div class="cf-screenshot-container">
+         <span class="cf-no-screenshot">
+         </span>
+        </div>
+       </div>
       </div>
-     </div>
-     <div class="__modalBoxClose">
-      ×
      </div>
     </div>
+    <div class="cf-section cf-wrapper">
+     <div class="cf-columns two">
+      <div class="cf-column">
+       <h2 data-translate="why_captcha_headline">
+        Why do I have to complete a CAPTCHA?
+       </h2>
+       <p data-translate="why_captcha_detail">
+        Completing the CAPTCHA proves you are a human and gives you temporary access to the web property.
+       </p>
+      </div>
+      <div class="cf-column">
+       <h2 data-translate="resolve_captcha_headline">
+        What can I do to prevent this in the future?
+       </h2>
+       <p data-translate="resolve_captcha_antivirus">
+        If you are on a personal connection, like at home, you can run an anti-virus scan on your device to make sure it is not infected with malware.
+       </p>
+       <p data-translate="resolve_captcha_network">
+        If you are at an office or shared network, you can ask the network administrator to run a scan across the network looking for misconfigured or infected devices.
+       </p>
+      </div>
+     </div>
+    </div>
+    <div class="cf-error-footer cf-wrapper w-240 lg:w-full py-10 sm:py-4 sm:px-8 mx-auto text-center sm:text-left border-solid border-0 border-t border-gray-300">
+     <p class="text-13">
+      <span class="cf-footer-item sm:block sm:mb-1">
+       Cloudflare Ray ID:
+       <strong class="font-semibold">
+        6cb1c9f28f400fb5
+       </strong>
+      </span>
+      <span class="cf-footer-separator sm:hidden">
+       •
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1">
+       <span>
+        Your IP
+       </span>
+       : 203.241.220.252
+      </span>
+      <span class="cf-footer-separator sm:hidden">
+       •
+      </span>
+      <span class="cf-footer-item sm:block sm:mb-1">
+       <span>
+        Performance &amp; security by
+       </span>
+       <a href="https://www.cloudflare.com/5xx-error-landing" id="brand_link" rel="noopener noreferrer" target="_blank">
+        Cloudflare
+       </a>
+      </span>
+     </p>
+    </div>
+    <!-- /.error-footer -->
    </div>
   </div>
-  <script src="https://journals.pan.pl/style/dlibra/default/js/custom.js" type="text/javascript">
-  </script>
-  <script src="https://journals.pan.pl/style/dlibra/default/js/main.min.js" type="text/javascript">
+  <script type="text/javascript">
+   window._cf_translation = {};
   </script>
  </body>
 </html>

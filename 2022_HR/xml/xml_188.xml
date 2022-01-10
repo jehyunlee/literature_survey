@@ -668,63 +668,63 @@
          <div class="c-article-section__content" id="Sec1-content">
           <p>
            Supercapacitors were identified as promising energy storage devices due to their high power density, fast charge–discharge ability, long-term durability, light weight, and low environmental impact [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d24292858e545" title="Shen L, Wang J, Xu G, Li H, Dou H, Zhang X (2015) NiCo2S4 nanosheets grown on nitrogen-doped carbon foams as an advanced electrode for supercapacitors. Adv Energy Mater 5(3):1400977. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR1" id="ref-link-section-d276037710e545" title="Shen L, Wang J, Xu G, Li H, Dou H, Zhang X (2015) NiCo2S4 nanosheets grown on nitrogen-doped carbon foams as an advanced electrode for supercapacitors. Adv Energy Mater 5(3):1400977. 
 https://doi.org/10.1002/aenm.201400977
 
 ">
             1
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d24292858e545_1" title="Zhao Y, Liu S, Zhang B, Zhou J, Xie W, Li H (2018) One-step synthesis of mesoporous chlorine-doped carbonated cobalt hydroxide nanowires for high-performance supercapacitors electrode. Nanoscale Res Lett 13(1):415. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR2" id="ref-link-section-d276037710e545_1" title="Zhao Y, Liu S, Zhang B, Zhou J, Xie W, Li H (2018) One-step synthesis of mesoporous chlorine-doped carbonated cobalt hydroxide nanowires for high-performance supercapacitors electrode. Nanoscale Res Lett 13(1):415. 
 https://doi.org/10.1186/s11671-018-2791-z
 
 ">
             2
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR3" id="ref-link-section-d24292858e545_2" title="Shen L, Yu L, Wu HB, Yu X-Y, Zhang X, Lou XW (2015) Formation of nickel cobalt sulfide ball-in-ball hollow spheres with enhanced electrochemical pseudocapacitive properties. Nat Commun 6(1):6694. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR3" id="ref-link-section-d276037710e545_2" title="Shen L, Yu L, Wu HB, Yu X-Y, Zhang X, Lou XW (2015) Formation of nickel cobalt sulfide ball-in-ball hollow spheres with enhanced electrochemical pseudocapacitive properties. Nat Commun 6(1):6694. 
 https://doi.org/10.1038/ncomms7694
 
 ">
             3
            </a>
            ,
-           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR4" id="ref-link-section-d24292858e548" title="Simon P, Gogotsi Y (2008) Materials for electrochemical capacitors. Nat Mater 7(11):845–854. 
+           <a aria-label="Reference 4" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR4" id="ref-link-section-d276037710e548" title="Simon P, Gogotsi Y (2008) Materials for electrochemical capacitors. Nat Mater 7(11):845–854. 
 https://doi.org/10.1038/nmat2297
 
 ">
             4
            </a>
            ]. With respect to their storage mechanism, supercapacitors have been classified as electrical double-layer capacitors (EDLC) and pseudocapacitors (PC) [
-           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR5" id="ref-link-section-d24292858e551" title="Karuppannan M, Kim Y, Sung Y-E, Kwon OJ (2018) Nitrogen-rich hollow carbon spheres decorated with FeCo/fluorine-rich carbon for high performance symmetric supercapacitors. J Mater Chem A 6(17):7522–7531. 
+           <a aria-label="Reference 5" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR5" id="ref-link-section-d276037710e551" title="Karuppannan M, Kim Y, Sung Y-E, Kwon OJ (2018) Nitrogen-rich hollow carbon spheres decorated with FeCo/fluorine-rich carbon for high performance symmetric supercapacitors. J Mater Chem A 6(17):7522–7531. 
 https://doi.org/10.1039/C8TA00028J
 
 ">
             5
            </a>
            ,
-           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR6" id="ref-link-section-d24292858e554" title="Miller JR, Simon P (2008) Electrochemical capacitors for energy management. Science 321(5889):651. 
+           <a aria-label="Reference 6" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR6" id="ref-link-section-d276037710e554" title="Miller JR, Simon P (2008) Electrochemical capacitors for energy management. Science 321(5889):651. 
 https://doi.org/10.1126/science.1158736
 
 ">
             6
            </a>
            ]. EDLCs store charge between the electrode/electrolyte interface, and PCs save the energy through faradaic redox reactions. EDLCs based on carbon materials have less energy storage capability than PCs fabricated with transition metal hydroxides/oxides and conduction polymers [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d24292858e557" title="Li H, Gao Y, Wang C, Yang G (2015) A simple electrochemical route to access amorphous mixed-metal hydroxides for supercapacitor electrode materials. Adv Energy Mater 5(6):1401767. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR7" id="ref-link-section-d276037710e557" title="Li H, Gao Y, Wang C, Yang G (2015) A simple electrochemical route to access amorphous mixed-metal hydroxides for supercapacitor electrode materials. Adv Energy Mater 5(6):1401767. 
 https://doi.org/10.1002/aenm.201401767
 
 ">
             7
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d24292858e557_1" title="Fan L-Z, Hu Y-S, Maier J, Adelhelm P, Smarsly B, Antonietti M (2007) High electroactivity of polyaniline in supercapacitors by using a hierarchically porous carbon monolith as a support. Adv Funct Mater 17(16):3083–3087. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR8" id="ref-link-section-d276037710e557_1" title="Fan L-Z, Hu Y-S, Maier J, Adelhelm P, Smarsly B, Antonietti M (2007) High electroactivity of polyaniline in supercapacitors by using a hierarchically porous carbon monolith as a support. Adv Funct Mater 17(16):3083–3087. 
 https://doi.org/10.1002/adfm.200700518
 
 ">
             8
            </a>
            ,
-           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR9" id="ref-link-section-d24292858e561" title="Karuppannan M, Kim Y, Sung Y-E, Kwon OJ (2019) Nitrogen and sulfur co-doped graphene-like carbon sheets derived from coir pith bio-waste for symmetric supercapacitor applications. J Appl Electrochem 49(1):57–66. 
+           <a aria-label="Reference 9" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR9" id="ref-link-section-d276037710e561" title="Karuppannan M, Kim Y, Sung Y-E, Kwon OJ (2019) Nitrogen and sulfur co-doped graphene-like carbon sheets derived from coir pith bio-waste for symmetric supercapacitor applications. J Appl Electrochem 49(1):57–66. 
 https://doi.org/10.1007/s10800-018-1276-1
 
 ">
@@ -735,35 +735,35 @@ https://doi.org/10.1007/s10800-018-1276-1
             2
            </sub>
            [
-           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR10" id="ref-link-section-d24292858e566" title="Tao F, Zhao Y-Q, Zhang G-Q, Li H-L (2007) Electrochemical characterization on cobalt sulfide for electrochemical supercapacitors. Electrochem Commun 9(6):1282–1287. 
+           <a aria-label="Reference 10" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR10" id="ref-link-section-d276037710e566" title="Tao F, Zhao Y-Q, Zhang G-Q, Li H-L (2007) Electrochemical characterization on cobalt sulfide for electrochemical supercapacitors. Electrochem Commun 9(6):1282–1287. 
 https://doi.org/10.1016/j.elecom.2006.11.022
 
 ">
             10
            </a>
            ], NiS [
-           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR11" id="ref-link-section-d24292858e569" title="Wei W, Mi L, Gao Y, Zheng Z, Chen W, Guan X (2014) Partial ion-exchange of nickel-sulfide-derived electrodes for high performance supercapacitors. Chem Mater 26(11):3418–3426. 
+           <a aria-label="Reference 11" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR11" id="ref-link-section-d276037710e569" title="Wei W, Mi L, Gao Y, Zheng Z, Chen W, Guan X (2014) Partial ion-exchange of nickel-sulfide-derived electrodes for high performance supercapacitors. Chem Mater 26(11):3418–3426. 
 https://doi.org/10.1021/cm5006482
 
 ">
             11
            </a>
            ], MoS [
-           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR12" id="ref-link-section-d24292858e572" title="Javed MS, Dai S, Wang M, Guo D, Chen L, Wang X, Hu C, Xi Y (2015) High performance solid state flexible supercapacitor based on molybdenum sulfide hierarchical nanospheres. J Power Sources 285:63–69. 
+           <a aria-label="Reference 12" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR12" id="ref-link-section-d276037710e572" title="Javed MS, Dai S, Wang M, Guo D, Chen L, Wang X, Hu C, Xi Y (2015) High performance solid state flexible supercapacitor based on molybdenum sulfide hierarchical nanospheres. J Power Sources 285:63–69. 
 https://doi.org/10.1016/j.jpowsour.2015.03.079
 
 ">
             12
            </a>
            ], and CuS [
-           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR13" id="ref-link-section-d24292858e575" title="Hsu Y-K, Chen Y-C, Lin Y-G (2014) Synthesis of copper sulfide nanowire arrays for high-performance supercapacitors. Electrochim Acta 139:401–407. 
+           <a aria-label="Reference 13" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR13" id="ref-link-section-d276037710e575" title="Hsu Y-K, Chen Y-C, Lin Y-G (2014) Synthesis of copper sulfide nanowire arrays for high-performance supercapacitors. Electrochim Acta 139:401–407. 
 https://doi.org/10.1016/j.electacta.2014.06.138
 
 ">
             13
            </a>
            ], have gained more attention due to their electrical conductivity and better electrochemical activity [
-           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR14" id="ref-link-section-d24292858e579" title="Yang J, Ma M, Sun C, Zhang Y, Huang W, Dong X (2015) Hybrid NiCo2S4@MnO2 heterostructures for high-performance supercapacitor electrodes. J Mater Chem A 3(3):1258–1264. 
+           <a aria-label="Reference 14" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR14" id="ref-link-section-d276037710e579" title="Yang J, Ma M, Sun C, Zhang Y, Huang W, Dong X (2015) Hybrid NiCo2S4@MnO2 heterostructures for high-performance supercapacitor electrodes. J Mater Chem A 3(3):1258–1264. 
 https://doi.org/10.1039/C4TA05747C
 
 ">
@@ -789,7 +789,7 @@ https://doi.org/10.1039/C4TA05747C
             −2
            </sup>
            [
-           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR15" id="ref-link-section-d24292858e593" title="Bao S-J, Li CM, Guo C-X, Qiao Y (2008) Biomolecule-assisted synthesis of cobalt sulfide nanowires for application in supercapacitors. J Power Sources 180(1):676–681. 
+           <a aria-label="Reference 15" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR15" id="ref-link-section-d276037710e593" title="Bao S-J, Li CM, Guo C-X, Qiao Y (2008) Biomolecule-assisted synthesis of cobalt sulfide nanowires for application in supercapacitors. J Power Sources 180(1):676–681. 
 https://doi.org/10.1016/j.jpowsour.2008.01.085
 
 ">
@@ -804,7 +804,7 @@ https://doi.org/10.1016/j.jpowsour.2008.01.085
             −1
            </sup>
            [
-           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR16" id="ref-link-section-d24292858e601" title="Wan H, Ji X, Jiang J, Yu J, Miao L, Zhang L, Bie S, Chen H, Ruan Y (2013) Hydrothermal synthesis of cobalt sulfide nanotubes: the size control and its application in supercapacitors. J Power Sources 243:396–402. 
+           <a aria-label="Reference 16" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR16" id="ref-link-section-d276037710e601" title="Wan H, Ji X, Jiang J, Yu J, Miao L, Zhang L, Bie S, Chen H, Ruan Y (2013) Hydrothermal synthesis of cobalt sulfide nanotubes: the size control and its application in supercapacitors. J Power Sources 243:396–402. 
 https://doi.org/10.1016/j.jpowsour.2013.06.027
 
 ">
@@ -819,7 +819,7 @@ https://doi.org/10.1016/j.jpowsour.2013.06.027
             −1
            </sup>
            [
-           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR17" id="ref-link-section-d24292858e608" title="Jiang Z, Lu W, Li Z, Ho KH, Li X, Jiao X, Chen D (2014) Synthesis of amorphous cobalt sulfide polyhedral nanocages for high performance supercapacitors. J Mater Chem A 2(23):8603–8606. 
+           <a aria-label="Reference 17" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR17" id="ref-link-section-d276037710e608" title="Jiang Z, Lu W, Li Z, Ho KH, Li X, Jiao X, Chen D (2014) Synthesis of amorphous cobalt sulfide polyhedral nanocages for high performance supercapacitors. J Mater Chem A 2(23):8603–8606. 
 https://doi.org/10.1039/C3TA14430E
 
 ">
@@ -834,7 +834,7 @@ https://doi.org/10.1039/C3TA14430E
             −1
            </sup>
            [
-           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR18" id="ref-link-section-d24292858e616" title="Han X, Tao K, Wang D, Han L (2018) Design of a porous cobalt sulfide nanosheet array on Ni foam from zeolitic imidazolate frameworks as an advanced electrode for supercapacitors. Nanoscale 10(6):2735–2741. 
+           <a aria-label="Reference 18" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR18" id="ref-link-section-d276037710e616" title="Han X, Tao K, Wang D, Han L (2018) Design of a porous cobalt sulfide nanosheet array on Ni foam from zeolitic imidazolate frameworks as an advanced electrode for supercapacitors. Nanoscale 10(6):2735–2741. 
 https://doi.org/10.1039/C7NR07931A
 
 ">
@@ -860,7 +860,7 @@ https://doi.org/10.1039/C7NR07931A
             −2
            </sup>
            [
-           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR19" id="ref-link-section-d24292858e630" title="Zhang Y, Xu J, Zhang Y, Zheng Y, Hu X, Liu Z (2017) Facile fabrication of flower-like CuCo2S4 on Ni foam for supercapacitor application. J Mater Sci 52(16):9531–9538. 
+           <a aria-label="Reference 19" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR19" id="ref-link-section-d276037710e630" title="Zhang Y, Xu J, Zhang Y, Zheng Y, Hu X, Liu Z (2017) Facile fabrication of flower-like CuCo2S4 on Ni foam for supercapacitor application. J Mater Sci 52(16):9531–9538. 
 https://doi.org/10.1007/s10853-017-1119-1
 
 ">
@@ -883,7 +883,7 @@ https://doi.org/10.1007/s10853-017-1119-1
             −1
            </sup>
            was attained [
-           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR20" id="ref-link-section-d24292858e642" title="Zhang F, Cho M, Eom T, Kang C, Lee H (2019) Facile synthesis of manganese cobalt sulfide nanoparticles as high-performance supercapacitor electrode. Ceram Int 45(16):20972–20976. 
+           <a aria-label="Reference 20" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR20" id="ref-link-section-d276037710e642" title="Zhang F, Cho M, Eom T, Kang C, Lee H (2019) Facile synthesis of manganese cobalt sulfide nanoparticles as high-performance supercapacitor electrode. Ceram Int 45(16):20972–20976. 
 https://doi.org/10.1016/j.ceramint.2019.06.240
 
 ">
@@ -898,7 +898,7 @@ https://doi.org/10.1016/j.ceramint.2019.06.240
             −1
            </sup>
            [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR21" id="ref-link-section-d24292858e650" title="Al Haj Y, Balamurugan J, Kim NH, Lee JH (2019) Nitrogen-doped graphene encapsulated cobalt iron sulfide as an advanced electrode for high-performance asymmetric supercapacitors. J Mater Chem A 7(8):3941–3952. 
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR21" id="ref-link-section-d276037710e650" title="Al Haj Y, Balamurugan J, Kim NH, Lee JH (2019) Nitrogen-doped graphene encapsulated cobalt iron sulfide as an advanced electrode for high-performance asymmetric supercapacitors. J Mater Chem A 7(8):3941–3952. 
 https://doi.org/10.1039/C8TA12396A
 
 ">
@@ -913,7 +913,7 @@ https://doi.org/10.1039/C8TA12396A
             −1
            </sup>
            [
-           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR22" id="ref-link-section-d24292858e657" title="Yang J, Yu C, Fan X, Liang S, Li S, Huang H, Ling Z, Hao C, Qiu J (2016) Electroactive edge site-enriched nickel–cobalt sulfide into graphene frameworks for high-performance asymmetric supercapacitors. Energy Environ Sci 9(4):1299–1307. 
+           <a aria-label="Reference 22" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR22" id="ref-link-section-d276037710e657" title="Yang J, Yu C, Fan X, Liang S, Li S, Huang H, Ling Z, Hao C, Qiu J (2016) Electroactive edge site-enriched nickel–cobalt sulfide into graphene frameworks for high-performance asymmetric supercapacitors. Energy Environ Sci 9(4):1299–1307. 
 https://doi.org/10.1039/C5EE03633J
 
 ">
@@ -1071,7 +1071,7 @@ https://doi.org/10.1039/C5EE03633J
             cell
            </sub>
            ) using a following equation [
-           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR23" id="ref-link-section-d24292858e752" title="Guo M, Balamurugan J, Li X, Kim NH, Lee JH (2017) Hierarchical 3D cobalt-doped Fe3O4 nanospheres@NG hybrid as an advanced anode material for high-performance asymmetric supercapacitors. Small 13(33):1701275. 
+           <a aria-label="Reference 23" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR23" id="ref-link-section-d276037710e752" title="Guo M, Balamurugan J, Li X, Kim NH, Lee JH (2017) Hierarchical 3D cobalt-doped Fe3O4 nanospheres@NG hybrid as an advanced anode material for high-performance asymmetric supercapacitors. Small 13(33):1701275. 
 https://doi.org/10.1002/smll.201701275
 
 ">
@@ -1368,7 +1368,7 @@ https://doi.org/10.1002/smll.201701275
             y
            </sub>
            crystals [
-           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR24" id="ref-link-section-d24292858e1149" title="Meng X, Sun H, Zhu J, Bi H, Han Q, Liu X, Wang X (2016) Graphene-based cobalt sulfide composite hydrogel with enhanced electrochemical properties for supercapacitors. New J Chem 40(3):2843–2849. 
+           <a aria-label="Reference 24" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR24" id="ref-link-section-d276037710e1149" title="Meng X, Sun H, Zhu J, Bi H, Han Q, Liu X, Wang X (2016) Graphene-based cobalt sulfide composite hydrogel with enhanced electrochemical properties for supercapacitors. New J Chem 40(3):2843–2849. 
 https://doi.org/10.1039/C5NJ03423J
 
 ">
@@ -1472,7 +1472,7 @@ https://doi.org/10.1039/C5NJ03423J
             4
            </a>
            d. In addition, the N 1s spectrum was deconvoluted into four peaks which correspond to pyridinic-N (398.1 eV), pyrrolic-N (399.1 eV), graphitic-N (400.6 eV), and pyridinic N-oxide (401.3 eV). The C 1s and N 1s spectra are displayed in Fig. S4. XPS spectra reveal that cobalt and iron metals exist in multiple oxidation states which may be helpful for boosting the energy storage performance in Co–Fe–S materials [
-           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR21" id="ref-link-section-d24292858e1210" title="Al Haj Y, Balamurugan J, Kim NH, Lee JH (2019) Nitrogen-doped graphene encapsulated cobalt iron sulfide as an advanced electrode for high-performance asymmetric supercapacitors. J Mater Chem A 7(8):3941–3952. 
+           <a aria-label="Reference 21" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR21" id="ref-link-section-d276037710e1210" title="Al Haj Y, Balamurugan J, Kim NH, Lee JH (2019) Nitrogen-doped graphene encapsulated cobalt iron sulfide as an advanced electrode for high-performance asymmetric supercapacitors. J Mater Chem A 7(8):3941–3952. 
 https://doi.org/10.1039/C8TA12396A
 
 ">
@@ -1560,7 +1560,7 @@ https://doi.org/10.1039/C8TA12396A
             −
            </sup>
            ions [
-           <a aria-label="Reference 25" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR25" id="ref-link-section-d24292858e1262" title="Tang S, Zhu B, Shi X, Wu J, Meng X (2017) General controlled sulfidation toward achieving novel nanosheet-built porous square-FeCo2S4-tube arrays for high-performance asymmetric all-solid-state pseudocapacitors. Adv Energy Mater 7(6):1601985. 
+           <a aria-label="Reference 25" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR25" id="ref-link-section-d276037710e1262" title="Tang S, Zhu B, Shi X, Wu J, Meng X (2017) General controlled sulfidation toward achieving novel nanosheet-built porous square-FeCo2S4-tube arrays for high-performance asymmetric all-solid-state pseudocapacitors. Adv Energy Mater 7(6):1601985. 
 https://doi.org/10.1002/aenm.201601985
 
 ">
@@ -1724,7 +1724,7 @@ https://doi.org/10.1002/aenm.201601985
             −1
            </sup>
            current density, Co–Fe–S-1, Co–Fe–S-2, and Co–Fe–S-3 electrodes retained rate capacities of 74.7%, 66.4%, and 65.9% compared to their initial specific capacitance. Co–Fe–S-1 electrodes demonstrated slightly higher capacity retention compared to other electrodes due to their higher carbon content which enables better electronic transport through the electrodes at high current density [
-           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR26" id="ref-link-section-d24292858e1361" title="Qu C, Zhang L, Meng W, Liang Z, Zhu B, Dang D, Dai S, Zhao B, Tabassum H, Gao S, Zhang H, Guo W, Zhao R, Huang X, Liu M, Zou R (2018) MOF-derived α-NiS nanorods on graphene as an electrode for high-energy-density supercapacitors. J Mater Chem A 6(9):4003–4012. 
+           <a aria-label="Reference 26" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR26" id="ref-link-section-d276037710e1361" title="Qu C, Zhang L, Meng W, Liang Z, Zhu B, Dang D, Dai S, Zhao B, Tabassum H, Gao S, Zhang H, Guo W, Zhao R, Huang X, Liu M, Zou R (2018) MOF-derived α-NiS nanorods on graphene as an electrode for high-energy-density supercapacitors. J Mater Chem A 6(9):4003–4012. 
 https://doi.org/10.1039/C7TA11100B
 
 ">
@@ -1931,28 +1931,28 @@ https://doi.org/10.1039/C7TA11100B
             −1
            </sup>
            , respectively. Ragone plot clearly indicates that Co–Fe–S-2//AC device delivered higher energy density than other two ASC devices as well as recently reported devices [
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR27" id="ref-link-section-d24292858e1486" title="Li L, Ding Y, Huang H, Yu D, Zhang S, Chen H-Y, Ramakrishna S, Peng S (2019) Controlled synthesis of unique Co9S8 nanostructures with carbon coating as advanced electrode for solid-state asymmetric supercapacitors. J Colloid Interface Sci 540:389–397. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR27" id="ref-link-section-d276037710e1486" title="Li L, Ding Y, Huang H, Yu D, Zhang S, Chen H-Y, Ramakrishna S, Peng S (2019) Controlled synthesis of unique Co9S8 nanostructures with carbon coating as advanced electrode for solid-state asymmetric supercapacitors. J Colloid Interface Sci 540:389–397. 
 https://doi.org/10.1016/j.jcis.2019.01.002
 
 ">
             27
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR28" id="ref-link-section-d24292858e1486_1" title="Zhao Y, Huang C, He Y, Wu X, Ge R, Zu X, Li S, Qiao L (2020) High-performance asymmetric supercapacitors realized by copper cobalt sulfide crumpled nanoflower and N, F co-doped hierarchical nanoporous carbon polyhedron. J Power Sources 456:228023. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR28" id="ref-link-section-d276037710e1486_1" title="Zhao Y, Huang C, He Y, Wu X, Ge R, Zu X, Li S, Qiao L (2020) High-performance asymmetric supercapacitors realized by copper cobalt sulfide crumpled nanoflower and N, F co-doped hierarchical nanoporous carbon polyhedron. J Power Sources 456:228023. 
 https://doi.org/10.1016/j.jpowsour.2020.228023
 
 ">
             28
            </a>
            ,
-           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR29" id="ref-link-section-d24292858e1486_2" title="Du J, Yan Q, Li Y, Cheng K, Ye K, Zhu K, Yan J, Cao D, Zhang X, Wang G (2019) Hierarchical copper cobalt sulfides nanowire arrays for high-performance asymmetric supercapacitors. Appl Surf Sci 487:198–205. 
+           <a data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="#ref-CR29" id="ref-link-section-d276037710e1486_2" title="Du J, Yan Q, Li Y, Cheng K, Ye K, Zhu K, Yan J, Cao D, Zhang X, Wang G (2019) Hierarchical copper cobalt sulfides nanowire arrays for high-performance asymmetric supercapacitors. Appl Surf Sci 487:198–205. 
 https://doi.org/10.1016/j.apsusc.2019.04.275
 
 ">
             29
            </a>
            ,
-           <a aria-label="Reference 30" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR30" id="ref-link-section-d24292858e1489" title="Le K, Gao M, Liu W, Liu J, Wang Z, Wang F, Murugadoss V, Wu S, Ding T, Guo Z (2019) MOF-derived hierarchical core-shell hollow iron-cobalt sulfides nanoarrays on Ni foam with enhanced electrochemical properties for high energy density asymmetric supercapacitors. Electrochim Acta 323:134826. 
+           <a aria-label="Reference 30" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s10800-020-01466-5#ref-CR30" id="ref-link-section-d276037710e1489" title="Le K, Gao M, Liu W, Liu J, Wang Z, Wang F, Murugadoss V, Wu S, Ding T, Guo Z (2019) MOF-derived hierarchical core-shell hollow iron-cobalt sulfides nanoarrays on Ni foam with enhanced electrochemical properties for high energy density asymmetric supercapacitors. Electrochim Acta 323:134826. 
 https://doi.org/10.1016/j.electacta.2019.134826
 
 ">

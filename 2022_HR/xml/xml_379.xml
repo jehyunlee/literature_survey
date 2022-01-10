@@ -39,7 +39,7 @@ if (pageName == "") {
   <input id="id" name="id" type="hidden" value="S135983682100442X"/>
   <input id="resultName" name="resultName" type="hidden" value="articleSelectSinglePerm"/>
   <script type="text/javascript">
-   window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam-cell.nr-data.net","licenseKey":"ee15051b1b","agent":"","beacon":"bam-cell.nr-data.net","applicationTime":48,"applicationID":"81847441","transactionName":"ZFBWNhBVWUpUWkBcC10aZxYQQUNKdFpAXAtdGkQLCxtkCAYMDQ1XBQ0GU1IEAw0HYQ==","queueTime":0}
+   window.NREUM||(NREUM={});NREUM.info={"errorBeacon":"bam-cell.nr-data.net","licenseKey":"ee15051b1b","agent":"","beacon":"bam-cell.nr-data.net","applicationTime":42,"applicationID":"81847441","transactionName":"ZFBWNhBVWUpUWkBcC10aZxYQQUNKdFpAXAtdGkQLCxtkCAYMDQ1XBQ0GU1IEAw0HYQ==","queueTime":0}
   </script>
   <script>
    siteCatalyst.pageDataLoad({

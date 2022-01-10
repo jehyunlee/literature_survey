@@ -610,11 +610,11 @@
           </p>
           <p>
            In the meantime, most existing studies do not explicitly consider the thermal sensor noise, which is substantial and common on microprocessors in practice (Rotem et al.
-           <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d88426733e500" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
+           <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d159108189e500" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
             2006
            </a>
            ; Long et al.
-           <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d88426733e503" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
+           <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d159108189e503" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
             2008
            </a>
            ). Though varied by several factors such as sensor accuracy, sensor placement, and processor architecture, the difference between sensor reading and the actual hotspot temperature can frequently be as large as
@@ -622,11 +622,11 @@
             \(10\,^{\circ }\mathrm{C}\)
            </span>
            (Rotem et al.
-           <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d88426733e521" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
+           <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d159108189e521" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
             2006
            </a>
            ; Long et al.
-           <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d88426733e524" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
+           <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d159108189e524" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
             2008
            </a>
            ). Accordingly, we need to develop a thermal control scheme that can address
@@ -702,144 +702,144 @@
          <div class="c-article-section__content" id="Sec2-content">
           <p>
            As the power density of CPU increases, thermal hotspots and severe temperature variations on the die may occur. Accordingly, thermal management mechanisms are needed to mitigate thermal problems (Kornaros and Pnevmatikatos
-           <a aria-label="Reference 2013" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR20" id="ref-link-section-d88426733e582" title="Kornaros G, Pnevmatikatos D (2013) A survey and taxonomy of on-chip monitoring of multicore systems-on-chip. ACM Trans Des Autom Electron Syst (TODAES) 18(2):17:1–17:38">
+           <a aria-label="Reference 2013" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR20" id="ref-link-section-d159108189e582" title="Kornaros G, Pnevmatikatos D (2013) A survey and taxonomy of on-chip monitoring of multicore systems-on-chip. ACM Trans Des Autom Electron Syst (TODAES) 18(2):17:1–17:38">
             2013
            </a>
            ; Prakash et al.
-           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR26" id="ref-link-section-d88426733e585" title="Prakash A, Amrouch H, Shafique M, Mitra T, Henkel J (2016) Improving mobile gaming performance through cooperative cpu-gpu thermal management. In: Proceedings of the 53rd annual design automation conference">
+           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR26" id="ref-link-section-d159108189e585" title="Prakash A, Amrouch H, Shafique M, Mitra T, Henkel J (2016) Improving mobile gaming performance through cooperative cpu-gpu thermal management. In: Proceedings of the 53rd annual design automation conference">
             2016
            </a>
            ; Khairnasov and Naumova
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR18" id="ref-link-section-d88426733e588" title="Khairnasov S, Naumova A (2015) Heat pipes application in electronics thermal control systems. Front Heat Pipes (FHP)">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR18" id="ref-link-section-d159108189e588" title="Khairnasov S, Naumova A (2015) Heat pipes application in electronics thermal control systems. Front Heat Pipes (FHP)">
             2015
            </a>
            ). In Beneventi et al. (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR6" id="ref-link-section-d88426733e591" title="Beneventi F, Bartolini A, Tilli A, Benini L (2014) An effective gray-box identification procedure for multicore thermal modeling. IEEE Trans Comput 63(5):1097–1110">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR6" id="ref-link-section-d159108189e591" title="Beneventi F, Bartolini A, Tilli A, Benini L (2014) An effective gray-box identification procedure for multicore thermal modeling. IEEE Trans Comput 63(5):1097–1110">
             2014
            </a>
            ), the authors present a gray box approach to system identification of thermal model to acquire more accurate thermal model. Utilization-aware power management is proposed in reliable processors that switches the power level of processors to increase energy efficiency and prevent excess of supplied power (Avirneni et al.
-           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR2" id="ref-link-section-d88426733e594" title="Avirneni NDP, Ramesh PK, Somani AK (2016) Utilization aware power management in reliable and aggressive chip multi processors. IEEE Trans Comput 65(3):979–991">
+           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR2" id="ref-link-section-d159108189e594" title="Avirneni NDP, Ramesh PK, Somani AK (2016) Utilization aware power management in reliable and aggressive chip multi processors. IEEE Trans Comput 65(3):979–991">
             2016
            </a>
            ). In addition, thermal management techniques of CPU for cyber-physical systems (CPS) are recently studied in Krishna and Koren (
-           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR22" id="ref-link-section-d88426733e598" title="Krishna C, Koren I (2017) Thermal-aware management techniques for cyber-physical systems. Sustain Comput 15:39–51">
+           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR22" id="ref-link-section-d159108189e598" title="Krishna C, Koren I (2017) Thermal-aware management techniques for cyber-physical systems. Sustain Comput 15:39–51">
             2017
            </a>
            ).
           </p>
           <p>
            Especially, in real-time systems, there is a need for a CPU thermal control technique that takes into account real-time constraints (Pathan
-           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR25" id="ref-link-section-d88426733e604" title="Pathan RM (2017) Real-time scheduling algorithm for safety-critical systems on faulty multicore environments. Real-Time Syst 53(1):45–81">
+           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR25" id="ref-link-section-d159108189e604" title="Pathan RM (2017) Real-time scheduling algorithm for safety-critical systems on faulty multicore environments. Real-Time Syst 53(1):45–81">
             2017
            </a>
            ). To this end, thermal-aware real-time scheduling has been extensively studied  (Chantem et al.
-           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR7" id="ref-link-section-d88426733e607" title="Chantem T, Hu XS, Dick RP (2011) Temperature-aware scheduling and assignment for hard real-time applications on mpsocs. IEEE Trans Very Large Scale Integr VLSI Syst 19(10):1884–1897">
+           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR7" id="ref-link-section-d159108189e607" title="Chantem T, Hu XS, Dick RP (2011) Temperature-aware scheduling and assignment for hard real-time applications on mpsocs. IEEE Trans Very Large Scale Integr VLSI Syst 19(10):1884–1897">
             2011
            </a>
            ; Sheikh et al.
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR30" id="ref-link-section-d88426733e610" title="Sheikh HF, Ahmad I, Wang Z, Ranka S (2012) An overview and classification of thermal-aware scheduling techniques for multi-core processing systems. Sustain Comput 2(3):151–169">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR30" id="ref-link-section-d159108189e610" title="Sheikh HF, Ahmad I, Wang Z, Ranka S (2012) An overview and classification of thermal-aware scheduling techniques for multi-core processing systems. Sustain Comput 2(3):151–169">
             2012
            </a>
            ; Tsai et al.
-           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR31" id="ref-link-section-d88426733e613" title="Tsai TH, Chen YS, He XX, Li CY (2017) Stem: a thermal-constrained real-time scheduling for 3d heterogeneous-isa multicore processors. IEEE Trans Comput">
+           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR31" id="ref-link-section-d159108189e613" title="Tsai TH, Chen YS, He XX, Li CY (2017) Stem: a thermal-constrained real-time scheduling for 3d heterogeneous-isa multicore processors. IEEE Trans Comput">
             2017
            </a>
            ; Zhou and Wei
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR34" id="ref-link-section-d88426733e616" title="Zhou J, Wei T (2015) Stochastic thermal-aware real-time task scheduling with considerations of soft errors. J Syst Softw 102:123–133">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR34" id="ref-link-section-d159108189e616" title="Zhou J, Wei T (2015) Stochastic thermal-aware real-time task scheduling with considerations of soft errors. J Syst Softw 102:123–133">
             2015
            </a>
            ; Zhou et al.
-           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR35" id="ref-link-section-d88426733e620" title="Zhou J, Wei T, Chen M, Yan J, Hu XS, Ma Y (2016) Thermal-aware task scheduling for energy minimization in heterogeneous real-time mpsoc systems. IEEE Trans Comput Aided Des Integr Circuits Syst 35(8):1269–1282">
+           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR35" id="ref-link-section-d159108189e620" title="Zhou J, Wei T, Chen M, Yan J, Hu XS, Ma Y (2016) Thermal-aware task scheduling for energy minimization in heterogeneous real-time mpsoc systems. IEEE Trans Comput Aided Des Integr Circuits Syst 35(8):1269–1282">
             2016
            </a>
            ; Mohaqeqi et al.
-           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR24" id="ref-link-section-d88426733e623" title="Mohaqeqi M, Kargahi M, Fouladi K (2016) Stochastic thermal control of a multicore real-time system. In: Proc. 24th Euromicro international conference on parallel, distributed, and network-based processing (PDP), pp 208–215">
+           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR24" id="ref-link-section-d159108189e623" title="Mohaqeqi M, Kargahi M, Fouladi K (2016) Stochastic thermal control of a multicore real-time system. In: Proc. 24th Euromicro international conference on parallel, distributed, and network-based processing (PDP), pp 208–215">
             2016
            </a>
            ; Ahmed et al.
-           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR1" id="ref-link-section-d88426733e626" title="Ahmed R, Ramanathan P, Saluja KK (2016) Necessary and sufficient conditions for thermal schedulability of periodic real-time tasks under fluid scheduling model. ACM Trans Embed Comput Syst (TECS) 15(3):49">
+           <a aria-label="Reference 2016" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR1" id="ref-link-section-d159108189e626" title="Ahmed R, Ramanathan P, Saluja KK (2016) Necessary and sufficient conditions for thermal schedulability of periodic real-time tasks under fluid scheduling model. ACM Trans Embed Comput Syst (TECS) 15(3):49">
             2016
            </a>
            ). Nevertheless, these approaches typically rely on accurate system models of thermal dynamics, task execution times, power consumption, and ambient temperature. In practice, these models may not be sufficiently accurate due to various environmental changes.
           </p>
           <p>
            There is another line of research on thermal control for real-time systems such as Saen et al. (
-           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR28" id="ref-link-section-d88426733e632" title="Saen M, Osada K, Misaka S, Yamada T, Tsujimoto Y, Kondoh Y, Kamei T, Yoshida Y, Nagahama E, Nitta Y, et al (2007) Embedded soc resource manager to control temperature and data bandwidth. In: Proc. international solid-state circuits conference (ISSCC)">
+           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR28" id="ref-link-section-d159108189e632" title="Saen M, Osada K, Misaka S, Yamada T, Tsujimoto Y, Kondoh Y, Kamei T, Yoshida Y, Nagahama E, Nitta Y, et al (2007) Embedded soc resource manager to control temperature and data bandwidth. In: Proc. international solid-state circuits conference (ISSCC)">
             2007
            </a>
            ) and Floyd et al. (
-           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR12" id="ref-link-section-d88426733e635" title="Floyd MS, Ghiasi S, Keller TW, Rajamani K, Rawson F, Rubio JC, Ware MS (2007) System power management support in the ibm power6 microprocessor. IBM J Res Dev 51(6):733–746">
+           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR12" id="ref-link-section-d159108189e635" title="Floyd MS, Ghiasi S, Keller TW, Rajamani K, Rawson F, Rubio JC, Ware MS (2007) System power management support in the ibm power6 microprocessor. IBM J Res Dev 51(6):733–746">
             2007
            </a>
            ), whose primary goal is to resolve the thermal issue by adjusting system parameters such as clock frequency, voltage and bandwidth allocation.
           </p>
           <p>
            More recently, feedback thermal control methods are proposed for precluding processor overheating by tuning the task rate or CPU power. In Yue et al. (
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR32" id="ref-link-section-d88426733e641" title="Yue J, Zhang T, Liu Y, Quan B, Tianzhou C (2012) Thermal-aware feedback control scheduling for soft real-time systems. In: Proc. international conference on high performance computing and communications &amp; international conference on embedded software and systems (HPCC-ICESS)">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR32" id="ref-link-section-d159108189e641" title="Yue J, Zhang T, Liu Y, Quan B, Tianzhou C (2012) Thermal-aware feedback control scheduling for soft real-time systems. In: Proc. international conference on high performance computing and communications &amp; international conference on embedded software and systems (HPCC-ICESS)">
             2012
            </a>
            ), a Thermal-Aware Feedback Control Scheduling (TAFCS) is proposed for soft real-time systems based on a nested feedback control loop structure called Thermal Control under Utilization Bound (TCUB) in Fu et al. (
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e644" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e644" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ). The key difference between TAFCS and TCUB is that TAFCS uses a miss rate controller instead of the utilization controller in TCUB. The feedback thermal controller outputs the miss rate reference, and based on this reference value, the miss rate controller outputs the target frequency of the CPU. On the contrary, an algorithm called Temperature Regulated Capacity Bound (TRCB) is proposed in Hettiarachchi et al. (
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR16" id="ref-link-section-d88426733e647" title="Hettiarachchi PM, Fisher N, Ahmed M, Wang LY, Wang S, Shi W (2012) The design and analysis of thermal-resilient hard-real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR16" id="ref-link-section-d159108189e647" title="Hettiarachchi PM, Fisher N, Ahmed M, Wang LY, Wang S, Shi W (2012) The design and analysis of thermal-resilient hard-real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2012
            </a>
            ), whose main goal is to design thermal-resilient hard real-time systems. In Cui et al. (
-           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR9" id="ref-link-section-d88426733e650" title="Cui Y, Zhang W, He B (2017) A variation-aware adaptive fuzzy control system for thermal management of microprocessors. IEEE Trans Very Large Scale Integr VLSI Syst 25(2):683–695">
+           <a aria-label="Reference 2017" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR9" id="ref-link-section-d159108189e650" title="Cui Y, Zhang W, He B (2017) A variation-aware adaptive fuzzy control system for thermal management of microprocessors. IEEE Trans Very Large Scale Integr VLSI Syst 25(2):683–695">
             2017
            </a>
            ), the authors propose a highly adaptive fuzzy controller for thermal management to deal with the control quality problem according to the model uncertainty of the feedback thermal control system.
           </p>
           <p>
            A thermal-aware service rate assignment problem in CPS is proposed in Chu et al. (
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR8" id="ref-link-section-d88426733e657" title="Chu HH, Tsai TH, Chen YS (2012) Thermal-aware service rate adjustment for cyber-physical systems. In: Proc. international conference on anti-counterfeiting, security and identification (ASID)">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR8" id="ref-link-section-d159108189e657" title="Chu HH, Tsai TH, Chen YS (2012) Thermal-aware service rate adjustment for cyber-physical systems. In: Proc. international conference on anti-counterfeiting, security and identification (ASID)">
             2012
            </a>
            ), where a dynamic-programming based service rate assignment is introduced within a feedback control framework in order to prevent system overheating. To evaluate the proposed scheme in Chu et al. (
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR8" id="ref-link-section-d88426733e660" title="Chu HH, Tsai TH, Chen YS (2012) Thermal-aware service rate adjustment for cyber-physical systems. In: Proc. international conference on anti-counterfeiting, security and identification (ASID)">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR8" id="ref-link-section-d159108189e660" title="Chu HH, Tsai TH, Chen YS (2012) Thermal-aware service rate adjustment for cyber-physical systems. In: Proc. international conference on anti-counterfeiting, security and identification (ASID)">
             2012
            </a>
            ), the authors introduce new performance metrics of the normalized value density, the normalized remaining power consumption, and the unfeasible ratio. A resource management for processor thermal control is proposed in Segovia et al. (
-           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR29" id="ref-link-section-d88426733e663" title="Segovia VR, Kralmark M, Lindberg M, Årzén KE (2011) Processor thermal control using adaptive bandwidth resource management. In: Proc. World Congress of the international federation of automatic control (IFAC)">
+           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR29" id="ref-link-section-d159108189e663" title="Segovia VR, Kralmark M, Lindberg M, Årzén KE (2011) Processor thermal control using adaptive bandwidth resource management. In: Proc. World Congress of the international federation of automatic control (IFAC)">
             2011
            </a>
            ), where the controller is based on the nested feedback controller structure that consists of the thermal controller and the resource manager, and then a service level table is defined for evaluating the proposed resource manager.
           </p>
           <p>
            Feedback thermal control is also extended to multicore processors in Becker et al. (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR4" id="ref-link-section-d88426733e669" title="Becker M, Sandström K, Behnam M, Nolte T (2014) Dynamic power management for thermal control of many-core real-time systems. In: Proc. workshop on adaptive and reconfigurable embedded systems (APRES)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR4" id="ref-link-section-d159108189e669" title="Becker M, Sandström K, Behnam M, Nolte T (2014) Dynamic power management for thermal control of many-core real-time systems. In: Proc. workshop on adaptive and reconfigurable embedded systems (APRES)">
             2014
            </a>
            ), where the authors propose two schemes of dynamic power management for thermal control of many-core real-time systems. Since neighboring CPUs can make more heat than separate ones, the proposed approaches spread the tasks in order to alleviate overheating between the cores. Feedback thermal control on multicore processors is also analyzed in Fu et al. (
-           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR14" id="ref-link-section-d88426733e672" title="Fu Y, Kottenstette N, Lu C, Koutsoukos XD (2012) Feedback thermal control of real-time systems on multicore processors. In: Proc. international conference on embedded software (EMSOFT)">
+           <a aria-label="Reference 2012" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR14" id="ref-link-section-d159108189e672" title="Fu Y, Kottenstette N, Lu C, Koutsoukos XD (2012) Feedback thermal control of real-time systems on multicore processors. In: Proc. international conference on embedded software (EMSOFT)">
             2012
            </a>
            ), where Real-Time Multicore Thermal Control (RT-MTC) is proposed for thermal control of multicore systems. RT-MTC controls the temperature and the utilization of multicore processors through dynamic voltage and frequency scaling (DVFS).
           </p>
           <p>
            Another direction of research is to predict the processor temperature for improving the quality of thermal control. In Yun et al. (
-           <a aria-label="Reference 2013" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR33" id="ref-link-section-d88426733e678" title="Yun B, Shin KG, Wang S (2013) Predicting thermal behavior for temperature management in time-critical multicore systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2013" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR33" id="ref-link-section-d159108189e678" title="Yun B, Shin KG, Wang S (2013) Predicting thermal behavior for temperature management in time-critical multicore systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2013
            </a>
            ), a proactive peak temperature manager (PTM) is introduced, which periodically measures future core temperature and maintains the peak temperature of the cores below a given threshold. The goal of PTM is to make all the timing constraints of the task set satisfied in time-critical multi-core systems.
           </p>
           <p>
            In summary, there has been no thermal control method for real-time systems that properly takes into account the impact of sensor measurement noise. One exception is the work in Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e684" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e684" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ), where preliminary simulation study under a limited model is reported. Here, we significantly extend the work in Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e687" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e687" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) in the following two directions. First, our analysis here is carried out under a general system architecture and plant dynamics while that in Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e690" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e690" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) is substantially limited to the so-called Internal Model Control (IMC) architecture with a first-order plant only. Second, we empirically validate our analytic results with a testbed while the performance evaluation in Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e693" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e693" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) is carried out with simulation only.
@@ -896,11 +896,11 @@
           </p>
           <p>
            Consider the thermal feedback control of  Fu et al. (
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e718" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e718" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ) where utilization level is controlled based on CPU temperature feedback in order to prevent processor overheating. This method is referred to as TCUB (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e721" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e721" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ). Figure
@@ -936,7 +936,7 @@
           </p>
           <p>
            As it turns out, the phenomenon is not due to the particular form of TCUB (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e789" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e789" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ). In fact, it takes place in any thermal control systems that achieve the target when there is no measurement noise. Detailed explanation will be given in Sect.
@@ -1007,15 +1007,15 @@
           </h4>
           <p>
            We adopt the system model in Fu et al. (
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e1129" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e1129" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ), which is introduced here for completeness. For the thermal dynamics of the processor, the well-known thermal RC model is used as follows (Ferreira et al.
-           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR11" id="ref-link-section-d88426733e1132" title="Ferreira AP, Mosse D, Oh JC (2007) Thermal faults modeling using a rc model with an application to web farms. In: Proc. Euromicro conference on real-time systems (ECRTS)">
+           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR11" id="ref-link-section-d159108189e1132" title="Ferreira AP, Mosse D, Oh JC (2007) Thermal faults modeling using a rc model with an application to web farms. In: Proc. Euromicro conference on real-time systems (ECRTS)">
             2007
            </a>
            ; Bellosa et al.
-           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d88426733e1135" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
+           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d159108189e1135" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
             2003
            </a>
            ):
@@ -1064,7 +1064,7 @@
             1
            </a>
            ) represents equation (3.3.3) in Bellosa et al. (
-           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d88426733e1256" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
+           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d159108189e1256" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
             2003
            </a>
            ), where
@@ -1094,7 +1094,7 @@
             \(T_{R}\)
            </span>
            , which is specified by system requirement. In order to achieve these objectives, TCUB has been proposed based on feedback control theory (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e1336" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e1336" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ).
@@ -1198,7 +1198,7 @@
             3
            </a>
            shows the block diagram representation of TCUB feedback thermal control system (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e1474" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e1474" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ), where
@@ -1325,7 +1325,7 @@
             k
            </i>
            th sampling period. Then, from Fu et al. (
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e1747" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e1747" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ), we use
@@ -1469,11 +1469,11 @@
             \(b=\frac{2-w_I T_s}{2+w_IT_s}\)
            </span>
            (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e2136" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e2136" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ; Kottenstette et al.
-           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR21" id="ref-link-section-d88426733e2139" title="Kottenstette N, Hall JF III, Koutsoukos X, Antsaklis P (2011) Digital control of multiple discrete passive plants over networks. Int J Syst Control Commun 3(2):194–228">
+           <a aria-label="Reference 2011" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR21" id="ref-link-section-d159108189e2139" title="Kottenstette N, Hall JF III, Koutsoukos X, Antsaklis P (2011) Digital control of multiple discrete passive plants over networks. Int J Syst Control Commun 3(2):194–228">
             2011
            </a>
            ). The constant
@@ -1511,31 +1511,31 @@
           </h3>
           <p>
            It turns out that control performance degradation in the form of bias at the system output due to zero-mean sensor noise was first reported in Eun and Hamby (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d88426733e2197" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d159108189e2197" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
             2014
            </a>
            ) for PI controlled systems with anti-windup, where the phenomenon was referred to as Noise Induced Tracking Error (NITE). The work of Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e2200" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e2200" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) discovered that NITE also occurs in thermal control systems which are designed using Internal Model Control (IMC) structure known to have an intrinsic anti-windup mechanism. In this section we provide a NITE analysis for a larger class of feedback systems. Specifically, the novelty of the current analysis compared to those of Eun and Hamby (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d88426733e2203" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d159108189e2203" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
             2014
            </a>
            ) and Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e2206" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e2206" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) are as follows. The analysis in Eun and Hamby (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d88426733e2209" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d159108189e2209" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
             2014
            </a>
            ) is limited to a PI controlled systems with specific type of anti-windup given by continuous-time dynamics. The analysis of Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e2213" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e2213" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ), on the other hand, is formulated in discrete time, and deals with an IMC type controller with only first order plant dynamics. Analysis in current work, also given in discrete time, extends the work of Kim et al. (
-           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d88426733e2216" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
+           <a aria-label="Reference 2015" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR19" id="ref-link-section-d159108189e2216" title="Kim D, Park KJ, Eun Y, Son SH, Lu C (2015) When thermal control meets sensor noise: analysis of noise-induced temperature error. In: Proc. real-time and embedded technology and applications symposium (RTAS), pp 98–107">
             2015
            </a>
            ) to control system architectures not limited to IMC type, and to the plant dynamics not limited to first order.
@@ -1845,7 +1845,7 @@
             d
            </i>
            are in the ranges where no steady-state tracking error occurs due to saturation (Eun and Hamby
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d88426733e2710" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d159108189e2710" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
             2014
            </a>
            ). If Eq. (
@@ -1872,7 +1872,7 @@
           </p>
           <p>
            According to the stochastic averaging theory (Bai et al.
-           <a aria-label="Reference 1988" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR3" id="ref-link-section-d88426733e2783" title="Bai EW, Fu LC, Sastry SS (1988) Averaging analysis for discrete time and sampled data adaptive systems. IEEE Trans Circuits Syst 35(2):137–148">
+           <a aria-label="Reference 1988" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR3" id="ref-link-section-d159108189e2783" title="Bai EW, Fu LC, Sastry SS (1988) Averaging analysis for discrete time and sampled data adaptive systems. IEEE Trans Circuits Syst 35(2):137–148">
             1988
            </a>
            ), we apply stochastic averaging to the systems of Fig.
@@ -2054,7 +2054,7 @@
             \(\text{ sat }_\alpha ^\beta (u(k))\)
            </span>
            as reported in Eun and Hamby (
-           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d88426733e3434" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
+           <a aria-label="Reference 2014" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR10" id="ref-link-section-d159108189e3434" title="Eun Y, Hamby ES (2014) Noise induced loss of tracking in systems with saturating actuators and anti-windup. ASME J Dyn Syst Meas Control 136(5):p054501 (6 pages)">
             2014
            </a>
            ).
@@ -2462,7 +2462,7 @@
             \(\bar{U}-h^{\beta }_{\alpha }(\bar{U},\kappa \sigma _n)\)
            </span>
            , removing the anti-windup controller eliminates the noise-induced temperature error. Indeed, the noise-induced temperature error is a phenomenon that uniquely takes place when a PI controlled system with anti-windup is operating with measurement noise. Although removing anti-windup eliminates the temperature error, this is not a desirable solution to deal with the effect of measurement noise in thermal control as many cases had been reported regarding adverse effect of controller windup (Goodwin et al.
-           <a aria-label="Reference 2000" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR15" id="ref-link-section-d88426733e4687" title="Goodwin GC, Graebe SF, Salgado ME (2000) Control system design. Prentice Hall, Englewood Cliffs">
+           <a aria-label="Reference 2000" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR15" id="ref-link-section-d159108189e4687" title="Goodwin GC, Graebe SF, Salgado ME (2000) Control system design. Prentice Hall, Englewood Cliffs">
             2000
            </a>
            ).
@@ -2704,7 +2704,7 @@
           </p>
           <p>
            It should be noted that a low-pass filter is one of alternative candidates to mitigate the NITE phenomenon. However, a low-pass filter is sensitive in terms of system stability unless carefully designed while the proposed approach, TCUB-VS, can be easily implemented by simply enlarging the saturation bound without any significant loss in stability (Fu et al.
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e5194" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e5194" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ).
@@ -2829,15 +2829,15 @@
             Thermal controller
            </i>
            In order to properly design the parameters of TCUB-VS, we obtain the CPU thermal parameters as follows. First, the thermal resistance can be obtained using linear regression from the relationship between CPU utilization and temperature. In addition, thermal capacitance is acquired by using the discrete thermal RC model (Ferreira et al.
-           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR11" id="ref-link-section-d88426733e5410" title="Ferreira AP, Mosse D, Oh JC (2007) Thermal faults modeling using a rc model with an application to web farms. In: Proc. Euromicro conference on real-time systems (ECRTS)">
+           <a aria-label="Reference 2007" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR11" id="ref-link-section-d159108189e5410" title="Ferreira AP, Mosse D, Oh JC (2007) Thermal faults modeling using a rc model with an application to web farms. In: Proc. Euromicro conference on real-time systems (ECRTS)">
             2007
            </a>
            ; Bellosa et al.
-           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d88426733e5413" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
+           <a aria-label="Reference 2003" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR5" id="ref-link-section-d159108189e5413" title="Bellosa F, Weissel A, Waitz M, Kellner S (2003) Event-driven energy accounting for dynamic thermal management. In: Proc. workshop on compilers and operating systems for low power (COLP)">
             2003
            </a>
            ), CPU power consumption (Intel
-           <a aria-label="Reference 2009" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR17" id="ref-link-section-d88426733e5416" title="Intel (2009) i7-800 and i5-700 desktop processor series and lga1156 socket: thermal/mechanical specifications and design guidelines">
+           <a aria-label="Reference 2009" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR17" id="ref-link-section-d159108189e5416" title="Intel (2009) i7-800 and i5-700 desktop processor series and lga1156 socket: thermal/mechanical specifications and design guidelines">
             2009
            </a>
            ), and temperature transient graph empirically obtained from our platform. Thermal capacitance and thermal resistance of the CPU, and the parameters of TCUB-VS are summarized in Table
@@ -3174,7 +3174,7 @@
             etf
            </i>
            = 0.5, in contrast, means that the actual task execution time is half of the estimated time. In both cases, TCUB-VS can tightly control the CPU temperature while TCUB shows CPU overheating. It should be noted that TCUB can properly control the temperature under execution time variation when there is no sensor measurement noise, as reported in Fu et al. (
-           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d88426733e5661" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
+           <a aria-label="Reference 2010" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR13" id="ref-link-section-d159108189e5661" title="Fu Y, Kottenstette N, Chen Y, Lu C, Koutsoukos XD, Wang H (2010) Feedback thermal control for real-time systems. In: Proc. real-time and embedded technology and applications symposium (RTAS)">
             2010
            </a>
            ).
@@ -3222,11 +3222,11 @@
             <div class="c-article-footnote--listed__content">
              <p>
               Noise level with variance of 1 is a mild condition in practice (Rotem et al.
-              <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d88426733e749" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
+              <a aria-label="Reference 2006" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR27" id="ref-link-section-d159108189e749" title="Rotem E, Hermerding J, Cohen A, Cain H (2006) Temperature measurement in the intel® coretm duo processor. In: Proc. international workshop on thermal investigations of ICs and systems (THERMINIC)">
                2006
               </a>
               ; Long et al.
-              <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d88426733e752" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
+              <a aria-label="Reference 2008" data-test="citation-ref" data-track="click" data-track-action="reference anchor" data-track-label="link" href="/article/10.1007/s11241-019-09342-y#ref-CR23" id="ref-link-section-d159108189e752" title="Long J, Memik SO, Memik G, Mukherjee R (2008) Thermal monitoring mechanisms for chip multiprocessors. ACM Trans Archit Code Optim (TACO) 5(2):9">
                2008
               </a>
               ).
